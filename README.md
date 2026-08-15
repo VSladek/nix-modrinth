@@ -34,14 +34,13 @@ which loaders to track, then run:
 `.github/workflows/update-mods.yml` runs the same script weekly and opens a PR
 with whatever changed in `mods/` — review the diff before merging, since a
 mod moving to a new version changes what `.latest`/`.byGameVersion` resolve to
-for every consumer. Only takes effect once this repo is pushed to GitHub.
+for every consumer.
 
 Consume from another flake:
 
 ```nix
 {
-  inputs.nix-modrinth.url = "path:/home/vojta/Projects/nix-modrinth"; # or a git remote
-  # ...
+  inputs.nix-modrinth.url = "github:VSladek/nix-modrinth";
   nixpkgs.overlays = [ inputs.nix-modrinth.overlay ];
 }
 ```
@@ -70,13 +69,6 @@ symlinks.mods = pkgs.linkFarmFromDrvs "mods" (
   ]
 );
 ```
-
-## Out of scope
-
-Mods not hosted on Modrinth (e.g. `fabric-carpet`, which ships GitHub
-releases) aren't tracked here — they stay a plain `pkgs.fetchurl` in the
-consuming flake. Datapacks (VanillaTweaks and similar) are a different system
-entirely and are also out of scope.
 
 ## Notes
 
