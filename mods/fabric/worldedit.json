@@ -1,0 +1,800 @@
+{
+  "7.0.1": {
+    "versionId": "2uJu3ngh",
+    "gameVersions": [
+      "1.14.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T00:41:00Z",
+    "filename": "worldedit-fabric-mc1.14.4-7.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/2uJu3ngh/worldedit-fabric-mc1.14.4-7.0.1.jar",
+    "sha512": "2f53b4a250532cc03f2d425df6068151addcc29c9ef2ce34755e461d2b402ea658d1dd59e7e346a18d6919dbd690c2f48ddc648301eae6d9fc089e2046f8d0ad"
+  },
+  "7.1.0": {
+    "versionId": "oyRvnIak",
+    "gameVersions": [
+      "1.15.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T00:43:00Z",
+    "filename": "worldedit-fabric-mc1.15.2-7.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/oyRvnIak/worldedit-fabric-mc1.15.2-7.1.0.jar",
+    "sha512": "8f71c55fd2a7c76137dd822c13233e301c729b4a20e2cf79dff3aefe5ffd3a0edf41064573225c8a14232d68c05c94ef1ad124a7e3b11fbd429ef51a5f2e702e"
+  },
+  "7.2.0": {
+    "versionId": "9iC4WoU8",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T00:47:00Z",
+    "filename": "worldedit-fabric-mc1.16.3-7.2.0-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9iC4WoU8/worldedit-fabric-mc1.16.3-7.2.0-dist.jar",
+    "sha512": "2a1a52d8bb89811e606ab50ddd34caf1c50152bd5f03c0843159c33515a3481e0116404a68d726d810437c3d35ab663de34134a1233aebe578243549ccadb0a7"
+  },
+  "7.2.1": {
+    "versionId": "jK6PaV77",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T00:50:00Z",
+    "filename": "worldedit-fabric-mc1.16.3-7.2.1-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/jK6PaV77/worldedit-fabric-mc1.16.3-7.2.1-dist.jar",
+    "sha512": "e088c8496dcfcee13796f340bcb9c84381b5ed267d55ef23c783199e1f87e7f199321fd73aab26dabf4a40b3d582e689d92dbc29de593719814eea857cb7b89a"
+  },
+  "7.2.10": {
+    "versionId": "1e0moJAJ",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:11:00Z",
+    "filename": "worldedit-mod-7.2.10.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/1e0moJAJ/worldedit-mod-7.2.10.jar",
+    "sha512": "3a75af2086a4c085f2e12452f982e4d71c63c8967946b5c4ac0c0066bfa35a23584dbd1df0ca1990c59f5639cf810528d64af909199b88dc7a9e8705a119f0f2"
+  },
+  "7.2.11": {
+    "versionId": "LMELD5yT",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:15:00Z",
+    "filename": "worldedit-mod-7.2.11.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/LMELD5yT/worldedit-mod-7.2.11.jar",
+    "sha512": "be018d46b19f6bddd81b0d2219b6ccc01b5dbfc5075cac143e0350ff3608f07abc5cdc4b65d2299c10ff7b60198a6d964136e910bd0167ea522c980a7e5f19fa"
+  },
+  "7.2.11-beta-01": {
+    "versionId": "TP7zga9i",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T01:12:00Z",
+    "filename": "worldedit-mod-7.2.11-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/TP7zga9i/worldedit-mod-7.2.11-beta-01.jar",
+    "sha512": "44da181ca941370c38232ed267f3005cc333d28624ab0bd731e48024fdb49ca72ed3b19ffac4a20dd8f93575abd110a39e1423ed84efaa31e7978bcf3fb07f4e"
+  },
+  "7.2.11-beta-02": {
+    "versionId": "CIVe1lu1",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T01:13:00Z",
+    "filename": "worldedit-mod-7.2.11-beta-02-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/CIVe1lu1/worldedit-mod-7.2.11-beta-02-dist.jar",
+    "sha512": "67d450494a92964d6d96cadd27c56c7c8e3187b24cb42e4d4e3a770cc058fe6741ec9bf5ac195666b32f6249bd616891449a26480a137c7e97a47adbeb97766d"
+  },
+  "7.2.12": {
+    "versionId": "Uss9UXUv",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:16:00Z",
+    "filename": "worldedit-mod-7.2.12.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/Uss9UXUv/worldedit-mod-7.2.12.jar",
+    "sha512": "7b4b64e2d850047ea181858567899b234dfec82c180e5c2c20bad81080908528847ced19f74c34b0bd754354355ef10cdf33df96bb02d21cf9d4a660770a0ce5"
+  },
+  "7.2.13": {
+    "versionId": "zssGEU1n",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:19:00Z",
+    "filename": "worldedit-mod-7.2.13.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/zssGEU1n/worldedit-mod-7.2.13.jar",
+    "sha512": "2372deb06cc90dbcb39d7a79f5ff078498bf2bbcef16c0168d78e12d54a68c19c8f3233e1329b69a6866ce9a4ef007e9d7f23a3f78599ee8ef8f1596d43ec6de"
+  },
+  "7.2.14": {
+    "versionId": "MaJdQbX5",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:21:00Z",
+    "filename": "worldedit-mod-7.2.14.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/MaJdQbX5/worldedit-mod-7.2.14.jar",
+    "sha512": "ea569f6e64ae3e2327cb69ffdade97b9ae7b6fad6aa42921cbd182fc3987f72d04c93fa66638f68d9126f331bc9c31a8340fb7ef344c2ed40644837cab419982"
+  },
+  "7.2.15": {
+    "versionId": "Wrlqaul6",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:22:00Z",
+    "filename": "worldedit-mod-7.2.15.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/Wrlqaul6/worldedit-mod-7.2.15.jar",
+    "sha512": "2c41dcd9a622f948ed5409eecc485018fbf274945bdd1a9c0fdf4c4954f9a47dc311e6e0f9e445180d8b771e4a40947533d67bd66feb4ab8c8f87c2880dba7ef"
+  },
+  "7.2.16": {
+    "versionId": "cehBcfHA",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:25:00Z",
+    "filename": "worldedit-mod-7.2.16.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/cehBcfHA/worldedit-mod-7.2.16.jar",
+    "sha512": "a4cc14bd0f958915fd2e3f6e7b116463ee5865f2131db0b9195c60ee9ce6d6d6da5e89b947b2334f21f88b9be54b623fe537e04c1bd9df015f8d19a7ca080b6a"
+  },
+  "7.2.17": {
+    "versionId": "KGSgRLZU",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:29:00Z",
+    "filename": "worldedit-mod-7.2.17.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/KGSgRLZU/worldedit-mod-7.2.17.jar",
+    "sha512": "c86eeec59a1cbc2bbd42b8f750ac8f552d30a3387dc893a26e2f37d5840bacef8910e992249c5c09990a4d4eabebdee3e14028d1fbaf5d496417afdd4f149adc"
+  },
+  "7.2.18": {
+    "versionId": "ssjKpdGo",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-13T12:23:38.089806Z",
+    "filename": "worldedit-mod-7.2.18-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ssjKpdGo/worldedit-mod-7.2.18-dist.jar",
+    "sha512": "a076630b1c563745003aa47138b2015d30499227513933fc9676e5b5b05fe1b75b475734a53e45a8eeaafe74a84d5576c5ffafd53162c2e6baa93ea31d639ef2"
+  },
+  "7.2.19": {
+    "versionId": "QKXBX0zs",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-03T05:04:16.340535Z",
+    "filename": "worldedit-mod-7.2.19.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/QKXBX0zs/worldedit-mod-7.2.19.jar",
+    "sha512": "7443a2bb9e074749c7695951ad558f15d34bcbaefd6deb1b80593db8b4d7fd79c46170c41244abe1729b58f355bf3107b8d8cdef46af1c6efd30ef3e8a360ed8"
+  },
+  "7.2.2": {
+    "versionId": "9joB1YoJ",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T00:54:00Z",
+    "filename": "worldedit-fabric-mc1.16.3-7.2.2-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9joB1YoJ/worldedit-fabric-mc1.16.3-7.2.2-dist.jar",
+    "sha512": "3263fd2313441843446fffd84b9d2bde967d7a498639c24a3dd3518c671d4d3f1184f9c4f4e13538b86ff88015af392c64e0c3eaddd09161bc1a3bbc77d85ba7"
+  },
+  "7.2.20": {
+    "versionId": "aMUZQKUG",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-29T12:46:36.725079Z",
+    "filename": "worldedit-mod-7.2.20.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/aMUZQKUG/worldedit-mod-7.2.20.jar",
+    "sha512": "c376af2e1cf1c2708df9a6da00ab7532d2d3913f9e805cf8008b611d5b716cc3db8e9ca23baff464715b746857b7a30220eef2931f42774347015d67f1e1eeb4"
+  },
+  "7.2.3": {
+    "versionId": "uP57Puxr",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T00:57:00Z",
+    "filename": "worldedit-mod-7.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/uP57Puxr/worldedit-mod-7.2.3.jar",
+    "sha512": "a2bf5ac84e0f030d9af0fb72ff439d698355523cbe3d69373d13d482dffb6e889db18ce529bdd0072be15845b73f9aa996d536b06d2cee6b871aab77337be80c"
+  },
+  "7.2.4": {
+    "versionId": "vrPnHY9y",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T00:59:00Z",
+    "filename": "worldedit-mod-7.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/vrPnHY9y/worldedit-mod-7.2.4.jar",
+    "sha512": "2232e6c97955e1aab5bcafe5ad4fe300a34d7ef75244ddd74115f551908862712693152bcd78197af4acd8a52d8f61a4e03ce666a352b11c0fdbd22958b1b26c"
+  },
+  "7.2.5": {
+    "versionId": "sWdgcYmE",
+    "gameVersions": [
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:00:00Z",
+    "filename": "worldedit-mod-7.2.5-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/sWdgcYmE/worldedit-mod-7.2.5-dist.jar",
+    "sha512": "c37f3a06fc607e121178a9d2871341c90776e32b72a5fa198420eb2b55e8e9678868af9f11e3662d2d4470935cda3f86a8bde9383722cc8a3a8e6125fea8df3d"
+  },
+  "7.2.6": {
+    "versionId": "11Q77HZz",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:03:00Z",
+    "filename": "worldedit-mod-7.2.6.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/11Q77HZz/worldedit-mod-7.2.6.jar",
+    "sha512": "4c1373960a653240b83f19bd9b05cf3c85a420f02c1e7c2583da92e88dd56041d5a30b983164f65c0b4c35762b9a2e4aea7f425e62f9817e043e86eb7d74ca45"
+  },
+  "7.2.7": {
+    "versionId": "BUQ1remq",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:05:00Z",
+    "filename": "worldedit-mod-7.2.7.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/BUQ1remq/worldedit-mod-7.2.7.jar",
+    "sha512": "002a3c6a086e075248a895d8a5ffcf35945e28ac85041a55ac6987b1dc24e25352d4795e61ab8080cf2c08467d8c652dc30d4c040ccdfd7a245a57c9a5539d81"
+  },
+  "7.2.8": {
+    "versionId": "NsT9ddpv",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:06:00Z",
+    "filename": "worldedit-mod-7.2.8.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/NsT9ddpv/worldedit-mod-7.2.8.jar",
+    "sha512": "a2e25ad37be0e4bdb394df863e9a1d3973f32dd869b99086c3edb4da9dafd1c37f00f7bd11c033cd3eb0706c0c7e58fb57a66cdb1661fb97ca104cef4e8a9555"
+  },
+  "7.2.9": {
+    "versionId": "Ruu3UNJL",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-19T01:09:00Z",
+    "filename": "worldedit-mod-7.2.9.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/Ruu3UNJL/worldedit-mod-7.2.9.jar",
+    "sha512": "a2dd24eba87d1c6751a1e72dc1e26b1a0810686379feb37b00c842c422a2637b84f27e391e57c2528c322c2c259fb6d87082e2438d1dec4ac034b4adafb2f35d"
+  },
+  "7.3.0": {
+    "versionId": "ZOhVauWn",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-09T08:41:04.471200Z",
+    "filename": "worldedit-mod-7.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZOhVauWn/worldedit-mod-7.3.0.jar",
+    "sha512": "0b58ba7d59cb01b7e594da28bbcf6f97624549bb427a3e8c64108f21b49892c6732c068604cabba6ee5aa4ebaf317f94219a4108a37d74c0de2a114e4e0a5812"
+  },
+  "7.3.0-beta-01": {
+    "versionId": "vMYSETPc",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-19T01:27:00Z",
+    "filename": "worldedit-mod-7.3.0-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/vMYSETPc/worldedit-mod-7.3.0-beta-01.jar",
+    "sha512": "4d604798875e6577dc841b02553b54fd88afbad7fb32c749c9c55b50987bc666e68be0644b6a302d1ff3681c8c485964347aa44d47b2d7b9ab1c7f6327a817c8"
+  },
+  "7.3.0-beta-02": {
+    "versionId": "PTig47IL",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-20T13:01:08.277803Z",
+    "filename": "worldedit-mod-7.3.0-beta-02.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/PTig47IL/worldedit-mod-7.3.0-beta-02.jar",
+    "sha512": "9a8b844e7bd20548e17932b2ad03f5343c69cbb2ea54c73f93787ff2ea8f85dff31b85204eb20d81774066893c82c6dde4392265cfdb18480b7593b1279aaef4"
+  },
+  "7.3.0-beta-03": {
+    "versionId": "rTGh3R1y",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-13T12:39:14.175987Z",
+    "filename": "worldedit-mod-7.3.0-beta-03-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/rTGh3R1y/worldedit-mod-7.3.0-beta-03-dist.jar",
+    "sha512": "0ed9288bd950fa11b771bbcaf66fab27478d7f780378766246f74768abc0a9c17e3ec09219ec984dd169bbe7a1382892e21497f2059dbd5044eb59e96365e7b4"
+  },
+  "7.3.0-beta-04": {
+    "versionId": "9TCdUpws",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-02-03T05:20:31.198796Z",
+    "filename": "worldedit-mod-7.3.0-beta-04.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9TCdUpws/worldedit-mod-7.3.0-beta-04.jar",
+    "sha512": "8c12a66d75c84dda143fd9fe8729872bde438b41bd0478a24da4c427765cb03455d81c6ab96625d542ebd98d7ee7d291702104e9077c9ee333d56b0f67866a2e"
+  },
+  "7.3.1": {
+    "versionId": "2BXiy3fP",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-08T10:22:22.106333Z",
+    "filename": "worldedit-mod-7.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/2BXiy3fP/worldedit-mod-7.3.1.jar",
+    "sha512": "7def32a0dcce71002e81e4994234b7e0b4932c79093962c3ef1f9b1f9d7590bdac13b433003e01b33eaf336221cbea2e5996a8c55057461a0ae7674638ee45dd"
+  },
+  "7.3.10": {
+    "versionId": "KI46lJsd",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-25T07:11:37.900893Z",
+    "filename": "worldedit-mod-7.3.10.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/KI46lJsd/worldedit-mod-7.3.10.jar",
+    "sha512": "5ea3fa5f17c33f7819c3b538a26456cf6d0d8e0a934e8addc8c393c531392b99fa6ceb3466aec278f30ee5d1b42f6d660d8c4579b3520cab6f54d6f7feb7d971"
+  },
+  "7.3.10-beta-01": {
+    "versionId": "rIYOU6Ta",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-12-22T12:44:40.143711Z",
+    "filename": "worldedit-mod-7.3.10-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/rIYOU6Ta/worldedit-mod-7.3.10-beta-01.jar",
+    "sha512": "1b9366cb804c6c3c564516ee01c51d66f33a2563ae72aee74753f1dea37051205a39eb0735f301d390785107c6423837fb19cda21797f4a99c6c2f07bbdb32aa"
+  },
+  "7.3.11": {
+    "versionId": "bxlboAan",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-24T11:01:42.901809Z",
+    "filename": "worldedit-mod-7.3.11.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/bxlboAan/worldedit-mod-7.3.11.jar",
+    "sha512": "5a131e0059ae4b923ff6066c2be04fa5fbcbf6a52335a10363165344bd72e576f29e22a56805c28c3a061c7fbffe96db9ff6610ad414092742daa4e1e2805385"
+  },
+  "7.3.12": {
+    "versionId": "WKHIRNIv",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-20T09:51:33.859449Z",
+    "filename": "worldedit-mod-7.3.12.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WKHIRNIv/worldedit-mod-7.3.12.jar",
+    "sha512": "87cc2c39d5e1f095df4c3b553cb1b22be9a998e98a96b329a81c68fb30d252408d05bb45b532520b1d8d6b09ed0bbe1a5be6e1d3e39c49f97a1950a51bd0753f"
+  },
+  "7.3.12-beta-01": {
+    "versionId": "slVORvBv",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-04-08T10:40:18.398881Z",
+    "filename": "worldedit-mod-7.3.12-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/slVORvBv/worldedit-mod-7.3.12-beta-01.jar",
+    "sha512": "652ad10205c4058bd18cccabd3f586059451ee188a50d5eaa5eceb625050127b6bd7451ac1dc32216148f41b54c9b32429166647f717b62b56ec42f89ac8d415"
+  },
+  "7.3.12-beta-02": {
+    "versionId": "cRBkMMPN",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-04-22T08:05:44.185702Z",
+    "filename": "worldedit-mod-7.3.12-beta-02.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/cRBkMMPN/worldedit-mod-7.3.12-beta-02.jar",
+    "sha512": "aaeb1958176bb2898017b5a19cc995c4563b1756d8dd3473729ac4c319ae38707e402bd8da0b57b2132b877ff33b067834d829828c5d95e601a6530bb692b9e8"
+  },
+  "7.3.13": {
+    "versionId": "9ACY6L4u",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-24T10:39:32.759029Z",
+    "filename": "worldedit-mod-7.3.13.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9ACY6L4u/worldedit-mod-7.3.13.jar",
+    "sha512": "a38ba02336d2c430c9238b63e6d47a7e1de3a9482798a07cfdb08de2a5cd3e0f9e74c150ac23dfcb2241dfaf8f1c86fcbf57a2a7d807560890b1a8392f167c37"
+  },
+  "7.3.14": {
+    "versionId": "242z5LFa",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-05T10:46:29.134867Z",
+    "filename": "worldedit-mod-7.3.14.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/242z5LFa/worldedit-mod-7.3.14.jar",
+    "sha512": "029622ed646e3b23d2b56d372bceba2b23135aca3a647c781eb3b2149dfef087211dc20bb10c8fb273684b0232996a4d892830a84112088d9de6196a0364eebe"
+  },
+  "7.3.15": {
+    "versionId": "6stG33I5",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-12T09:37:00.478213Z",
+    "filename": "worldedit-mod-7.3.15.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/6stG33I5/worldedit-mod-7.3.15.jar",
+    "sha512": "a622f4524542c13306dcd5e8fa15e5673db4f230dc957060ad27a5a45fcf131a4c565a0805c401976f1ff4db35efd174bafa7318caf933a827f5ec316fe67359"
+  },
+  "7.3.15-beta-01": {
+    "versionId": "p0Bm3o0X",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-25T11:04:43.208133Z",
+    "filename": "worldedit-mod-7.3.15-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/p0Bm3o0X/worldedit-mod-7.3.15-beta-01.jar",
+    "sha512": "597126c8de97e905c9659ae35c3a25824a8d182378f6db89bc431f587d68908f09cae8e20d358204e4ab8220327f991d057552e155d06bb53484c8329e85e029"
+  },
+  "7.3.15-beta-02": {
+    "versionId": "3HceS8fQ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-01T09:46:15.826334Z",
+    "filename": "worldedit-mod-7.3.15-beta-02.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/3HceS8fQ/worldedit-mod-7.3.15-beta-02.jar",
+    "sha512": "104a1ee5f7e35a97b66ca0a0ee8213bed809f6a8eaf711255d3b715baac9c1242aaed47112364c0c09fd3cc62b4d948e9946f3efc5bfc62d8706abb00ec414e8"
+  },
+  "7.3.16": {
+    "versionId": "R846T4GX",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-19T05:13:53.940422Z",
+    "filename": "worldedit-mod-7.3.16.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/R846T4GX/worldedit-mod-7.3.16.jar",
+    "sha512": "f6e0304b4c845465ef81789ce4690f34d81e510d6989ac60e9c1c9ad076152f9cd87885478263826b81d2e2fe47d66478a2fbf1e633200f3c771b8b2fb0f02bf"
+  },
+  "7.3.17": {
+    "versionId": "HBMsZ6cB",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-26T05:45:29.239445Z",
+    "filename": "worldedit-mod-7.3.17.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/HBMsZ6cB/worldedit-mod-7.3.17.jar",
+    "sha512": "ec7489add138bc5269e75f1e165aac74bb09857d1bf9133ce4139b5adb79b8cbf5d69c13c917383bff012673868943ae19a1f97ef8923d59dd49439657114fe7"
+  },
+  "7.3.17-beta-01": {
+    "versionId": "2tP5pnh1",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-10-07T08:38:18.830851Z",
+    "filename": "worldedit-mod-7.3.17-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/2tP5pnh1/worldedit-mod-7.3.17-beta-01.jar",
+    "sha512": "c29b05b7cc730de4afddcc60f691f1c75976b0848c751de05d23bc90cf8e771289c97e29d33adf27878a336fe066abe2e2bf117cf3ff3873c6a835459f3ae1f0"
+  },
+  "7.3.18": {
+    "versionId": "SisHd23s",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-24T04:26:47.866721Z",
+    "filename": "worldedit-mod-7.3.18.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/SisHd23s/worldedit-mod-7.3.18.jar",
+    "sha512": "683ae6bc80fa61c9b6d2af8897e249bb8bf5b0d934e7ea22f9790fd6c4c86f94fc6fa1ed837d8879b676f56ceedaa02a5627509358ff2e966175740060add2a4"
+  },
+  "7.3.18-beta-01": {
+    "versionId": "ZmRjhuVs",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-12-14T05:11:13.515925Z",
+    "filename": "worldedit-mod-7.3.18-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZmRjhuVs/worldedit-mod-7.3.18-beta-01.jar",
+    "sha512": "5f8da5490ee37f0c4d69dd39b3d14cb60b6f3c97b658f7204f16f73d19a6e7e9eeef76608da4728da419fb742d27d45e47c20943ae1d43d038d3586458fbde62"
+  },
+  "7.3.19": {
+    "versionId": "SDczInMa",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-18T06:15:11.042048Z",
+    "filename": "worldedit-mod-7.3.19.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/SDczInMa/worldedit-mod-7.3.19.jar",
+    "sha512": "a178f9f82b0793349d7f6e9a8eb498ae113886d014d445e3b86a22fc486799e7b38a267fec883fd8ea99e61878372021441c814f2ab9501c6c7993e65c6c247e"
+  },
+  "7.3.2": {
+    "versionId": "4tGY0ePl",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-21T10:33:39.790890Z",
+    "filename": "worldedit-mod-7.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/4tGY0ePl/worldedit-mod-7.3.2.jar",
+    "sha512": "3c433f619a3f55e095ff6d1f059a810fb6f945be2d1d691096172a437519e962943d8eaa8dc90c1274a2598feabc0ea9e3836547216d1ea41e308a9fe36b691e"
+  },
+  "7.3.3": {
+    "versionId": "RfIqhcpm",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-05T11:10:31.399886Z",
+    "filename": "worldedit-mod-7.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/RfIqhcpm/worldedit-mod-7.3.3.jar",
+    "sha512": "dc6c261a8aa7086ee36ba192a7cf340a7644de032e1c7725b58c2761f6ff029eb36ced4c903bde181d4f331400702b5835e83c0f019c1d6f4565bf252cfbe061"
+  },
+  "7.3.4": {
+    "versionId": "EjobaxpK",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-06T11:12:59.086103Z",
+    "filename": "worldedit-mod-7.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/EjobaxpK/worldedit-mod-7.3.4.jar",
+    "sha512": "8b4f1abe5e39f3a1b6fc1a6ec9cd864a9d1ea51135233025c3e7921beb914ae2a7b1005837b06a3a21ef781ebcbbbf2bec8f196ef3a4323847a5cb317fe44131"
+  },
+  "7.3.4-beta-01": {
+    "versionId": "JOJ9WbGc",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-06-19T08:54:36.721661Z",
+    "filename": "worldedit-mod-7.3.4-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/JOJ9WbGc/worldedit-mod-7.3.4-beta-01.jar",
+    "sha512": "1ef17c05ee982ae61f99b26be847b2ac3d48a4f4b956e0e34101d4613b8ec4a127da58f223fe023eca04784b07298cb0457e2c34c5416717ab44f243523ce2ad"
+  },
+  "7.3.5": {
+    "versionId": "srWerknn",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-25T11:02:26.895014Z",
+    "filename": "worldedit-mod-7.3.5.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/srWerknn/worldedit-mod-7.3.5.jar",
+    "sha512": "3bea0b1bd38128cc4e7e686802ce8ac2d5750de438238c7487135978fc6fd8525e4457d86117c2b37e24fcc7ca37de1a4937fd61dac77a1e76d1b0cdf098a7ed"
+  },
+  "7.3.6": {
+    "versionId": "vBzkrSYP",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T04:04:58.311374Z",
+    "filename": "worldedit-mod-7.3.6.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/vBzkrSYP/worldedit-mod-7.3.6.jar",
+    "sha512": "f59430fe9ea37cf4b10abf7b3b4d79f013fd38fed0d8e863e46b885096df304946c5f1749ed04b8bafcfb51edb8bbd0a627b90a16f27e4f9613f8fee9641c3f7"
+  },
+  "7.3.7": {
+    "versionId": "TLkb1TuS",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-13T10:31:34.462512Z",
+    "filename": "worldedit-mod-7.3.7.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/TLkb1TuS/worldedit-mod-7.3.7.jar",
+    "sha512": "7338dbfb0c09db51214e187516c453ffddee7164beaac34abfda0a5ceb66bb2a66612851af57e1a14f35720a8c3955554cfdd231c6863228bb15351ae2916952"
+  },
+  "7.3.8": {
+    "versionId": "WTAFvuRx",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-21T11:01:40.791602Z",
+    "filename": "worldedit-mod-7.3.8.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+    "sha512": "e039492df0b486e7ce76d0eaf8cb11eadad2e78220600b8498ab8eef4642a29e310a6bcb4378257553b3639c6d0bc1ebf0f73df3a7a677c6af6baf86716b0bc7"
+  },
+  "7.3.9": {
+    "versionId": "3TQ8W0Ar",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-25T06:26:30.855029Z",
+    "filename": "worldedit-mod-7.3.9.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/3TQ8W0Ar/worldedit-mod-7.3.9.jar",
+    "sha512": "d569e1cef07b62f92b623fd394ba67ae2eafaa288ce79dfe851b87f804218eae2f24414eff788657af5774c5fd95ffead55ce77f26f262e241d6c99d612f312d"
+  },
+  "7.3.9-beta-01": {
+    "versionId": "HFvwhOTG",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-09T16:47:20.958379Z",
+    "filename": "worldedit-mod-7.3.9-beta-01-dist.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/HFvwhOTG/worldedit-mod-7.3.9-beta-01-dist.jar",
+    "sha512": "497a884bae6b808460a606dd2f8ef2d126ac016bc448c6d448835483a78919d38f2d198e1e68a64b88b1a4c45f0c4f61758c6551c3a0b33ee714d0a38673bed1"
+  },
+  "7.4.0": {
+    "versionId": "o645q0Oo",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-18T07:01:18.976664Z",
+    "filename": "worldedit-mod-7.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/o645q0Oo/worldedit-mod-7.4.0.jar",
+    "sha512": "1ad3e994cd314e50e561281a77696107dbd7124fcec8e9e0c0d4043fa081840ef8087aaec99cacde6b6270ff283a8d3c7ea5c113558524468f8c58e5e13f9a4a"
+  },
+  "7.4.0-beta-01": {
+    "versionId": "wlq4UM7x",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-10-26T06:10:51.298584Z",
+    "filename": "worldedit-mod-7.4.0-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/wlq4UM7x/worldedit-mod-7.4.0-beta-01.jar",
+    "sha512": "c1775c587c3773804ab38fd2c307ba7f45a6ef603535e645d6006c95b2f1acfac4bdd31a10f84256e02ab13406b424f995c9da6a553093358e1c1fe4080353a8"
+  },
+  "7.4.0-beta-02": {
+    "versionId": "D4snyuU8",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-12-24T04:29:59.591768Z",
+    "filename": "worldedit-mod-7.4.0-beta-02.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/D4snyuU8/worldedit-mod-7.4.0-beta-02.jar",
+    "sha512": "887c1f9479ef0d06714c4f842f49568a209f57cc29b21b59373ff8ae5702f65c45b3f5caa442a2cc1b9f0242f93f46706d67b808c30c054eae1e142bc1259fb3"
+  },
+  "7.4.0-beta-03": {
+    "versionId": "yu07Zs1W",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-01-03T09:03:12.303177Z",
+    "filename": "worldedit-mod-7.4.0-beta-03.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/yu07Zs1W/worldedit-mod-7.4.0-beta-03.jar",
+    "sha512": "b7e44fe4c850195f9b9e556470bb4ebe34e67075ee3cf41858b8bc59865d50472bc0db5f754e12f3e326a7e983398f5b116d088a356755c514c3429004d5d6b9"
+  },
+  "7.4.0-rc-01": {
+    "versionId": "l3iW7wfj",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-01-08T05:27:55.646180Z",
+    "filename": "worldedit-mod-7.4.0-rc-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/l3iW7wfj/worldedit-mod-7.4.0-rc-01.jar",
+    "sha512": "51017866932278cb6d1aa1bb63a284f83f180033f5cd55f81c2efaf26d8e675eaa77126efd28103c9472a8650cb8d8b4f1abd221dbb7c587d635d70dd4575a38"
+  },
+  "7.4.1": {
+    "versionId": "T3LFkV36",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-21T03:59:12.595569Z",
+    "filename": "worldedit-mod-7.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/T3LFkV36/worldedit-mod-7.4.1.jar",
+    "sha512": "47683836b47f5c708ba7e9c6606c92e4665deee2e6c858accdda113a70eee4b4440475c4e6eb3cc52862363404872120786ab7b3b267005aed01a7d2e367cdf3"
+  },
+  "7.4.2": {
+    "versionId": "oY3E2pzA",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-01T10:54:28.456382Z",
+    "filename": "worldedit-mod-7.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/oY3E2pzA/worldedit-mod-7.4.2.jar",
+    "sha512": "79f206c283421e68972e7df2b7f4c393506ff450ea5e58b8f6baafd762092eef07015edcdced6a4f536904ac048d69b2a86fa2fbf74e9d159cef9d2372042a2a"
+  },
+  "7.4.3": {
+    "versionId": "gjsLvJfW",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-04T11:31:48.820119Z",
+    "filename": "worldedit-mod-7.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/gjsLvJfW/worldedit-mod-7.4.3.jar",
+    "sha512": "de51a1a319e057f1312ec54de2f08df5d0c00a78718080a3284e0c1ffadffb47d5353e0e538d9334b72eb7260df5a6f2c4bf8373eec8d5a4f6cdfaae1ff4524e"
+  },
+  "7.4.3-beta-01": {
+    "versionId": "DjiTrN5B",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-04-10T05:15:52.933609Z",
+    "filename": "worldedit-mod-7.4.3-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/DjiTrN5B/worldedit-mod-7.4.3-beta-01.jar",
+    "sha512": "a84f894c7d8ccc63aaa34a3d183fd7a8cf3cf80bcec7b00885bd1783b084519cbdfd64b645a4389553a7bec5d5eaf3c4b51dc18b4c1b943d7cc7e7e2eec792c2"
+  },
+  "7.4.4": {
+    "versionId": "j2w3GmPv",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-04T03:00:22.295149Z",
+    "filename": "worldedit-mod-7.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar",
+    "sha512": "48e408fbf3e24521f2a66155e9a85a71f5bf89657a9888aac9525e250c5dd9541d8326afbbc24eae4241dba83506a2438ebff60f0e763e37ecef8e070fa86e57"
+  },
+  "7.4.4-beta-01": {
+    "versionId": "ZL2VC7dm",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-18T11:04:14.467876Z",
+    "filename": "worldedit-mod-7.4.4-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZL2VC7dm/worldedit-mod-7.4.4-beta-01.jar",
+    "sha512": "92b24bf03d6db26dd776f8c9d551948995ef73f74f135a64a7dce4e84b83225bf6d41fb322963690bda041bae4b4e22b7ac5b7cdac9da151b38be906dc28e72a"
+  },
+  "7.4.5": {
+    "versionId": "6YnCYPwc",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-08-09T07:17:29.953036Z",
+    "filename": "worldedit-mod-7.4.5.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/6YnCYPwc/worldedit-mod-7.4.5.jar",
+    "sha512": "611ff7cc00d78c63a284ef26b6fbc806af295c469375e5e71e4d7e993aa6ea3fa90945e46511c99b6157a01ed5c3868a2a6419b47a38114cc1e67b32c20f7ca3"
+  }
+}

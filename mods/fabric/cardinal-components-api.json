@@ -1,0 +1,553 @@
+{
+  "4.1.0": {
+    "versionId": "WCcq6SE2",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-01-26T13:16:08.023093Z",
+    "filename": "cardinal-components-api-4.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.0/cardinal-components-api-4.1.0.jar",
+    "sha512": "a1ee0844af976130781e4a9d26b6d88cbc7576480570ef84d0c660ba4945dec5f19e938fc830ec0af87aceea96e525229cc7123d1095744df1d8211207cb304f"
+  },
+  "4.1.1": {
+    "versionId": "ymGlSdB7",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-02T22:55:21.524962Z",
+    "filename": "cardinal-components-api-4.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.1/cardinal-components-api-4.1.1.jar",
+    "sha512": "132776d1dc7a61fbec1ecb8567b55b11478b09f54f8ce113fa0271cba030c6752a5d7bbd1b2b53e2a1aa52c7f5187e781a1498c0640ed3e9a9a474742be18a22"
+  },
+  "4.1.2": {
+    "versionId": "UiFscSdF",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-06T20:49:19.922144Z",
+    "filename": "cardinal-components-api-4.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.2/cardinal-components-api-4.1.2.jar",
+    "sha512": "138b85cb87a6996a3718f75767012ccafb1736b81dff97d7e3b2937944135362e18645d7c52324c84f7afc2924aef7d688f18bb5f8a260209234cf83f0de332a"
+  },
+  "4.1.3": {
+    "versionId": "XVi4pC8A",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-20T17:04:50.194344Z",
+    "filename": "cardinal-components-api-4.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.3/cardinal-components-api-4.1.3.jar",
+    "sha512": "d9f68daf1501bceb852dbe2f8cd437a654bb050b4f402157b433364d84471082522f7840e513234ea007a5b71cfca27547ff461f21fb33b8cecdb8ea06d51fec"
+  },
+  "4.1.4": {
+    "versionId": "oI0J6zee",
+    "gameVersions": [
+      "1.18",
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-02T13:24:01.175571Z",
+    "filename": "cardinal-components-base-4.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.4/cardinal-components-base-4.1.4.jar",
+    "sha512": "8a88843c75c0b66648bcfe5a4c8fdd868be3671caf8d406aeb8c170e0b5b25863b782d49ccfd5fd7a17f5e3bc6a9d5a4b9329859aa01da62455611141f648543"
+  },
+  "4.2.0": {
+    "versionId": "rQt4CSD0",
+    "gameVersions": [
+      "1.18",
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-02T17:05:54.674872Z",
+    "filename": "cardinal-components-api-4.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/4.2.0/cardinal-components-api-4.2.0.jar",
+    "sha512": "2e0dd0bcfe47ca7c2853ad0f46647a71ecc3e0ecc7ddcf336cd36f9994ec90207ce05e3bcb7adbca4a5c1d99255dc79e1aa5c109aadf56fc2c178739d875ea14"
+  },
+  "5.0.0": {
+    "versionId": "7inPiMmR",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-02T20:56:18.524675Z",
+    "filename": "cardinal-components-api-5.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/5.0.0/cardinal-components-api-5.0.0.jar",
+    "sha512": "01e76102bb776501a2d7813faa497796b1de3c0ad39edf8867c064d8ce223cecec3730841513f14b8f6764fecf0987e1d57440207cd9bffcc81a28e6f6c6284b"
+  },
+  "5.0.0-beta.1": {
+    "versionId": "cBAcMXlz",
+    "gameVersions": [
+      "1.19-pre1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-05-22T09:24:33.891852Z",
+    "filename": "cardinal-components-api-5.0.0-beta.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/5.0.0-beta.1/cardinal-components-api-5.0.0-beta.1.jar",
+    "sha512": "1153d6860859d2cb057d15ab143db11be3336434faefa343f085d520f5612d17351349d6765aa0a0ff257a1f26c6f0034e6e8a45586e3d2d22ba097f82953ea8"
+  },
+  "5.0.1": {
+    "versionId": "hRgkWC9v",
+    "gameVersions": [
+      "1.19",
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-03T22:04:22.350597Z",
+    "filename": "cardinal-components-api-5.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/5.0.1/cardinal-components-api-5.0.1.jar",
+    "sha512": "72cebf005c6cbf4e4e24507b912a870534a1e38cc26ac8b3d55c8ce4d9221fa276f4e84e009d599541ea8a66f2f1d8ff7cfea17b4c4568ac0a66da4fb811543b"
+  },
+  "5.0.2": {
+    "versionId": "tPfCTMiZ",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-27T22:28:46.746626Z",
+    "filename": "cardinal-components-api-5.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/tPfCTMiZ/cardinal-components-api-5.0.2.jar",
+    "sha512": "812059d9cedda727f8835aad8bb8e336e82bbf0263f74d365b8254c90912fce80b50a0c3a2b85513b71a9391ea35e9ecc00cf2e9b592f187f4b36e56c7496afd"
+  },
+  "5.1.0": {
+    "versionId": "h4Dd87o5",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-10T20:30:54.131094Z",
+    "filename": "cardinal-components-api-5.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/h4Dd87o5/cardinal-components-api-5.1.0.jar",
+    "sha512": "45e7302a65e3aec156346e15fdb46a03526701f83d655315069c13119107b21a62056b16eb8971da0339fd6d47edcb01435919988b22466e992ebaa2638105da"
+  },
+  "5.2.0": {
+    "versionId": "NGEFAf1u",
+    "gameVersions": [
+      "1.20-pre4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-26T13:57:43.620251Z",
+    "filename": "cardinal-components-api-5.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/NGEFAf1u/cardinal-components-api-5.2.0.jar",
+    "sha512": "e035a24871e522acf8829e1e0d37b801301903484e73a32e9a82be363a4905d72594c3b724a7d103811c4483d76385e782f1c982da35a6a2480c548f20a08238"
+  },
+  "5.2.1": {
+    "versionId": "HykM2Qyv",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-09T16:25:50.517500Z",
+    "filename": "cardinal-components-api-5.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/HykM2Qyv/cardinal-components-api-5.2.1.jar",
+    "sha512": "8457049dd5d232dd2e9220b5881e79ac5c31a6c051c55025f633276142a1954dd3bf8506511c887ca58fee398853434db39dcbee80b098ab4674109d36b5fe4a"
+  },
+  "5.2.2": {
+    "versionId": "qW85eawp",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-08-03T21:42:58.444962Z",
+    "filename": "cardinal-components-api-5.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/qW85eawp/cardinal-components-api-5.2.2.jar",
+    "sha512": "edb9319211501170deaa29c7752e34910bd578d20ec3724547e6eab84c2bf2a974e3443d759aa24a7db718b1bda673071e8c2c71dbda0ce2f9584f97f09838bc"
+  },
+  "5.2.3": {
+    "versionId": "Ielhod3p",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-08T01:34:02.528276Z",
+    "filename": "cardinal-components-api-5.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/Ielhod3p/cardinal-components-api-5.2.3.jar",
+    "sha512": "f20484d5bc780bee9b388ff6075e7c3bd130c7f8cae75a425bfd1fb68d03ca19288c09b0729992987fd32f3a2433b49c25162e086de82abd8d06ee45e4e3c917"
+  },
+  "5.3.0": {
+    "versionId": "IBZVrThp",
+    "gameVersions": [
+      "1.20.2-pre1",
+      "1.20.2-pre2",
+      "1.20.2-pre3",
+      "1.20.2-pre4",
+      "1.20.2-rc1",
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-10T01:04:31.554956Z",
+    "filename": "cardinal-components-api-5.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/IBZVrThp/cardinal-components-api-5.3.0.jar",
+    "sha512": "c6ab601a51fdd81e5187eadcba70e768afdac51dba9662746df4acf629acdbff3785c1541b3601a0d6ab586f4396219279bedc3397ea672cbe64f47f81fa8a67"
+  },
+  "5.4.0": {
+    "versionId": "DObEjZD4",
+    "gameVersions": [
+      "1.20.3-pre4",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-29T10:04:34.404350Z",
+    "filename": "cardinal-components-api-5.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/DObEjZD4/cardinal-components-api-5.4.0.jar",
+    "sha512": "b9ca7b9d6bd477f236da7b20334b1846d38df1c252e9175d3510cb31a7e28cd18357ac22b54b045e69821aae9243a20b9bc57b0ac91fcfd799d33d91073f5008"
+  },
+  "6.0.0": {
+    "versionId": "YdQa8zdn",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-02T20:18:37.022713Z",
+    "filename": "cardinal-components-api-6.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+    "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+  },
+  "6.0.0-beta.1": {
+    "versionId": "jYO4yNFS",
+    "gameVersions": [
+      "1.20.5-rc2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-19T22:23:06.231418Z",
+    "filename": "cardinal-components-api-6.0.0-beta.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/jYO4yNFS/cardinal-components-api-6.0.0-beta.1.jar",
+    "sha512": "449035bea700983ad3568cac92133b13887e9c2cd72dba9712253e145b3ffe8b7cf55513b0be9801cbea9ee4c1eb56c8fa01a4d2d13174ba829145761233f2c3"
+  },
+  "6.0.0-beta.2": {
+    "versionId": "aZhN0ofV",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-26T15:58:34.792144Z",
+    "filename": "cardinal-components-api-6.0.0-beta.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/aZhN0ofV/cardinal-components-api-6.0.0-beta.2.jar",
+    "sha512": "741d78040ea5b5e6aaf7bb5ed7281e6e2a4f7963158c12ce464c82b34ee4a1264df0d4d5bc9ed844c4326371c36c2d16c90855a9fdda871ed1e6570d478082a2"
+  },
+  "6.0.0-beta.3": {
+    "versionId": "ba9S2OFd",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-26T18:35:52.770110Z",
+    "filename": "cardinal-components-api-6.0.0-beta.3.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
+    "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
+  },
+  "6.0.0-pre1": {
+    "versionId": "QZ2WtYGD",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-18T20:56:12.788281Z",
+    "filename": "cardinal-components-api-6.0.0-pre1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/QZ2WtYGD/cardinal-components-api-6.0.0-pre1.jar",
+    "sha512": "da20ec34f25f343626346381b3d066b929e11ef62a6d79cf8f9ed4693a4de011bf16074f6977f8ec8a5a7c67e363e23999ece1984c6c21468ff1f94213364f48"
+  },
+  "6.0.0-pre2": {
+    "versionId": "PrBgg2Mj",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-19T08:07:01.722227Z",
+    "filename": "cardinal-components-api-6.0.0-pre2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/PrBgg2Mj/cardinal-components-api-6.0.0-pre2.jar",
+    "sha512": "ad776be7ccad3116247c34a8dccf27ff715d3d267037b4e4e240016edca9b5a71fc18d49638ea4892b7081d812695df5d2a657d2e909e06a8e0b3e2762f8cd02"
+  },
+  "6.0.0-rc1": {
+    "versionId": "6sn1ODwV",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-23T22:42:42.463276Z",
+    "filename": "cardinal-components-api-6.0.0-rc1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
+    "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
+  },
+  "6.1.0": {
+    "versionId": "quTFtjka",
+    "gameVersions": [
+      "1.21-pre1",
+      "1.21-pre2",
+      "1.21-pre3",
+      "1.21-pre4",
+      "1.21-rc1",
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-05T10:07:37.411704Z",
+    "filename": "cardinal-components-api-6.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/quTFtjka/cardinal-components-api-6.1.0.jar",
+    "sha512": "2e8ba15f08fc7cb8c38ce4a267397923ba477081253051bc416fe05595eab51605efa8281430b65ebbf7d38107febb67968c2e5ecd8d15c9aa0f7c9394ef36eb"
+  },
+  "6.1.1": {
+    "versionId": "tVPYyTPV",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-20T19:11:26.462722Z",
+    "filename": "cardinal-components-api-6.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar",
+    "sha512": "bb2ae312a294202f3019c71533f4c237fd8e39f75bf9b0d46db8e8b6c70f407ecebc59fce360688c7fe7be0014d704e0059b0421706d393ee1b16bc385af504f"
+  },
+  "6.1.2": {
+    "versionId": "xzMJDzyx",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-25T22:21:09.790511Z",
+    "filename": "cardinal-components-api-6.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/xzMJDzyx/cardinal-components-api-6.1.2.jar",
+    "sha512": "03b21994421da537d6ded9a327da42fc8e74ef2326f9c1b5552c031b396a99e9ddec7a65b9e4b2e5dffce38add1d77ab009f4268cd31d5d4af5aa97dc4f37843"
+  },
+  "6.1.3": {
+    "versionId": "nLsCe2VD",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-22T21:56:31.018627Z",
+    "filename": "cardinal-components-api-6.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar",
+    "sha512": "db52fc8c4f14dda723b69eec5a52a693fcb1db72e97114cb530ac8a306d95c13a4234ea54bc6e632134038cb05ba551b5240b9187562fb775a4c7bacb681eff1"
+  },
+  "6.2.0": {
+    "versionId": "YphZmEo8",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-25T22:47:03.340377Z",
+    "filename": "cardinal-components-api-6.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YphZmEo8/cardinal-components-api-6.2.0.jar",
+    "sha512": "5a85247025a0ff230452295770971290aa7c0ad8895fae1050ead318810c56b4f914ece3a0a9e35fd555750d1f6e81ef123ed499f6c3e9af85ee93e23c6a318a"
+  },
+  "6.2.1": {
+    "versionId": "HDcFuFlE",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-27T14:50:38.571433Z",
+    "filename": "cardinal-components-api-6.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/HDcFuFlE/cardinal-components-api-6.2.1.jar",
+    "sha512": "db34286692abebc76fb9849b0bfefdb37dab8a8c0f18cd3204bef368ca446412b33bfbd56b40cb4c4101525ed129f012dcf91481b30debeae3b6a8f0c1e0d168"
+  },
+  "6.2.2": {
+    "versionId": "iKXDXx3i",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-27T18:32:09.863527Z",
+    "filename": "cardinal-components-api-6.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/iKXDXx3i/cardinal-components-api-6.2.2.jar",
+    "sha512": "2015d626d2413b6a0c2663c68220acb459de7dd43f6a781d3f49d5ea37886bd34830d0565faf04f620551546b24b0ab2bc210293575dac469bd694df5189d3c4"
+  },
+  "6.3.0": {
+    "versionId": "74T4Ovhm",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T16:02:06.832546Z",
+    "filename": "cardinal-components-api-6.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/74T4Ovhm/cardinal-components-api-6.3.0.jar",
+    "sha512": "1f260da4bd9298ae196fb37684b0200b03d466d44a406270661e840b8c8c6309333111567879d93e90ec95ff13081d21eec29ff221208cafb81349311d91dbee"
+  },
+  "6.3.0-alpha.1+25w09b": {
+    "versionId": "AYKRzqea",
+    "gameVersions": [
+      "25w09b",
+      "25w10a",
+      "1.21.5-pre1",
+      "1.21.5-pre2",
+      "1.21.5-pre3",
+      "1.21.5-rc1",
+      "1.21.5-rc2",
+      "1.21.5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-03-02T19:41:35.477783Z",
+    "filename": "cardinal-components-api-6.3.0-alpha.1+25w09b.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
+    "sha512": "988a79fd52b19f36b85ef95abdfd8aefac678f6ec5ed12e802c3c90ebd63247df0c1c69b3eb90da9a53c55d095f970d58b71f33ec0967f6ffd8e9941fd7da3d6"
+  },
+  "6.3.1": {
+    "versionId": "wOvzypca",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-13T23:17:19.091300Z",
+    "filename": "cardinal-components-api-6.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/wOvzypca/cardinal-components-api-6.3.1.jar",
+    "sha512": "a9ccf7302478687e21e326835720a405955842da64c61c660e671bfa1f92324c9f8dd1b8caae7c815743fff5770d77b35c74d87a5e8494af82ce3092b5d19cc3"
+  },
+  "7.0.0-beta.1": {
+    "versionId": "TUd65hQI",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-17T22:31:34.207659Z",
+    "filename": "cardinal-components-api-7.0.0-beta.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/TUd65hQI/cardinal-components-api-7.0.0-beta.1.jar",
+    "sha512": "26d9fc8543249defac48cad073539668e3a116fe1ef77577f4a3b512d46e259b6b2ef4333ce0b4fce6f084dbb7e0384444c0de79b640bc6a7abc67187556a47f"
+  },
+  "7.1.0-beta.1": {
+    "versionId": "Rp6YpDwy",
+    "gameVersions": [
+      "25w36b",
+      "1.21.9"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-09-08T08:20:02.235856Z",
+    "filename": "cardinal-components-api-7.1.0-beta.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/Rp6YpDwy/cardinal-components-api-7.1.0-beta.1.jar",
+    "sha512": "353beb410bf011de174981da460ec8c5f7a3e91471b270c665feb318cf703d06984c9f7a9b24d4b9cfe1967d5a6a6a8837e0bb9f167643ba89919835f7465296"
+  },
+  "7.2.0": {
+    "versionId": "LfKjIXlt",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-12T18:12:06.710602Z",
+    "filename": "cardinal-components-api-7.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/LfKjIXlt/cardinal-components-api-7.2.0.jar",
+    "sha512": "17f774748496ab1ad90172b9fda68a15033a94c7eac1ca1d7c78444a8eef3b38dad9694baf21fa6b1d3fc9a95095b974707ccc4b74f283455d8c09a7216d6f5c"
+  },
+  "7.3.0": {
+    "versionId": "tEsBSUgb",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T08:27:00.795874Z",
+    "filename": "cardinal-components-api-7.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/tEsBSUgb/cardinal-components-api-7.3.0.jar",
+    "sha512": "ec93427bef05b6c198d7cc20270b81edc72a7b117ed87c96b0324fef10383ed994dddb21d9814d581737e0ab35a278d9e43d53d25722d8b70e1e47c9628d978a"
+  },
+  "7.3.1": {
+    "versionId": "O2RJYZwD",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-11T23:47:35.539319Z",
+    "filename": "cardinal-components-api-7.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/O2RJYZwD/cardinal-components-api-7.3.1.jar",
+    "sha512": "987497d5c598813544cd89df2651155abddcc881c0b73fc3fed4514d5a9666e608701a37ec9be565f9fd70514ac3e22b1d162d5b82200f620da0cc5742cca4ff"
+  },
+  "7.3.2": {
+    "versionId": "HZMLTuxY",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-05T22:41:20.023151Z",
+    "filename": "cardinal-components-api-7.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/HZMLTuxY/cardinal-components-api-7.3.2.jar",
+    "sha512": "8a97604b1d34bc66231f4b10e4394325297e55340cf0abce49e63fea5be9a5983907f7cfa22464b5a643f95eaaae7b1c258e8c95119d526fbe7289a99e9c94d6"
+  },
+  "8.0.0": {
+    "versionId": "RRJmyPMW",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-11T10:21:44.314181Z",
+    "filename": "cardinal-components-api-8.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/RRJmyPMW/cardinal-components-api-8.0.0.jar",
+    "sha512": "046a6b7a7f4ded21735f97d50a140a228ee3558b1e78153ff7b5d530a04a150d6a40c914bcb6a469b347064df05227a21807882bdaf88e1d7226adf713202466"
+  },
+  "8.0.0-alpha.3+26.1-pre-2": {
+    "versionId": "U2Rstnmd",
+    "gameVersions": [
+      "26.1-pre-2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-03-15T21:56:14.398210Z",
+    "filename": "cardinal-components-api-8.0.0-alpha.3+26.1-pre-2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/U2Rstnmd/cardinal-components-api-8.0.0-alpha.3%2B26.1-pre-2.jar",
+    "sha512": "a7cfe7380aa58cc92e03c63c528fcaf6c5081ca8d2acf7f1187275d100631cd57eeed5f5e6f3c4632b975ae760ddc4e6b2fd3f2773bb34382178d7cbf0243ad1"
+  },
+  "8.0.0-alpha.4+26.1-rc-2": {
+    "versionId": "BblTfK18",
+    "gameVersions": [
+      "26.1-rc-2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-03-24T11:40:19.570933Z",
+    "filename": "cardinal-components-api-8.0.0-alpha.4+26.1-rc-2.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/BblTfK18/cardinal-components-api-8.0.0-alpha.4%2B26.1-rc-2.jar",
+    "sha512": "506d5a219bce9a40a4d27fb1aa7de2ae5b451dfde8b10f27c1989829e31d81f73f2445a3d477af0b977bb16daf21093c1f34e2e74a32bef086f2a1cffacb4286"
+  },
+  "8.0.0-alpha.5+26.1": {
+    "versionId": "2fyoMLJG",
+    "gameVersions": [
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-04-02T22:45:15.948559Z",
+    "filename": "cardinal-components-api-8.0.0-alpha.5+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/2fyoMLJG/cardinal-components-api-8.0.0-alpha.5%2B26.1.jar",
+    "sha512": "fbcf5ec45b34234894e05c5494a16c0f7f6484f5191e9f8881c85634feac6aaa510254f8d442e0e2c7a2252a93e6cd1d01cecd2e902d5c60cf12099a67f1c38c"
+  },
+  "8.0.1": {
+    "versionId": "d78LiKJ8",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-05T21:56:47.757710Z",
+    "filename": "cardinal-components-api-8.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/d78LiKJ8/cardinal-components-api-8.0.1.jar",
+    "sha512": "6c3507d9b2de856cf5ecb428c8cc038cfdfcf3f0756a2370dae3f6d6204d5315d5afbcf8b2c8fb5bb03a35d70a6401cb53574beb3b2ce52560b0b254d3c346c4"
+  }
+}

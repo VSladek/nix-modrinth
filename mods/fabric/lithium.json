@@ -1,0 +1,1315 @@
+{
+  "mc1.16.4-0.6.0": {
+    "versionId": "EhG1mQzx",
+    "gameVersions": [
+      "1.16.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-03T00:56:52.295118Z",
+    "filename": "lithium-fabric-mc1.16.4-0.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.4-0.6.0/lithium-fabric-mc1.16.4-0.6.0.jar",
+    "sha512": "6c962b28c3fe73b249255b795776c553df6e42f726a18fb877e0034788589b7a8e26b74aa38de7ba67b535bdf49b8e35a4ba8f041e85e61406f348d6a4f898b5"
+  },
+  "mc1.16.5-0.6.1": {
+    "versionId": "5fmGl08Y",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-29T02:31:43.508656Z",
+    "filename": "lithium-fabric-mc1.16.5-0.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-v0.6.1/lithium-fabric-mc1.16.5-0.6.1.jar",
+    "sha512": "07b00fa9ec12c3c455b3f5c2870ececae11904a6450e206474404b96126bd64753b56be47c4e4d752e364f40cfad3efd78ac4b2862000d91f5b1aa671770395e"
+  },
+  "mc1.16.5-0.6.3": {
+    "versionId": "ouTdXXWj",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-02T21:07:33.498154Z",
+    "filename": "lithium-fabric-mc1.16.5-0.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.3/lithium-fabric-mc1.16.5-0.6.3.jar",
+    "sha512": "5eda84d07a36b7c2e5d723c35c4c94ec8a487a762ce818290eaa946b68c927492c49bf1cd02f52dd51ab523b55d7b072ffe9806b1ba0f81d4156c1a18a76af4f"
+  },
+  "mc1.16.5-0.6.4": {
+    "versionId": "igqdFUYG",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-24T14:15:07.080780Z",
+    "filename": "lithium-fabric-mc1.16.5-0.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.4/lithium-fabric-mc1.16.5-0.6.4.jar",
+    "sha512": "a5d54bace83489e878e14ddb1792c97e75b0ecc61bfd43de53342646d4c4ba49543874d5d2f63558a6b52419024e83895b0715c7dec19248de89e9b80b2da092"
+  },
+  "mc1.16.5-0.6.5": {
+    "versionId": "pGhOMdTm",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-08T13:48:35.642184Z",
+    "filename": "lithium-fabric-mc1.16.5-0.6.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.5/lithium-fabric-mc1.16.5-0.6.5.jar",
+    "sha512": "e15e2563db5d6c0de539e799c04e76e02d3b01378d80477952703e7d32ea65a845eea4b8503ece52f676ed1f2343e9f15bfcc2c0c43d22927a1ac95394876478"
+  },
+  "mc1.16.5-0.6.6": {
+    "versionId": "rvsW1zhb",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-09T13:10:44.980214Z",
+    "filename": "lithium-fabric-mc1.16.5-0.6.6.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar",
+    "sha512": "bb2dd085a6c5fcf86ba9a63d680fb5144a5788efe9c00a9417d978722dbb84163e47bb545c310869647924dad89bcfe2bbe04cd64476b304eada914083e5c094"
+  },
+  "mc1.17-0.7.0": {
+    "versionId": "Le0tKjFX",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-06-08T19:45:03.750911Z",
+    "filename": "lithium-fabric-mc1.17-0.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.0/lithium-fabric-mc1.17-0.7.0.jar",
+    "sha512": "9c0c9a98896966b4728d9ccb1b7605b3229599197f9ffaf6c12cb15deb28e0cb99be85e46772d1d258820e2385f1aa73aa7cb862ec9383e7e242baefc6eb7921"
+  },
+  "mc1.17-0.7.1": {
+    "versionId": "7jxErppe",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-16T18:38:57.919231Z",
+    "filename": "lithium-fabric-mc1.17-0.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.1/lithium-fabric-mc1.17-0.7.1.jar",
+    "sha512": "647b5b626978b2cad5b44616808543445bc565e87b53c7b9bb026bd3d00f10f5c350d8c9e93677268c93d0ace0e7c1d2b27e0fe8b5814be297f01204f7188bb2"
+  },
+  "mc1.17-0.7.2": {
+    "versionId": "aZ0JFf08",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-21T15:47:40.697756Z",
+    "filename": "lithium-fabric-mc1.17-0.7.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.2/lithium-fabric-mc1.17-0.7.2.jar",
+    "sha512": "ca6b619a6399c9edba99ef70a73f9836ba3dab27dc335f8d709ef732b2121855f245c0bb82dbcffa6932ae2965e9f2ec8b86d3ef3215af2afcaf9fbb8e109bc1"
+  },
+  "mc1.17.1-0.7.3": {
+    "versionId": "cTZv31gu",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-07T15:19:45.667011Z",
+    "filename": "lithium-fabric-mc1.17.1-0.7.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.3/lithium-fabric-mc1.17.1-0.7.3.jar",
+    "sha512": "302a9ac685e513b75eb4dea0d956335f1dfbda33b5b19e94e8df76172a7502cf02a68faf801c623ff0775f12f3831fc863ff7f83af44105098376956ed331c5c"
+  },
+  "mc1.17.1-0.7.4": {
+    "versionId": "nVR7Q63z",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-08-25T15:11:04.183885Z",
+    "filename": "lithium-fabric-mc1.17.1-0.7.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.4/lithium-fabric-mc1.17.1-0.7.4.jar",
+    "sha512": "e3564bef105f23b6d4f77196f080f6bae3eed78b810e795c41b6587e88130ead66d0bbc01225a2ca2a3b1bdaedd7baec35219e28e36b3fe5c7a9b694618dfc76"
+  },
+  "mc1.17.1-0.7.5": {
+    "versionId": "FHFKMKeu",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-05T16:45:48.729181Z",
+    "filename": "lithium-fabric-mc1.17.1-0.7.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar",
+    "sha512": "8e8bf5ea7856773d48018b8a1fd3c34306794c79b914beda3466ac43daee53172f610fd39a62801834b4751d83a9b988ad1f3fc9c9bc2ad1787fba19626a684e"
+  },
+  "mc1.18-0.7.6-rc1": {
+    "versionId": "2w527DB2",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-12-05T08:29:57.358379Z",
+    "filename": "lithium-fabric-mc1.18-0.7.6-rc1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar",
+    "sha512": "2396efef36aa280092479d10007be5de6589113cc10b57cf658fa85fc30f3135e0ef2c9172b55ed35ffb38553430795876db17fbd005aedcbf1105ca626a7594"
+  },
+  "mc1.18.1-0.7.6": {
+    "versionId": "2CbyxeU0",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-13T21:06:50.839240Z",
+    "filename": "lithium-fabric-mc1.18.1-0.7.6.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar",
+    "sha512": "91b4de272f708e47e86a74068031627fd41f27ea57bc8ad5e68957bc5e9d4401f486cb969434e6022b708d67729be784c4d39395ea2896db5ad6ac90241d5baa"
+  },
+  "mc1.18.1-0.7.7": {
+    "versionId": "2aoHIXuK",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-01-02T12:00:50.953696Z",
+    "filename": "lithium-fabric-mc1.18.1-0.7.7.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar",
+    "sha512": "638d259abebb622cc5e5ca905dc7361b5a0740f1c37ec827a0094dc03b7c3e83288217bfd4d17a20018d0237049674b014d62b4693b9af920b393ba37dad79fe"
+  },
+  "mc1.18.1-0.7.8": {
+    "versionId": "Ehsd7YUl",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-23T17:24:44.610153Z",
+    "filename": "lithium-fabric-mc1.18.1-0.7.8.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.8/lithium-fabric-mc1.18.1-0.7.8.jar",
+    "sha512": "21e6c5cbea05e2ebe05b09167b2c7613d441ff5c013560d07921a6a127a82e5573261d5c400c71955a40d52d94941fb816c33f59055a93e1854fed48701dde23"
+  },
+  "mc1.18.2-0.10.2": {
+    "versionId": "FXG2XqRP",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-11T20:39:53.633826Z",
+    "filename": "lithium-fabric-mc1.18.2-0.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/FXG2XqRP/lithium-fabric-mc1.18.2-0.10.2.jar",
+    "sha512": "6f21f2f99533819be6a955593beab89149d64344bf2414eb96081dbb0b3462d2512d411d10d4e05045f317efced30102c4bb53ee4bed14ff4858fb065f18a710"
+  },
+  "mc1.18.2-0.10.3": {
+    "versionId": "ALnv7Npy",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-07T19:58:56.517220Z",
+    "filename": "lithium-fabric-mc1.18.2-0.10.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar",
+    "sha512": "46d4cdaf627a20c61fbbbc055d6fbfc422b851d94288b6dd2296fc958c6b32d4d6955bc678e7b9ea9ae69f4a4a54e7b822c164fee849c9b5c7cde0c1c1595413"
+  },
+  "mc1.18.2-0.7.10": {
+    "versionId": "pHl1Vi6k",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-05-22T13:03:05.021365Z",
+    "filename": "lithium-fabric-mc1.18.2-0.7.10.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar",
+    "sha512": "05f0e51191c9051224c791d63ad4b7915e6f3c442e5d38225e7b05ea4261ee459edb3d8ce99411e1a5a854547549845f21cc8ee2f0079281fec999c1d319fb07"
+  },
+  "mc1.18.2-0.7.9": {
+    "versionId": "MoF1cn6g",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-02T22:33:09.684980Z",
+    "filename": "lithium-fabric-mc1.18.2-0.7.9.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar",
+    "sha512": "6c2128734a7e49301e49f394b62c4995aaed3cdd88fd20f7dd265db3dbafb6c5bb193e9705d5533585ee397ed713aaedfb843b05be2c4c7dd90a86321c2e8cfc"
+  },
+  "mc1.19-0.8.0": {
+    "versionId": "pXdccFQf",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-09T20:59:45.453769Z",
+    "filename": "lithium-fabric-mc1.19-0.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.0/lithium-fabric-mc1.19-0.8.0.jar",
+    "sha512": "3c8d88f8b1a2202d5891879549dd58de27f12a3a7bdb66083b6fde3c08256807515fd81f86fa0c147473640e8087ae5e12a20fe22c9b5eb8d830842b3512687d"
+  },
+  "mc1.19-0.8.1": {
+    "versionId": "sIKhU9s4",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-09T16:03:15.024861Z",
+    "filename": "lithium-fabric-mc1.19-0.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar",
+    "sha512": "85dfa5e73ce8dbfd98a0bc27bd8b2ddf4285d0f20e77021f3184b815e8c2df2aa3366c52ce47e756c39d1ee3f8759d2f20744b5e5b0bf2d36b87cbee6a0b5d52"
+  },
+  "mc1.19.1-0.8.3": {
+    "versionId": "ZRR9yqHD",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-29T22:18:09.072973Z",
+    "filename": "lithium-fabric-mc1.19.1-0.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.1-0.8.3/lithium-fabric-mc1.19.1-0.8.3.jar",
+    "sha512": "a3b623b4c14f6ba46d1486ffb3d1ba3174e3317b419b2ddfdf7bb572244e706d2e0a37bdce169c94455bec00fd107530ba78d7e611162a632cc6950e6a625433"
+  },
+  "mc1.19.2-0.10.0": {
+    "versionId": "ySBrfN8N",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-19T13:10:33.712130Z",
+    "filename": "lithium-fabric-mc1.19.2-0.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ySBrfN8N/lithium-fabric-mc1.19.2-0.10.0.jar",
+    "sha512": "0ca2edffd50aa9469cc7f93f8f8a886432e47d04c13b844a3ccaa580c1149aab070e6075297c46a4ebf27e40c8e00543ce0c64a0a4a740a4ad6a922d7577f154"
+  },
+  "mc1.19.2-0.10.1": {
+    "versionId": "xVm1caOt",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-29T20:39:01.699313Z",
+    "filename": "lithium-fabric-mc1.19.2-0.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xVm1caOt/lithium-fabric-mc1.19.2-0.10.1.jar",
+    "sha512": "9c59e9d9b149e3d45f283e4f8f8e37d717aa4c8d7418e6e9f288d50ca23fbde469b62b5e4fdf65a6abfb8786df8532db2724ca8f7f11baa6360bd00241ff20ea"
+  },
+  "mc1.19.2-0.10.2": {
+    "versionId": "IQxlSIiw",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-10T21:11:25.377968Z",
+    "filename": "lithium-fabric-mc1.19.2-0.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar",
+    "sha512": "2856942c4119142c64eb03108dd6931cb6cfcd09b8d29e889ccb7d79fee3e495b68c7ad16c5ecbc156de8cd430147dc602694fb383529b8f56bd96e1d55a0da6"
+  },
+  "mc1.19.2-0.10.3": {
+    "versionId": "OKrb9xMn",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-12-07T19:59:16.129291Z",
+    "filename": "lithium-fabric-mc1.19.2-0.10.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OKrb9xMn/lithium-fabric-mc1.19.2-0.10.3.jar",
+    "sha512": "0156284f215e4834614775516d3b3e6edb7af3c295d9a5e9b2cdf596e457da01971e372d71b42b4289d7572aef36b29d5f8491e27d217049c3baa42af984ec79"
+  },
+  "mc1.19.2-0.10.4": {
+    "versionId": "7scJ9RTg",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-08T21:49:53.366246Z",
+    "filename": "lithium-fabric-mc1.19.2-0.10.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/7scJ9RTg/lithium-fabric-mc1.19.2-0.10.4.jar",
+    "sha512": "8a91e543a3932bd68d6fffc346fff067a2183198bf95ebbd2b3ae9fd4b28bcfedabe83eab1c8a8b8d1650650b9c8e428bc61dff47e5ae8ee69b555c3bd0b54a0"
+  },
+  "mc1.19.2-0.11.0": {
+    "versionId": "GYl3zwgt",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-07T13:53:39.078771Z",
+    "filename": "lithium-fabric-mc1.19.2-0.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GYl3zwgt/lithium-fabric-mc1.19.2-0.11.0.jar",
+    "sha512": "2787480d2c01b1aa4985304297f18aa7cf05a9e11e4ae25a8d9d3374f2d0f8c60dcc6cd2d393eeb75755de90b9be066b9458e9ea846070bf65882230da59876f"
+  },
+  "mc1.19.2-0.11.1": {
+    "versionId": "m6sVgAi6",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T22:03:10.267811Z",
+    "filename": "lithium-fabric-mc1.19.2-0.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/m6sVgAi6/lithium-fabric-mc1.19.2-0.11.1.jar",
+    "sha512": "64646e098839d6c5caa47bbc4ece187986567273b1adcb87d2a85bcaa084859b6cc5484ecced545a583fe1e693f69f0184857f0f0074e64c2da436668d34e3b7"
+  },
+  "mc1.19.2-0.8.3": {
+    "versionId": "Zs3sdHjK",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-07T22:07:14.175799Z",
+    "filename": "lithium-fabric-mc1.19.2-0.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.2-0.8.3/lithium-fabric-mc1.19.2-0.8.3.jar",
+    "sha512": "d61b1a744fefd13a5ab032d4da6f9d723f008b4afe39863f6b47ae7901a91ed7d326d27bab6b6d2ff9d17447bf2f191c6431253c7973874b6ae17ffbfd71e2a9"
+  },
+  "mc1.19.2-0.9.0": {
+    "versionId": "Nba2vozh",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-12T20:50:59.185896Z",
+    "filename": "lithium-fabric-mc1.19.2-0.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Nba2vozh/lithium-fabric-mc1.19.2-0.9.0.jar",
+    "sha512": "b0b8c189c94c278851ab96c3e73a4f3ba9bc40563b63c92dcf6e51b6574f6319787de908dbbf5d6a4a69ece54c51ee22b911c00ce4f696bf0670db4a96129c19"
+  },
+  "mc1.19.2-0.9.1": {
+    "versionId": "2ysRxhIL",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-12T23:20:58.247976Z",
+    "filename": "lithium-fabric-mc1.19.2-0.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2ysRxhIL/lithium-fabric-mc1.19.2-0.9.1.jar",
+    "sha512": "a161b92930b62f70d247a02e186d34d033478474d4185a2add33cf21ee52b7d09140bff6d85ea63c7d6a160787beff62224153fdf6ed615472080baff82245de"
+  },
+  "mc1.19.3-0.10.3": {
+    "versionId": "3Gq9H7R9",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-12-07T19:59:48.121574Z",
+    "filename": "lithium-fabric-mc1.19.3-0.10.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/3Gq9H7R9/lithium-fabric-mc1.19.3-0.10.3.jar",
+    "sha512": "67a6200abfb847bf6e6e7aa882c77bdc2002ef30983fdc535af2736d5c828589e13a9ce37a5dac8880d9504831e38d8fffee7fb0b94e755f3bfef208d190494c"
+  },
+  "mc1.19.3-0.10.4": {
+    "versionId": "XS6vJwop",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-08T21:50:56.715352Z",
+    "filename": "lithium-fabric-mc1.19.3-0.10.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar",
+    "sha512": "2f33a06769044e43b5cfb95f1b7f8c2a14ef2f025d6d531ed64dae186eaf3c3d72eeb68f6422f7637b67c4055022c9ef8f5f582d9081dc06a4642cda4c242b82"
+  },
+  "mc1.19.3-0.11.0": {
+    "versionId": "sMWkk4VU",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-04T19:50:50.568894Z",
+    "filename": "lithium-fabric-mc1.19.3-0.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/sMWkk4VU/lithium-fabric-mc1.19.3-0.11.0.jar",
+    "sha512": "7d66f82b5ea70e498d95ce0aa68aba4b0907d11e7f32e9f9ef7a30f36754034a27f5ba27a33b5c94c08914bce03dd575373483c20e532a30446e0d25c3e82b83"
+  },
+  "mc1.19.3-0.11.1": {
+    "versionId": "53cwYYb1",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T22:04:07.935682Z",
+    "filename": "lithium-fabric-mc1.19.3-0.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/53cwYYb1/lithium-fabric-mc1.19.3-0.11.1.jar",
+    "sha512": "920053ad9a72eab5cde10eaf8ddacdb672e3d3651e7e64b4b82f55c52a3fc3b4024097f05683c3cd1d44bbcb4566a4ae479011ecaa0e2061aef031a860495b0e"
+  },
+  "mc1.19.4-0.11.1": {
+    "versionId": "14hWYkog",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T22:04:37.051100Z",
+    "filename": "lithium-fabric-mc1.19.4-0.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/14hWYkog/lithium-fabric-mc1.19.4-0.11.1.jar",
+    "sha512": "f2bd271e30e5ed9f097d592db5e859208a1c6abe727dc51f83879b837c843b4f6453e99f1ca8d5225f896233ab8f7dbbb3300f10396d2a1cd2957937acfd1aa7"
+  },
+  "mc1.20-0.11.2": {
+    "versionId": "2KMrj5c1",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-09T00:41:14.455322Z",
+    "filename": "lithium-fabric-mc1.20-0.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2KMrj5c1/lithium-fabric-mc1.20-0.11.2.jar",
+    "sha512": "12e0eb858ce8bec1b19bf8cbde7d90edc5a40f8bbfd0a785ef548ce1691aa8d293f8637421c095d3ab1da84ed1fc440c63edc823cb5b19864988cc785ad9a28d"
+  },
+  "mc1.20.1-0.11.2": {
+    "versionId": "ZSNsJrPI",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-12T23:58:59.682048Z",
+    "filename": "lithium-fabric-mc1.20.1-0.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar",
+    "sha512": "d1b5c90ba8b4879814df7fbf6e67412febbb2870e8131858c211130e9b5546e86b213b768b912fc7a2efa37831ad91caf28d6d71ba972274618ffd59937e5d0d"
+  },
+  "mc1.20.1-0.11.3-fabric": {
+    "versionId": "vuuAe7ZA",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-17T19:58:48.440943Z",
+    "filename": "lithium-fabric-mc1.20.1-0.11.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/vuuAe7ZA/lithium-fabric-mc1.20.1-0.11.3.jar",
+    "sha512": "dc9bc65146f41cf99c46b46216dd3645be7c45cfeb2bc7cdceaa11bcd57771cdf2c30e84ce057f12b8dbf0d54fb808143cf46d92626370011ba5112bec18e720"
+  },
+  "mc1.20.1-0.11.4-fabric": {
+    "versionId": "iEcXOkz4",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-27T15:24:22.341495Z",
+    "filename": "lithium-fabric-mc1.20.1-0.11.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iEcXOkz4/lithium-fabric-mc1.20.1-0.11.4.jar",
+    "sha512": "31938b7e849609892ffa1710e41f2e163d11876f824452540658c4b53cd13c666dbdad8d200989461932bd9952814c5943e64252530c72bdd5d8641775151500"
+  },
+  "mc1.20.2-0.12.0": {
+    "versionId": "qdzL5Hkg",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-23T21:11:23.593795Z",
+    "filename": "lithium-fabric-mc1.20.2-0.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qdzL5Hkg/lithium-fabric-mc1.20.2-0.12.0.jar",
+    "sha512": "88df5f96ee5a3011dbb2aae011b5c85166f9942906e4ebc58ebb7b452f01e18020b970aad3facebd02eb67ac4beea03de333414cf66172d817fa5cae50e1c73d"
+  },
+  "mc1.20.3-0.12.1": {
+    "versionId": "WzQmxYRa",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-20T22:18:40.455779Z",
+    "filename": "lithium-fabric-mc1.20.3-0.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/WzQmxYRa/lithium-fabric-mc1.20.3-0.12.1.jar",
+    "sha512": "3145bef2795cb934af069e6bdc23accdd44432aaadb18d6278d84d44a27db7fc0eb97df501193552b5cf08c913b91a67ed272e93f7689a96a071ae07673a5860"
+  },
+  "mc1.20.4-0.12.1": {
+    "versionId": "nMhjKWVE",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-20T22:19:35.442632Z",
+    "filename": "lithium-fabric-mc1.20.4-0.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar",
+    "sha512": "70bea154eaafb2e4b5cb755cdb12c55d50f9296ab4c2855399da548f72d6d24c0a9f77e3da2b2ea5f47fa91d1258df4d08c6c6f24a25da887ed71cea93502508"
+  },
+  "mc1.20.5-0.12.2": {
+    "versionId": "tDFVQpHO",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T19:49:37.996126Z",
+    "filename": "lithium-fabric-mc1.20.5-0.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/tDFVQpHO/lithium-fabric-mc1.20.5-0.12.2.jar",
+    "sha512": "c77cf509e59a96626da8e347b8237f838005150bf6629344a96281af9599c9df47ce5d4bb00d16876db192175390cc1482ed62cc3b5e38905ced0d627ed70a24"
+  },
+  "mc1.20.5-0.12.4": {
+    "versionId": "g2qXxjsR",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-16T09:46:14.359971Z",
+    "filename": "lithium-fabric-mc1.20.5-0.12.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/g2qXxjsR/lithium-fabric-mc1.20.5-0.12.4.jar",
+    "sha512": "23207c2b181e40313f49dc3d0e7792328d529f3ea75d78383f209942f201eccbd18d9a1729018de08cb7fbebf30f346054f20bd0e890803870607b8419e4f11e"
+  },
+  "mc1.20.5-0.12.5": {
+    "versionId": "p25IJhj0",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T12:19:37.053779Z",
+    "filename": "lithium-fabric-mc1.20.5-0.12.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/p25IJhj0/lithium-fabric-mc1.20.5-0.12.5.jar",
+    "sha512": "2a5d82f1794ffa2b9dcb6449d1d4b44b11469e1bbd40cac7fa2f7a48656b657a0453d0613251540123790794c5e5fb51cc4235c0550f36833ef0cd99a0108d75"
+  },
+  "mc1.20.6-0.12.3": {
+    "versionId": "bAbb09VF",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T20:44:13.320028Z",
+    "filename": "lithium-fabric-mc1.20.6-0.12.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/bAbb09VF/lithium-fabric-mc1.20.6-0.12.3.jar",
+    "sha512": "cda611c684636309322f0f406c9f0146552019e5dd10a53b8942c1b0d9df47e2d39abed557cf84e58348c3ad127c83c7e370f1ac79d9a6fad21d845eba4941ed"
+  },
+  "mc1.20.6-0.12.4": {
+    "versionId": "fsK2ycFx",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-16T09:48:12.356676Z",
+    "filename": "lithium-fabric-mc1.20.6-0.12.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fsK2ycFx/lithium-fabric-mc1.20.6-0.12.4.jar",
+    "sha512": "56bee6307b7aad89d7fab5f7bed0128842c3f297fd1572493fccc7f7d3cdd8489b3a42739296d8e2307208f6caeb990136ba03f771c302c10c3e0b3da9f42e49"
+  },
+  "mc1.20.6-0.12.5": {
+    "versionId": "5a3sPIH2",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T12:20:11.463182Z",
+    "filename": "lithium-fabric-mc1.20.6-0.12.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5a3sPIH2/lithium-fabric-mc1.20.6-0.12.5.jar",
+    "sha512": "bbb3869773db7a0f13db6d5ee68f94578b1f573816a92db45d34a4bca0967e228a5c0f683d36277bc801c6965eb3280606d9aaca7ed92e8567f9f894338e8936"
+  },
+  "mc1.21-0.12.5": {
+    "versionId": "OC4JOVBe",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-06-16T09:50:58.673269Z",
+    "filename": "lithium-fabric-mc1.21-0.12.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar",
+    "sha512": "3054de66ffaad9184c44fabafa2a8f858f18e76302c971218f5b36f84b0de9306b076fd2d4a4df2ab56df2676093edda9602dcdb5d2301b4006d2770205d728e"
+  },
+  "mc1.21-0.12.7": {
+    "versionId": "my7uONjU",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T11:20:35.761848Z",
+    "filename": "lithium-fabric-mc1.21-0.12.7.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar",
+    "sha512": "91d78cf26f61876b1f5110e8aabb0189fe20fb669c2f2dd608416bce31c5c02eec9284ea418c405ab118562b5b8202c83154784bedf136f95727a86096e43430"
+  },
+  "mc1.21-0.13.0": {
+    "versionId": "NTZCh7rb",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-11T17:20:55.880546Z",
+    "filename": "lithium-fabric-mc1.21-0.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NTZCh7rb/lithium-fabric-mc1.21-0.13.0.jar",
+    "sha512": "f5b9ec43c05ac3de29e8bc24e28ae34bc91a48ad1235f70635165a699322dbe2b8c071655b1af392c2fb318bde5bfa4959798b837f3c2885a9a7a1f735680ed1"
+  },
+  "mc1.21-0.13.1": {
+    "versionId": "M7RXiitG",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-20T13:56:40.305844Z",
+    "filename": "lithium-fabric-mc1.21-0.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/M7RXiitG/lithium-fabric-mc1.21-0.13.1.jar",
+    "sha512": "c42a3813398fc9cb99b9b8fdfc9af89fbce3245c1c5d54cd08edc05e519d3c1ee149c00f745a3a0eb216f3d1836ea35b4910f58e6312ea065e17e57422853217"
+  },
+  "mc1.21.1-0.13.0": {
+    "versionId": "5szYtenV",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-11T17:21:32.983114Z",
+    "filename": "lithium-fabric-mc1.21.1-0.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar",
+    "sha512": "d4bd9a9cc37daad8828aa4fa9ca20e4f89d10e30cf6daf4546ef4cf4a684ba21ea0865a9c23cef9d1f4348e9ba4aca9aaca3db9f99534fc610fa78a5ca0bf151"
+  },
+  "mc1.21.1-0.13.1": {
+    "versionId": "9x0igjLz",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-20T13:57:33.369924Z",
+    "filename": "lithium-fabric-mc1.21.1-0.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9x0igjLz/lithium-fabric-mc1.21.1-0.13.1.jar",
+    "sha512": "4250a630d43492da35c4c197ae43082186938fdcb42bafcb6ccad925b79f583abdfdc17ce792c6c6686883f7f109219baecb4906a65d524026d4e288bfbaf146"
+  },
+  "mc1.21.1-0.14.0-beta.1-fabric": {
+    "versionId": "2mbrKlX3",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-16T16:32:00.250850Z",
+    "filename": "lithium-fabric-0.14.0-snapshot+mc1.21.1-build.88.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2mbrKlX3/lithium-fabric-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
+    "sha512": "e7ff451152caa994521736b3144e7b3edc98ffee0e04bb8ce4381eb777d64fac2d4e9edf6928303c2228c02c5d09147d369e71c12b45c39b324daf6916e6d0a1"
+  },
+  "mc1.21.1-0.14.2-fabric": {
+    "versionId": "frXUdgvL",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-16T22:48:41.210092Z",
+    "filename": "lithium-fabric-0.14.2-snapshot+mc1.21.1-build.90.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/frXUdgvL/lithium-fabric-0.14.2-snapshot%2Bmc1.21.1-build.90.jar",
+    "sha512": "f47cc7ce94c9e63202c940e60a8b68d2c3cdcd3eafbc8625af2596eccc02ce3712794b812c24ca88eed1a3bde0129cb3c8a54236bc3a85547ffe70db7781f225"
+  },
+  "mc1.21.1-0.14.3-fabric": {
+    "versionId": "9xfJi96s",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T18:47:09.495159Z",
+    "filename": "lithium-fabric-0.14.3-snapshot+mc1.21.1-build.92.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar",
+    "sha512": "d46a47c4ac7372b5bae629e5910a20eff5b3064053d2441760aa8c42095d8173a85d6fbb624ffc10c68fc954579630c56f55dbcf392fb0253b5c3ffd096ee0a0"
+  },
+  "mc1.21.1-0.14.5-fabric": {
+    "versionId": "GGl8GkvX",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-14T21:09:44.142065Z",
+    "filename": "lithium-fabric-0.14.5+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar",
+    "sha512": "60997f16ad12bd602ce0bd1ae3ab5aa94f8f115b3b78c37d09e74e1a6af43b68de8d007b14d9b4b9d1996c892d783ade160b9ace80c30f6de81cde5ce2d177e1"
+  },
+  "mc1.21.1-0.14.6-fabric": {
+    "versionId": "GtRRmh9W",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-18T15:24:37.640891Z",
+    "filename": "lithium-fabric-0.14.6+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GtRRmh9W/lithium-fabric-0.14.6%2Bmc1.21.1.jar",
+    "sha512": "2c92621e49bd4dc64790409dfcd068b149b828122daca3729179bc4bb60daca432b3b8089fe052377bcc47ff12255fd4a837de9de9d05faf299a94ea8c72a5ff"
+  },
+  "mc1.21.1-0.14.7-fabric": {
+    "versionId": "NHA11tBg",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-20T22:01:50.836299Z",
+    "filename": "lithium-fabric-0.14.7+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NHA11tBg/lithium-fabric-0.14.7%2Bmc1.21.1.jar",
+    "sha512": "fe4b0d451ee40db68986395f205e38b9c6c8ea1c01c67bb65c166adf91945266a374b449f85d41741730d5957bce17e2f396affc04f38f50a6d9562143565053"
+  },
+  "mc1.21.1-0.14.8-fabric": {
+    "versionId": "3HMQZXbw",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-20T00:24:04.842003Z",
+    "filename": "lithium-fabric-0.14.8+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/3HMQZXbw/lithium-fabric-0.14.8%2Bmc1.21.1.jar",
+    "sha512": "ed33ab7cc57950ec8b04b41f751720a3f903158093f1940b1a0bdb938b94bfaf398fc238014fee4523c9407fd3ff2377ee2e09cf7f7a349bfc8fc9e5a0b55a19"
+  },
+  "mc1.21.1-0.15.0-fabric": {
+    "versionId": "MM5BBBOK",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-10T23:26:12.088687Z",
+    "filename": "lithium-fabric-0.15.0+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/MM5BBBOK/lithium-fabric-0.15.0%2Bmc1.21.1.jar",
+    "sha512": "fd3215501ebe8f6590cdf1ccc58182873cad8d74ebc4b0b3a2f5724748b9cb04c2b967503c072311dfbca9ba856195dc4662f3395a071b294fa0acfdd2a86bf6"
+  },
+  "mc1.21.1-0.15.1-fabric": {
+    "versionId": "E5eJVp4O",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-21T17:10:36.416852Z",
+    "filename": "lithium-fabric-0.15.1+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/E5eJVp4O/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
+    "sha512": "bb0d13b429c3f790b3f8d42312a104eb7f33dadc0b1eb3b037255af2d1b17a3c51db7d9a4cf8552f9410922f03ab030e124cb5c0661d2442e63bef8a1d133136"
+  },
+  "mc1.21.1-0.15.2-fabric": {
+    "versionId": "Yu6L8EnD",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-05T21:34:09.727830Z",
+    "filename": "lithium-fabric-0.15.2+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+    "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+  },
+  "mc1.21.1-0.15.3-fabric": {
+    "versionId": "XQJtuOTA",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-10T22:02:18.628608Z",
+    "filename": "lithium-fabric-0.15.3+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+    "sha512": "8c576d519121b0c2521101d2209eccd85d560b097fcb847aa54c51cd0d3f3947676f01c8d99913f514487c8e0972a1cf5f3da0c9ef0ec9bacdf2baeb4eb7d1a7"
+  },
+  "mc1.21.1-0.15.4-fabric": {
+    "versionId": "N08Z8wog",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-27T17:11:51.297165Z",
+    "filename": "lithium-fabric-0.15.4+mc1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+    "sha512": "182064b00e6315e2255b857eaab8eb759e6b042ebd4cc8b855ff0d93f875a5a7188fac49f878d7b29d4ef7e6b6341190ad7f6f6f39f4a6d2c62003468b08e4c6"
+  },
+  "mc1.21.10-0.20.0-fabric": {
+    "versionId": "oGKQMdyZ",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-07T22:29:28.516315Z",
+    "filename": "lithium-fabric-0.20.0+mc1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar",
+    "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2"
+  },
+  "mc1.21.10-0.20.1-fabric": {
+    "versionId": "NsswKiwi",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-13T22:32:36.019258Z",
+    "filename": "lithium-fabric-0.20.1+mc1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar",
+    "sha512": "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
+  },
+  "mc1.21.11-0.21.0-fabric": {
+    "versionId": "P4cz15Hh",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T20:09:22.091636Z",
+    "filename": "lithium-fabric-0.21.0+mc1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/P4cz15Hh/lithium-fabric-0.21.0%2Bmc1.21.11.jar",
+    "sha512": "ad9bd67fbe044732b3811fa89bf00d825b124202ed7ef49382239dff457e9797154340b129ef63ab405d4255d845ee628adb3714df471662e7fc3fe34c0c99a8"
+  },
+  "mc1.21.11-0.21.1-fabric": {
+    "versionId": "4DdLmtyz",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-12T22:13:18.586782Z",
+    "filename": "lithium-fabric-0.21.1+mc1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/4DdLmtyz/lithium-fabric-0.21.1%2Bmc1.21.11.jar",
+    "sha512": "0857d30d063dc704a264b2fe774a7e641926193cfdcde72fe2cd603043d8548045b955e30c05b1b2b96ef7d1c0f85d55269da26f44a0644c984b45623e976794"
+  },
+  "mc1.21.11-0.21.2-fabric": {
+    "versionId": "gl30uZvp",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-24T17:51:37.407231Z",
+    "filename": "lithium-fabric-0.21.2+mc1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar",
+    "sha512": "94625510013e0daaf1c2e2b6d8a463c932ff6220f91ba5b0cd5f868658215f046d94d07b3465660f576c4dc27a5aa183dfbdc1c9303f11894b5b25a1dc6c3bb6"
+  },
+  "mc1.21.11-0.21.3-fabric": {
+    "versionId": "qvNsoO3l",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-07T01:19:41.863308Z",
+    "filename": "lithium-fabric-0.21.3+mc1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+    "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
+  },
+  "mc1.21.11-0.21.4-fabric": {
+    "versionId": "Ow7wA0kG",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-11T00:39:03.618667Z",
+    "filename": "lithium-fabric-0.21.4+mc1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+    "sha512": "f14a5c3d2fad786347ca25083f902139694f618b7c103947f2fd067a7c5ee88a63e1ef8926f7d693ea79ed7d00f57317bae77ef9c2d630bf5ed01ac97a752b94"
+  },
+  "mc1.21.3-0.14.1-fabric": {
+    "versionId": "2Ea7RMWZ",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-10T00:28:36.600470Z",
+    "filename": "lithium-fabric-0.14.1-snapshot+mc1.21.3-build.89.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2Ea7RMWZ/lithium-fabric-0.14.1-snapshot%2Bmc1.21.3-build.89.jar",
+    "sha512": "d122b23a520cb2573c2eaba9556c07846ae5f2f8ee9aabdf5dce914334e44027a273c8cf2ef2243fe03cf86a8858eab2ddcc247d95661dee40cd783cf444aeff"
+  },
+  "mc1.21.3-0.14.2-fabric": {
+    "versionId": "QhCwdt4l",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-16T22:52:45.249352Z",
+    "filename": "lithium-fabric-0.14.2-snapshot+mc1.21.3-build.91.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/QhCwdt4l/lithium-fabric-0.14.2-snapshot%2Bmc1.21.3-build.91.jar",
+    "sha512": "6c025877e0f5de8f87baca0be08e19bbad8fb7f6e2037d064f2497fd9779cdc3b979dfc80d228374934ef84014949c9cb4740c816cac0ac9ad0d566d1d7e4f0e"
+  },
+  "mc1.21.3-0.14.3-fabric": {
+    "versionId": "pZRO3EKX",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T18:51:25.656883Z",
+    "filename": "lithium-fabric-0.14.3+mc1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/pZRO3EKX/lithium-fabric-0.14.3%2Bmc1.21.3.jar",
+    "sha512": "31ad08427ac50dd54cd2215c29452bd20430ce13f2bd8f4bdb8a6e2f6222b83df47d5727edac721f9397fa296db2998f9aa3eabe2c4c5d45619f8b5b00cd21fc"
+  },
+  "mc1.21.3-0.14.5-fabric": {
+    "versionId": "SantNRs5",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-14T21:09:52.080232Z",
+    "filename": "lithium-fabric-0.14.5+mc1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/SantNRs5/lithium-fabric-0.14.5%2Bmc1.21.3.jar",
+    "sha512": "8b1943fd367922d268a626aa12d84a6d2c23a438d17221dee6bc1880036d7737af9d6efcb150feb449811d3d451a5be0d0a6413bbea0c65c80e681faf483cbab"
+  },
+  "mc1.21.3-0.14.6-fabric": {
+    "versionId": "W0Cc7ZVd",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-18T15:16:08.750781Z",
+    "filename": "lithium-fabric-0.14.6+mc1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6%2Bmc1.21.3.jar",
+    "sha512": "412f9fb94931b0fde8ef03facde319518f19425be17c1dedba568d400d90dcc3cadcb69cd53dc8d8bfc3178aad480e2b5aac21cd81475aead93d9c9e640518bb"
+  },
+  "mc1.21.4-0.14.3-fabric": {
+    "versionId": "t1FlWYl9",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T18:57:43.918868Z",
+    "filename": "lithium-fabric-0.14.3+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t1FlWYl9/lithium-fabric-0.14.3%2Bmc1.21.4.jar",
+    "sha512": "1a4eafbdcee3886d33c04aa462d13a8c1e345ff492001add262476585b78327a2d016e56385bced869615bc97161a34a0a716f5f579c8c1d7080b278f4f11183"
+  },
+  "mc1.21.4-0.14.5-fabric": {
+    "versionId": "6SB2ZRPm",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-14T21:10:13.494029Z",
+    "filename": "lithium-fabric-0.14.5+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/6SB2ZRPm/lithium-fabric-0.14.5%2Bmc1.21.4.jar",
+    "sha512": "4e523a6c5148a29aed9900476b1f05647c7f22e9912212b3e235c1c69ba1df12a21b64f1dabc91571c2ce2aecdb3b98dda27834e8e3f753f000fce77acab28fd"
+  },
+  "mc1.21.4-0.14.6-fabric": {
+    "versionId": "zVOQw7YU",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-17T18:02:29.227412Z",
+    "filename": "lithium-fabric-0.14.6+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/zVOQw7YU/lithium-fabric-0.14.6%2Bmc1.21.4.jar",
+    "sha512": "dda05161bc2abdc64b9984f3b700b6762960241cbabe7347a387ec91cf117a106ea00ac410bb31bbd5e6448c879583259a7b5cf13b29ff68ef9193b8a87a64f3"
+  },
+  "mc1.21.4-0.14.7-fabric": {
+    "versionId": "QCuodIia",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-20T21:53:54.401249Z",
+    "filename": "lithium-fabric-0.14.7+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/QCuodIia/lithium-fabric-0.14.7%2Bmc1.21.4.jar",
+    "sha512": "7acb62dca4879ed665c81e81ccbaa6b26a73a0862dfcae5f6f8b1b0f89fd63554712c596fb235902b4359c0baed23d56bd36f2f4bdd81a7c1680a22c168ba8b9"
+  },
+  "mc1.21.4-0.14.8-fabric": {
+    "versionId": "kLc5Oxr4",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-20T00:21:19.464115Z",
+    "filename": "lithium-fabric-0.14.8+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/kLc5Oxr4/lithium-fabric-0.14.8%2Bmc1.21.4.jar",
+    "sha512": "ea0d7a4aea29b32527245d933227c85d0606e17c88cc05ed9918a1b966f22011961bfa85e33ab318e729f1ac3e69217d37709413bf70d1dc5a3acc9fd75ef317"
+  },
+  "mc1.21.4-0.15.0-fabric": {
+    "versionId": "HtiXknlD",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-10T23:26:27.775134Z",
+    "filename": "lithium-fabric-0.15.0+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/HtiXknlD/lithium-fabric-0.15.0%2Bmc1.21.4.jar",
+    "sha512": "273c7c670638795a343634857f7440db8ce0f55a0f14f292cf17cf5d6a19a9ddcd170f7c95a1310a09b3ac52cde199e420023ab96ea7e5a6d6842f5680b9d598"
+  },
+  "mc1.21.4-0.15.1-fabric": {
+    "versionId": "969795RH",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-22T23:37:37.401858Z",
+    "filename": "lithium-fabric-0.15.1+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/969795RH/lithium-fabric-0.15.1%2Bmc1.21.4.jar",
+    "sha512": "f3dfb0810b2ddf1b430fc206be7c40453310b91efe9c82ab88d998e8707dd081e5e9cbbd44df125a2d43a418466216e5df87e34389f54b4aae9caf19df4382c9"
+  },
+  "mc1.21.4-0.15.2-fabric": {
+    "versionId": "RuLfpULS",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-06T17:17:01.131330Z",
+    "filename": "lithium-fabric-0.15.2+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RuLfpULS/lithium-fabric-0.15.2%2Bmc1.21.4.jar",
+    "sha512": "4c4ecebfed707d7d0300f6e8fd0c1864590f2c4507ea6a4b38456e33c707a9fa37c8321dc5dfa4746fcba4535baee7a83c24f6dd0709bc34a6fd19342e37b0a4"
+  },
+  "mc1.21.4-0.15.3-fabric": {
+    "versionId": "u8pHPXJl",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-09T00:36:52.818932Z",
+    "filename": "lithium-fabric-0.15.3+mc1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/u8pHPXJl/lithium-fabric-0.15.3%2Bmc1.21.4.jar",
+    "sha512": "b8b541c0e968571c8972872b342e34b92573bc9210d455dc1349589f30a67a90d930dbfd99b176ab9b110350ceb53e11118378dc13a35e83a9090826627bdac0"
+  },
+  "mc1.21.5-0.16.0-fabric": {
+    "versionId": "nhc57Td2",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T20:08:33.372286Z",
+    "filename": "lithium-fabric-0.16.0+mc1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/nhc57Td2/lithium-fabric-0.16.0%2Bmc1.21.5.jar",
+    "sha512": "4be66cbb840501e9d7dfbcb6942daba6ce6b8f462694ee498d5c899e476e6d36697bcec70c49c818ca914571c70805de3d8b9a1e4c12c1bb7a3dc89dccbef17f"
+  },
+  "mc1.21.5-0.16.1-fabric": {
+    "versionId": "5YInGgMN",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-06T17:18:34.979103Z",
+    "filename": "lithium-fabric-0.16.1+mc1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5YInGgMN/lithium-fabric-0.16.1%2Bmc1.21.5.jar",
+    "sha512": "3b723b7e3cb62f1b4b9f56c3acd4e0d0dd2cf02159cddf302c631a7141e4add447c5298b37a96e25a6432bdeb645b085cb59e489161f22bade139d1c6fdc4387"
+  },
+  "mc1.21.5-0.16.2-fabric": {
+    "versionId": "VWYoZjBF",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-09T00:57:08.919121Z",
+    "filename": "lithium-fabric-0.16.2+mc1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/VWYoZjBF/lithium-fabric-0.16.2%2Bmc1.21.5.jar",
+    "sha512": "09a68051504bb16069dd6af8901f2bbeadfd08ad5353d8bcc0c4784e814fb293d9197b4fb0a8393be1f2db003cd987a9e4b98391bbe18c50ae181dace20c2fa4"
+  },
+  "mc1.21.5-0.16.3-fabric": {
+    "versionId": "xcELvp6R",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T19:14:30.399948Z",
+    "filename": "lithium-fabric-0.16.3+mc1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xcELvp6R/lithium-fabric-0.16.3%2Bmc1.21.5.jar",
+    "sha512": "42d1538caa913bb35e76208efc14bce3e89fb01e8dbd7cf2a3b8576377d83d2d2f63a207cb7b6f081e20b00e5edff8d01e94a52d89e8c9ce9e3dfecc3fac4d78"
+  },
+  "mc1.21.6-0.17.0-fabric": {
+    "versionId": "XWGBHYcB",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-17T17:01:15.482382Z",
+    "filename": "lithium-fabric-0.17.0+mc1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XWGBHYcB/lithium-fabric-0.17.0%2Bmc1.21.6.jar",
+    "sha512": "a8d6a8b69ae2b10dd0cf8f8149260d5bdbd2583147462bad03380014edd857852972b967d97df69728333d8836b1e9db8997712ea26365ddb8a05b8c845c6534"
+  },
+  "mc1.21.7-0.18.0-fabric": {
+    "versionId": "77EtzYFA",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-30T21:27:20.622936Z",
+    "filename": "lithium-fabric-0.18.0+mc1.21.7.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/77EtzYFA/lithium-fabric-0.18.0%2Bmc1.21.7.jar",
+    "sha512": "afaf6ddaf0cbae2050d725efd438c4c98141d738a637f0f058dcbaff077ef85af801e2dca138ce9f7f8ba3a169dc6af1c9f56736b255c6ea13363f8a1be8ecdb"
+  },
+  "mc1.21.8-0.18.0-fabric": {
+    "versionId": "pDfTqezk",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-17T18:39:59.149099Z",
+    "filename": "lithium-fabric-0.18.0+mc1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/pDfTqezk/lithium-fabric-0.18.0%2Bmc1.21.8.jar",
+    "sha512": "6c69950760f48ef88f0c5871e61029b59af03ab5ed9b002b6a470d7adfdf26f0b875dcd360b664e897291002530981c20e0b2890fb889f29ecdaa007f885100f"
+  },
+  "mc1.21.8-0.18.1-fabric": {
+    "versionId": "qxIL7Kb8",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T00:41:15.024292Z",
+    "filename": "lithium-fabric-0.18.1+mc1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qxIL7Kb8/lithium-fabric-0.18.1%2Bmc1.21.8.jar",
+    "sha512": "ef3e0820c7c831c352cbd5afa4a1f4ff73db0fa3c4e4428ba35ad2faeb8e7bce8ae4805a04934be82099012444a70c0a2cf2049f2af95fe688ca84d94d1c4672"
+  },
+  "mc1.21.9-0.19.0-fabric": {
+    "versionId": "YxOQ6mdT",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T18:31:20.494812Z",
+    "filename": "lithium-fabric-0.19.0+mc1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/YxOQ6mdT/lithium-fabric-0.19.0%2Bmc1.21.9.jar",
+    "sha512": "1e5499899a1b4dea8e2fab1209df307fdd1f7fbe1639e3be29b8fcb5cefaab397df8d19bea7eea4156cbfd9065caeaf3c5cadd87ec5163ba7fee13a034c009dc"
+  },
+  "mc1.21.9-0.19.1-fabric": {
+    "versionId": "iMuOZwcu",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-02T15:59:43.779754Z",
+    "filename": "lithium-fabric-0.19.1+mc1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iMuOZwcu/lithium-fabric-0.19.1%2Bmc1.21.9.jar",
+    "sha512": "227ecc2c420673c687dba45d6d9aed1791ec03e5979ea4c2940e9c278721ee1b36f6ef0d3efa16c49b02b17a7341848a5e1b5c07c18c2164edb01eb975d16c31"
+  },
+  "mc1.21.9-0.19.2-fabric": {
+    "versionId": "L1sSIxFm",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-17T09:18:48.623172Z",
+    "filename": "lithium-fabric-0.19.2+mc1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/L1sSIxFm/lithium-fabric-0.19.2%2Bmc1.21.9.jar",
+    "sha512": "ecbebb18f82e589c1d24056b6cfe6a923acb8fea5dd038ed931568db7dc8dad1cfe4b42f9c0f7752ba45f39d4f0cab219deb61fcb54bcc7252c9fe34afc2549a"
+  },
+  "mc26.1-0.22.0-fabric": {
+    "versionId": "NYjDY08s",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-03-24T23:51:27.603352Z",
+    "filename": "lithium-fabric-0.22.0+mc26.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NYjDY08s/lithium-fabric-0.22.0%2Bmc26.1.jar",
+    "sha512": "fb823073bbb5cd1b2a55af1edbe60bf69595352020301c453289560b42483308852f2e26a8ffc6a3b12e3544e1aa5e07cdf491b82ff2afca721be36c2bc7e693"
+  },
+  "mc26.1-0.22.1-fabric": {
+    "versionId": "W0ZXKJy9",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T22:57:09.948137Z",
+    "filename": "lithium-fabric-0.22.1+mc26.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0ZXKJy9/lithium-fabric-0.22.1%2Bmc26.1.jar",
+    "sha512": "8af26b9892bbd098ba41627844f8d7e2a592a2273cd8d7638ba7946b5b9f246590dec2c9294f0bbe0d0dd826e7190d313846181a990d2bba9afa6ec03eedd250"
+  },
+  "mc26.1.1-0.23.0-fabric": {
+    "versionId": "kHXOBNih",
+    "gameVersions": [
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-01T17:18:29.347011Z",
+    "filename": "lithium-fabric-0.23.0+mc26.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/kHXOBNih/lithium-fabric-0.23.0%2Bmc26.1.1.jar",
+    "sha512": "9d7e92ea2af7d024cfe09bfc7eacf236e551da024f4ddeb3a20d88b01bc3620ee1c5a3355299c9dbfcc76406fb0b8e121a989651e6a73c8c2632290f84db8448"
+  },
+  "mc26.1.2-0.24.0-fabric": {
+    "versionId": "5vmGhyue",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-09T15:47:43.121477Z",
+    "filename": "lithium-fabric-0.24.0+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5vmGhyue/lithium-fabric-0.24.0%2Bmc26.1.2.jar",
+    "sha512": "05d13f5f429c415a1b85e5561bf2e6efb36c5f6b750daa95aeedf3bbd4d67b842b2329095d4505f6d0bd3ce2b7872cd040c2fb405f9eec764ab66bb8dc0314e1"
+  },
+  "mc26.1.2-0.24.1-fabric": {
+    "versionId": "v2xoRvRP",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-10T17:05:03.467855Z",
+    "filename": "lithium-fabric-0.24.1+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/v2xoRvRP/lithium-fabric-0.24.1%2Bmc26.1.2.jar",
+    "sha512": "8711bc8c6f39be4c8511becb7a68e573ced56777bd691639f2fc62299b35bb4ccd2efe4a39bd9c308084b523be86a5f5c4bf921ab85f7a22bf075d8ea2359621"
+  },
+  "mc26.1.2-0.24.2-fabric": {
+    "versionId": "R7MxYvuW",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-18T20:51:57.906154Z",
+    "filename": "lithium-fabric-0.24.2+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/R7MxYvuW/lithium-fabric-0.24.2%2Bmc26.1.2.jar",
+    "sha512": "9231ad05667d4eef0348c700bf5160929e0b723d9e145fd97c7fcef9387ac2e6d524fb15d99f47f8f838f1d235324fd750cdcb6603b63aab6085d79fbeaab31b"
+  },
+  "mc26.1.2-0.24.3-fabric": {
+    "versionId": "Nt50x0fz",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-28T12:21:13.588132Z",
+    "filename": "lithium-fabric-0.24.3+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Nt50x0fz/lithium-fabric-0.24.3%2Bmc26.1.2.jar",
+    "sha512": "b6f948576b062f83f1b13033c3f1121a3d4add8f8294415f8d283caeb91ca28acc1e19fb021a8807a034ff9875ef0dd9b6054734d552e072336aa060a106044f"
+  },
+  "mc26.1.2-0.24.4-fabric": {
+    "versionId": "rzrH7czY",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-28T22:54:15.710949Z",
+    "filename": "lithium-fabric-0.24.4+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/rzrH7czY/lithium-fabric-0.24.4%2Bmc26.1.2.jar",
+    "sha512": "5d439660968bc06deea62a3b76ce46efa6907c460602d6e6d70fd5078a22f41acbca5d1177ee8f73a354a59ca3981f33ee20dafddffbf41ff0b4bfbfc657b6ca"
+  },
+  "mc26.1.2-0.24.5-fabric": {
+    "versionId": "GiCfpS6V",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-04T14:42:18.905591Z",
+    "filename": "lithium-fabric-0.24.5+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GiCfpS6V/lithium-fabric-0.24.5%2Bmc26.1.2.jar",
+    "sha512": "5c31bd352d904d76be3b97d23d2d48580c7f9116c73fd3e435db5a780162e229e23f2c7e987ee37d7f65ca666cf7f812162627bd2e916ecb09d95803f582ad37"
+  },
+  "mc26.1.2-0.24.6-fabric": {
+    "versionId": "fQBdPR1m",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T20:19:24.538671Z",
+    "filename": "lithium-fabric-0.24.6+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fQBdPR1m/lithium-fabric-0.24.6%2Bmc26.1.2.jar",
+    "sha512": "fac351f5b6150889b9355a01889c35b5798147d4bedb291594a590a2d41909eb8dc494ef0051317bf55886f2fc7fe134abbe2e755098df38473edb2bf43357e9"
+  },
+  "mc26.1.2-0.24.7-fabric": {
+    "versionId": "Oqq8TOAV",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-29T11:40:19.016269Z",
+    "filename": "lithium-fabric-0.24.7+mc26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Oqq8TOAV/lithium-fabric-0.24.7%2Bmc26.1.2.jar",
+    "sha512": "37240bdbf93c19fdc6aa632d89223639f0ef9d923ee1793b33d624946b0482cc972834049ed07d71db3494e16c9de68e755937aac7c4ac5d7291bd38c1425899"
+  },
+  "mc26.2-0.25.0-fabric": {
+    "versionId": "x1OEDMlF",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T20:58:11.618558Z",
+    "filename": "lithium-fabric-0.25.0+mc26.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/x1OEDMlF/lithium-fabric-0.25.0%2Bmc26.2.jar",
+    "sha512": "15027c279850999667cee29510e4491c01d17f121604c51dd9736a5b835dee6303183fdde63637b3dd666de3b28082b1818cacd6a047fee35fced49807b5eacf"
+  },
+  "mc26.2-0.25.1-fabric": {
+    "versionId": "vy3clWg7",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-27T17:13:54.562612Z",
+    "filename": "lithium-fabric-0.25.1+mc26.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/vy3clWg7/lithium-fabric-0.25.1%2Bmc26.2.jar",
+    "sha512": "165320d63464bf45676ff6b4437111e63547ac7f752d7b19a19cdf90083c4c941062ba82dd1dc80ba539a07a97dc08e7db81405fd3ac0998f2a374806d70651a"
+  },
+  "mc26.2-0.25.2-fabric": {
+    "versionId": "UPNexAfy",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-10T23:19:27.551039Z",
+    "filename": "lithium-fabric-0.25.2+mc26.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/UPNexAfy/lithium-fabric-0.25.2%2Bmc26.2.jar",
+    "sha512": "db676376c05b7e912cdae5aad9e51f125adc1554ae2b204599ccb598751921aedbac98e97b9cba0333b6b52488c6b75c915a7dbd50436f97800387fe1aad1c50"
+  },
+  "mc26.2-0.25.3-fabric": {
+    "versionId": "f7vZ0VWU",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-29T12:19:55.348704Z",
+    "filename": "lithium-fabric-0.25.3+mc26.2.jar",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar",
+    "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
+  }
+}

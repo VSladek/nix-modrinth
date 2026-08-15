@@ -1,0 +1,2543 @@
+{
+  "1.16.5-2.10.0-Fabric": {
+    "versionId": "ClS5aGDu",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-15T17:41:33.543305Z",
+    "filename": "FallingTree-Fabric-1.16.5-2.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.10.0-Fabric/FallingTree-Fabric-1.16.5-2.10.0.jar",
+    "sha512": "4840f05eb21ef6ff135678de44b600eabceedb702205652e7c4fcba79a15c33d540dba9dbaab671a4e43a78fb1c21bc76be629c05ad96feee52b8e9b60016aff"
+  },
+  "1.16.5-2.10.1-Fabric": {
+    "versionId": "IvWeyNRf",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-11T17:11:18.912588Z",
+    "filename": "FallingTree-Fabric-1.16.5-2.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.10.1-Fabric/FallingTree-Fabric-1.16.5-2.10.1.jar",
+    "sha512": "33e62cb6e496a34697145aad023b21fb75d26ff34604b0de38bff96008d140f51add58439ea090d06c95817b11326db6b95132053562ac57561ab95566190d09"
+  },
+  "1.16.5-2.10.2-Fabric": {
+    "versionId": "hYRTlWck",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-17T16:57:20.938898Z",
+    "filename": "FallingTree-Fabric-1.16.5-2.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.10.2-Fabric/FallingTree-Fabric-1.16.5-2.10.2.jar",
+    "sha512": "510cbae4ff080d04eaa245a62040428f9d2cb4a727546e6c3ca59d623f7a770a3907b3a226348f6a2774c40a93ee9621fc8b3ceee6a7253d9625317f8b028352"
+  },
+  "1.16.5-2.11.0-Fabric": {
+    "versionId": "frFjp7XE",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-03-24T07:57:39.734927Z",
+    "filename": "FallingTree-Fabric-1.16.5-2.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.0-Fabric/FallingTree-Fabric-1.16.5-2.11.0.jar",
+    "sha512": "6b442747604b7ade616850c6b225f8593c4d7b0903f8e4de0f88c79d6d3b11f6e95bd9da3849550edafe157bc5bdc771daec085bd7cb8b0a83960e658345db35"
+  },
+  "1.16.5-2.11.1": {
+    "versionId": "HhiMtvaB",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2021-04-13T17:14:32.051780Z",
+    "filename": "FallingTree-1.16.5-2.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.1/FallingTree-1.16.5-2.11.1.jar",
+    "sha512": "c28df90b34f214b8452d25e500b4be5f62fa4dad886019c8890e9e7a986437922858131bba8f6f6b1b3f18c0f4b96357e579ca340a138b21679564f4c9e6bfd3"
+  },
+  "1.16.5-2.11.2": {
+    "versionId": "MBqZmh7k",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-04-24T09:06:08.150802Z",
+    "filename": "FallingTree-1.16.5-2.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.2/FallingTree-1.16.5-2.11.2.jar",
+    "sha512": "be4072c02f997125276d1c25bed0fb7d8b71326d1d7ebb159173afafadfced4fc399e3f1f50ae6c67dd60ae61a607557526abfe7375eb3c99f205d12d7753f86"
+  },
+  "1.16.5-2.11.3": {
+    "versionId": "rolL2W5j",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-04-26T12:41:40.945747Z",
+    "filename": "FallingTree-1.16.5-2.11.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.3/FallingTree-1.16.5-2.11.3.jar",
+    "sha512": "2c3b9938a34c71f19efebd570daa53153f281824379bc9d7929492bc48f21985d59de5830ac3e5a1b3ed798bfaac680943bce1599dadcef1438b3609a749ed73"
+  },
+  "1.16.5-2.11.4": {
+    "versionId": "VBOnAt36",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-05-17T20:38:13.928189Z",
+    "filename": "FallingTree-1.16.5-2.11.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.4/FallingTree-1.16.5-2.11.4.jar",
+    "sha512": "0ea98d59f76e108a893f4a6fdb4a480af69e8d04fb7c01ff9bf12b27d3724a5c7ee469f312ad59024407790cfa25160fd008e50a81124f9f52518d400989b2b5"
+  },
+  "1.16.5-2.11.5": {
+    "versionId": "PjU0ylA8",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-12T16:09:29.629265Z",
+    "filename": "FallingTree-1.16.5-2.11.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.16.5-2.11.5/FallingTree-1.16.5-2.11.5.jar",
+    "sha512": "5445056c5844c74cc052006372f4bba64be3f9f979be4ee4031c596ad24cc65355818e176edb0782e75dff1b56aaf660d618b02b6c42d79d6e7314098274f9da"
+  },
+  "1.16.5-2.11.6": {
+    "versionId": "E4f85gRR",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-31T20:27:04.490870Z",
+    "filename": "FallingTree-1.16.5-2.11.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/E4f85gRR/FallingTree-1.16.5-2.11.6.jar",
+    "sha512": "d2182ffed1c9ba3c11dac6ca8983d3029a00bdcc0eb73b82bfb53d18f889ceff653d161ab5de0b9ac8595d0a7efca4aba48991504976a5ce169984d2aa697b7b"
+  },
+  "1.17-2.11.4": {
+    "versionId": "fy6OOm9Q",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-08T17:02:45.245108Z",
+    "filename": "FallingTree-1.17-2.11.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17-2.11.4/FallingTree-1.17-2.11.4.jar",
+    "sha512": "961a631c60bda6e8a4b8e622bc517793a12a11f1f92a1ffa58f422877e967c276115ad41996d84b9ae960e13a6393a3c0d8747e6b82c5ded78c0baa381e7c340"
+  },
+  "1.17-2.11.5": {
+    "versionId": "IjfKe2LK",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-12T16:17:21.297943Z",
+    "filename": "FallingTree-1.17-2.11.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17-2.11.5/FallingTree-1.17-2.11.5.jar",
+    "sha512": "844989b7228ef57b1e0a591fd42d74ea310e939628e5bbbcfd99557e39900af09941a3498f338e5db212c9d624bdcdad2fa4650d922315fd79d6a3c42621c643"
+  },
+  "1.17-2.12.0": {
+    "versionId": "BjxlB5ad",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-24T18:17:36.864359Z",
+    "filename": "FallingTree-1.17-2.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17-2.12.0/FallingTree-1.17-2.12.0.jar",
+    "sha512": "442695821d5b783612196b13b9dd46dbed6f9e96c67dfc7b993a8a561ec667ec304ac8a3ba3e078993dca6435237f28dde78418ce1e5316139f88c24cca07ce1"
+  },
+  "1.17-2.12.1": {
+    "versionId": "nDc9P6UR",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-03T20:50:46.689316Z",
+    "filename": "FallingTree-1.17-2.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17-2.12.1/FallingTree-1.17-2.12.1.jar",
+    "sha512": "f1bd1b2f680d5a8c1cfce28ca5a92dc2171e78c667421044d1ea51fb63836db88df738b5f684585420d3881ab6535861a094353efe7cc6d53a0649fe1b2b678f"
+  },
+  "1.17.1-2.12.1": {
+    "versionId": "T0QtOBLV",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-06T17:12:00.525446Z",
+    "filename": "FallingTree-1.17.1-2.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17.1-2.12.1/FallingTree-1.17.1-2.12.1.jar",
+    "sha512": "d97b4351490a84a6a55d72c58542d5c09eb6a13de5bdfbb5303dbc1bb38bb62babe8c5aa9203eadedcacd9e7371dec5bc46920e57c061e25d2b82c69a6bfdbfd"
+  },
+  "1.17.1-2.12.2": {
+    "versionId": "VlJQWF9M",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-31T17:57:51.956960Z",
+    "filename": "FallingTree-1.17.1-2.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17.1-2.12.2/FallingTree-1.17.1-2.12.2.jar",
+    "sha512": "f5fa5fe6c693c4503cab042a9a91ff1fca0c1750631b433233640d7bfe76ba4925768aa086865166c6994ae88082d7cb82e5c5820b57e8d8835a8e7bc746364a"
+  },
+  "1.17.1-2.12.3": {
+    "versionId": "4FktLQ41",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-08-08T20:41:09.742596Z",
+    "filename": "FallingTree-1.17.1-2.12.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.17.1-2.12.3/FallingTree-1.17.1-2.12.3.jar",
+    "sha512": "1a4d2a5ceef1e60f23337843a6469732f5a0303a3e5c424ed53710b0deea2aaafa7dfc30e913584cedbaedfb47f3b4267613da2d0cf0e5a1dfebf7d33ce9d1d7"
+  },
+  "1.18-2.14.4": {
+    "versionId": "1HEbx8wR",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T17:46:13.158346Z",
+    "filename": "FallingTree-1.18-2.14.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18-2.14.4/FallingTree-1.18-2.14.4.jar",
+    "sha512": "9d5461c493e337f181a922f44f50912d108a803fffa73f7700cf7df1ef37a1addd37bcb40ae7d522fb0f0922e1e79d6001f9a4edc0279d0f3726623738001fe4"
+  },
+  "1.18-2.15.0": {
+    "versionId": "O7EzwYaR",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-01T18:25:54.462517Z",
+    "filename": "FallingTree-1.18-2.15.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18-2.15.0/FallingTree-1.18-2.15.0.jar",
+    "sha512": "0c36019aa75e17bf47676662a95cda388693818924011b75716debf4b5c54b7599700fb467f935b84c7f0a60964964b427ef378c6423111f7ff24d453c1dccce"
+  },
+  "1.18-2.15.1": {
+    "versionId": "K2xDwQMA",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-03T19:25:23.598882Z",
+    "filename": "FallingTree-1.18-2.15.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18-2.15.1/FallingTree-1.18-2.15.1.jar",
+    "sha512": "0e11d04fd4fba88b3962891a1e5833a2c4714eb67b41e1814d089871e3e8a9fceb6e6668d49e099aa9773f918f4a8d1bea467273944767a96fdea7dc16895035"
+  },
+  "1.18-2.15.2": {
+    "versionId": "jHljfMeN",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-04T10:11:15.440792Z",
+    "filename": "FallingTree-1.18-2.15.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18-2.15.2/FallingTree-1.18-2.15.2.jar",
+    "sha512": "6fc8683cb61b1c284ae41c734886f4b4a160045345f9853da40c63ccc65e1e5c40bf5b80d1cfb8cd7d7b7aeb70905a14200dfe93865cce57a078d2c8ad4ff4af"
+  },
+  "1.18-pre2-2.14.3": {
+    "versionId": "XpnXvmmg",
+    "gameVersions": [
+      "1.18-pre2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2021-11-16T21:22:26.749548Z",
+    "filename": "FallingTree-1.18-pre2-2.14.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18-pre2-2.14.3/FallingTree-1.18-pre2-2.14.3.jar",
+    "sha512": "145d12822e944db3b214bb7912ece1061bc7cb3d3ca0f9636848897c5bf9fe609025f51886b8319cb31f802b3515532b33c905c10249db3d4dce613e03b51b43"
+  },
+  "1.18.1-2.16.0": {
+    "versionId": "izrF4sw0",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-12T08:01:54.853820Z",
+    "filename": "FallingTree-1.18.1-2.16.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-2.16.0/FallingTree-1.18.1-2.16.0.jar",
+    "sha512": "5b504d827bf7c64932bcc432d30c2d51c4e15e68807b844d6471d4d836a969d8b8978eef900820f1969739df69c292294fb37aae88c94f13afaab2eeb405256e"
+  },
+  "1.18.1-2.16.1": {
+    "versionId": "pM721YNG",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-17T16:41:48.894608Z",
+    "filename": "FallingTree-1.18.1-2.16.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-2.16.1/FallingTree-1.18.1-2.16.1.jar",
+    "sha512": "8abe00177acc8b9d8fd5be11d14f7b9d95154308b74830754370d9fbebc85f13f699eed34d553c27649afcee1ac80cd3781c9ef663d119d3b739f0a12bdc0b03"
+  },
+  "1.18.1-3.0.0": {
+    "versionId": "48Uga7jj",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-29T21:15:55.486677Z",
+    "filename": "FallingTree-1.18.1-3.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.0.0/FallingTree-1.18.1-3.0.0.jar",
+    "sha512": "25613876fd75ff35f74ae793fee6241e9f73717ecf6aaece8471a4de8ba571964d7b93c3782482f8e97271577199308b3e791e71d1809e7c829168ba768364b7"
+  },
+  "1.18.1-3.0.1": {
+    "versionId": "RhvVV7aI",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-31T09:07:22.252929Z",
+    "filename": "FallingTree-1.18.1-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.0.1/FallingTree-1.18.1-3.0.1.jar",
+    "sha512": "0779fe50d3ac3eee68254873c92ac9057239337a096166f30f64d5d924b8c0689157c757a42ea349b528415f9c98d62be12a916a444c392608f7717163c4c3f6"
+  },
+  "1.18.1-3.1.0": {
+    "versionId": "Ge9TTua8",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-01-12T07:46:51.719237Z",
+    "filename": "FallingTree-1.18.1-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.1.0/FallingTree-1.18.1-3.1.0.jar",
+    "sha512": "569aef994b6721acd794daa9cf51cc41e142406d74182207b8e5de497ebf238b71cc5d633c4a4608e0ad9c22261795cf6d05311318f1f0ee9c536c20f92f7eac"
+  },
+  "1.18.1-3.1.0b1": {
+    "versionId": "Wll71SI1",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-12-31T10:34:04.732149Z",
+    "filename": "FallingTree-1.18.1-3.1.0b1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.1.0b1/FallingTree-1.18.1-3.1.0b1.jar",
+    "sha512": "a9c45813ee7acf6f3daffec9b266d1a4a8e286db63ae0d9afa4e3d886edd961ce9b4f1a1deea12b34860c12d6971c3dbd7da3cc908e0738790647f4c8a91b1fe"
+  },
+  "1.18.1-3.1.0b2": {
+    "versionId": "wm1VgWAh",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-01-02T10:11:07.492487Z",
+    "filename": "FallingTree-1.18.1-3.1.0b2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.1.0b2/FallingTree-1.18.1-3.1.0b2.jar",
+    "sha512": "85be740ba41cd36565866c7f50607086975449e167b8a33977c6cc69a3a5fe1d72368f8f5dfc82b4a5ecaeb9eb86b89a57cb52c8dcd7a741b6bcda5a74ddccce"
+  },
+  "1.18.1-3.2.0": {
+    "versionId": "XzUcHIz2",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-04T13:40:21.590437Z",
+    "filename": "FallingTree-1.18.1-3.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.2.0/FallingTree-1.18.1-3.2.0.jar",
+    "sha512": "f41a83a2ae28ea26b22ae86722b5287db8db006c5dc6f1e5262dc319dc85ba97b272bb6a274327f2fecc8944ab5dcc29bd0dfa4e5bc23a082a73d0e46d4fac96"
+  },
+  "1.18.1-3.2.0b1": {
+    "versionId": "LI0g8wDL",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-01-13T19:22:18.058406Z",
+    "filename": "FallingTree-1.18.1-3.2.0b1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.2.0b1/FallingTree-1.18.1-3.2.0b1.jar",
+    "sha512": "031d272015596d74eccd0a85e12100fd4390529ec539df5a45a2d9605e346a735ead67fef282838ba169b633fa3a25d1b0268ab0b97976aa288ae39a25f96c69"
+  },
+  "1.18.1-3.2.0b2": {
+    "versionId": "UiUNxrl7",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-01-25T16:15:51.603884Z",
+    "filename": "FallingTree-1.18.1-3.2.0b2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.2.0b2/FallingTree-1.18.1-3.2.0b2.jar",
+    "sha512": "1e392f29c4616ee7cb5fea1369e50ad7ce9eac99492f4b254c620166c78590376040e09229ad1fe9af17106e14dabffc7c383468c8c8a97210c62299a5fd0f8a"
+  },
+  "1.18.1-3.2.1": {
+    "versionId": "MNaOu00H",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-07T18:07:52.733531Z",
+    "filename": "FallingTree-1.18.1-3.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.1-3.2.1/FallingTree-1.18.1-3.2.1.jar",
+    "sha512": "80296f12efe288eed0f14832d483da9200113aa610a5f22d61b0d1a3a6116c44abe2087753298bd5edb5bf9ded52af4806c798b5fc3719e1e4c334935b3ee26b"
+  },
+  "1.18.2-3.3.0": {
+    "versionId": "Brv0vjTc",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-28T17:49:38.336046Z",
+    "filename": "FallingTree-1.18.2-3.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.3.0/FallingTree-1.18.2-3.3.0.jar",
+    "sha512": "e0ad4b7ed800400eeb13ab341e1fd5c239aaecbc557e22dfe2c169fb5f1dbfcd8d4e24c9d146b899262cf71a3032ce414da0bd5f4e4acd52c85d61910f060242"
+  },
+  "1.18.2-3.3.1": {
+    "versionId": "GMOPXKvF",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-13T09:27:42.102909Z",
+    "filename": "FallingTree-1.18.2-3.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.3.1/FallingTree-1.18.2-3.3.1.jar",
+    "sha512": "221d3897d25a843a1fcbf73a76f821e598c4e46f88f53b4282b83a4e661dcff2d235902249ea6aca2038e89dd88254e71c51684453091272c72b07c337b30782"
+  },
+  "1.18.2-3.4.0": {
+    "versionId": "CaTPjokz",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-13T20:21:34.510916Z",
+    "filename": "FallingTree-1.18.2-3.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.4.0/FallingTree-1.18.2-3.4.0.jar",
+    "sha512": "70d0edf3f2867aba7d6a87573ca764276051faaf3bcd1de0a88bcf7e7b5fe7275da6379843a71b442c6a3a2edb076eed32e79f7d3f5da8a75d9716287a98b19e"
+  },
+  "1.18.2-3.4.1": {
+    "versionId": "aMFJxIHm",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-21T06:50:11.761955Z",
+    "filename": "FallingTree-1.18.2-3.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.4.1/FallingTree-1.18.2-3.4.1.jar",
+    "sha512": "7d74ff3cc6576eaf0c5e5baab8f4ba2aad1b9882dd9bcca70d5ae57900b8ff5f3922c7bec646afa57557b11b4ce3f2a61c8ffb5a7046dc8622bfc738d3a48183"
+  },
+  "1.18.2-3.4.2": {
+    "versionId": "GS7o9NMO",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-07T09:03:42.059823Z",
+    "filename": "FallingTree-1.18.2-3.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.4.2/FallingTree-1.18.2-3.4.2.jar",
+    "sha512": "88c8469464af53fe737d9d6bdf880e9874cfa394b588d5f014bfc398252b513f500e7de350c17ce33b27f85b5da1b9659c0a2111e99fcc5b181ff0320806b305"
+  },
+  "1.18.2-3.5.0": {
+    "versionId": "2qvQxa1B",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-22T09:00:13.126796Z",
+    "filename": "FallingTree-1.18.2-3.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.5.0/FallingTree-1.18.2-3.5.0.jar",
+    "sha512": "36c242c48bf6b22cbae17e858c9031e439ca33d1c043b7afd33cd51d6c6760a43b3ff3d2f175466ce8e5a24d7d6296717b2e384ad0f8e3abfc44e6704679b154"
+  },
+  "1.18.2-3.5.0b1": {
+    "versionId": "1u6nezii",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-04-08T18:16:10.061720Z",
+    "filename": "FallingTree-1.18.2-3.5.0b1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.5.0b1/FallingTree-1.18.2-3.5.0b1.jar",
+    "sha512": "0bf2ecd5d669e6f1f78af4f3ac83d36f9e41feb1a6147e2a8e86c14c2795c1506c4c6f1fda59956895a303af0f06f7108fdf6cda769221fcb50fbeb8e94a8f41"
+  },
+  "1.18.2-3.5.1": {
+    "versionId": "ivSkiG78",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-05-02T18:38:32.278392Z",
+    "filename": "FallingTree-1.18.2-3.5.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.5.1/FallingTree-1.18.2-3.5.1.jar",
+    "sha512": "97d8ea237eedae1574b31b076e063927a284792c617e81ab743f7c311fc2213c74837c18e176690ed09c13496f4e966b1cfc1fed52dea73e87e2584c39ece416"
+  },
+  "1.18.2-3.5.2": {
+    "versionId": "8XmHwXLO",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-25T08:28:07.398324Z",
+    "filename": "FallingTree-1.18.2-3.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.5.2/FallingTree-1.18.2-3.5.2.jar",
+    "sha512": "bc47f9ce31c5d77c1942fb00098ec3a660150df1dec41eea386ce3bf64b7bea6ebd038e0d8b2c3d917bbc104a7746cbc4b81be02a6ca3173530af81b748cc3d4"
+  },
+  "1.18.2-3.5.3": {
+    "versionId": "9K3tdqQy",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-02T08:00:47.430378Z",
+    "filename": "FallingTree-1.18.2-3.5.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-3.5.3/FallingTree-1.18.2-3.5.3.jar",
+    "sha512": "7cf2654519ab91cd9a8aa0407f00c5bce275d400772d2ffed0bf816aa8ec239692915a98a4b6ce7593c257959676d1bbc72264562e35fa924bead05667b842f6"
+  },
+  "1.18.2-3.5.4": {
+    "versionId": "5DSiBB1r",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-09T17:10:03.718400Z",
+    "filename": "FallingTree-1.18.2-3.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/5DSiBB1r/FallingTree-1.18.2-3.5.4.jar",
+    "sha512": "3bd4d332a4d176b9cf0cd299eb2f782ccbc73234a7e63114b17aeaeac70fe358b3473d0ebe3041fce3ab6943953e924a05a885c459861a36072f6326232f37a5"
+  },
+  "1.18.2-pre3-3.3.0b3": {
+    "versionId": "hnXlvYfp",
+    "gameVersions": [
+      "1.18.2-pre3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-02-25T12:47:52.392655Z",
+    "filename": "FallingTree-1.18.2-pre3-3.3.0b3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.18.2-pre3-3.3.0b3/FallingTree-1.18.2-pre3-3.3.0b3.jar",
+    "sha512": "9eb856bd89c05aec7f07d24910d72174dda62dd3d41b5319a29aa91254b0fdc307c961f07ab4ea92fe0943a0f41e437f69bb5ff44c935d8a5c04ed11a10a6cd6"
+  },
+  "1.19-3.6.0": {
+    "versionId": "zv2J7DYl",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-07T16:46:02.004705Z",
+    "filename": "FallingTree-1.19-3.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.6.0/FallingTree-1.19-3.6.0.jar",
+    "sha512": "d981f559e34c67816d7517b5317c8b26499fac3e369f7b8b301513311c6ce5541f79856c7a50ac730fa76d7cd1cda369f8556c9bee8bbdc38ee07dfe51ae8154"
+  },
+  "1.19-3.6.1": {
+    "versionId": "1nneGSqI",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-09T17:20:18.698101Z",
+    "filename": "FallingTree-1.19-3.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.6.1/FallingTree-1.19-3.6.1.jar",
+    "sha512": "d4892d3fcf2f03a253de29cc271e906b023f57aebf3c03644cc04887a38e978f167ca1abeb823c6241c5c09d0c417b742b10f803ecfe659e12000b255026bdcf"
+  },
+  "1.19-3.6.2": {
+    "versionId": "mKpQdYKO",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-22T12:52:51.816258Z",
+    "filename": "FallingTree-1.19-3.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.6.2/FallingTree-1.19-3.6.2.jar",
+    "sha512": "1e7ca17ed2e88a5050328cb18b958282c6157d0a0d85b6c849e868eaecbe910baae387729febd8c82370ec0e750f3324ae736b0767ff224b81fe278c988b2bc9"
+  },
+  "1.19-3.6.3": {
+    "versionId": "LoJuqMMZ",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-25T08:43:16.731698Z",
+    "filename": "FallingTree-1.19-3.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.6.3/FallingTree-1.19-3.6.3.jar",
+    "sha512": "d3f3eb943881e270849d7630bddb394d49f66ec833a79b84665534a84333a67f87b6e3bd70576737243af072a499291d21d0a81c12c6b3ff93e46b7e3f0b7d36"
+  },
+  "1.19-3.6.4": {
+    "versionId": "YMLyKqOj",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-02T08:52:08.330565Z",
+    "filename": "FallingTree-1.19-3.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.6.4/FallingTree-1.19-3.6.4.jar",
+    "sha512": "326fbb8814d6d7591345634f1d647ef4041cf71d6cfb98156a36b86ea872f16725838045e3d5d9095a8158afdd64ff1a43767e45211237a32c66f189b397d82c"
+  },
+  "1.19-3.7.0": {
+    "versionId": "3sdO7qgf",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-08T18:45:37.254890Z",
+    "filename": "FallingTree-1.19-3.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.0/FallingTree-1.19-3.7.0.jar",
+    "sha512": "683957d9bea24fa95afed7fc225087cd70ca3b379c4b973f40753d60f776211ab721ba44dc462fab13b5e53273a1b36d4b9090922793befd394531d5648915b4"
+  },
+  "1.19-3.7.0b1": {
+    "versionId": "k2geZqGH",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-03T13:28:43.421337Z",
+    "filename": "FallingTree-1.19-3.7.0b1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.0b1/FallingTree-1.19-3.7.0b1.jar",
+    "sha512": "fd49e7af86393fbc564d2145c05bfd590ce4f9fe23fa2a2aa89aaa81f3cb4a2896c056d9d9ce471f9ea98054cac7011518aaf87cb2ee5c15ea7a28fbc18f9fbf"
+  },
+  "1.19-3.7.1": {
+    "versionId": "YlfhOTW2",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-10T07:25:54.218791Z",
+    "filename": "FallingTree-1.19-3.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.1/FallingTree-1.19-3.7.1.jar",
+    "sha512": "d048c5ea2a98b5dac9a9556bc3a151bfb50818d0dd5c4acbeebcc71cff0c38c803c5f37d087dd77c26a5bc476abc2d1dd14e1a138511c5d6c14f1f1ba2d82f66"
+  },
+  "1.19-3.7.2": {
+    "versionId": "iAX7H9LQ",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-12T17:07:03.568973Z",
+    "filename": "FallingTree-1.19-3.7.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.2/FallingTree-1.19-3.7.2.jar",
+    "sha512": "b566d6be4b9bec9e2a66d7321df8ad2e89e99ffd873ec57614b042c1e6c718602277eaea6af0252cb12fd89a8196036c51df218503cd78f9666850c849c12442"
+  },
+  "1.19-3.7.3": {
+    "versionId": "LTbIi2M1",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-13T18:53:57.923249Z",
+    "filename": "FallingTree-1.19-3.7.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.3/FallingTree-1.19-3.7.3.jar",
+    "sha512": "f29363a12df6a525d0bf909f44bf5751e4837998ffb3cc8819c10bb9d80502a4493bdd7c292c072c43b44324257a4c2908e29d20081bac54f281043a6325c189"
+  },
+  "1.19-3.7.4": {
+    "versionId": "kgBh4dSx",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-15T19:00:55.053248Z",
+    "filename": "FallingTree-1.19-3.7.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-3.7.4/FallingTree-1.19-3.7.4.jar",
+    "sha512": "d1196e1280e9563d346cda1cf13e41b1dd385c0d54b68ab9df9f6aff55c36fe66e9ab1f1c3619c9bccd37068543198bf4ac2b09bb6d02169e1a0c1be49310688"
+  },
+  "1.19-pre5-3.6.0a7": {
+    "versionId": "8GR9mmKD",
+    "gameVersions": [
+      "1.19-pre5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-06-02T11:40:41.364656Z",
+    "filename": "FallingTree-1.19-pre5-3.6.0a7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19-pre5-3.6.0a7/FallingTree-1.19-pre5-3.6.0a7.jar",
+    "sha512": "7a7694a8abe9845636bf136ff24137af6aa1db309c88dd1cd10a91d7f4902abbc9c31ea4d36bd483eb4ffa1df7e6a5433fa73eb3e6d8d784aa7f591987ee39d4"
+  },
+  "1.19.1-3.8.0": {
+    "versionId": "bQrEMzOP",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-27T18:48:07.213870Z",
+    "filename": "FallingTree-1.19.1-3.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19.1-3.8.0/FallingTree-1.19.1-3.8.0.jar",
+    "sha512": "2e41c3e4b490ff69c22069de14387bd8e263a83b77ecbca9ed8f44774fe27d3f2ddc983943f0d3e7c4fc5f548678d84ea5c971a911cae4d1ffc4a25036bdc7a2"
+  },
+  "1.19.1-3.8.1": {
+    "versionId": "KRs7tr5H",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-28T19:10:02.843172Z",
+    "filename": "FallingTree-1.19.1-3.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19.1-3.8.1/FallingTree-1.19.1-3.8.1.jar",
+    "sha512": "2cdbcea225b9a6d063f3a06bb98e61e71292885b46015db78bbee3f51bbea72864dfdca3a4d0c524fb170c0c44779141c22e97fae2e253efd748fd85b8b49715"
+  },
+  "1.19.2-3.10.0": {
+    "versionId": "9kSv8gsK",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-04T15:21:27.763746Z",
+    "filename": "FallingTree-1.19.2-3.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/9kSv8gsK/FallingTree-1.19.2-3.10.0.jar",
+    "sha512": "47c0a1ae0bafcc4128299e1551acab9badd3caef70fe2127f133ec95b51d38edc12c2bfca649eda5bcc6f0505c0655b7b26c2f7e2d6b4daf49ec220d109fc917"
+  },
+  "1.19.2-3.10.1": {
+    "versionId": "BdqBwLsv",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T15:52:16.586129Z",
+    "filename": "FallingTree-1.19.2-3.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/BdqBwLsv/FallingTree-1.19.2-3.10.1.jar",
+    "sha512": "aa1a8d03bed0f43fc2ab3b9a1d6312e8b10223860ca13d59934fc76a4a1af667654e1bff5f648af92cc1334ad203fc6ba0241e434730d91f44f5a1a0b37e663e"
+  },
+  "1.19.2-3.9.0": {
+    "versionId": "dj8wmIBS",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-05T16:38:14.197602Z",
+    "filename": "FallingTree-1.19.2-3.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19.2-3.9.0/FallingTree-1.19.2-3.9.0.jar",
+    "sha512": "e4d3211b88fe24f834c02627123d5b39edeb4fda08158e22cf4ef56518ab6ed337a029646b2bab4fb60d5f5402749b868b6f1588dd5c4f1b95781b0b63418b7c"
+  },
+  "1.19.2-3.9.1": {
+    "versionId": "PgS4RtQX",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-06T06:56:33.503406Z",
+    "filename": "FallingTree-1.19.2-3.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19.2-3.9.1/FallingTree-1.19.2-3.9.1.jar",
+    "sha512": "01088a0412a88d3c70719935b0151e563463d61efa68bee8a953c8f840218c51aa9d5b6769d0b2e4128aa31c0ca35e3b774e17b65f4f0d621c681142c1a8f942"
+  },
+  "1.19.2-3.9.2": {
+    "versionId": "Rcuv9i9M",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-13T07:59:55.474716Z",
+    "filename": "FallingTree-1.19.2-3.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1.19.2-3.9.2/FallingTree-1.19.2-3.9.2.jar",
+    "sha512": "1d0193bec06f591a414bdbdcf3064277763ce6046bcb8e794e728a972ef9cbe1979eaeec71c85c9a0a0c7d084378e0625101dd0e1f3f0faf2630c66651b0c6c6"
+  },
+  "1.19.3-3.11.0": {
+    "versionId": "TIoBK1U1",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-07T17:15:51.355401Z",
+    "filename": "FallingTree-1.19.3-3.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/TIoBK1U1/FallingTree-1.19.3-3.11.0.jar",
+    "sha512": "b74077f0ffe0f8c356b4753b955da5cf1486a7ba1ef2ca7d1b653820e920b7c1bf1698a82d1a5179575e86907203288dc171cb4cd465bd75891031a4fc83ba23"
+  },
+  "1.19.3-3.11.1": {
+    "versionId": "2TNwaTtm",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-08T18:00:45.683710Z",
+    "filename": "FallingTree-1.19.3-3.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2TNwaTtm/FallingTree-1.19.3-3.11.1.jar",
+    "sha512": "cec412b8b3596e9baa2af63e2a5ebbbe8a6d49eb0a0f40e6dd8fdf755aefea3028e7f7d4a1f1b5f4aaf9505b8ed6e6d15ce82d18d985123611ffd4502319946a"
+  },
+  "1.19.3-3.11.2": {
+    "versionId": "cMkbt0f5",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-30T21:02:01.510380Z",
+    "filename": "FallingTree-1.19.3-3.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/cMkbt0f5/FallingTree-1.19.3-3.11.2.jar",
+    "sha512": "411c6cc08dc335c9945775740a74f4c9792ac5c2ee3547626a6f32f5cdd39f63fee2dda1eca54d3c4ea96c19c3ebfd11cfb1763576f5475106d0132504d2bc79"
+  },
+  "1.19.4-3.12.0": {
+    "versionId": "NveCqCkX",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-14T16:53:53.638149Z",
+    "filename": "FallingTree-1.19.4-3.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NveCqCkX/FallingTree-1.19.4-3.12.0.jar",
+    "sha512": "1d386a9f957d3dea771a58bbc9c3f3a5c7be1b59591fcc6e2d71367ffefb551a84a1f3655951713376ab0d8f3aa0f7c0c1cc3cb2bb73665b2ea0fbeef2675bcd"
+  },
+  "1.19.4-3.12.1": {
+    "versionId": "BQ6i1U5X",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-16T17:31:49.728960Z",
+    "filename": "FallingTree-1.19.4-3.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/BQ6i1U5X/FallingTree-1.19.4-3.12.1.jar",
+    "sha512": "b77fd35badb8850368f49dfe822ee5ea9870cb837f171adb584d344484f832a6006bc6d4e00a1709b03b3ee25c82a131d10c77534779ceb72da7fa4359caca99"
+  },
+  "1.19.4-3.12.2": {
+    "versionId": "iszfrsgL",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-22T07:10:22.661190Z",
+    "filename": "FallingTree-1.19.4-3.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/iszfrsgL/FallingTree-1.19.4-3.12.2.jar",
+    "sha512": "81cd3105a772e3b4733edb7d02f1a88ae2e53fb063c80b388b624a33132b40cba86251f88ed2297dc7856b4fd9dbd480c3304343e1a94d08af9724980b4e4640"
+  },
+  "1.20-4.0.0": {
+    "versionId": "P55fppyL",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-08T16:35:00.069344Z",
+    "filename": "FallingTree-1.20-4.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/P55fppyL/FallingTree-1.20-4.0.0.jar",
+    "sha512": "0c08c8a28390ff935c7aa09bffc5e421f067ed5628b488b63fd9fe0f7d2b3847887502297c2755e094fd6af807357153951680478f7bf8c7fd7489c8bf04ff59"
+  },
+  "1.20.1-4.1.0": {
+    "versionId": "XrkGy9Ky",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-12T17:57:36.901020Z",
+    "filename": "FallingTree-1.20.1-4.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/XrkGy9Ky/FallingTree-1.20.1-4.1.0.jar",
+    "sha512": "4ce86b25e03f0575809e60e422f9da69a455a7be6aab6d3ea847e096d4710f89f3e6cb9a57977529795452ae0651f81b972dd9d693444d479fee10b13a174781"
+  },
+  "1.20.1-4.1.1": {
+    "versionId": "reXqEJgT",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-13T11:43:57.293440Z",
+    "filename": "FallingTree-1.20.1-4.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/reXqEJgT/FallingTree-1.20.1-4.1.1.jar",
+    "sha512": "a30b5afdbccb12bd3b2f11bf54ac141448a9320fa1cc2b5318d270b7000a9a945cd9a43fd347543e3e9848ed4683cabcc4ddb3a6212205cd194e2120ea48d81a"
+  },
+  "1.20.1-4.2.0": {
+    "versionId": "yRWIgpnS",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-03T19:09:02.538258Z",
+    "filename": "FallingTree-1.20.1-4.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/yRWIgpnS/FallingTree-1.20.1-4.2.0.jar",
+    "sha512": "2c6374f93df8a9dde9f5a862056d9c816588cf537b1155f6cdb88fd65d6c2f143943d14fcde970498d42af5b1bb19c3bfd26b06aead62b0fe29fb27a5dcadefa"
+  },
+  "1.20.1-4.2.1": {
+    "versionId": "66mp0b9v",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-20T17:49:36.598389Z",
+    "filename": "FallingTree-1.20.1-4.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/66mp0b9v/FallingTree-1.20.1-4.2.1.jar",
+    "sha512": "7e816e64293c5cf35911ddd2f606b681bada8c4f5b42341a2b3780c2a6e89c170bfd82b3830d8341a8a78b64fcfbdfa1c8dfc73b20571c7a5e8b5fc54ebaee7a"
+  },
+  "1.20.1-4.2.2": {
+    "versionId": "oXRivlMX",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-21T16:49:22.899946Z",
+    "filename": "FallingTree-1.20.1-4.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/oXRivlMX/FallingTree-1.20.1-4.2.2.jar",
+    "sha512": "a7259a767f9b0bc543b324bf284fdbdba953e561f540fa8bb1af53823c9b6843778fcd0aecaddce3e5060883fc9549ce188fee6cf1b72806b34768c3098e011f"
+  },
+  "1.20.1-4.2.3": {
+    "versionId": "6KJqXkV0",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-23T21:06:35.642773Z",
+    "filename": "FallingTree-1.20.1-4.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/6KJqXkV0/FallingTree-1.20.1-4.2.3.jar",
+    "sha512": "e2c4d0bc51ecafe635fc7e1de11288ca91c69579921544446a024f4be14d5fb37dc692aeae6ce067341892665e6b0e062a1f8367cd3171cb7b3e6f0e1e90d722"
+  },
+  "1.20.1-4.2.4": {
+    "versionId": "frsJrlLk",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-29T09:37:51.440194Z",
+    "filename": "FallingTree-1.20.1-4.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/frsJrlLk/FallingTree-1.20.1-4.2.4.jar",
+    "sha512": "9f780124a7f2c045459ed51f703a107dbe45ed3f8b4ef76965a7c5ccc49e7538ac0711a587bb4a3c8cbc58040d4caf1ae9e109cc893bc72013055a61d06ebd2f"
+  },
+  "1.20.1-4.3.0": {
+    "versionId": "kPSbFSaC",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-08-05T08:49:42.765Z",
+    "filename": "FallingTree-1.20.1-4.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/kPSbFSaC/FallingTree-1.20.1-4.3.0.jar",
+    "sha512": "4208a7dbe3c11c01ad38ec3ac314fe343daca4941324513c65e3cdf87d50b759c8b47405f1903b50628440af22751bb4e45c8d9ed2dd51b1ac2a9837d32eaaba"
+  },
+  "1.20.1-4.3.1": {
+    "versionId": "tOzqGtqB",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T16:32:00.483907Z",
+    "filename": "FallingTree-1.20.1-4.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/tOzqGtqB/FallingTree-1.20.1-4.3.1.jar",
+    "sha512": "2cd528dd43b6733a8b8d9994e8221e4f43897a53ba507c199e7375a7d541231f463dc3a67a4f19d100b486eed9cc2f5033153af396b2269c4898c09a6387139e"
+  },
+  "1.20.1-4.3.2": {
+    "versionId": "akjkv5e2",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T17:30:21.678805Z",
+    "filename": "FallingTree-1.20.1-4.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/akjkv5e2/FallingTree-1.20.1-4.3.2.jar",
+    "sha512": "05efc25b362f3bbf12548eb658000cf627d50bcaab5914a1bb617a6b73b65f4e377beb64477d40b4ed8f61f6cc52351698c4e9a1e0e39a7bb83d348203f874da"
+  },
+  "1.20.1-4.3.3": {
+    "versionId": "yr3p0Npt",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-15T21:51:56.596591Z",
+    "filename": "FallingTree-1.20.1-4.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/yr3p0Npt/FallingTree-1.20.1-4.3.3.jar",
+    "sha512": "d944e15170d9ae4584dd20e6ac05e34ffefc8441105bdc2fba9a2c367635d195bc5f4692a4adab7c06c71df30676301b160f79acbf6a17ae11ac62ab4ad8697e"
+  },
+  "1.20.1-4.3.4": {
+    "versionId": "NrtzFkZE",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-05T20:31:19.975883Z",
+    "filename": "FallingTree-1.20.1-4.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar",
+    "sha512": "487cd36886cb791a3f252c90818d5c1cedeec5080a7f874b0bfafff328c8fcc9b2acee03fe40f8397355e8a2a092d2f34cb40671c786c0d9d035728c971d4e9c"
+  },
+  "1.20.2-5.0.1": {
+    "versionId": "BJ2K7C0J",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-06T16:38:17.675203Z",
+    "filename": "FallingTree-1.20.2-5.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/BJ2K7C0J/FallingTree-1.20.2-5.0.1.jar",
+    "sha512": "4dca307c0738695fc3d5ca4c535791800cd81758516df635de71d58ab3e7e09f0dc8240557194013e3b4c361f056ff3f54710bff4e790850e196911e27b3a2ae"
+  },
+  "1.20.2-5.0.2": {
+    "versionId": "HojA8R8T",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-16T18:13:00.293940Z",
+    "filename": "FallingTree-1.20.2-5.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/HojA8R8T/FallingTree-1.20.2-5.0.2.jar",
+    "sha512": "cee780d45db25d5cdffad46399abc5af4cee0ba8c660d9db43f9f8e6b5bfec8464b7c57788b671d6bbd3a68ddfec89256b776b955bf35b73e5f06ed0c0edf8f8"
+  },
+  "1.20.2-5.0.3": {
+    "versionId": "7PRbBpzE",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T16:37:06.190057Z",
+    "filename": "FallingTree-1.20.2-5.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/7PRbBpzE/FallingTree-1.20.2-5.0.3.jar",
+    "sha512": "ab50d05fe594825ed1b95313c2a41606f444355384dee6de1db6d78440ca3ff7e11156f769cb7db57848f2b9fbab7f35e73d47ad069cf9ec33cdf1b2b80064fc"
+  },
+  "1.20.2-5.0.4": {
+    "versionId": "Ua1F3TBl",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T17:35:24.343245Z",
+    "filename": "FallingTree-1.20.2-5.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Ua1F3TBl/FallingTree-1.20.2-5.0.4.jar",
+    "sha512": "d309b954fbf11c70a30cf89c663d3e99192f134b81fd14c6969b58e7e8b23616ab80c306cf5f7921e5d7cc043e9b64e8a66ebe4589e28ee46640334698a58bd6"
+  },
+  "1.20.2-5.0.5": {
+    "versionId": "HnH1cLYq",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-15T22:00:54.343709Z",
+    "filename": "FallingTree-1.20.2-5.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/HnH1cLYq/FallingTree-1.20.2-5.0.5.jar",
+    "sha512": "e5041df44be2aab3ba7fc54fc6f9c242bd2d7e1bf6d1a8305a222546bf654d28efda99e948b110d7a856f99cad05eb3246ee40dbd4aa9db43aea91260c038e2b"
+  },
+  "1.20.2-5.0.6": {
+    "versionId": "BaMypQ7l",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-05T20:40:21.400587Z",
+    "filename": "FallingTree-1.20.2-5.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/BaMypQ7l/FallingTree-1.20.2-5.0.6.jar",
+    "sha512": "f6ff1073281301aef831b7fe8be5396423be418aa397576f8d972b40907557da43ef465d57a60a5ad85e309cb81956a9afe0c6cd635b0902df1f997a27dd7f3e"
+  },
+  "1.20.3-1.20.3.1": {
+    "versionId": "H9oeRV3c",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-05T20:01:21.393219Z",
+    "filename": "FallingTree-1.20.3-1.20.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/H9oeRV3c/FallingTree-1.20.3-1.20.3.1.jar",
+    "sha512": "2fa57b0e9af50d2009fa9aea54d165c7d5c8910771adc889f613f24599c5724eb83606d66d51a1a9ed1dc00b8dcbc4826672c9b6924bd67370687e2bb3fb9edf"
+  },
+  "1.20.3-1.20.3.2": {
+    "versionId": "t9r6pZcy",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-08T19:51:32.733626Z",
+    "filename": "FallingTree-1.20.3-1.20.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/t9r6pZcy/FallingTree-1.20.3-1.20.3.2.jar",
+    "sha512": "44c60351d6c5a84832a716221f80f98200d80912efc448fd54f35be0f04cddb4795add0c89325fc101f565e8c3f6349b01ede1dc485699692b6c8e360dc2d3df"
+  },
+  "1.20.3-1.20.3.3": {
+    "versionId": "2u9Dpwhc",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-15T22:07:09.370152Z",
+    "filename": "FallingTree-1.20.3-1.20.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2u9Dpwhc/FallingTree-1.20.3-1.20.3.3.jar",
+    "sha512": "c0b37199b69764094a5aad6ff8f3cff4c7351fcd860ba82d818921ba6d35d63c3d1d3ca08cd7045ca1f7a30aa3329a3bf47ccbbcde60db27fe99a291461beadb"
+  },
+  "1.20.3-1.20.3.4": {
+    "versionId": "nZoL7IuF",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-05T22:01:44.335655Z",
+    "filename": "FallingTree-1.20.3-1.20.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/nZoL7IuF/FallingTree-1.20.3-1.20.3.4.jar",
+    "sha512": "d68e5b20211d4e568fc9045f68e672b2d6f30746a3e96368f6566ddcd717c7203d805fd34b87e36652301fec05d38cbdc533ea2d728dacb86d7f71c5ba56ec60"
+  },
+  "1.20.4-1.20.4.1": {
+    "versionId": "snIN7mL9",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-08T20:03:48.310389Z",
+    "filename": "FallingTree-1.20.4-1.20.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/snIN7mL9/FallingTree-1.20.4-1.20.4.1.jar",
+    "sha512": "b2e901cd4f894603630fac17b3d7c5b75759d1ee2e3469327461732ab75342680b8bce69e8ad91ccdd2556e9aea2df9eaf7f3270d07e8b82b28c7f2de445432c"
+  },
+  "1.20.4-1.20.4.2": {
+    "versionId": "Gkt6UcDh",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-15T22:12:58.111456Z",
+    "filename": "FallingTree-1.20.4-1.20.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Gkt6UcDh/FallingTree-1.20.4-1.20.4.2.jar",
+    "sha512": "e97d6475291e1832b3fc4428bfa4f165a09e7fc617e0ac611bf1d4bbfe5c52742029744291801ae2f0681a16d9d60ed46e7f350618ed8fc03e3ad3e15791ae8f"
+  },
+  "1.20.4-1.20.4.3": {
+    "versionId": "mb15RrXi",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-05T22:12:27.623798Z",
+    "filename": "FallingTree-1.20.4-1.20.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/mb15RrXi/FallingTree-1.20.4-1.20.4.3.jar",
+    "sha512": "ac55e89111aaeabe4b7919e962bf3c31fb3632ab23a4fc18206f441228fc4ccdc1d95716c8fee46cd4d6c3f915515ef44271ea05dcb9509e6ed4c0525f79267e"
+  },
+  "1.20.5-1.20.5.0": {
+    "versionId": "2yoOOkuy",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T13:14:29.243265Z",
+    "filename": "FallingTree-1.20.5-1.20.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2yoOOkuy/FallingTree-1.20.5-1.20.5.0.jar",
+    "sha512": "6e393bd1d679d29a414568e9f6d5d2a8dad963964c8ee1924f727afcfeb437df81c886ac2adc0fa3c257f1b556c98d1801e4367f89165a5e23872475fe32c71f"
+  },
+  "1.20.6-1.20.6.0": {
+    "versionId": "eEwiTLCR",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-30T08:10:47.836039Z",
+    "filename": "FallingTree-1.20.6-1.20.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/eEwiTLCR/FallingTree-1.20.6-1.20.6.0.jar",
+    "sha512": "fbddbeeb9e1a9f8019724ba3b4a9b03fda3c44a4d52047862ee99a5322137f422c5b89980c32e9a92b18466e909d7f4fb2fd3b447344641498bdb4f348e84ca9"
+  },
+  "1.20.6-1.20.6.1": {
+    "versionId": "1KVSR1de",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-30T16:07:32.783379Z",
+    "filename": "FallingTree-1.20.6-1.20.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1KVSR1de/FallingTree-1.20.6-1.20.6.1.jar",
+    "sha512": "c53b16807268f6934fa0a58293696c276359eb8489dee796d611c26a253a8002e87ac04e4e8f6b19c174f4fd2e0054fa3b167d59ba527130b59ea94fda4c6531"
+  },
+  "1.20.6-1.20.6.2": {
+    "versionId": "twGJKI2m",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-02T19:44:20.655114Z",
+    "filename": "FallingTree-1.20.6-1.20.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/twGJKI2m/FallingTree-1.20.6-1.20.6.2.jar",
+    "sha512": "c3ecddc6c202ec6b745b6cbf6545c58a6792bd8edf2487a87fb2524300a31538d019b997aba172eb061f2c6e7b95f82dc74b7040fda92fd60ad4901bf6a3bb1d"
+  },
+  "1.20.6-1.20.6.3": {
+    "versionId": "l93ivqBS",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-03T09:17:43.759979Z",
+    "filename": "FallingTree-1.20.6-1.20.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/l93ivqBS/FallingTree-1.20.6-1.20.6.3.jar",
+    "sha512": "5284a6e45d1b749ee56026b6ca64f61f3cbc98f926b85fb9dd270432d50fe43aa46cc8e491615c2ce4d4260a6eb9957f8c4626de0bc6d145f8c6ee0ad40147f2"
+  },
+  "1.20.6-1.20.6.4": {
+    "versionId": "WBPlgiIE",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-09T06:40:41.636171Z",
+    "filename": "FallingTree-1.20.6-1.20.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/WBPlgiIE/FallingTree-1.20.6-1.20.6.4.jar",
+    "sha512": "e448eace59c0d7bf59930a4172bc9e75025a2386e43a91a82112dd1e2aa1a886f7909b2685d06b26818629f36d566746d0973a499d7b098b42255319652c5b01"
+  },
+  "1.20.6-1.20.6.5": {
+    "versionId": "QpKTY6aW",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-14T10:04:08.097182Z",
+    "filename": "FallingTree-1.20.6-1.20.6.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/QpKTY6aW/FallingTree-1.20.6-1.20.6.5.jar",
+    "sha512": "e0c7e793cb4a04050446cf279ea1f30a564f7051012135730b5fa26dac12b5d8a2b6bb64134a4539acc26ee4621524fd4eb14a0ce20941f8b8786efae6b256aa"
+  },
+  "1.20.6-1.20.6.6": {
+    "versionId": "oHSfaH3b",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-25T17:30:02.598295Z",
+    "filename": "FallingTree-1.20.6-1.20.6.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/oHSfaH3b/FallingTree-1.20.6-1.20.6.6.jar",
+    "sha512": "2069343ffd9411a0bd064d07a6d30d734b5701e502da945ca35d202daa72a03511a02a6e7a5e119cdcec6d6db0635b37d933baf0dfd005caf524f5c69f6c92dd"
+  },
+  "1.20.6-1.20.6.7": {
+    "versionId": "QIna9i7h",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-14T17:23:22.471652Z",
+    "filename": "FallingTree-1.20.6-1.20.6.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/QIna9i7h/FallingTree-1.20.6-1.20.6.7.jar",
+    "sha512": "d60035ae2a4bb023a2d36e218eff78b03e83c337db408c4a584de3c5576f6c7fc31a771869edeb8b472eb712638a096b6b626e4320ca23993b42def140984959"
+  },
+  "1.20.6-1.20.6.8": {
+    "versionId": "ud1kXOTm",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-01T10:07:08.475610Z",
+    "filename": "FallingTree-1.20.6-1.20.6.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ud1kXOTm/FallingTree-1.20.6-1.20.6.8.jar",
+    "sha512": "340b9d09cf84a00e43947adeac83d9ce203ee46e392963137ac66ae3a696307a82dd2294a82142c1bbf3e24729c68329cfc980ce186ce63ec43e6ec01678c437"
+  },
+  "1.21-1.21.0.1": {
+    "versionId": "2N0TfdG9",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-15T20:19:02.342165Z",
+    "filename": "FallingTree-1.21-1.21.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2N0TfdG9/FallingTree-1.21-1.21.0.1.jar",
+    "sha512": "55515e719ad1d5e976173bec8bff6ca4e53a6ffa30276ff07ec24275ea6c44fcf391f5432682e9086bbc8890b01fca4281c5c71a36c021257e3bad1f40f62819"
+  },
+  "1.21-1.21.0.2": {
+    "versionId": "kLEJADsa",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-19T19:48:21.539748Z",
+    "filename": "FallingTree-1.21-1.21.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/kLEJADsa/FallingTree-1.21-1.21.0.2.jar",
+    "sha512": "4dcd3ab08ec217b1b55b85d65d5da75426c6233991edce3b003a9455795bc6a08f7d61b5036f1b588c6f52f9537367efd4d2961209ae4e4bc04a1098bed27760"
+  },
+  "1.21-1.21.0.3": {
+    "versionId": "cFiOvvih",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-29T09:32:03.857675Z",
+    "filename": "FallingTree-1.21-1.21.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/cFiOvvih/FallingTree-1.21-1.21.0.3.jar",
+    "sha512": "43d04448b88c26995138cd8287b168ed7e370eecc74585a67bc9dd3a1d1a14243ce524555c5f14b05b2712ce1cc9a0398be1cda4f6cb966664d94f9200075668"
+  },
+  "1.21-1.21.0.4": {
+    "versionId": "mSIK8OOH",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-29T09:52:37.499777Z",
+    "filename": "FallingTree-1.21-1.21.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/mSIK8OOH/FallingTree-1.21-1.21.0.4.jar",
+    "sha512": "a8b652e62caf847da57d74ad47236b17f53630c9f7a88dc93af924da572df8388fd9c785f35f79163a67355cf03d63e280e139afd8b3aff6924344390476ecc9"
+  },
+  "1.21-1.21.0.5": {
+    "versionId": "7x1mqvWh",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-29T13:50:01.994800Z",
+    "filename": "FallingTree-1.21-1.21.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/7x1mqvWh/FallingTree-1.21-1.21.0.5.jar",
+    "sha512": "b98f518e6e6964193e73b230b633b45208b0c6bb01858985d6ac12ebf1a933527b04fd356baf244da87ebc829b8418073d0a5aaf5a5ba2009a3a719059a694bd"
+  },
+  "1.21-1.21.0.6": {
+    "versionId": "CfGRP162",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-08T16:18:17.312136Z",
+    "filename": "FallingTree-1.21-1.21.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/CfGRP162/FallingTree-1.21-1.21.0.6.jar",
+    "sha512": "57888824357b54a3defcaa05a6107d451bdbaaaa28166c7273baf991d12bb6182913233830640458d44cf7f2de4a166c5dbbef2f9cc3a5a26c50d08f634301b0"
+  },
+  "1.21-1.21.0.7": {
+    "versionId": "uni2ZHB8",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-05T18:25:11.435408Z",
+    "filename": "FallingTree-1.21-1.21.0.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/uni2ZHB8/FallingTree-1.21-1.21.0.7.jar",
+    "sha512": "43823be2a6e84e8693ef0a3f322cbc72e35b018dec031688bcdda980dc7aa9e3462a324724646ab7f4820e1594df0300551846ebe946cc4d2c0c119c3af5727a"
+  },
+  "1.21-1.21.0.8": {
+    "versionId": "9n1NLElA",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-15T10:43:04.457106Z",
+    "filename": "FallingTree-1.21-1.21.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/9n1NLElA/FallingTree-1.21-1.21.0.8.jar",
+    "sha512": "ff7d2a58c5b6f22dcc8e567a42fd64bc2ea09ee542b4b4f59d5d1a410bd3a46a672d1c2e40a0e7ffc17ec7f97f1897679a35635c32725f896030a162b26ed60a"
+  },
+  "1.21.1-1.21.1.1": {
+    "versionId": "bVO1GowF",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-20T16:03:53.526028Z",
+    "filename": "FallingTree-1.21.1-1.21.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/bVO1GowF/FallingTree-1.21.1-1.21.1.1.jar",
+    "sha512": "705d37b9a21c7444442d09c6af2aa42987d14eed8b0dbca154cae084edb066ff31437280c973b65df52e0ce8ab0266082441bb3c793b490ff2557e8c6b272d9c"
+  },
+  "1.21.1-1.21.1.10": {
+    "versionId": "kHb8t0xv",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:03:19.696936Z",
+    "filename": "FallingTree-1.21.1-1.21.1.10.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/kHb8t0xv/FallingTree-1.21.1-1.21.1.10.jar",
+    "sha512": "aaaf2e2a2a1881160ad689c97485a2cbb38f06d108aa268f6e7f683a799012c0f46549501e300f5cd71abf9d944a6dc1d9bfd7c7e425ff18892407affadec107"
+  },
+  "1.21.1-1.21.1.11": {
+    "versionId": "wxGXaJMA",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T07:43:39.995807Z",
+    "filename": "FallingTree-1.21.1-1.21.1.11.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar",
+    "sha512": "21876b270ca40e3ad6168423f2aba04460f590be191c5558d53e4f542993efa6070589029cb3218557309b096cd920e4da65e53f19687b86c638ec6c342d83e5"
+  },
+  "1.21.1-1.21.1.2": {
+    "versionId": "c04fsPim",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-01T10:36:25.452376Z",
+    "filename": "FallingTree-1.21.1-1.21.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/c04fsPim/FallingTree-1.21.1-1.21.1.2.jar",
+    "sha512": "4698b558157cc3972e0bd8684647154bfc1bd07ddbf8b666680e6cc4e55b6ba9747dce9941c83e4b8a2c06594ee12f1552555cdc71f0be045fa3d8355f615d54"
+  },
+  "1.21.1-1.21.1.3": {
+    "versionId": "SG8ZsOic",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T10:46:52.407220Z",
+    "filename": "FallingTree-1.21.1-1.21.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/SG8ZsOic/FallingTree-1.21.1-1.21.1.3.jar",
+    "sha512": "96da06a41a0a56f84b7823b9f529b493f1034edf418b4c5f4a57c5cb90df03066b5fae27635e44b9d6821251f73e172adfbb76340a3dde817d73f7c66f787a37"
+  },
+  "1.21.1-1.21.1.4": {
+    "versionId": "wnYffVts",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T17:40:51.509316Z",
+    "filename": "FallingTree-1.21.1-1.21.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wnYffVts/FallingTree-1.21.1-1.21.1.4.jar",
+    "sha512": "db4b007bcb27c39bee6d4accee3c0dbcad46ecfd42283418aadbcf7da31d810ffdb30572d3ad19cf4bfd9956183b88772a05c90e5117837ff3c4b83a61d0c536"
+  },
+  "1.21.1-1.21.1.5": {
+    "versionId": "eSNxgJN0",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-24T08:03:54.747663Z",
+    "filename": "FallingTree-1.21.1-1.21.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/eSNxgJN0/FallingTree-1.21.1-1.21.1.5.jar",
+    "sha512": "3ab69f03badca5622434b0d811682c1890d63a93324afc0b03a38caa2cb715f826528498a98ba71d0a5f15c817082074a4a0d12d045a89ea546c787e988a3c03"
+  },
+  "1.21.1-1.21.1.6": {
+    "versionId": "d4Vwh7lX",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-26T08:42:23.183443Z",
+    "filename": "FallingTree-1.21.1-1.21.1.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/d4Vwh7lX/FallingTree-1.21.1-1.21.1.6.jar",
+    "sha512": "f7db94bcd5be5f056b4bfe5252a55229a20a944e63b0b24b081fd40d51e6d4933ff6a0a5eae5a06e0440b4b1e6dceeedff23775de888a3d2615a45bdd61af497"
+  },
+  "1.21.1-1.21.1.7": {
+    "versionId": "JtSM2Voq",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-05T17:20:50.868894Z",
+    "filename": "FallingTree-1.21.1-1.21.1.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/JtSM2Voq/FallingTree-1.21.1-1.21.1.7.jar",
+    "sha512": "90071741b010fd07abe8ebf79b1a68dba006b88d6bb90610296c41bab34cbfeaae66b7ac441c531453faa0dd4e40bcdf18d3d8b0f70fc9e81c38d7496cf6e3ac"
+  },
+  "1.21.1-1.21.1.8": {
+    "versionId": "pLoQCXwM",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-27T19:30:30.475032Z",
+    "filename": "FallingTree-1.21.1-1.21.1.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/pLoQCXwM/FallingTree-1.21.1-1.21.1.8.jar",
+    "sha512": "630b14362e0c97424d298341aeaa004a59131a738e2664c0db5c13e96a8ccadae539b0eca30e514d7eeedee56043d8a34519d84df65a0544c42f02d0fbc9c97d"
+  },
+  "1.21.1-1.21.1.9": {
+    "versionId": "UJFIzvL3",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T18:09:22.067713Z",
+    "filename": "FallingTree-1.21.1-1.21.1.9.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/UJFIzvL3/FallingTree-1.21.1-1.21.1.9.jar",
+    "sha512": "5da62cabee0fe7d2717ec936f95e1411749eab9e73ddf6f6598561e0950c5a73aa757a2c6d92a09fadd1d244b7afce00d938009e54b1e7d23ac53a1d03d15120"
+  },
+  "1.21.10-1.21.10.1": {
+    "versionId": "hDjB8uAg",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-08T19:45:30.559736Z",
+    "filename": "FallingTree-1.21.10-1.21.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/hDjB8uAg/FallingTree-1.21.10-1.21.10.1.jar",
+    "sha512": "616d3655d0fe7a6b56f2b7c973ac45f41380f68d3e5d0c6205cf3082ff1f35a9895c8f8af2d3ea2a7c24401784adc4fc979b70794aa5f7c8bcba9a9510b14398"
+  },
+  "1.21.11-1.21.11.1": {
+    "versionId": "sloyyzJa",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T19:48:37.784590Z",
+    "filename": "FallingTree-1.21.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/sloyyzJa/FallingTree-1.21.11.1.jar",
+    "sha512": "df1cba08017070505276e9fb5f17a261117bf65521f574ffede8466b3e8aa3cd300a1a5038f7ff9a6555d780635f47ca4944dbd3ca91f1e0efaf74e3ee4606cf"
+  },
+  "1.21.11-1.21.11.2": {
+    "versionId": "s7RpQ7ah",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T20:52:20.240666Z",
+    "filename": "FallingTree-1.21.11-1.21.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/s7RpQ7ah/FallingTree-1.21.11-1.21.11.2.jar",
+    "sha512": "4414f5850297c1b31ab1150d71d7dde44e2132fdaef4b286df8785be9f975e98c45317bba7a22fb1612f287dfebe875b7b69444a151a64cb64dd38c4f7b433f9"
+  },
+  "1.21.11-1.21.11.3": {
+    "versionId": "Hnj3s9Ez",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-04T19:46:06.821164Z",
+    "filename": "FallingTree-1.21.11-1.21.11.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Hnj3s9Ez/FallingTree-1.21.11-1.21.11.3.jar",
+    "sha512": "56b8b86846e65f9e070ee08af1baf0b8871ea5eb233a43961d0f937a6147f039eed44794a6b3661b4748e4da037e40aa48b903936960585b626bc9f5e9e308d9"
+  },
+  "1.21.2-1.21.2.1": {
+    "versionId": "FBRYj1Jk",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-22T19:49:30.823741Z",
+    "filename": "FallingTree-1.21.2-1.21.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/FBRYj1Jk/FallingTree-1.21.2-1.21.2.1.jar",
+    "sha512": "2402b0c9dcee168a582c00f0e155ba02c71e209f24ff13873b9e6c4dd419d0d7e85054503b0d70ab9a56653ee05848a231d7a4bbba2ba52ac29e65b5e4ac4508"
+  },
+  "1.21.2-1.21.2.10": {
+    "versionId": "odzIwhEJ",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:14:49.407535Z",
+    "filename": "FallingTree-1.21.2-1.21.2.10.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/odzIwhEJ/FallingTree-1.21.2-1.21.2.10.jar",
+    "sha512": "344e82b97247ecef9d836d9b5b2a02eda79b005fa51c67bf11b1023c060e527bfe6f4921e98b88e8105328c81ef0de1feba8589a4a29c1ec2cb9c44a2442c73f"
+  },
+  "1.21.2-1.21.2.11": {
+    "versionId": "PcbkFY1c",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T07:51:55.318865Z",
+    "filename": "FallingTree-1.21.2-1.21.2.11.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/PcbkFY1c/FallingTree-1.21.2-1.21.2.11.jar",
+    "sha512": "f9fceaeee130d6391e247ad4be802f7cb76d7d4852903f4046ab2ecffcb95d910bc3bbdf1cef69645e611f4b87f7b5d793684db2fc0337328e19c2cbd142b055"
+  },
+  "1.21.2-1.21.2.2": {
+    "versionId": "gyA1aPLN",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-23T17:58:23.320923Z",
+    "filename": "FallingTree-1.21.2-1.21.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/gyA1aPLN/FallingTree-1.21.2-1.21.2.2.jar",
+    "sha512": "4528f6b69e779bcc99ea18f52607b87fae32c8198d63cd997cbb9f8ebeb041e28b2aa7ddda7a988bd828219a3edc795209e18239d6ad50d944e317d28fa7feed"
+  },
+  "1.21.2-1.21.2.3": {
+    "versionId": "H6jbpIDT",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T11:04:56.465486Z",
+    "filename": "FallingTree-1.21.2-1.21.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/H6jbpIDT/FallingTree-1.21.2-1.21.2.3.jar",
+    "sha512": "09c9772b15e10a1e1bc66534c5bd9cfbeb4a0b01d54a99a6689cb7b88b9c9d32e86f606a9e53c08688e4ef63e3a951f26b3de39b8a6534e93642fd22371bf1b0"
+  },
+  "1.21.2-1.21.2.4": {
+    "versionId": "J093wQAU",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T17:48:55.532270Z",
+    "filename": "FallingTree-1.21.2-1.21.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/J093wQAU/FallingTree-1.21.2-1.21.2.4.jar",
+    "sha512": "ca9420277a91689dd95d3dcf85bdcd35646463954fab2a1c17a4fca2b3566a3e6e6c7fc6de9ec2f88b46057c2be4bd3cdd7e3f77efab1494ee036a754a6102fa"
+  },
+  "1.21.2-1.21.2.5": {
+    "versionId": "y0UABxDc",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-24T08:28:08.831059Z",
+    "filename": "FallingTree-1.21.2-1.21.2.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/y0UABxDc/FallingTree-1.21.2-1.21.2.5.jar",
+    "sha512": "4902915082d5b94440e59f3525eeceae2f337b85b9b54bca5b2056121eeddafcb7426ae1762ba359ec3a5a3dd1cf9d0e0d53d81a28334b8bd6453f273c0bb45a"
+  },
+  "1.21.2-1.21.2.6": {
+    "versionId": "WkmNGTyT",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-26T08:54:52.197557Z",
+    "filename": "FallingTree-1.21.2-1.21.2.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/WkmNGTyT/FallingTree-1.21.2-1.21.2.6.jar",
+    "sha512": "16202f3ea9715d78eaad22e96582ad20a0e52cbac32fae9b7c0e3c3744fdaa2b802635db226974e2a4cc03599f3b774a5a8e78fab973e540ffb4cc4f4c7839bf"
+  },
+  "1.21.2-1.21.2.7": {
+    "versionId": "33bSP4oN",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-05T17:28:15.276179Z",
+    "filename": "FallingTree-1.21.2-1.21.2.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/33bSP4oN/FallingTree-1.21.2-1.21.2.7.jar",
+    "sha512": "06d62ed84fcbdb86e78b52ca9da2755de09a6acdceb6d42a72d996db49335a0e08c2e537cac1a4d7fe11224f603b9dee97659e3771ba9271994eb44536b01b5d"
+  },
+  "1.21.2-1.21.2.8": {
+    "versionId": "qKwkuIDP",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-27T19:40:02.602744Z",
+    "filename": "FallingTree-1.21.2-1.21.2.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/qKwkuIDP/FallingTree-1.21.2-1.21.2.8.jar",
+    "sha512": "2178dccc805fac0010f879c1d54b4d8f62533bbbf410d008ef94c51c399f4a7f0b4a65966226bbbf74331a6360f08ec7c41d297a5d1622509c5e0393723471e4"
+  },
+  "1.21.2-1.21.2.9": {
+    "versionId": "yQTHDZAz",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T18:16:54.230919Z",
+    "filename": "FallingTree-1.21.2-1.21.2.9.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/yQTHDZAz/FallingTree-1.21.2-1.21.2.9.jar",
+    "sha512": "9ec1bd84ce685f4c8ca4753e5f6d43b1c5b528e0c544b8b544e0a16f20f7b866365c2a06e177aded9778c902194fca22bdf60d34d11032c4abe3a0f530dcced3"
+  },
+  "1.21.3-1.21.3.1": {
+    "versionId": "2OLcb2eP",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-23T18:28:01.623573Z",
+    "filename": "FallingTree-1.21.3-1.21.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2OLcb2eP/FallingTree-1.21.3-1.21.3.1.jar",
+    "sha512": "72c1b36270e2f423014769bd2a888b644be3d0ba765641aee6a5c5119a136de3b2042ea3ba3d7711ae2170530e7876b78595a0c299dc1ba26f126d7e32beaa41"
+  },
+  "1.21.3-1.21.3.10": {
+    "versionId": "F8carDZZ",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-28T12:35:14.441047Z",
+    "filename": "FallingTree-1.21.3-1.21.3.10.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/F8carDZZ/FallingTree-1.21.3-1.21.3.10.jar",
+    "sha512": "f467138696d2da4b8ffe533a40e20d32475879f1c9ec7d0bd58ccc066b7a9d7714eb14c7d3b24a39f6c94ff0bde334972076628b77b2abc57685b3222ad2bf38"
+  },
+  "1.21.3-1.21.3.11": {
+    "versionId": "RBdo4y7C",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T18:32:35.349924Z",
+    "filename": "FallingTree-1.21.3-1.21.3.11.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/RBdo4y7C/FallingTree-1.21.3-1.21.3.11.jar",
+    "sha512": "94f48c1b04f41073637addca25d495fbdaf12f7beffda7c18a0c8d689775fbe1e86ead75c1a098435a4d5114a7843863c578aab9431303045ec3d791967982cf"
+  },
+  "1.21.3-1.21.3.12": {
+    "versionId": "K1ajOZ4E",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:30:29.326139Z",
+    "filename": "FallingTree-1.21.3-1.21.3.12.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/K1ajOZ4E/FallingTree-1.21.3-1.21.3.12.jar",
+    "sha512": "801176765d2301dd2aa4f08e302ceb89c96b0975ee9b1d7818909bf8511a9abe5d999ae685344168d31dd00c992a9465cb2280c77a0c124db72f52a8ddfe9bd5"
+  },
+  "1.21.3-1.21.3.13": {
+    "versionId": "tPzDKVFk",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T08:17:08.437702Z",
+    "filename": "FallingTree-1.21.3-1.21.3.13.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/tPzDKVFk/FallingTree-1.21.3-1.21.3.13.jar",
+    "sha512": "50b497fd09a69bf47c80ae638aa51b81fc7f50e4a06eb81c6b0604c429c58a7ecf8780c395f27f3c8c3cedc7e127d38e73910f9d3f273b0d57d325cc3e5f1f34"
+  },
+  "1.21.3-1.21.3.2": {
+    "versionId": "I3nXyGdk",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-27T14:24:05.963829Z",
+    "filename": "FallingTree-1.21.3-1.21.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/I3nXyGdk/FallingTree-1.21.3-1.21.3.2.jar",
+    "sha512": "4a0868f79a05f80a068a3c1bac8414657272d8ed1946d52fec958634db8751c35c4b5c23c4cc56ed6b2a075fc739a21a0fd463be419f12360fe4bb88e41ec9db"
+  },
+  "1.21.3-1.21.3.3": {
+    "versionId": "atTvTX4k",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-04T14:41:33.034668Z",
+    "filename": "FallingTree-1.21.3-1.21.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/atTvTX4k/FallingTree-1.21.3-1.21.3.3.jar",
+    "sha512": "a53bf9da1752b650de99097a7e010ed8d07fd69ffb69f2c16371bb4f18da7c9675ea24ec7f8d618073618fad35f707a88014742fd44ce5e056f5b349558a986b"
+  },
+  "1.21.3-1.21.3.4": {
+    "versionId": "BMEmI3I6",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T11:12:33.443578Z",
+    "filename": "FallingTree-1.21.3-1.21.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/BMEmI3I6/FallingTree-1.21.3-1.21.3.4.jar",
+    "sha512": "ba403014af58a8ee42a1f7d3f2b6b580870df83b4fdf3b15e337f54030289b570f3bcd8013496af88df5fbf2ae8d007c1fde6012197c1f08e9afe17ecd2a78f8"
+  },
+  "1.21.3-1.21.3.5": {
+    "versionId": "ZBQTNPvu",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T17:56:19.418351Z",
+    "filename": "FallingTree-1.21.3-1.21.3.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ZBQTNPvu/FallingTree-1.21.3-1.21.3.5.jar",
+    "sha512": "0009aa9457bd19600874f78938fa2b313e6f3422b818bae5e96f4c62def546434d37cc5996dd9ca918b384953674e4aa1d8c9e0879850fc0626e00c0fbbbb8d4"
+  },
+  "1.21.3-1.21.3.6": {
+    "versionId": "pCLdPHBG",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-24T08:37:56.791516Z",
+    "filename": "FallingTree-1.21.3-1.21.3.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/pCLdPHBG/FallingTree-1.21.3-1.21.3.6.jar",
+    "sha512": "1c8428f98cd5c121ead5094a013bae3b7052693635237c5ff0d66c45ae800c879f46dd6737ab69bf4f229078a678f22d2666a05607739036a1d8c5d35403e61c"
+  },
+  "1.21.3-1.21.3.7": {
+    "versionId": "5QMBY4pI",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-26T09:07:02.911044Z",
+    "filename": "FallingTree-1.21.3-1.21.3.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/5QMBY4pI/FallingTree-1.21.3-1.21.3.7.jar",
+    "sha512": "8f1ffff05a44f64a733de8361bd6eed18b903911144eb6c4d57bfbedcd964d2b4154ce12027670946421e74b7d61e35d3916e02f937bd32d7c8092ea1bb3a8ad"
+  },
+  "1.21.3-1.21.3.8": {
+    "versionId": "qwke4DDS",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-05T17:36:23.933847Z",
+    "filename": "FallingTree-1.21.3-1.21.3.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/qwke4DDS/FallingTree-1.21.3-1.21.3.8.jar",
+    "sha512": "d4c4b72341346873b392bab21fc8a8a3a641d4e3d44487106e3501d4e5ac710a39ded66fb1a873549eedc6c3746117f8999076a9d74a4dba723dd8c9eda60de3"
+  },
+  "1.21.4-1.21.4.1": {
+    "versionId": "4x7ecSGL",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T17:34:02.113469Z",
+    "filename": "FallingTree-1.21.4-1.21.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/4x7ecSGL/FallingTree-1.21.4-1.21.4.1.jar",
+    "sha512": "900f0f37e06b1f337fcb97ae64b6e359663ff3c1e04a9beac4ee1f882a41084f2e6089fbde34127830ed67d0299ec660bb0f10d619b38954dd40b80e70db8cd7"
+  },
+  "1.21.4-1.21.4.10": {
+    "versionId": "nb1iX9eQ",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-28T12:44:47.857968Z",
+    "filename": "FallingTree-1.21.4-1.21.4.10.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/nb1iX9eQ/FallingTree-1.21.4-1.21.4.10.jar",
+    "sha512": "7372dfd4bd463c9368081b601e7c5bf276291c595911223382114e9244d70496e0b8621a8e0d34b8a908251dec93c3a00ad96033e491aecab32fa8487354f89e"
+  },
+  "1.21.4-1.21.4.11": {
+    "versionId": "kS9Lujdk",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T18:40:27.922502Z",
+    "filename": "FallingTree-1.21.4-1.21.4.11.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/kS9Lujdk/FallingTree-1.21.4-1.21.4.11.jar",
+    "sha512": "5c681ea6cef2e1233f6fc96b63d6fc4f203346378ad8eb3a388fbfa853fcd231379f2833ed6fc62bf7fe439762dae92b053f444de270653569b45e066a67f566"
+  },
+  "1.21.4-1.21.4.12": {
+    "versionId": "qru1F4oW",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:38:49.096907Z",
+    "filename": "FallingTree-1.21.4-1.21.4.12.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/qru1F4oW/FallingTree-1.21.4-1.21.4.12.jar",
+    "sha512": "30ca9817c241c203ff88e866d032066d2e2a39ffa7e927bae9b1be59084be1400143f2f0c3532adf2106237bbaef12219f0b3b3d48901a68fee0ba399277ba79"
+  },
+  "1.21.4-1.21.4.13": {
+    "versionId": "VBmGH8tz",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T08:27:52.796707Z",
+    "filename": "FallingTree-1.21.4-1.21.4.13.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/VBmGH8tz/FallingTree-1.21.4-1.21.4.13.jar",
+    "sha512": "6e7a7f484911a4f8146bc91edda96f2b7a956f165024940047473f880d449759617386e702db24604aa51481accc5dd0944ab131c78c0a0aca303c50880b9225"
+  },
+  "1.21.4-1.21.4.2": {
+    "versionId": "8sd5tO2r",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-06T21:18:58.174671Z",
+    "filename": "FallingTree-1.21.4-1.21.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/8sd5tO2r/FallingTree-1.21.4-1.21.4.2.jar",
+    "sha512": "3e0693ff8461a433c036362226aee9f6d6e67c1b6082ae4749f63379a0ea63f6030a1d537196275398f34170881a632f392e1f4bc100d815ba4040b8567be0ec"
+  },
+  "1.21.4-1.21.4.3": {
+    "versionId": "c0xqcP7a",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T11:17:41.625300Z",
+    "filename": "FallingTree-1.21.4-1.21.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/c0xqcP7a/FallingTree-1.21.4-1.21.4.3.jar",
+    "sha512": "a025f2efba592ec41e98aa8e581771704f7f2553c780cfdf99ab69514d19d9e46811867f25c530d5058eba272bc5a35bd0ba558e6425bcd55e83cb89dc132f57"
+  },
+  "1.21.4-1.21.4.4": {
+    "versionId": "PSp00blL",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-09T17:59:43.612359Z",
+    "filename": "FallingTree-1.21.4-1.21.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/PSp00blL/FallingTree-1.21.4-1.21.4.4.jar",
+    "sha512": "375acee7a1dea4b6a3637cd153f001395781c2b0260903f5e09ebbf7b57eac8af38e3e70a31b08e5b1dd9d7b74d662e00bc33fee4d983f6e931cda5defdac9ad"
+  },
+  "1.21.4-1.21.4.5": {
+    "versionId": "obL8ERnB",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-24T08:41:57.476396Z",
+    "filename": "FallingTree-1.21.4-1.21.4.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/obL8ERnB/FallingTree-1.21.4-1.21.4.5.jar",
+    "sha512": "14129556dd6811bad00646122bcec475251fffee14e95c7bcb7e856b1582e5fc011c5443189088c8a1c4bfa49b250bb1af9100de36a7e9e21f27ce3d2ec01947"
+  },
+  "1.21.4-1.21.4.6": {
+    "versionId": "gn16vhjh",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-26T09:17:04.828845Z",
+    "filename": "FallingTree-1.21.4-1.21.4.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/gn16vhjh/FallingTree-1.21.4-1.21.4.6.jar",
+    "sha512": "2fb3a72c25f54204eb6e6fbb7d0235202f752947614cd1b9149cdc29c1afa3672da04807303092ba00e1f1d7362e7f182871231ae04047da94ce349ecf99cbb6"
+  },
+  "1.21.4-1.21.4.7": {
+    "versionId": "VZaMZN0O",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-05T17:59:41.286349Z",
+    "filename": "FallingTree-1.21.4-1.21.4.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/VZaMZN0O/FallingTree-1.21.4-1.21.4.7.jar",
+    "sha512": "fd7e7b2ba9077c97e7eb8cfb44578dd5fd7e67402214a39863a4b532541e51991056ffe039ad1cc04b56194df2190158b2fe08bac6e16b70bcd431794c6b013a"
+  },
+  "1.21.4-1.21.4.8": {
+    "versionId": "CX6uDn8U",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T13:41:38.920986Z",
+    "filename": "FallingTree-1.21.4-1.21.4.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/CX6uDn8U/FallingTree-1.21.4-1.21.4.8.jar",
+    "sha512": "a306ec05c8fac9e6138ca8c79932e6695988da2f2a88fca8cc9aef6f8ac52c99da11207823824782f48a273be7857b6ea031010dbbe3a66ec6a9888221c3e48b"
+  },
+  "1.21.5-1.21.5.1": {
+    "versionId": "I9p5DN7f",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T14:41:44.159631Z",
+    "filename": "FallingTree-1.21.5-1.21.5.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/I9p5DN7f/FallingTree-1.21.5-1.21.5.1.jar",
+    "sha512": "c8839de0cf65f2e0e802643b05b8564abc7ba20eba040316255d2546cd3802ed50fd5400c361a2c6f8ab3b175fd54d8092625bb15f9b61d56f954776ce3b9c97"
+  },
+  "1.21.5-1.21.5.10": {
+    "versionId": "WsmJ9juE",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-16T18:48:01.571192Z",
+    "filename": "FallingTree-1.21.5-1.21.5.10.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/WsmJ9juE/FallingTree-1.21.5-1.21.5.10.jar",
+    "sha512": "0305a8382b9abdc77b9a0f1f7f03814fa52b84cf03f8add2dcfcc76abd4484b0637bc35ce39dd163771d2d1fb5b7d726fac26e9a2002cb4288ef7b34f4fe261b"
+  },
+  "1.21.5-1.21.5.11": {
+    "versionId": "NoXs9nFL",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:48:25.216811Z",
+    "filename": "FallingTree-1.21.5-1.21.5.11.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NoXs9nFL/FallingTree-1.21.5-1.21.5.11.jar",
+    "sha512": "3510bba02c7c68a48a1d75462af88be456a9e1b06b350a5957d4fb2fa6fdaa039f532c705b8cd22ac7f4c4759335c4153489027ab5660d477010b53d7f4b73e7"
+  },
+  "1.21.5-1.21.5.12": {
+    "versionId": "ETRofUGd",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T08:41:22.284498Z",
+    "filename": "FallingTree-1.21.5-1.21.5.12.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ETRofUGd/FallingTree-1.21.5-1.21.5.12.jar",
+    "sha512": "444b480330a5879c68c4e6a0c5e8e084daae97cd0b8f52d8bc3ca41e153592cbe1fa788ee4e29bd149f5f7e9d2eb57b31497405187d9562436a11cbefd747dc5"
+  },
+  "1.21.5-1.21.5.2": {
+    "versionId": "enSGEWts",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-27T20:31:04.559961Z",
+    "filename": "FallingTree-1.21.5-1.21.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/enSGEWts/FallingTree-1.21.5-1.21.5.2.jar",
+    "sha512": "3953c52260bbe7b35e8c7c468de384c5c12f0cfba3bd20d2ff20f6e0272c153db909cdb53ee8399fa692d5f9d7e67c0f97e531dc56c5884d43ebd981eadd9a98"
+  },
+  "1.21.5-1.21.5.3": {
+    "versionId": "3vd4bfEB",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-06T13:57:31.937785Z",
+    "filename": "FallingTree-1.21.5-1.21.5.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/3vd4bfEB/FallingTree-1.21.5-1.21.5.3.jar",
+    "sha512": "811ed4f9954cedcc4637739f01eeeb8d67b80e483abe37c52960e6987056362d467a6e90e67ccdcde2c2a51da30f3540fda10ccc0c90615e8b17eeab6fdba869"
+  },
+  "1.21.5-1.21.5.4": {
+    "versionId": "xwWIHdET",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-11T03:30:26.453101Z",
+    "filename": "FallingTree-1.21.5-1.21.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/xwWIHdET/FallingTree-1.21.5-1.21.5.4.jar",
+    "sha512": "040c717bbedc8f6357b6cd99d9925d3771744ac94b15ba8844b3ea7a4bc2ffc73f4496d16f07f919198d94e78cc9b718535d530a53a5e639da433aa83ab186cd"
+  },
+  "1.21.5-1.21.5.5": {
+    "versionId": "g9sf7J7G",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-18T14:00:36.331567Z",
+    "filename": "FallingTree-1.21.5-1.21.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/g9sf7J7G/FallingTree-1.21.5-1.21.5.5.jar",
+    "sha512": "799d1d854dde657f94ff488f785c66db8897d4dcea43d462e7b43c0fd5d86d0bcb2113a87030c3e9c1ec43c2882c9d831e944d315f8ad48f0bc3acfcbda231c8"
+  },
+  "1.21.5-1.21.5.6": {
+    "versionId": "4pWpbykH",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-19T15:13:04.902555Z",
+    "filename": "FallingTree-1.21.5-1.21.5.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/4pWpbykH/FallingTree-1.21.5-1.21.5.6.jar",
+    "sha512": "d674cb50bfed093bd21f0d9318ad93f66e817936feeb11994654b3a9e0258cdad5c13172cc07fdbdbd35898cb5335307045e8393b2a59cf698b1bd06f07233be"
+  },
+  "1.21.5-1.21.5.7": {
+    "versionId": "Jd5d7akr",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-25T20:10:20.037119Z",
+    "filename": "FallingTree-1.21.5-1.21.5.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Jd5d7akr/FallingTree-1.21.5-1.21.5.7.jar",
+    "sha512": "4849c454a46bf798cc158e6ffb6930ff7ff37fcdd5259e822f64eb949b3f291de8649decc628d2ec3729d778affb91d3929ed16a59fc210699da217d7c611933"
+  },
+  "1.21.5-1.21.5.8": {
+    "versionId": "POVxLq34",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-27T17:05:08.873585Z",
+    "filename": "FallingTree-1.21.5-1.21.5.8.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/POVxLq34/FallingTree-1.21.5-1.21.5.8.jar",
+    "sha512": "6a4b581413acf584c41ce319477f87d810f3cc6e13c8af0f04bbab10b1b32c8bb648abc1c0ca6e628249d8327f5d73114f38cc014409418666f2870fd4730739"
+  },
+  "1.21.5-1.21.5.9": {
+    "versionId": "QPpT3u9u",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-28T12:26:38.889965Z",
+    "filename": "FallingTree-1.21.5-1.21.5.9.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/QPpT3u9u/FallingTree-1.21.5-1.21.5.9.jar",
+    "sha512": "9f69d15c351bb5376c917b5f03759269f3e861c477b88f1556d04fda47e2984ba2315f7e80aba20cbef86d219946a3cec87cc8ccef7336489a9c304ed568f782"
+  },
+  "1.21.6-1.21.6.1": {
+    "versionId": "eCeoNrVw",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-18T09:12:12.828401Z",
+    "filename": "FallingTree-1.21.6-1.21.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/eCeoNrVw/FallingTree-1.21.6-1.21.6.1.jar",
+    "sha512": "12c0509edd5fdf5e0131b3a98c4e5eed8b6c01ab192c29437396cde250d82c22e1afc0763666d84e3cb1f248ce3a665460ce80644f6959fc1b26c3fbd84aed01"
+  },
+  "1.21.6-1.21.6.2": {
+    "versionId": "I2aJcaI7",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T09:55:57.965110Z",
+    "filename": "FallingTree-1.21.6-1.21.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/I2aJcaI7/FallingTree-1.21.6-1.21.6.2.jar",
+    "sha512": "827a11eb869f412223269bdaeec7aacad807b0bd6b96b08cf03543e374f8e6830246151a7547b353342eb80ed033caf2b5e82c0e99f9b9407ea12c7ba4c57450"
+  },
+  "1.21.6-1.21.6.3": {
+    "versionId": "aAbmM9El",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-23T18:54:25.692562Z",
+    "filename": "FallingTree-1.21.6-1.21.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/aAbmM9El/FallingTree-1.21.6-1.21.6.3.jar",
+    "sha512": "d36befc3a5538573003d21f2bc5c6f9a1c69c1b7004635090250ccafea51c5c36470c1ad79af4872f3c89f78dd52584c13506143691fd1594a1428cf8d7ff519"
+  },
+  "1.21.6-1.21.6.4": {
+    "versionId": "KThKbgqm",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-24T12:52:34.482622Z",
+    "filename": "FallingTree-1.21.6-1.21.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/KThKbgqm/FallingTree-1.21.6-1.21.6.4.jar",
+    "sha512": "ad1deb2081080775d194475213b100674f3b9ed7bd3486db98a8bd2892cd100dbf31d950c08812d5e3fdc139d73acef3b2be2d5b0916cd86744a65e4572265e4"
+  },
+  "1.21.6-1.21.6.5": {
+    "versionId": "nun0Wr6l",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T08:03:28.493523Z",
+    "filename": "FallingTree-1.21.6-1.21.6.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/nun0Wr6l/FallingTree-1.21.6-1.21.6.5.jar",
+    "sha512": "b0e5d8b8d7c74395795f24f72f5645707ba803a531eabb42eef40af174463b32632170f20c82e493ec6d0dfbd815987919d0cad853c30ba446ec442783e1688a"
+  },
+  "1.21.6-1.21.6.6": {
+    "versionId": "9KB34pi0",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:52:07.084748Z",
+    "filename": "FallingTree-1.21.6-1.21.6.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/9KB34pi0/FallingTree-1.21.6-1.21.6.6.jar",
+    "sha512": "87c65f280d7c20aaaaabc43817438c024874b6adc8c34916f59bc520cd4a8586cfdfe422f22215b5fee44ba33fba7ed37b06a44a613385e4753b05b6985a001c"
+  },
+  "1.21.6-1.21.6.7": {
+    "versionId": "sYbmLoJp",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T08:53:19.327724Z",
+    "filename": "FallingTree-1.21.6-1.21.6.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/sYbmLoJp/FallingTree-1.21.6-1.21.6.7.jar",
+    "sha512": "2a2b7b7b6988577d806c68b415853edeb380cc8a191a0237ce65dee6b1cfe848d64d7489f39949c54f954f4f5b157a47caaa265506e6b799972341ac0b6551c5"
+  },
+  "1.21.7-1.21.7.1": {
+    "versionId": "dHRfwO0t",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T08:24:06.929430Z",
+    "filename": "FallingTree-1.21.7-1.21.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/dHRfwO0t/FallingTree-1.21.7-1.21.7.1.jar",
+    "sha512": "a2ab54fe1c46d2f8a80e83f692be9b65855d440370aae38555e0b76db8884ef60d93404b4cb668e4e7cbc05f0e973e78d8e16e7867109a57349da5bc2b3595a1"
+  },
+  "1.21.7-1.21.7.2": {
+    "versionId": "jeLDE9Vf",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T09:58:46.767455Z",
+    "filename": "FallingTree-1.21.7-1.21.7.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/jeLDE9Vf/FallingTree-1.21.7-1.21.7.2.jar",
+    "sha512": "ac016376c4e2ba0726a7ea9829fe0990c8bb06b400dadcd690094284a4b2cb14f46c12a2bee7ac317e172d43e5f4087043e4e1bf40073c0622406182e3301dad"
+  },
+  "1.21.7-1.21.7.3": {
+    "versionId": "CB3Onrej",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T09:03:03.126456Z",
+    "filename": "FallingTree-1.21.7-1.21.7.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/CB3Onrej/FallingTree-1.21.7-1.21.7.3.jar",
+    "sha512": "91a63e377aaa1df8039afd71c163ca9b700007feba744c1a3d81b8f37c819697b585d86dcd85971d41395f0aae3c613e1be1ad8d91286fc62bed69625319c97f"
+  },
+  "1.21.8-1.21.8.1": {
+    "versionId": "hB7NfdzA",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-17T19:38:27.636214Z",
+    "filename": "FallingTree-1.21.8-1.21.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/hB7NfdzA/FallingTree-1.21.8-1.21.8.1.jar",
+    "sha512": "f62bb873d4552ad69405f415c8428ec93371cb1df06126dfba2494c197f42791747293a6c160e752f5b144d9607082df04e36610ef45b42ef809706bd9e1123f"
+  },
+  "1.21.8-1.21.8.2": {
+    "versionId": "vs4XSgGN",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-01T09:10:23.473628Z",
+    "filename": "FallingTree-1.21.8-1.21.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/vs4XSgGN/FallingTree-1.21.8-1.21.8.2.jar",
+    "sha512": "c3a12bc095fdd603b6bcd972772a937a0d6ce8b3bece81d1b4bc2cb45de7d6d5d4fabbe056f26ebe04f8052a92e3c62618b7b97767bd673abccb3f310e3ac457"
+  },
+  "1.21.8-1.21.8.3": {
+    "versionId": "IGtob92Q",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-07T18:08:25.914708Z",
+    "filename": "FallingTree-1.21.8-1.21.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/IGtob92Q/FallingTree-1.21.8-1.21.8.3.jar",
+    "sha512": "d8889e08d8f1945de03a7db380ff3a6aca06d6f7439c889335e1741e969ed814f23fde89ce61f62aff85ec04d40992115e1ae02ea65cd457e6c735839aa4adad"
+  },
+  "1.21.9-1.21.9.1": {
+    "versionId": "ud87ay0A",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-01T20:03:16.137980Z",
+    "filename": "FallingTree-1.21.9-1.21.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ud87ay0A/FallingTree-1.21.9-1.21.9.1.jar",
+    "sha512": "5d8ab28e693a835525c704896cc4015f1e3c74fe71d8b2a18cf3e0be845760f96807801c727ec080b2874710a35c6710ff9f30dc8e61eefd676dc778f0f9e4d2"
+  },
+  "1.21.9-1.21.9.2": {
+    "versionId": "gSIijzTg",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-04T08:10:39.387933Z",
+    "filename": "FallingTree-1.21.9-1.21.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/gSIijzTg/FallingTree-1.21.9-1.21.9.2.jar",
+    "sha512": "e63083b9eff753d7db59bdf5d7b1caac111e767cc2425f8451e96d0581675fe8deb4e6cbf84ac1b8d0173e746e2e41ca0f2980cd29433cdf0dfd553801de2ce8"
+  },
+  "1.21.9-1.21.9.3": {
+    "versionId": "ye05npAP",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-08T19:29:55.434365Z",
+    "filename": "FallingTree-1.21.9-1.21.9.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ye05npAP/FallingTree-1.21.9-1.21.9.3.jar",
+    "sha512": "65e4f8593e97db97a389f7d958a8372c7cf88ed2815bf8af9b41c1a0369050d662d11dbc9f9eaa054f076b594bb31f8c24268117267f79d8c3427b3ca7e0b988"
+  },
+  "2.11.7": {
+    "versionId": "rK4GkUX6",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-22T06:02:00.996730Z",
+    "filename": "FallingTree-1.16.5-2.11.7.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/rK4GkUX6/FallingTree-1.16.5-2.11.7.jar",
+    "sha512": "dd869d79d3e215aaac580ad3659ca1145009a2e5c1569b27e2be14856f8999a7f418e64ade9ab77c8b2c738757ab398522000844b3bce6cc6572bd66bca12765"
+  },
+  "2.13.0": {
+    "versionId": "QtHstonj",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-08-15T12:17:43.257578Z",
+    "filename": "FallingTree-1.17.1-2.13.0-2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2.13.0/FallingTree-1.17.1-2.13.0-2.jar",
+    "sha512": "921261caeb15a0f8f938a14392feaa1d9529a61551336bde5e325361b49363a8572c7c39a8740086abc13faf2b6ae976d335e52170e868940862ffd18dd22f11"
+  },
+  "2.14.0": {
+    "versionId": "m2oM2Xzb",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-09-13T10:04:19.711235Z",
+    "filename": "FallingTree-1.17.1-2.14.0.jar",
+    "url": "https://cdn.modrinth.com//data/Fb4jn8m6/versions/2.14.0/FallingTree-1.17.1-2.14.0.jar",
+    "sha512": "ac99d3f8003c71ef684877405e6c20e622f5241e8d162f3c1ce1c1034aae6e8f8e3a1dfcb0eccea815452485076481ee0dea2201a9c06fed6e4f32fe9c1506a6"
+  },
+  "2.14.1": {
+    "versionId": "YBlmxpFC",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-09-23T06:32:50.784820Z",
+    "filename": "FallingTree-1.17.1-2.14.1.jar",
+    "url": "https://cdn.modrinth.com//data/Fb4jn8m6/versions/2.14.1/FallingTree-1.17.1-2.14.1.jar",
+    "sha512": "f1bbd326ae84ef620f1a6a8262ab450cd052a2c6ea5b579871849699a160a276545881cc8535d6eee5b4e4c06e930dd4e68054c54d500634544125f0fc36205e"
+  },
+  "2.14.2": {
+    "versionId": "Bhm08p1U",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-09-29T18:08:43.145114Z",
+    "filename": "FallingTree-1.17.1-2.14.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2.14.2/FallingTree-1.17.1-2.14.2.jar",
+    "sha512": "b363e64c32c825e28ab3bae6458b015a1f288b9dc46d951665fd21ba69f554b85353085265ef8fd5dee2aea81ef2f814e832bc1d95d49f38b8f881269e2efe3b"
+  },
+  "2.14.2-snapshot": {
+    "versionId": "vT2GkHlJ",
+    "gameVersions": [
+      "21w39a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2021-10-01T18:27:59.559413Z",
+    "filename": "FallingTree-21w39a-2.14.2-snapshot.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2.14.2-snapshot/FallingTree-21w39a-2.14.2-snapshot.jar",
+    "sha512": "440846ee68f16e33a5c64f30f0d7d58e75045d64781120e6db9ccf198fa7c154668f71355f7fad9c6dd0de048b1067c7e87b9bacec87a4de25a34ebe4343b66e"
+  },
+  "2.14.3": {
+    "versionId": "PCbggfQI",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-10-27T11:10:03.282808Z",
+    "filename": "FallingTree-1.17.1-2.14.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2.14.3/FallingTree-1.17.1-2.14.3.jar",
+    "sha512": "ab09d30ccb890f0d841fcdb851d4986b9aadb8743e70a613296f21cfa57f08de6345a2b26fcd16a8eb8ff9971c1a4b3a5a78a7247f26a99b575d2e51d55a1124"
+  },
+  "2.14.5": {
+    "versionId": "k08wKfdA",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-03T19:05:42.146422Z",
+    "filename": "FallingTree-1.17.1-2.14.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/2.14.5/FallingTree-1.17.1-2.14.5.jar",
+    "sha512": "150d8a381a688b55b0dca041622f23fc1526ee3e92a3646a5d9909901b2cebc9256892bc858d3198eb3373d9c567e84a030cddb72d6dff239b3645e45a35d66f"
+  },
+  "2.14.6": {
+    "versionId": "59SG26Fv",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-22T06:16:05.333913Z",
+    "filename": "FallingTree-1.17.1-2.14.6.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/59SG26Fv/FallingTree-1.17.1-2.14.6.jar",
+    "sha512": "26da7cc73549d68552ca0a45eeb59f3692a3643dddecf801ca44383195c24c301b58d51b081c5809cc03ae08f32e75bf9b92e4fa854a11bb175a9bca6b9068f3"
+  },
+  "21w42a-2.14.3": {
+    "versionId": "8h9olfhO",
+    "gameVersions": [
+      "21w43a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2021-10-27T19:45:23.890428Z",
+    "filename": "FallingTree-21w42a-21w42a-2.14.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/21w42a-21w42a-2.14.3/FallingTree-21w42a-21w42a-2.14.3.jar",
+    "sha512": "5471e4a6391e01a44caf111f1508d25f07605f4bb1f308e8f5e7648eb06f4ea784e824729aa006c074f0cd05c143c582a6e241680ca47525bbdea2312a0d3626"
+  },
+  "22w05a-3.3.0a1": {
+    "versionId": "EcPbQcBT",
+    "gameVersions": [
+      "22w05a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-02-07T18:10:55.980334Z",
+    "filename": "FallingTree-22w05a-3.3.0a1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w05a-3.3.0a1/FallingTree-22w05a-3.3.0a1.jar",
+    "sha512": "a13fad4e5980ca65a9a955ec1701c68be06047ed4cd3cd4194fc3c815b920128925d1db2f31af52dbf0daccfa8b4aba511945bcce2dc6b38e749757f8499d03c"
+  },
+  "22w06a-3.3.0a2": {
+    "versionId": "I4HjcOo5",
+    "gameVersions": [
+      "22w06a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-02-11T21:46:01.492396Z",
+    "filename": "FallingTree-22w06a-3.3.0a2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w06a-3.3.0a2/FallingTree-22w06a-3.3.0a2.jar",
+    "sha512": "d376703d423fe39f0fb8ebca6a72595103b1bf55cc788c11b953b54a93b512c4d6e3b43f978bc31dceb75556a87fda913b5d9791a6d4d2de9da4c4de260b6021"
+  },
+  "22w13a-3.5.0a1": {
+    "versionId": "qtfvfhdv",
+    "gameVersions": [
+      "22w13a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-04-01T15:37:38.787602Z",
+    "filename": "FallingTree-22w13a-3.5.0a1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w13a-3.5.0a1/FallingTree-22w13a-3.5.0a1.jar",
+    "sha512": "7c7925d8d66a866720dca63b77b884c3944f1cb38a942505f58c29fdb29999917aa8d859fd22f0ec8bea3b40e63e1f9db27368a9ad22df26079bb8234ab7f741"
+  },
+  "22w14a-3.6.0a2": {
+    "versionId": "djHFleaq",
+    "gameVersions": [
+      "22w14a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-04-08T19:03:28.221642Z",
+    "filename": "FallingTree-22w14a-3.6.0a2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w14a-3.6.0a2/FallingTree-22w14a-3.6.0a2.jar",
+    "sha512": "c5b080061246c778f293e2be5f79dca5d2a9a3fadae9acbf4a6fbec4ee27a15133b34a24d0394985594e7aac3e0dee385c5782fa7438536fe7d59c7e7960493c"
+  },
+  "22w14a-3.6.0a3": {
+    "versionId": "Fn9hSpZQ",
+    "gameVersions": [
+      "22w14a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-04-09T08:21:33.935865Z",
+    "filename": "FallingTree-22w14a-3.6.0a3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w14a-3.6.0a3/FallingTree-22w14a-3.6.0a3.jar",
+    "sha512": "edcdf24fbc14c221872e4800e0caa7b86d7118a7a787f71a958f51285a0f96a9fda4954cb87e0b0c26dc00099b665ebda47367830a6d5541a8a07284caa48f76"
+  },
+  "22w17a-3.6.0a4": {
+    "versionId": "TuLQv2oz",
+    "gameVersions": [
+      "22w17a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-05-02T18:41:49.730676Z",
+    "filename": "FallingTree-22w17a-3.6.0a4.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w17a-3.6.0a4/FallingTree-22w17a-3.6.0a4.jar",
+    "sha512": "2a22ed35a1b9c76751582b89205f0c829d3c2d220030e65dcd7ca9956e89e4bf3fe053a59dd1d1211268f90248765d1c6f85a7c7e364186e3d3dcd8d0340712b"
+  },
+  "22w19a-3.6.0a5": {
+    "versionId": "cvdeCtGH",
+    "gameVersions": [
+      "22w19a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-05-13T16:08:32.527515Z",
+    "filename": "FallingTree-22w19a-3.6.0a5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/22w19a-3.6.0a5/FallingTree-22w19a-3.6.0a5.jar",
+    "sha512": "7b52db7f9034c2e76485154512af9ae062191088b09643a2459f50952aaf3cd6710654754c6991fa3164d865a5f883fdeed19cce3a94a3cf006ddae06d118676"
+  },
+  "22w43a-3.11.0a2": {
+    "versionId": "qrxLiOcL",
+    "gameVersions": [
+      "22w43a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-10-29T11:44:24.527058Z",
+    "filename": "FallingTree-22w43a-3.11.0a2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/qrxLiOcL/FallingTree-22w43a-3.11.0a2.jar",
+    "sha512": "22c1ccf2b53a33b42a49a844a0dc02f20f8ab701a8169da61cb779b9857e5eccd4b9060695ede796413db9c25e3387cf11d5856bc4d3eaf71e32f332229c39d3"
+  },
+  "23w40a-6.0.0a1": {
+    "versionId": "NAMMnpkI",
+    "gameVersions": [
+      "23w40a"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-10-06T16:44:15.041739Z",
+    "filename": "FallingTree-23w40a-6.0.0a1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NAMMnpkI/FallingTree-23w40a-6.0.0a1.jar",
+    "sha512": "ead42ba92edcdbc1c672a387d4bf13a9647d1d84f5ed8fc741f42dcc34e514c673c723f3d5a9504ff0ca789c2c0c6ed89d362bba8bbb96c3d91a13aaec58cc01"
+  },
+  "26.1-26.1.0.1": {
+    "versionId": "jChLP4eI",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-24T19:10:56.681256Z",
+    "filename": "FallingTree-26.1-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/jChLP4eI/FallingTree-26.1-25.jar",
+    "sha512": "70193cbbddfb153675b9849274690ac504f9e2649fd2621b4480a0a2f38425335530033dba4c61272c3a0dd4315200fe833001835534efd032f2b7e981547684"
+  },
+  "26.1-26.1.0.2": {
+    "versionId": "TBG7DkUw",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-24T20:40:47.874758Z",
+    "filename": "FallingTree-26.1-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/TBG7DkUw/FallingTree-26.1-25.jar",
+    "sha512": "bd38270caecfc2fdcd1a570ddd87d61f793f340a581fb6d2c1a6e8c98229305d0bb07e5ede3b8029746f4327755be20f145b713c59362be10f400a9fdc1f1704"
+  },
+  "26.1-26.1.0.3": {
+    "versionId": "taabqQmG",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T19:29:57.319319Z",
+    "filename": "FallingTree-26.1-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/taabqQmG/FallingTree-26.1-25.jar",
+    "sha512": "ba7a805543bfb3523e7f962be45120cb448b2da739d188ce390e0244ffda075fc5135748ab3af6aebc5e82de0af406319206c5753e829651cd49383ded09d360"
+  },
+  "26.1-snapshot-6-26.1.1a1": {
+    "versionId": "r6e6nPT3",
+    "gameVersions": [
+      "26.1-snapshot-6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-02-09T20:46:31.265982Z",
+    "filename": "FallingTree-26.1-snapshot-6-26.1.1a1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/r6e6nPT3/FallingTree-26.1-snapshot-6-26.1.1a1.jar",
+    "sha512": "963a55d350fe7512f8b980e080d9e9669ce3cebaa418a66cc31091ef4659d7273ba9b9fb09f56ec7e3cafd1bf1a9bea6d88727d652616b5389f3269c31da5ee5"
+  },
+  "26.1.1-26.1.1.1": {
+    "versionId": "1t5y4V0E",
+    "gameVersions": [
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-03T18:53:42.706556Z",
+    "filename": "FallingTree-26.1.1-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1t5y4V0E/FallingTree-26.1.1-25.jar",
+    "sha512": "f919582292a2ff2efbd2c847d528c1335a12d076b16cf0d34c6d89dabb933e67e5b586d095b3f9982d9aef00358d5516bc8e4dfe71aeb4b1c3c2a3bf5eb67aa6"
+  },
+  "26.1.2-26.1.2.1": {
+    "versionId": "btXdyYgE",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-10T09:13:33.069337Z",
+    "filename": "FallingTree-26.1.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/btXdyYgE/FallingTree-26.1.2-25.jar",
+    "sha512": "f47d02cb8b00018d242f81e79e3b8627461bffc16c062f0895494d11bebd1c4925472ea8cfbe6c03ac14a0d5f7342ba498104e01e39209cc39974a6be44c2df7"
+  },
+  "26.1.2-26.1.2.2": {
+    "versionId": "aTjtwhah",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-24T15:22:08.622908Z",
+    "filename": "FallingTree-26.1.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/aTjtwhah/FallingTree-26.1.2-25.jar",
+    "sha512": "60b6df88600f27695182bbd31bf85a76a7dc7f5e895759ec874a069aaf686e13b6e0e7ed2ba80bab868b15967941aebf8f17c69362b7bf6708e167508f0f0575"
+  },
+  "26.1.2-26.1.2.3": {
+    "versionId": "ojNqNNkk",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-25T18:42:04.051144Z",
+    "filename": "FallingTree-26.1.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/ojNqNNkk/FallingTree-26.1.2-25.jar",
+    "sha512": "d7e48b0449f95f849de2630a577a196a01c0b0e3ac7f83891328920e5195d25f332f1ad3ef7263fdfed8b5f7610560f0df519882a60ec5c3565e86e879e64dfc"
+  },
+  "26.1.2-26.1.2.4": {
+    "versionId": "YpsBfAWL",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-22T19:01:37.359040Z",
+    "filename": "FallingTree-26.1.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/YpsBfAWL/FallingTree-26.1.2-25.jar",
+    "sha512": "d7e31fccb2c6174fdf41599d33eb54c94ca2c42e0a6f76cb12327ac8b98f86b938fe41322875c2496f5ee27dd890cc96648d71c57ee8568083107fb54c71d2e6"
+  },
+  "26.2-26.2.0.1": {
+    "versionId": "QeKcsTSe",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T16:42:59.536324Z",
+    "filename": "FallingTree-26.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/QeKcsTSe/FallingTree-26.2-25.jar",
+    "sha512": "71373d1237dde944257280b1ac89ba10abc23f51cfdd8357b5708327fc7213be677c9acff604462fc1b1d9cf38c20266ce32d25b09217a3c855a06fe75604fe9"
+  },
+  "26.2-26.2.0.2": {
+    "versionId": "nNFPkkaX",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-18T07:31:34.148597Z",
+    "filename": "FallingTree-26.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/nNFPkkaX/FallingTree-26.2-25.jar",
+    "sha512": "18f06f99f1eac2ddaeac1f22c0d3fe0cca0f4d9ba0862a23437e2ac72c46bf8941219b556c8c8f90b59d7f18ac27b06001d67572417e40b9794365514ccec219"
+  },
+  "26.2-26.2.0.3": {
+    "versionId": "sOoH5kkd",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-19T06:40:59.082690Z",
+    "filename": "FallingTree-26.2-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/sOoH5kkd/FallingTree-26.2-25.jar",
+    "sha512": "b47a93c6fed4bfc9da70881d6eea5df771c79a679fc2473b0c987935736a3c85b1a5c7ab1a2580d0833413ddc6ca02aa5d5996e9e88bd7b0387a3ff74f049130"
+  },
+  "3.11.3": {
+    "versionId": "NF3wLCFV",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T16:01:19.032570Z",
+    "filename": "FallingTree-1.19.3-3.11.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NF3wLCFV/FallingTree-1.19.3-3.11.3.jar",
+    "sha512": "e452cfcbdf2e5f89284b34011c99d833428cea3b6c59199945a794ec45514b7706b17fc0c341e12a3f1989783ac4cfe820a5c5ada86003bf9624c872dcc84158"
+  },
+  "3.13.0": {
+    "versionId": "8q3U34GC",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-16T14:45:17.473389Z",
+    "filename": "FallingTree-1.19.4-3.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/8q3U34GC/FallingTree-1.19.4-3.13.0.jar",
+    "sha512": "20f176c0cf8a708bbfa49d40bf3dec91e1caa9ec18823f02d8e02a3077a4614795ca7e9c1c53104769202451472f75f79aac252de3095031bf37fb36cfb55364"
+  },
+  "3.13.1": {
+    "versionId": "KW9Dm2r0",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T16:12:02.881827Z",
+    "filename": "FallingTree-1.19.4-3.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/KW9Dm2r0/FallingTree-1.19.4-3.13.1.jar",
+    "sha512": "fa4c25467cc9df72a74d7388674cddf26c7196b9376f3a9ffc65f9cf1820a05f13e6ce6b7674918e91684d7993e03dc2b7028ff725866f55140e279108c700c7"
+  },
+  "3.5.5": {
+    "versionId": "1TSCSQ4C",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-22T06:48:38.130990Z",
+    "filename": "FallingTree-1.18.2-3.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/1TSCSQ4C/FallingTree-1.18.2-3.5.5.jar",
+    "sha512": "7228c2a1722046c623077f4ca6c90ed474275c5c366860708c6745dd196a05d9c1fad318f39833cedd38f733f01e58fc1209d1552271c36bc5b2fe517e369413"
+  },
+  "4.0.1": {
+    "versionId": "7vuduZD7",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T16:25:47.013971Z",
+    "filename": "FallingTree-1.20-4.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/7vuduZD7/FallingTree-1.20-4.0.1.jar",
+    "sha512": "f945197edfe762e8e1a5b7b390d9bee2b879ac3609b92b8594024f54014d62f95b298d1a02ebb79dff4e5a4b0a0c808aaf891fc5f5af66a51f1e5ef6d117ba9d"
+  },
+  "4.0.2": {
+    "versionId": "KRt1RhNH",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T17:22:08.814649Z",
+    "filename": "FallingTree-1.20-4.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/KRt1RhNH/FallingTree-1.20-4.0.2.jar",
+    "sha512": "7e9c838c11d7dc8cae99e47fceecc4fb1f8d434bf604358a6c659c7fed0b6f5cf6d6de7f64538f425824f996449bf822c7a143433c777974d8dbb37d092e62c2"
+  },
+  "4.0.3": {
+    "versionId": "Fi75hN4R",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-15T21:46:34.483166Z",
+    "filename": "FallingTree-1.20-4.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Fi75hN4R/FallingTree-1.20-4.0.3.jar",
+    "sha512": "519f51d876a913fa4ae3c6f4146189c79a2a0306308212a6d378f7db9cbc79e061576cefc6284b23824c56d44a66dcc17d5460943623de23705e835b81db63b1"
+  },
+  "5.0.0": {
+    "versionId": "SQSRyVeT",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-23T09:43:26.770193Z",
+    "filename": "FallingTree-1.20.2-5.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/SQSRyVeT/FallingTree-1.20.2-5.0.0.jar",
+    "sha512": "a02654690836d591440194e959527f38f459ff6542e341a3e5c5b66f661a105e0ae0dd649c3567a21f58d7b927757cd07b04eb89eccdb217c49cf529c9668624"
+  }
+}

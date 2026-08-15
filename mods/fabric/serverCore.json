@@ -1,0 +1,635 @@
+{
+  "1.2.3-1.17.1": {
+    "versionId": "jdWMQF3q",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-10-31T22:04:17.534623Z",
+    "filename": "servercore-1.2.3-1.17.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-1.17.1/servercore-1.2.3-1.17.1.jar",
+    "sha512": "6557040f7cb1e0898f30b33c5c759bf75bc876bd8a6c967cad10ff59f6231fe6acc748b40dcbd8f6273c1cd441815cd5f1afe8a6055981fbb07704f6908718df"
+  },
+  "1.2.4-1.17.1": {
+    "versionId": "zrc8Lb7r",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-18T12:50:19.013086Z",
+    "filename": "servercore-1.2.4-1.17.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.17.1/servercore-1.2.4-1.17.1.jar",
+    "sha512": "7f41585be695d2f68550709f7c04b9fa0e9b505bcbeba1f74f98eb4c3378b38d010b31b588043ae327bd5230e008439799f34ce96d60f578c94e512fd42eca19"
+  },
+  "1.2.4-1.18-pre4": {
+    "versionId": "iIO82sHi",
+    "gameVersions": [
+      "1.18-pre3",
+      "1.18-pre4",
+      "1.18-pre5",
+      "1.18-pre6",
+      "1.18-pre7"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-11-17T19:16:54.252446Z",
+    "filename": "servercore-1.2.4-1.18-pre4.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.18-pre4/servercore-1.2.4-1.18-pre4.jar",
+    "sha512": "36f164a88906681405fffab9b241737946888bb4ad5bea0fe59f506140c0a0b933ba337bbc3906385acc536c39c11513deed3065bcfbfe8c0986c55772a4be29"
+  },
+  "1.2.5-1.17.1": {
+    "versionId": "XcHqpCID",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-29T11:54:24.491410Z",
+    "filename": "servercore-1.2.5-1.17.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.5-1.17.1/servercore-1.2.5-1.17.1.jar",
+    "sha512": "fb6cb40b75aed5f49c08aeb3c754cae4af62fbd0c6a2ef8da9afa49ab3f8e437f39f515a58af4e6f8ef664c17596cd56d5d2c8c0eb756551d86e58f8a048e215"
+  },
+  "1.2.5-1.18": {
+    "versionId": "OKdqaWsX",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T16:43:01.859984Z",
+    "filename": "servercore-1.2.5-1.18.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.5-1.18/servercore-1.2.5-1.18.jar",
+    "sha512": "75265ecffd0999a78f9897774e6ff989fb69f0a92b92246f4bf54dc9d1507adaf19118bbcb5354709064c4655fcdcefc7cf7d9be04277b1b369e7e63192abed9"
+  },
+  "1.2.6-1.18.1": {
+    "versionId": "LdRH09D2",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-10T14:02:21.649138Z",
+    "filename": "servercore-1.2.6-1.18.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.6-1.18.1/servercore-1.2.6-1.18.1.jar",
+    "sha512": "8e8eb020447c362c5ecce7d8a6d6756ca5c7dfdb001d35c87787de54f5b07de239566d47c94955b4372e461cb1160915773e7160484e3f9380d432066ce57b7b"
+  },
+  "1.2.7-1.18.1": {
+    "versionId": "HbKbVB8Y",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-01-08T17:37:40.167462Z",
+    "filename": "servercore-1.2.7-1.18.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.7-1.18.1/servercore-1.2.7-1.18.1.jar",
+    "sha512": "8b383c8ebca847b1e259f468a5d2d4e91fd36a0515baad27b6917238ce352ba08fbc13d299b332ee7b44f298d3a83c01cc9ba1845be567e5d730a40fbb061746"
+  },
+  "1.2.8-1.18.1": {
+    "versionId": "IOuEmJ7r",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-01T19:50:46.990477Z",
+    "filename": "servercore-1.2.8-1.18.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8-1.18.1/servercore-1.2.8-1.18.1.jar",
+    "sha512": "bf868496595564b8f934c9fd269b2f217d78ab111307970e280b9e02a160dc1195b1c6a45abcc0447b7bcbde70f0c1498d1df02a285674daade5283eca571b7a"
+  },
+  "1.2.8-1.18.2": {
+    "versionId": "4PbPJU10",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-28T15:08:24.395055Z",
+    "filename": "servercore-1.2.8-1.18.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8/servercore-1.2.8-1.18.2.jar",
+    "sha512": "4ec5077382341ae48522de9ae74f8a8dac2d84cec0b9f4a149f8b078e0af9cb8c343f587dd61f0878b6dfdb884f7fdc081d0d2c5afe62883c7092ee57c7e8f9c"
+  },
+  "1.2.9": {
+    "versionId": "1Axad5Jl",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-23T22:05:56.605245Z",
+    "filename": "servercore-1.2.9-1.18.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.9/servercore-1.2.9-1.18.2.jar",
+    "sha512": "25b0805a52c9f7002faef6b889494c026d8421e3404674338d2fe3a947899cb5dc8d531c200dfec3c80e986226d91c471798968704df1626cfd6e404306d6c9f"
+  },
+  "1.3.0": {
+    "versionId": "nYXTzmMC",
+    "gameVersions": [
+      "1.19",
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-07T21:20:09.502785Z",
+    "filename": "servercore-1.3.0-1.19.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.3.0/servercore-1.3.0-1.19.jar",
+    "sha512": "8679b9e126fcf14ec84c20c2db82a0aa8a6a1b4f8a3f84eb25ab6a3263a11f4597a1bb35cd51465531609a3fff94dd88791aa78ebe7912e5d990f6bebbc8e551"
+  },
+  "1.3.1-1.19": {
+    "versionId": "LfJCIqp7",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-29T14:38:43.021359Z",
+    "filename": "servercore-1.3.1-1.19.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.3.1-1.19/servercore-1.3.1-1.19.jar",
+    "sha512": "83fffc0da382ce71294eb9d7565fe57cf1bb6dcadf62e584c8fd48eb1637c294903eda38605681bf8fe5a5646b1b156cda86c8b54bdda6393eb0d062205dd787"
+  },
+  "1.3.1-1.19.1": {
+    "versionId": "NDlsg2Sf",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-29T14:41:09.533300Z",
+    "filename": "servercore-1.3.1-1.19.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.3.1-1.19.1/servercore-1.3.1-1.19.1.jar",
+    "sha512": "c903115798f77ebc80a97b285eb062f6c62f588d85e6db8abf705a11398d3c6c1570f5c70df90e143925317c48e9bcc849ba6c40821e7195666286e0c4350b78"
+  },
+  "1.3.2-1.19.2": {
+    "versionId": "A6ySBG0U",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-05T10:00:12.578856Z",
+    "filename": "servercore-1.3.2-1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/A6ySBG0U/servercore-1.3.2-1.19.2.jar",
+    "sha512": "e38e29e97cfa2b296e0ef6076340ea18e1a6e726760249e4abdf7abaa94889dbad37428436cae6ca65ede9521d2fb28ed580a64d8790774deec7d046b8764591"
+  },
+  "1.3.3-1.19.2": {
+    "versionId": "kzD8EGTS",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-30T13:53:23.114168Z",
+    "filename": "servercore-1.3.3-1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/kzD8EGTS/servercore-1.3.3-1.19.2.jar",
+    "sha512": "3cf3c0f43bdc5b0f753e87db0cfe1cee0299cfd9f5732697288af4685ae51b1d883f57ed20fc20c6a8f5871215d727e4d5fd5175738345d8f1b4c87f1351a116"
+  },
+  "1.3.4-1.19.3": {
+    "versionId": "k0LvWP3Q",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-07T16:30:32.885610Z",
+    "filename": "servercore-1.3.4-1.19.3.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/k0LvWP3Q/servercore-1.3.4-1.19.3.jar",
+    "sha512": "8fd474697a49244f2728d891056f442a45c08fd9efebe546661ba445afe941c984953f852e4802ee6dda61dc12d4b254c4d410f3641fc797b43babfde2fa3794"
+  },
+  "1.3.5+1.19.4": {
+    "versionId": "aq6o4qRe",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-14T16:43:37.665144Z",
+    "filename": "servercore-fabric-1.3.5+1.19.4.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/aq6o4qRe/servercore-fabric-1.3.5%2B1.19.4.jar",
+    "sha512": "41b8f4a48bdda74b68fc9810d52510fd4bdc56dc9ab06d2fa936804419c5903ea3ff479fdf5e4b5c75a3e1829f026ee39c775e987576d74ff6f64e4e5cfd2c37"
+  },
+  "1.3.6+1.19.2": {
+    "versionId": "o4TGWM7w",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-22T09:46:36.368501Z",
+    "filename": "servercore-fabric-1.3.6+1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/o4TGWM7w/servercore-fabric-1.3.6%2B1.19.2.jar",
+    "sha512": "c7057d27bcb38d0ddb313fa8bb12b694d5f0b9e42563f6a4732ee43ce48ec3a2116fac307f09c46bf6062107381385988b8622d6952b80fd75045e7ecbe6ef8c"
+  },
+  "1.3.6+1.20": {
+    "versionId": "L1eEFElb",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-07T17:33:58.181558Z",
+    "filename": "servercore-fabric-1.3.6+1.20.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/L1eEFElb/servercore-fabric-1.3.6%2B1.20.jar",
+    "sha512": "9d65a034ebf8a72a12595095274d52508c039b611a1a814b921881bd68fdc36c5e452963b52f4925e5b7b4ab2a821efed475ed8bcf5e587590c9195b63a160b7"
+  },
+  "1.3.7+1.20.1": {
+    "versionId": "exA4UxFq",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-13T18:50:10.187908Z",
+    "filename": "servercore-fabric-1.3.7+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/exA4UxFq/servercore-fabric-1.3.7%2B1.20.1.jar",
+    "sha512": "8d57af6f141369ead4513ead3fd3d71d7b6d5e9b500fa9c10b87d64d9bf7c038fa4cc30c5ac8833a8b9690d833c610cb385ab0c7dbb6a19a82cdc8fc63845c9c"
+  },
+  "1.3.8+1.20.2": {
+    "versionId": "LrB49Mln",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-22T16:40:41.564636Z",
+    "filename": "servercore-fabric-1.3.8+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/LrB49Mln/servercore-fabric-1.3.8%2B1.20.2.jar",
+    "sha512": "bb332687ca690c81e4619298f9203b127bdc402ff49a395621639d43948930c37488b8d041ba884a47c2e8cc7adb3c18d42e7dc1ada8a6ac9f7c54b6bcaaf87c"
+  },
+  "1.3.9+1.20.1": {
+    "versionId": "RjHT254T",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-29T20:03:56.976033Z",
+    "filename": "servercore-fabric-1.3.9+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/RjHT254T/servercore-fabric-1.3.9%2B1.20.1.jar",
+    "sha512": "2da298e87cdf7581af7628e8b434ed2805c37738624a95aed00b1066cb0d1f174ec55063d605dcb7a78fc4928830d07af21b6977b6bc293b0a66f0d1e8bb645c"
+  },
+  "1.3.9+1.20.2": {
+    "versionId": "sicenHyA",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-29T20:04:20.815845Z",
+    "filename": "servercore-fabric-1.3.9+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/sicenHyA/servercore-fabric-1.3.9%2B1.20.2.jar",
+    "sha512": "a47fafccc8dc9e90079020566418d65adb4b45ea79ddde3e00820ec2fa6ba020d07c9369b0d3d67664f82ad842361b1d1f405a6c2d9157f8d3690888359e09aa"
+  },
+  "1.4.0+1.20.3": {
+    "versionId": "H1fXXdNC",
+    "gameVersions": [
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-06T21:06:28.899856Z",
+    "filename": "servercore-fabric-1.4.0+1.20.3.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/H1fXXdNC/servercore-fabric-1.4.0%2B1.20.3.jar",
+    "sha512": "84e9caf362e21ba23f47f91a7825c59f3bd596fbaa2bb3fdf0a4c43d51ce4add3b9609883a809899f14642795912a4019660201270060124ce5e631080c4766e"
+  },
+  "1.5.0+1.20.1": {
+    "versionId": "dXmFuxyH",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-02T21:08:03.341686Z",
+    "filename": "servercore-fabric-1.5.0+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/dXmFuxyH/servercore-fabric-1.5.0%2B1.20.1.jar",
+    "sha512": "44242a75810f7915368b44d6524e40e3fe5cb15932fb20c8613183c7b75fccc54e72a37ec1a529813c9314b4bf121cf3dcc4f00dfe5452fc8eb6bf433d67dc41"
+  },
+  "1.5.0+1.20.2": {
+    "versionId": "wgjsjWPu",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-02T21:06:42.861346Z",
+    "filename": "servercore-fabric-1.5.0+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/wgjsjWPu/servercore-fabric-1.5.0%2B1.20.2.jar",
+    "sha512": "8e2124263c6a501bc116ed8a60ffad6d5fed63d8c4a9c1cee50c749e3bb71611b1c90acb22244cc75ed515072ef26ffa52069444b05e9911bb4919fef414fbdb"
+  },
+  "1.5.0+1.20.4": {
+    "versionId": "1mKL7nLt",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-02T21:04:08.155395Z",
+    "filename": "servercore-fabric-1.5.0+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1mKL7nLt/servercore-fabric-1.5.0%2B1.20.4.jar",
+    "sha512": "1451929fb75003852545236746d07cefd6a259984570c45589e5bdfe655897c7422250aa1f80e1304fa2f00b3ddc419650bf8d1b2a9c4fe3541266e4c49155a4"
+  },
+  "1.5.1+1.20.1": {
+    "versionId": "2SHzyIvs",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-24T18:53:13.119425Z",
+    "filename": "servercore-fabric-1.5.1+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/2SHzyIvs/servercore-fabric-1.5.1%2B1.20.1.jar",
+    "sha512": "7249ea31fd4b0d93b4bddb8d76179404b0dc0158d09475794e0bb68cda8c8f6b7ad56bc6b5b978f5e5fbae873843de70990d652dad243b3bb5f132232a108928"
+  },
+  "1.5.1+1.20.5": {
+    "versionId": "MiqvHRzE",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-24T18:59:53.778020Z",
+    "filename": "servercore-fabric-1.5.1+1.20.5.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/MiqvHRzE/servercore-fabric-1.5.1%2B1.20.5.jar",
+    "sha512": "072704b9a892787f004ac55aa25c8ccdddc52c02d21a5b7ae515aacc6c25f1650b1ea312e8638f3b5be2a6719fda66f5d002e5ff330231e9b93fdd820943fa19"
+  },
+  "1.5.10+1.21.1": {
+    "versionId": "FDzBkBBD",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-04-06T10:55:49.850625Z",
+    "filename": "servercore-fabric-1.5.10+1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/FDzBkBBD/servercore-fabric-1.5.10%2B1.21.1.jar",
+    "sha512": "dac68103d1ab69adeecdff220d391b4b5d9a826db1b94a8c5372fec8d5e6c41eb37ebc96b8361be84df5c3499a1b0e4d2a657d60df553b47dde133100666268d"
+  },
+  "1.5.10+1.21.5": {
+    "versionId": "VK0kd4wj",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-06T10:59:53.386359Z",
+    "filename": "servercore-fabric-1.5.10+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/VK0kd4wj/servercore-fabric-1.5.10%2B1.21.5.jar",
+    "sha512": "338a6cd2433f799f23ab947e4d574bc48187501edef26d574d43eb455476cbfaa0611da3b39d77400abb89a817dc1c55a552f9387b073d318386fdb1d3c07207"
+  },
+  "1.5.11+1.21.5": {
+    "versionId": "TeMECVcw",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-19T19:05:15.533123Z",
+    "filename": "servercore-fabric-1.5.11+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/TeMECVcw/servercore-fabric-1.5.11%2B1.21.5.jar",
+    "sha512": "dca814e54752963dfb28032211ddf4937a07281f8e80f76a89bcc5171b4eb229fd76ea67edf2fee5b290dd1da4e184d749327ae0ce2d429828b5b95a0ab6b2c2"
+  },
+  "1.5.12+1.21.5": {
+    "versionId": "p1d61qkg",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-29T10:37:19.795290Z",
+    "filename": "servercore-fabric-1.5.12+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/p1d61qkg/servercore-fabric-1.5.12%2B1.21.5.jar",
+    "sha512": "3342f3ac611d668953cade0e2017cbb1c1da9e76b1eb29acaf348b21a8d9dede10921ff33d01acd98ab6e78f553ac9eb0f0dec9615fb9716c0c4d635d62b1139"
+  },
+  "1.5.13+1.21.6": {
+    "versionId": "tYpkAekN",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-17T20:20:21.193338Z",
+    "filename": "servercore-fabric-1.5.13+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/tYpkAekN/servercore-fabric-1.5.13%2B1.21.6.jar",
+    "sha512": "265e3cbdbf8a0728d00333583b7765e836996ed0a225da2f3b59215d2de45abc293ce18ce0810d06040cee33718244f817553d06ae8fb9f6afeef23df73aa29e"
+  },
+  "1.5.14+1.21.8": {
+    "versionId": "CdJJdZ39",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-17T09:14:27.666332Z",
+    "filename": "servercore-fabric-1.5.14+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/CdJJdZ39/servercore-fabric-1.5.14%2B1.21.8.jar",
+    "sha512": "59607b7a078bc13a8c984938108f251456160ca1eaebce9fc20b69aacbf4a64ff8bfc9e30920311a3ad3988c172a59eee690df9d81d05c8e2128b0234b524a98"
+  },
+  "1.5.14+1.21.9": {
+    "versionId": "TTQGy6U8",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-05T12:51:06.511422Z",
+    "filename": "servercore-fabric-1.5.14+1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/TTQGy6U8/servercore-fabric-1.5.14%2B1.21.9.jar",
+    "sha512": "d6113cedae8d0852c7341d8bb016732b03cea2d3729cb9140549bde6004aee1dd48634e16b3727b8cd4e8d101675672e43e6cc205958b4b41d4658ab3eb69b12"
+  },
+  "1.5.15+1.21.11": {
+    "versionId": "zg8VIycZ",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T20:03:16.956582Z",
+    "filename": "servercore-fabric-1.5.15+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/zg8VIycZ/servercore-fabric-1.5.15%2B1.21.11.jar",
+    "sha512": "964392769e53f9764466e26044552f60e91137f487b49d98a85bd4dc03ab8e965f0c69bc1a43e96ef5737cd8f1a9bb75cc0a0c09dd30bab6786d8ab4bbea6e01"
+  },
+  "1.5.16+26.1": {
+    "versionId": "P8k080Af",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-28T11:06:57.841901Z",
+    "filename": "servercore-fabric-1.5.16+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/P8k080Af/servercore-fabric-1.5.16%2B26.1.jar",
+    "sha512": "ba8322c7569680f40f4162693623f488c17df0e8d394aaee20bbc8e1a3097aab3093896ea96e6839a36f817c1657bed89ba501316fa3980a15a5c0618e2d1a9e"
+  },
+  "1.5.17+1.21.1": {
+    "versionId": "gooI6SAO",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-23T20:47:46.161482Z",
+    "filename": "servercore-fabric-1.5.17+1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/gooI6SAO/servercore-fabric-1.5.17%2B1.21.1.jar",
+    "sha512": "c0b8655d41e66a8cdd1f83e3cd7a032f3d2e4dda1ce51e80a336a799a9fcfb695e3d526a0af360d779408b5b5173f2d2a5ffc1e6fbaf9dc03f48d0a8a65f40cf"
+  },
+  "1.5.17+26.1.2": {
+    "versionId": "2siue87F",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-19T16:41:54.337608Z",
+    "filename": "servercore-fabric-1.5.17+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/2siue87F/servercore-fabric-1.5.17%2B26.1.2.jar",
+    "sha512": "b994f148565893024bd9e747d47396b30f2561d553cbae9849d2203066dbae5a45194b083955f6c98d217d0ad6b3b7027d1d9aedd823fb78a61768d3c228f525"
+  },
+  "1.5.18+26.1.2": {
+    "versionId": "JO7SZMDs",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T16:11:53.721745Z",
+    "filename": "servercore-fabric-1.5.18+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/JO7SZMDs/servercore-fabric-1.5.18%2B26.1.2.jar",
+    "sha512": "d8af5b005eeabfbb1aa9b0ae0fe66682ef7e2de31db18070f3f2ee00c3b359954b3366c11ff99d3fff2a34a1cf883bfa7b18bcad9e8f95f76fb31bd2a08b0eb9"
+  },
+  "1.5.18+26.2": {
+    "versionId": "GLfNozQ2",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T21:35:43.912119Z",
+    "filename": "servercore-fabric-1.5.18+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GLfNozQ2/servercore-fabric-1.5.18%2B26.2.jar",
+    "sha512": "6a98ac64f8057c1759b9399b27d88b83118d8c6d8917d8e1d4fb35858e1a2b2c3aeea579f76e665e4b4576b5d163e1605da1e060fbe5cef20602a7be7bae0c5e"
+  },
+  "1.5.19+1.21.1": {
+    "versionId": "GQ2a51Rl",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-24T12:58:50.066827Z",
+    "filename": "servercore-fabric-1.5.19+1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar",
+    "sha512": "d1c3dd6abb70ae89b125fac649503524bc179b551e352f34cbc43d7ef31b7d0decb170c99c8e7275fe18a1f208c826e4484a0d74fc16ef8d11fb1725fd64fbb5"
+  },
+  "1.5.19+26.1.2": {
+    "versionId": "H6TboTA2",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-24T12:56:58.151806Z",
+    "filename": "servercore-fabric-1.5.19+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/H6TboTA2/servercore-fabric-1.5.19%2B26.1.2.jar",
+    "sha512": "056d56d74508bf34f25ded9323a721be915b9273796100ee81c4a867717364539285b4ae9749e360d6699d485e3fba0561502a8c94979684b0cf79ce8e80afcd"
+  },
+  "1.5.19+26.2": {
+    "versionId": "edrtnY9v",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-24T12:56:41.975609Z",
+    "filename": "servercore-fabric-1.5.19+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/edrtnY9v/servercore-fabric-1.5.19%2B26.2.jar",
+    "sha512": "aa4cfc93f8e02172910302444330e37713dfcf2047d28e55eb7323a3cd5d51493374a0959aa3e626ec2bf43fc707a755508b83454bb34b6d57d65c069929074b"
+  },
+  "1.5.2+1.20.1": {
+    "versionId": "m978FuzE",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-22T21:48:01.880057Z",
+    "filename": "servercore-fabric-1.5.2+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/m978FuzE/servercore-fabric-1.5.2%2B1.20.1.jar",
+    "sha512": "ba0166167615d32503b39c5d0069278ce69b611354f1f73a9fc8a5f393f2df5f22cba9e9e228d9f154ac6feaea20155251bb2f73dd5ffec5bbc5fbe997842e30"
+  },
+  "1.5.2+1.20.6": {
+    "versionId": "aU1Fp6PB",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-11T18:04:34.977326Z",
+    "filename": "servercore-fabric-1.5.2+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/aU1Fp6PB/servercore-fabric-1.5.2%2B1.20.6.jar",
+    "sha512": "74d58f2f2c35818259f7c7eda1ddd636c2045b8dc864f8e949ad91f154e9dbce1df22cacd7ce9be873779ae77dafecd0a2ca98d1751ad0c259510e9b819fe618"
+  },
+  "1.5.3+1.20.6": {
+    "versionId": "uTyB6Mjt",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-04T17:48:26.031019Z",
+    "filename": "servercore-fabric-1.5.3+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/uTyB6Mjt/servercore-fabric-1.5.3%2B1.20.6.jar",
+    "sha512": "22cfe9e9c030a50bfa5bf38d18854e7d37f07ac9c4cbd7a989b9e3df81fcc2b968a5e0f2a95f0bc4e43908bd51bda132fd3c95196ce799ac08316dbeb98a2967"
+  },
+  "1.5.3+1.21": {
+    "versionId": "FW5dMqws",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-15T19:22:45.633162Z",
+    "filename": "servercore-fabric-1.5.3+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/FW5dMqws/servercore-fabric-1.5.3%2B1.21.jar",
+    "sha512": "c762bab034aa00964680833d374beef021d9cd83a8bf0d1c625040571c196d2aa9488c3b0c4a8d6bd16b25ea008b07262f9856fb0d872bc5a579af42b18bd263"
+  },
+  "1.5.4+1.21": {
+    "versionId": "pdvZYDOA",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-06T23:44:52.337270Z",
+    "filename": "servercore-fabric-1.5.4+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/pdvZYDOA/servercore-fabric-1.5.4%2B1.21.jar",
+    "sha512": "3fd26c420a0aa1f1f910a24057414740b74e658b4299e01644101a9032a10c09db19eee11962691c810cf36d6035e2f942732d60c4c746e1e9c70c4dc8556671"
+  },
+  "1.5.5+1.21.1": {
+    "versionId": "wPZETsJM",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-27T08:37:17.905594Z",
+    "filename": "servercore-fabric-1.5.5+1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/wPZETsJM/servercore-fabric-1.5.5%2B1.21.1.jar",
+    "sha512": "3566dbbc73e266b907fff2143bb8279783eecd5a9aa185afe0814919574dca18d61f4066e9ac184530f322f7ffa574b4d3240590742d27d9dfe6ea11f5d27478"
+  },
+  "1.5.6+1.21.2": {
+    "versionId": "4pWsnZyV",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-22T17:20:24.060728Z",
+    "filename": "servercore-fabric-1.5.6+1.21.2.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/4pWsnZyV/servercore-fabric-1.5.6%2B1.21.2.jar",
+    "sha512": "a9c8449e090c7ec3c46b74ece52bdec7e595a07a41802ee63f5f7c63cee1688805347ec0b8efab310e4dcee93d27b7624bf423c7535a1cead5997e02aaad6d1f"
+  },
+  "1.5.7+1.21.3": {
+    "versionId": "rZTuu2qK",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-05T19:57:36.888683Z",
+    "filename": "servercore-fabric-1.5.7+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/rZTuu2qK/servercore-fabric-1.5.7%2B1.21.3.jar",
+    "sha512": "0074b22fcaf652377b71f27fe555c3ecbbf416b9c9e88ed44e956d39cd5b300c4aa8d750c29f7a4f6361fa4105cd3021258da588425ea39c9fa0db5f6d4ba711"
+  },
+  "1.5.8+1.21.3": {
+    "versionId": "PgKTFLEL",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-22T21:50:08.053236Z",
+    "filename": "servercore-fabric-1.5.8+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/PgKTFLEL/servercore-fabric-1.5.8%2B1.21.3.jar",
+    "sha512": "187d8559f7241242c5b8cac17fb8d45e57e71d0c4f9db8618391667e0ba4c658fc5ee1f1c815eab3e13550df2856ee9a97de8ae62ced7e813a41faafa92fd27b"
+  },
+  "1.5.8+1.21.4": {
+    "versionId": "uJYh4tBK",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T19:21:14.124201Z",
+    "filename": "servercore-fabric-1.5.8+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar",
+    "sha512": "5fe7feb62487d54b3779d4418a675b82be817b3e35a808f320582e4efec2422454c8a129793f0c11c9eb8a0f406c0f7e2003d46c936416a2bfea6a5f85a4ead2"
+  },
+  "1.5.9+1.21.5": {
+    "versionId": "whVgWjOT",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T16:20:10.922002Z",
+    "filename": "servercore-fabric-1.5.9+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/whVgWjOT/servercore-fabric-1.5.9%2B1.21.5.jar",
+    "sha512": "ebfc420a21fe3d93439478a0522e34dbc4e522ba97e8257807f89dbd194531a7bd280ad2f52d1b28b716f538110f3173fe3e0f4bcdcde5fe8fa27024c6349b8c"
+  }
+}

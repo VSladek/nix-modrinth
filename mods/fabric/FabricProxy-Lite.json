@@ -1,0 +1,293 @@
+{
+  "v1.0.1": {
+    "versionId": "7Pfsv1Mg",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-01T05:20:24.208229Z",
+    "filename": "FabricProxy-Lite-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.0.1/FabricProxy-Lite-1.0.1.jar",
+    "sha512": "99bc81197eea7a5cb1e9950207753ba49cccf277b82b0e302a7a2aca1f87eaa350f5b10fe41657ff8d5f8ec34e489b00193450708f926e71713b32e5933b0ffb"
+  },
+  "v1.1.0": {
+    "versionId": "YVMQTgz2",
+    "gameVersions": [
+      "1.16.5",
+      "21w05b"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-08T13:17:18.487658Z",
+    "filename": "FabricProxy-Lite-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.0/FabricProxy-Lite-1.1.0.jar",
+    "sha512": "22e255b8dd57fdea0e988785d0395ec3379248a5be9bd66d4ddb6c032380cf20dbe397bfd0e8198770866e696df920ae75afd589fa304ab07afc7da57738b807"
+  },
+  "v1.1.1": {
+    "versionId": "HnXgqLgP",
+    "gameVersions": [
+      "1.16.5",
+      "21w03a",
+      "21w05a",
+      "21w05b",
+      "21w06a",
+      "21w07a"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-19T04:58:24.203042Z",
+    "filename": "FabricProxy-Lite-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.1/FabricProxy-Lite-1.1.1.jar",
+    "sha512": "472b71154a049d377f27052c568c07689c9aea39a32f0c8b9cdd249bb5c8df4428777a497ede728e0cad18772c565ad364dde3a0c3c851e314e4b95ae50428af"
+  },
+  "v1.1.2": {
+    "versionId": "Aa4ltboH",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-05-12T12:27:50.658246Z",
+    "filename": "FabricProxy-Lite-1.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.2/FabricProxy-Lite-1.1.2.jar",
+    "sha512": "334be84deb3bb177bd6380acc5c7a513c7929400960945e06180c315fbecbf56eaf0fa4274c622d752ba2d56956f9d1c9f251907922344058ed6969774ad6580"
+  },
+  "v1.1.3": {
+    "versionId": "2VMz1ONW",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-05-16T11:01:01.722578Z",
+    "filename": "FabricProxy-Lite-1.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.3/FabricProxy-Lite-1.1.3.jar",
+    "sha512": "93445cc2df0c26898ebfbe28d5828b5e630762e46d397c56b2f4482ddbc61786b8790e3b1d6fc1cf6745fd5a67083cfdd190a3b3fb928217174fe84bb177caa7"
+  },
+  "v1.1.4": {
+    "versionId": "yENVxKfk",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-09T01:49:35.658730Z",
+    "filename": "FabricProxy-Lite-1.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.4/FabricProxy-Lite-1.1.4.jar",
+    "sha512": "ae2c8635eb62f273e8f50da4e012e57ed1b24c505e678596768e3cec14d19e7eedc4c0649723c268af43f482a593dc98ef57aafcd4293f18eba6616e9ae90b1c"
+  },
+  "v1.1.5": {
+    "versionId": "4mdGBekc",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-17T05:03:28.865386Z",
+    "filename": "FabricProxy-Lite-1.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.5/FabricProxy-Lite-1.1.5.jar",
+    "sha512": "eba081ef3a4b6884cb11a0970f7fe46ca5d4fc62b3f599a9a62e0434caa283f8dd22a7483d0394805a66397a2b6cc844dcce6a36fe96bb96398b7f8b856c2285"
+  },
+  "v1.1.6": {
+    "versionId": "KUX0HBRJ",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T16:44:34.207245Z",
+    "filename": "FabricProxy-Lite-1.1.6.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.6/FabricProxy-Lite-1.1.6.jar",
+    "sha512": "53b89e1bb732d80ffc86af2a257671e75765bdfda33f6e2ce34f735d80274eb652a0e0fa85fd1b71a938370100cec6ecb34ff0d3890eb21d83232cc91f73d50c"
+  },
+  "v2.0.0": {
+    "versionId": "QP9gE54u",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-06-08T05:21:07.163675Z",
+    "filename": "FabricProxy-Lite-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.0.0/FabricProxy-Lite-2.0.0.jar",
+    "sha512": "e21c0eb1dfa568ec93267bedd1e76c6f8a2edfbed2d8ff9b51d3dd833f69cef3b5d14fcffa2c9e5eeb52e8b075de0f6f27c1308ceb8404023eb2a79ee43b8be9"
+  },
+  "v2.1.0": {
+    "versionId": "tDg4itgr",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-09T15:22:00.295116Z",
+    "filename": "FabricProxy-Lite-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.1.0/FabricProxy-Lite-2.1.0.jar",
+    "sha512": "a4481e22aa9af130db06613a2029f813d49b86f0a83a11642e87354092a7c299c0b76059e85cc8d1c5a300fb72913357e67572e2824fa946a71156f6857d96f7"
+  },
+  "v2.1.1": {
+    "versionId": "2Yvbf5hW",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-17T05:30:14.163383Z",
+    "filename": "FabricProxy-Lite-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.1.1/FabricProxy-Lite-2.1.1.jar",
+    "sha512": "bd9d30513da43b552059b4acf8352f274738782694e498ae6d2a5a0a8499c455c15df59073d831e098b96b5336841664511557f818711abd095c717e5eedfb73"
+  },
+  "v2.10.0": {
+    "versionId": "7Juknjr6",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-27T10:23:37.612674Z",
+    "filename": "FabricProxy-Lite-2.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/7Juknjr6/FabricProxy-Lite-2.10.0.jar",
+    "sha512": "17a46cf558a6df63ab795a45041d04de40a2cbba74e90fec8f5c827cbf3299e5e3232778a9a8478c8ed67783a6d033fae08a63b60318da2871edabcc063d9d5b"
+  },
+  "v2.10.1": {
+    "versionId": "KqB3UA0q",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-12T17:23:46.512985Z",
+    "filename": "FabricProxy-Lite-2.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/KqB3UA0q/FabricProxy-Lite-2.10.1.jar",
+    "sha512": "9c0c1d44ba27ed3483bb607f95441bea9fb1c65be26aa5dc0af743167fb7933623ba6129344738b084056aef7cb5a7db0db477348d07672d5c67a2e1204e9c94"
+  },
+  "v2.11.0": {
+    "versionId": "nR8AIdvx",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-03T03:09:59.368461Z",
+    "filename": "FabricProxy-Lite-2.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/nR8AIdvx/FabricProxy-Lite-2.11.0.jar",
+    "sha512": "c2e1d9279f6f19a561f934b846540b28a033586b4b419b9c1aa27ac43ffc8fad2ce60e212a15406e5fa3907ff5ecbe5af7a5edb183a9ee6737a41e464aec1375"
+  },
+  "v2.12.0": {
+    "versionId": "CsEpiziv",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-28T11:51:42.581399Z",
+    "filename": "FabricProxy-Lite-2.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/CsEpiziv/FabricProxy-Lite-2.12.0.jar",
+    "sha512": "b479c3ed1fe83929cad40e5c925ae2702da879b88a0271a24266cd21ecc037953f347cbe61ac7b7334e087544ee2ce5bf1f041fc3e64f50474404ad564c146f7"
+  },
+  "v2.2.0": {
+    "versionId": "9bCnXZF6",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-28T08:28:58.067109Z",
+    "filename": "FabricProxy-Lite-2.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.2.0/FabricProxy-Lite-2.2.0.jar",
+    "sha512": "da4c492772f1ddbe8af703160adb274417ba1d2c28a3836c10b87d189765b78d4413c30cdd9316fa74db9421aab9e55d30d0ffa34f59ddcc8a66c7c4eca8f862"
+  },
+  "v2.3.0": {
+    "versionId": "7li6CmhZ",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-08-01T09:56:41.021057Z",
+    "filename": "FabricProxy-Lite-2.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.3.0/FabricProxy-Lite-2.3.0.jar",
+    "sha512": "0f632ae3dd0a7a5824d7d58695c437ccbb6646726c402c7a899e508c985e49ca9ae131e87f4d79ac99039efdf0437ff9419f6c8b9c0c2e4c3ce315e7d3e5de73"
+  },
+  "v2.4.0": {
+    "versionId": "rCwKd1CC",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-12-10T10:08:20.453840Z",
+    "filename": "FabricProxy-Lite-2.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/rCwKd1CC/FabricProxy-Lite-2.4.0.jar",
+    "sha512": "9652b0e5116cdc6ebe3bd6cd586c09d7b0cba15f25ecb9b5d422c14ba16ccd26e47a8e79f7ba02a6911e473c9bbc96d18e2f3b19ec8c439018cad32ba83b135d"
+  },
+  "v2.5.0": {
+    "versionId": "HuwRuGXe",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-16T05:01:34.673082Z",
+    "filename": "FabricProxy-Lite-2.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/HuwRuGXe/FabricProxy-Lite-2.5.0.jar",
+    "sha512": "707daf7298147d93ce9c67b5a78ea0751e605ab3858b301f289946a5b9699c45da16d54897f49e15a520dae9c1d47dd5f2ce8d840767c4de57da7c4719a106d8"
+  },
+  "v2.6.0": {
+    "versionId": "XJmDAnj5",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-21T11:35:48.989127Z",
+    "filename": "FabricProxy-Lite-2.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/XJmDAnj5/FabricProxy-Lite-2.6.0.jar",
+    "sha512": "365d29ebaeca55ffdaa4d066141559b00e3177437b0d9fabee3996fcdbd8e2fb8ae45c0c600cb357a042efe750caa2b6efaaffa439f5710cbb04deeae994b7dd"
+  },
+  "v2.7.0": {
+    "versionId": "Mxw3Cbsk",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T12:09:49.265507Z",
+    "filename": "FabricProxy-Lite-2.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/Mxw3Cbsk/FabricProxy-Lite-2.7.0.jar",
+    "sha512": "48e04635d979cbd9a442823738b6814395d36aeb85ad261bdd4d002f663146f6b4f3196f69326560f63ca580d765660ee3a518d440c1ad6f41ae7240dbc40def"
+  },
+  "v2.8.0": {
+    "versionId": "pKclvAHk",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-24T08:55:40.300460Z",
+    "filename": "FabricProxy-Lite-2.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/pKclvAHk/FabricProxy-Lite-2.8.0.jar",
+    "sha512": "7c8f8f902f7b44b29e51ca60a37af4cc2e079762253b72a307cb57b0e7eaabaaf3be218fc541e3effa799695131fbc27c54233a0f90f5ae389a5b853a0cb0ce4"
+  },
+  "v2.9.0": {
+    "versionId": "AQhF7kvw",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-14T07:24:16.406509Z",
+    "filename": "FabricProxy-Lite-2.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/8dI2tmqs/versions/AQhF7kvw/FabricProxy-Lite-2.9.0.jar",
+    "sha512": "3044f36df7e83021210a7c318def18a95b5dbf5e3230bb72a3ddb42ebdda33f248c6d12efcee1240ff0c54600d68d147afa105d04ee37a90acb9409619c89848"
+  }
+}

@@ -1,0 +1,1636 @@
+{
+  "1.18.2-1.0.2": {
+    "versionId": "WoVZMeXQ",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-02T13:58:11.765984Z",
+    "filename": "CraterLib-Fabric-1.18.2-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/WoVZMeXQ/CraterLib-Fabric-1.18.2-1.0.2.jar",
+    "sha512": "fbf9825a292dfabcf527af431c18f936dece1f96ac18bf06b29d92473f293326706ed192ce8b0af9c10b10e4c4f15037ea6a90fb6f0b5e46c308e62f3893e622"
+  },
+  "1.18.2-1.1.0": {
+    "versionId": "GNVrWAuF",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:03:39.264100Z",
+    "filename": "CraterLib-Fabric-1.18.2-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/GNVrWAuF/CraterLib-Fabric-1.18.2-1.1.0.jar",
+    "sha512": "3f6d5767d1da2aebba856eac1c444b498891d046df9dbb3e9b8f222354682cfa2e584b67c4bcea8df33874b95d959a9762658a27d28b5a745eb7f91d2ad1f029"
+  },
+  "1.18.2-1.1.1": {
+    "versionId": "iXv5BEds",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-03T15:51:37.961267Z",
+    "filename": "CraterLib-Fabric-1.18.2-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/iXv5BEds/CraterLib-Fabric-1.18.2-1.1.1.jar",
+    "sha512": "1eea204b53e5e2e432257fd652725e1cb7881602fb04fdaff67623c66e0e01ab0c62c8bc60820d06327b7b5fa56d1bb516592bc8480e24232c24136d0a15c618"
+  },
+  "1.18.2-2.0.0": {
+    "versionId": "2gDqcC60",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T19:52:04.686096Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2gDqcC60/CraterLib-Fabric-1.18.2-2.0.0.jar",
+    "sha512": "e71054159e18f1217f9d054e47633079d217756969c70e72b86a74426835b998bfb2918f81794d1812566869e6a61d698fdbf18c5bdf14184231240c79631f4f"
+  },
+  "1.18.2-2.0.1": {
+    "versionId": "DdF3Tlog",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T18:52:53.818200Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/DdF3Tlog/CraterLib-Fabric-1.18.2-2.0.1.jar",
+    "sha512": "121b129ed3e36d24c130a18478d7ec8db090a7ae5c7f1078ac671b92a1d6ba683578b8fa8cb5111e46fa0618ca18b2f2ae4b252e0bf87c6cc078f83f1a3902ec"
+  },
+  "1.18.2-2.0.2": {
+    "versionId": "m9tkghkY",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T10:46:03.894407Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/m9tkghkY/CraterLib-Fabric-1.18.2-2.0.2.jar",
+    "sha512": "1a43b3c455d59edcf46ba83ee095e9fce4c8073e54301b14492d6021286a74003a0ac33ed969d3fb1a39c1cac84a4964bd1f25a621b9916a3554055c0efcbec3"
+  },
+  "1.18.2-2.0.3": {
+    "versionId": "LHC4mNsP",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:16:42.827896Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/LHC4mNsP/CraterLib-Fabric-1.18.2-2.0.3.jar",
+    "sha512": "f2edac9723f1fd6c246fe01923a6c489b045383b7040150ae6b5631955d6a9fee037dd4f33c8d038d1927520670c93b0f654fcf791f9d1b118370f557b3c3602"
+  },
+  "1.18.2-2.1.0": {
+    "versionId": "Tp5NZqmx",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T07:59:17.027853Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Tp5NZqmx/CraterLib-Fabric-1.18.2-2.1.0.jar",
+    "sha512": "65bdd011892fd8b1c6cccb260052b1182b961d3a5ad1b48e4cb30d555f1950a99407753b2c48c4b9e66ea5c73449cb31fbf6b088a50277f6f66d29630989a4fe"
+  },
+  "1.18.2-2.1.0+hotfix.1": {
+    "versionId": "F4fnnni5",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-09T21:15:40.277484Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.0+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/F4fnnni5/CraterLib-Fabric-1.18.2-2.1.0%2Bhotfix.1.jar",
+    "sha512": "bcdb7d12cbcb279376b438a4e8bf12936d8847a6365955ee4ce3381b915fd79a52d37b9b4fb4f2834bc8554d27677543aac96af4bf15b9959ae5b910a2028976"
+  },
+  "1.18.2-2.1.1": {
+    "versionId": "217JuPC8",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:19:10.336223Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/217JuPC8/CraterLib-Fabric-1.18.2-2.1.1.jar",
+    "sha512": "cb468877c67d30bce7c043886829d4a6c381592b244351d85cbd38904e44645ffb9610fb34c5c7b4eac918de689ba055eadec48e01ddb3859b6253dbe8fd9b43"
+  },
+  "1.18.2-2.1.2": {
+    "versionId": "KnsfrJnO",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T10:50:19.202975Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/KnsfrJnO/CraterLib-Fabric-1.18.2-2.1.2.jar",
+    "sha512": "fb35eca480f97c28640eb30099129d02251e26364890b61c2aa57e1a98c662383b12b65a9cd2bf7859ff6936ded0d00ec884f7c8e32c1a44bc08095279edd0d1"
+  },
+  "1.18.2-2.1.3": {
+    "versionId": "OR7BEATV",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T13:54:57.769585Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/OR7BEATV/CraterLib-Fabric-1.18.2-2.1.3.jar",
+    "sha512": "483ea27cfb2154781fee4dd31793f0ab607da2e9de57326bea7bcee08af40296d7c2a0c0803b73050139dcbf93ba22e0a2846149254fee13c748c812385ae8e0"
+  },
+  "1.18.2-2.1.4": {
+    "versionId": "nwEqaisP",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:01:39.009965Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/nwEqaisP/CraterLib-Fabric-1.18.2-2.1.4.jar",
+    "sha512": "4fcb2a8865171e71de569a5c215e7c5dd93be656cfc497ccf44a13d3824e251324b7c9e742135b11cef7eb3cb5b94833c27f3fb2bdd84d496bde8480a20160eb"
+  },
+  "1.18.2-2.1.5": {
+    "versionId": "FL7Zffxi",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T06:54:23.849278Z",
+    "filename": "CraterLib-Fabric-1.18.2-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/FL7Zffxi/CraterLib-Fabric-1.18.2-2.1.5.jar",
+    "sha512": "60ff1e2611c0a271d917ad6c3b2260927ca0443d35077693168d7b686062a8dbc9fdeda4ce1d73212d86ecfce36b613ff0bcf0d64ac8d2f4a61cdb0ed016a041"
+  },
+  "1.18.2-3.0.1": {
+    "versionId": "4QIHBy2b",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T19:58:10.897445Z",
+    "filename": "CraterLib-Fabric-1.18.2-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/4QIHBy2b/CraterLib-Fabric-1.18.2-3.0.1.jar",
+    "sha512": "182f12b6010f01899f229b2c66bcce490d94d8516d351afdba2cde202d57da099def57d727f5600e1d2945a0ba867e17112c668dd7dfe0f23828d1ea2dcc9a3f"
+  },
+  "1.18.2-3.1.0": {
+    "versionId": "XgswANrf",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T11:42:44.993695Z",
+    "filename": "CraterLib-Fabric-1.18.2-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XgswANrf/CraterLib-Fabric-1.18.2-3.1.0.jar",
+    "sha512": "e67df63c3b56e27b4ade413249762dd006f68b3038551923e8d7af70841ffd57f008ed8465ecc7db48078ac838bbb43de8aec76f5b1cf8b4b58317369e559314"
+  },
+  "1.18.2-3.1.1": {
+    "versionId": "7NjAQML0",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:20:03.685780Z",
+    "filename": "CraterLib-Fabric-1.18.2-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/7NjAQML0/CraterLib-Fabric-1.18.2-3.1.1.jar",
+    "sha512": "460f09669fc8b8b09ffe6a4203a00f1c8919a2ba7ce8b46e07ae2f109b7e2186e5a44b041dfaaca0ce44ab94ba0569addc2890f4b2c30552e34f067c324b5b5b"
+  },
+  "1.18.2-3.1.2": {
+    "versionId": "mXD2zdHn",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T08:55:44.289059Z",
+    "filename": "CraterLib-Fabric-1.18.2-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/mXD2zdHn/CraterLib-Fabric-1.18.2-3.1.2.jar",
+    "sha512": "1e58187a4fcbed10739c102ed921b1189fd5fbef38c3e4b02aefcff41b7540f75aea7396ee94146ef177e3ad64fbbdbd7491910d431b9bf6cc44c32d2c52ef19"
+  },
+  "1.19.2-1.0.2": {
+    "versionId": "m63G3hrt",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-02T14:01:21.754201Z",
+    "filename": "CraterLib-Fabric-1.19.2-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/m63G3hrt/CraterLib-Fabric-1.19.2-1.0.2.jar",
+    "sha512": "c2cf9200cb874f1b0220786035d625b5b9c402fd3b9f3c7cc75b785f4b24bdf5f0fbebcb92676cbb95beeab50d02607499b65122167a7e84ada7777bd3131805"
+  },
+  "1.19.2-1.1.0": {
+    "versionId": "P1mhkpvJ",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:20:57.690511Z",
+    "filename": "CraterLib-Fabric-1.19.2-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/P1mhkpvJ/CraterLib-Fabric-1.19.2-1.1.0.jar",
+    "sha512": "14d55f349b151fface156d9c1811c906b866daf30222612761065f34da72eaaa3f9b5da7883a8cf50fc6725eb54eeeab777ae6df04c0d0b8e17594460acd8883"
+  },
+  "1.19.2-1.1.1": {
+    "versionId": "OLXuzDrS",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-03T15:56:09.472125Z",
+    "filename": "CraterLib-Fabric-1.19.2-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/OLXuzDrS/CraterLib-Fabric-1.19.2-1.1.1.jar",
+    "sha512": "2ae88c54b3bc9241d542a80c2d0f4ce419260c91615eff66b9b94c1d37d7e3eb08a34282d2f7eb607673a8265741e66b87402bd8bc07c45c4949752a44b6e089"
+  },
+  "1.19.2-2.0.0": {
+    "versionId": "H0Yqj2Bz",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T19:55:49.213005Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/H0Yqj2Bz/CraterLib-Fabric-1.19.2-2.0.0.jar",
+    "sha512": "eb8f346ce40fe08347db7ac486cfb07fbb774a3f4ad655760c23b84237d50b2bf22ce2df9be226e2680c6cc1df6bdcbda93374d1bc160d60c535375dbdd7d101"
+  },
+  "1.19.2-2.0.1": {
+    "versionId": "1a48bfCV",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T18:55:55.707692Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/1a48bfCV/CraterLib-Fabric-1.19.2-2.0.1.jar",
+    "sha512": "16bf3778919e9548eec8a0185cbe28818b503a775c1d7de8cdfe6c71045b39f58ace5990c990a5bb60fc8566d33bb60399e56528675d2f1229751b25b55d6895"
+  },
+  "1.19.2-2.0.2": {
+    "versionId": "E5PhdbdN",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T10:49:13.603338Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/E5PhdbdN/CraterLib-Fabric-1.19.2-2.0.2.jar",
+    "sha512": "6c220b8051b40b6997a52a54fe7ed6fea3201c16b01df28fe3199400b1b1948b3c854276ca28ebc04ab02f8ae0176b83f7a4c13ca17fee8d7e3f5babfd6ab748"
+  },
+  "1.19.2-2.0.3": {
+    "versionId": "6NnTJNev",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:19:41.418893Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/6NnTJNev/CraterLib-Fabric-1.19.2-2.0.3.jar",
+    "sha512": "996a9bbe86a8ba02ea5ee27b2e62c4d441c8b1dd2238ba7afee734ddd5746e25594da1abea0a6c8966d5c9b3127303a23a62301f3bf008a5f5b319f7f4c3facb"
+  },
+  "1.19.2-2.1.0": {
+    "versionId": "O3JATvGZ",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:02:12.331666Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/O3JATvGZ/CraterLib-Fabric-1.19.2-2.1.0.jar",
+    "sha512": "4b5ca92cd96fdfe4641a1359067ecd7f246474a6d33fa0ac7b4ba57d254e771d430ae0c0542602f3a9c49bc3c942f243effa96fa4bbec02a65dbfe68bb48a4c6"
+  },
+  "1.19.2-2.1.0+hotfix.1": {
+    "versionId": "BLaISRt7",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-09T21:18:31.669113Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.0+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/BLaISRt7/CraterLib-Fabric-1.19.2-2.1.0%2Bhotfix.1.jar",
+    "sha512": "1df1c06f7dbc759a0f053129ae584688a9c050291d1c9175be84dbfa1766e0e262d8f1134dd614d6e598bef868455bbbbff7c227a34514c026b1b976a2911810"
+  },
+  "1.19.2-2.1.1": {
+    "versionId": "kgxVKBUy",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:22:28.769272Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/kgxVKBUy/CraterLib-Fabric-1.19.2-2.1.1.jar",
+    "sha512": "f6918f9f5a91fbef8808090bcb04765bbe3383e68a582076a619c7a13332ee3dc37a2aebf8309fb5e59d5403fe362f8d28beaf845626cb0f3a5dc333e01b1c9f"
+  },
+  "1.19.2-2.1.2": {
+    "versionId": "8XUiahm2",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T10:53:44.808345Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8XUiahm2/CraterLib-Fabric-1.19.2-2.1.2.jar",
+    "sha512": "fe16556e047bd00ce47cf4f84ff40bc8f6a919cd0d285cd6fd4e06fa0f785768e2fabc3ef82fa88c3d684b1a9ccc915333a68b4d6789dad14b8aa0ac5c951bc7"
+  },
+  "1.19.2-2.1.3": {
+    "versionId": "e6qxvWjJ",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:04:57.116690Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/e6qxvWjJ/CraterLib-Fabric-1.19.2-2.1.3.jar",
+    "sha512": "9a398ec3eba8c20de91f10522a14fcd29bb5c4a74a7f53ad3848fb6a0e1603ae618e43d59f09c0b03369048518c5e8f357a13578e7705bcfadc28624699caaf4"
+  },
+  "1.19.2-2.1.4": {
+    "versionId": "s9Kd8ye5",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:04:46.825413Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/s9Kd8ye5/CraterLib-Fabric-1.19.2-2.1.4.jar",
+    "sha512": "76107a499046a7c5270ad792dcbd666174889d3fc77797f788ff7e9094ff7bf50e8a8785b1d52da4ad6a1d330568086de053234ef1f339f920b7d89d2ad1c035"
+  },
+  "1.19.2-2.1.5": {
+    "versionId": "KtWAaxmF",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T06:57:23.245427Z",
+    "filename": "CraterLib-Fabric-1.19.2-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/KtWAaxmF/CraterLib-Fabric-1.19.2-2.1.5.jar",
+    "sha512": "b13506799d80f071cbcd64782df70b8b5d167f9751b6d9c8fbba96f6a78a5a390910185b4b8f58b598ecb5a91d6998a1cc245c3fb77f5a9da744b913b64177bc"
+  },
+  "1.19.2-3.0.1": {
+    "versionId": "xJuJLImf",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:04:29.076915Z",
+    "filename": "CraterLib-Fabric-1.19.2-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/xJuJLImf/CraterLib-Fabric-1.19.2-3.0.1.jar",
+    "sha512": "722d1bee6b293e935b1ac0f6b42bb3dafe4de4c508d2058b48f3c1339ce884ee8e9dd930180de4122dbf49ee95c30fc553cfe57c38a9aeca989655d0452dc238"
+  },
+  "1.19.2-3.1.0": {
+    "versionId": "uuQdxYss",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T11:52:23.246661Z",
+    "filename": "CraterLib-Fabric-1.19.2-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/uuQdxYss/CraterLib-Fabric-1.19.2-3.1.0.jar",
+    "sha512": "f23d1acb759fefd6b7b6403149dec20bf8886c506a865a17bb500ddd4614781ee45a99b0e521c6bf2a2929b66f44a71736b5079174390ff51f4a7ad228989c6b"
+  },
+  "1.19.2-3.1.1": {
+    "versionId": "WLCmAt1u",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:23:36.456234Z",
+    "filename": "CraterLib-Fabric-1.19.2-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/WLCmAt1u/CraterLib-Fabric-1.19.2-3.1.1.jar",
+    "sha512": "1ca9ec85dd34147a86ece8e3e0b106391fb11b1288d412c512278f82192bc30bec40f7a01011f7f603490123c50bc10778540194b47b5429543e330a952772d1"
+  },
+  "1.19.2-3.1.2": {
+    "versionId": "ene8RKcw",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T08:59:06.430919Z",
+    "filename": "CraterLib-Fabric-1.19.2-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ene8RKcw/CraterLib-Fabric-1.19.2-3.1.2.jar",
+    "sha512": "356799fa09e12a50c83d2a1ad56c63644bcaff8231c81adaeeecc8a90c119230339e51f8853762a874a31a2074f97dfec0180d64c3245fa0495cf99fb4d0a894"
+  },
+  "1.19.3-1.0.2": {
+    "versionId": "2Dd3lYwi",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-02T14:04:20.651374Z",
+    "filename": "CraterLib-Fabric-1.19.3-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2Dd3lYwi/CraterLib-Fabric-1.19.3-1.0.2.jar",
+    "sha512": "b948ed8841f2b22777d85cb0a4981f4a05eba27d0e43319daf25523355efb28e2127d87ca93be4fdc59c9bf601900896601273e23604a6133e0abb70f2585b90"
+  },
+  "1.19.3-1.1.0": {
+    "versionId": "pxFJkP0f",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:24:51.705901Z",
+    "filename": "CraterLib-Fabric-1.19.3-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/pxFJkP0f/CraterLib-Fabric-1.19.3-1.1.0.jar",
+    "sha512": "08169044ede9b1e74a9e8df6a3744f8779e5a84f7f13f532050418fb3adf5b2dac300b62d54874ca7a58eb449a7f436df67b1fb79cdf0c56af19cb6d8b1067b1"
+  },
+  "1.19.3-1.1.1": {
+    "versionId": "O8lbF52b",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-03T15:59:37.527473Z",
+    "filename": "CraterLib-Fabric-1.19.3-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/O8lbF52b/CraterLib-Fabric-1.19.3-1.1.1.jar",
+    "sha512": "72b67a78780dbc0ac98dfc87f94d7fbe17114de4b766416f79dc55b3855438db201620bdd0c7953a3b51279139aac920ea3ee30336ecfc37739ad7e61e588435"
+  },
+  "1.19.3-2.0.3": {
+    "versionId": "3bzh7auo",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:22:37.019297Z",
+    "filename": "CraterLib-Fabric-1.19.3-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/3bzh7auo/CraterLib-Fabric-1.19.3-2.0.3.jar",
+    "sha512": "d5f7141e66698b1e79e21f0072ba0ef4db786eaf798da94e96d6051f8a2c4c0b0bba7e39b8f0843e69f8fccbaf28c9b059b352122ca708aa114191276cba319b"
+  },
+  "1.19.4-2.1.0": {
+    "versionId": "ZKGpEqBI",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:05:13.203341Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ZKGpEqBI/CraterLib-Fabric-1.19.4-2.1.0.jar",
+    "sha512": "ae0369b0551145e8811fff0b2ff005eeb9628710bef00f74cd843d634c422c620c26321616d6d39e36f4629e0edb8c6c99c1f2915601ae5aa2ffd1aa275c095e"
+  },
+  "1.19.4-2.1.1": {
+    "versionId": "XF9k8gx4",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:28:10.299681Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XF9k8gx4/CraterLib-Fabric-1.19.4-2.1.1.jar",
+    "sha512": "734c59acccf5577765cb9d58efb40f48500d4f7e759b92ec11e214f7a9e24da93f3138e15f0b121298c491b0fb26819098aaad2d80ee2421153a0420160278d5"
+  },
+  "1.19.4-2.1.2": {
+    "versionId": "8LMhxrFt",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T10:57:43.144423Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8LMhxrFt/CraterLib-Fabric-1.19.4-2.1.2.jar",
+    "sha512": "0f94afa940bf5792bae879ca8d17dbe791cfd444f2e0c426cfe08fd51caba2e20f27f6c76fc8a1edfc33f20669a20e16ecc9fc05704b39da28b36f9e4f80470c"
+  },
+  "1.19.4-2.1.2+hotfix.1": {
+    "versionId": "2InYfYxf",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-05T07:39:10.078116Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.2+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2InYfYxf/CraterLib-Fabric-1.19.4-2.1.2%2Bhotfix.1.jar",
+    "sha512": "08caaccdc144c9db5128a7da3ab254b40f28604fc95877ab6258a6cd3dc19f8e7078a9fe48f19c0bd22f6a967d5b99e230fe90cad565f3833994a1736cd623fa"
+  },
+  "1.19.4-2.1.3": {
+    "versionId": "9UxxakVp",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:08:06.658060Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/9UxxakVp/CraterLib-Fabric-1.19.4-2.1.3.jar",
+    "sha512": "aceb834fd12ee240e98e648183ca6ce9aecddaae1db0438182b998d5b0b6e8670a6cfb0bfd64ff43cd222002974a48349abcc470b1efc8fbaa804461b5b8705c"
+  },
+  "1.19.4-2.1.4": {
+    "versionId": "Q91Sul5w",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:08:53.796497Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Q91Sul5w/CraterLib-Fabric-1.19.4-2.1.4.jar",
+    "sha512": "069106bac4c127eb1801c71fbeb25d48496d9d19ae87b353849ac356c2315241ee739fca1f6278949818c742755b15fc5ee8fe9250c06fa6c428ef27af0063b8"
+  },
+  "1.19.4-2.1.5": {
+    "versionId": "yTEoNdwk",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:02:26.516671Z",
+    "filename": "CraterLib-Fabric-1.19.4-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/yTEoNdwk/CraterLib-Fabric-1.19.4-2.1.5.jar",
+    "sha512": "6337c0e528fcf25864c6982b0dfc51f5d486bd6f8bf875eba21dbdec17f3ed14b731a63bf627716c1ec99f48bee5d54589ca8ffb029da93a278f5ae9f6c56006"
+  },
+  "1.20-1.0.0": {
+    "versionId": "5Tb1a93E",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-10T15:30:32.984645Z",
+    "filename": "CraterLib-fabric-1.20-1.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/5Tb1a93E/CraterLib-fabric-1.20-1.0.0.jar",
+    "sha512": "bdde3e639064f2a2a659258721640906d6e4030b57ba2ae9a9fa413fc9002d20174f2b704a49dd83a24b5491548290f7a085e7193f7494ed5eaf734336e7c2b4"
+  },
+  "1.20-1.0.1": {
+    "versionId": "DWiLVdg9",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-25T19:55:40.478738Z",
+    "filename": "CraterLib-fabric-1.20-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/DWiLVdg9/CraterLib-fabric-1.20-1.0.1.jar",
+    "sha512": "c6d7cfeba04bb6498eac8a5e6a44eb3b65baec8d5e304ca30b75995b828c1778783db5af3ee35061e18ca647c3e44c31557c91b975be8d2fe3da6204d278b49f"
+  },
+  "1.20-1.0.2": {
+    "versionId": "UIFNaDX8",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-31T14:27:36.210869Z",
+    "filename": "CraterLib-fabric-1.20-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/UIFNaDX8/CraterLib-fabric-1.20-1.0.2.jar",
+    "sha512": "406069119f28ebccb10c698cfbc97b2d1da2c3385c07ef63ceae886968c717b0597f78118f0a2650f08423b8d9e22b4c0892d5ac42e79182adafe346ca133434"
+  },
+  "1.20-1.1.0": {
+    "versionId": "sBJx2JFk",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:27:40.732720Z",
+    "filename": "CraterLib-Fabric-1.20-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/sBJx2JFk/CraterLib-Fabric-1.20-1.1.0.jar",
+    "sha512": "bcc9e1ac36e12ec1ea941f87b1447a838a9846645f9ae02451325f7773d7df10b14f923812ec1759895cc11b1bed5b2e34a683a224b20c6a16b2c3e05d00ae54"
+  },
+  "1.20-1.1.1": {
+    "versionId": "1KHt2LQE",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-03T16:02:58.775572Z",
+    "filename": "CraterLib-Fabric-1.20-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/1KHt2LQE/CraterLib-Fabric-1.20-1.1.1.jar",
+    "sha512": "4b8e3255e0c0a3889a48b8b90a327705ca535d70f5570d8dbfac5cac5a5d31f067c6d4e17cbd9b94f75cb0b791f7aad6391d51f2373d7de34d982fadde154f32"
+  },
+  "1.20-2.0.0": {
+    "versionId": "oyIUpsYX",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T19:59:10.461477Z",
+    "filename": "CraterLib-Fabric-1.20-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/oyIUpsYX/CraterLib-Fabric-1.20-2.0.0.jar",
+    "sha512": "ad108f2fd5840a3aa4f872452f47504080c553151b43b2f2da158f6e8fe960742bc7b4739722676a54d9cea6cc5730074f293c30371a3481968e039e80427e09"
+  },
+  "1.20-2.0.1": {
+    "versionId": "OX0RQHfi",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T18:59:10.272917Z",
+    "filename": "CraterLib-Fabric-1.20-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/OX0RQHfi/CraterLib-Fabric-1.20-2.0.1.jar",
+    "sha512": "8d154102b34373cbf6980c53cef1e2c3b583e0d1d9f72716e5bf7f67676f1dfbcf0904d37fc798886442c6aa62073fbecb0aa3a8f9e6b06331c51a1c120123c4"
+  },
+  "1.20-2.0.2": {
+    "versionId": "MsCUhFUG",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T10:53:32.799035Z",
+    "filename": "CraterLib-Fabric-1.20-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/MsCUhFUG/CraterLib-Fabric-1.20-2.0.2.jar",
+    "sha512": "93e091e016750f7fc93f1b6fd4ce4f13b5ee2af07a30108e139840c673145993492fcb197fa55f30946ada8e4ebfa20b1394aa28350dc2ff05abbdd4b0b0c46f"
+  },
+  "1.20-2.0.3": {
+    "versionId": "p3Uso3Lx",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:26:06.185788Z",
+    "filename": "CraterLib-Fabric-1.20-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/p3Uso3Lx/CraterLib-Fabric-1.20-2.0.3.jar",
+    "sha512": "42e8e6ecf0ec3cf74abd29660e246509033e85e1c5aaf044ceadd3a99e07c0e0c3b7cecf68c89a4236fc7c923b8dda458db658a514926e5d012651dcabcd7b4a"
+  },
+  "1.20-2.0.3+hotfix.1": {
+    "versionId": "I3HFsaOZ",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-14T08:48:10.477878Z",
+    "filename": "CraterLib-Fabric-1.20-2.0.3+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/I3HFsaOZ/CraterLib-Fabric-1.20-2.0.3%2Bhotfix.1.jar",
+    "sha512": "13048c0d96ddd8c240b0726bc1b1f505ddc69482806a435732a9568b2465d6ff11721467b574d85cbdf2d6158ff151bdcae1a8137696c92a32aca5436560b8e7"
+  },
+  "1.20-2.1.0": {
+    "versionId": "TLN4ycIJ",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:08:07.661298Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/TLN4ycIJ/CraterLib-Fabric-1.20-2.1.0.jar",
+    "sha512": "f50ef612fbe931cee3d0f1023b0bc1db2c808b728b12c9d674e049b9a0ff5c96265a6cb32fdc9653e339305b18212d866ade81f4b491f20e30ede209a083732a"
+  },
+  "1.20-2.1.1": {
+    "versionId": "goe111FX",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:53:17.362677Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/goe111FX/CraterLib-Fabric-1.20-2.1.1.jar",
+    "sha512": "7796c17ffc4077d14e3cfcbe9100b08920e903e17774f068fa587518a3f2ba407356998e960b38668a61e0c75f429e4c8bc24ba0d24f18dbff7f57e721ba7a77"
+  },
+  "1.20-2.1.2": {
+    "versionId": "4Cpo1ET7",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:01:02.428082Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/4Cpo1ET7/CraterLib-Fabric-1.20-2.1.2.jar",
+    "sha512": "83d8f355140a29f617a9fbb0f3c1131e41a501026637e7a8827e41fa42e6e5d0ac28912bd535d32d3e041e6ef62e659946523fe371fc02e394514ee95ecde4dd"
+  },
+  "1.20-2.1.2+hotfix.1": {
+    "versionId": "EFb9tfNi",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-05T07:41:06.830221Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.2+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/EFb9tfNi/CraterLib-Fabric-1.20-2.1.2%2Bhotfix.1.jar",
+    "sha512": "d667452a61cfdabdd6555c371b564dae73da948b8b3b9f6f96d01012afe4835fe9f9158bd26229dafb854c6fc575593b3e600e857777560ccd5d71ab4dd0a251"
+  },
+  "1.20-2.1.3": {
+    "versionId": "LFF6iQWv",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:22:06.467015Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/LFF6iQWv/CraterLib-Fabric-1.20-2.1.3.jar",
+    "sha512": "12e6306129c82074169170632e49d63771298468681279afd678e42381fb0e4bc699ff19ea3d21d6db346c30bcb0ef6ca732d3069d1cb59b55f9c4f89a3256e2"
+  },
+  "1.20-2.1.4": {
+    "versionId": "13HU1vOz",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:12:26.101664Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/13HU1vOz/CraterLib-Fabric-1.20-2.1.4.jar",
+    "sha512": "8dbb84066902afebbb1901e512a6d9f8da7416f06b0af638f8e1bf6661a977c8d88ea22ede5cedd701565cb157e014653978507b7d3a88b3a10c4eb1ae00879a"
+  },
+  "1.20-2.1.5": {
+    "versionId": "gpUJRzO9",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:05:53.319047Z",
+    "filename": "CraterLib-Fabric-1.20-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/gpUJRzO9/CraterLib-Fabric-1.20-2.1.5.jar",
+    "sha512": "029cb9f84d9a543c897eade6e9d1a72f6ff183dcb4ea9930ba35410c040bc36882da1a04a572c1708763c608c1095128b5ab9f6d50e2c72edd5077ac459d42aa"
+  },
+  "1.20-3.0.1": {
+    "versionId": "4pifzNQX",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:10:42.920161Z",
+    "filename": "CraterLib-Fabric-1.20-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/4pifzNQX/CraterLib-Fabric-1.20-3.0.1.jar",
+    "sha512": "0e2540857c2af784ca8989bf6d77d51817b761cb9a57cb0d27c76b6d742b2a6d5851587539f481fd5645fbba7150da5ef0eeb4779a2a285bfec81e1a55c403f2"
+  },
+  "1.20-3.1.0": {
+    "versionId": "lC5Dbusn",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:03:45.170046Z",
+    "filename": "CraterLib-Fabric-1.20-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/lC5Dbusn/CraterLib-Fabric-1.20-3.1.0.jar",
+    "sha512": "4145d3fc8927efd317114c7e6c02ec231eb7cac26062c6f86aca92c0737fbd54535fb31f3839adee0c4ad4be18550ca08b33ec84d9e42e5e0baad27a5da2fa7c"
+  },
+  "1.20-3.1.1": {
+    "versionId": "2F7EZd1L",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:27:19.607832Z",
+    "filename": "CraterLib-Fabric-1.20-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2F7EZd1L/CraterLib-Fabric-1.20-3.1.1.jar",
+    "sha512": "d9c2d29d94e97559a1312baf52d2ab5f8a25be0f54d854d22d2f55a909cf9a268a30060ba03a022338844f7af12cca4c744dae2827db17469ecedfa100fcf723"
+  },
+  "1.20-3.1.2": {
+    "versionId": "QNenSECF",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:02:31.998097Z",
+    "filename": "CraterLib-Fabric-1.20-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/QNenSECF/CraterLib-Fabric-1.20-3.1.2.jar",
+    "sha512": "08056d2b10adeaa0fcaf88b212184f8fc2254e06f6a84cc5a34b2ad340fcc95709c75c76f8debf0a0f29eee240292d0e18fa667fdd8aeb9745bf47c1d7b307e9"
+  },
+  "1.20.2-1.0.2": {
+    "versionId": "kxY3Mv5E",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T00:46:24.073887Z",
+    "filename": "CraterLib-fabric-1.20.2-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/kxY3Mv5E/CraterLib-fabric-1.20.2-1.0.2.jar",
+    "sha512": "5deaec5113474f0b86ebd37b427a453e1a65e233b901c24de7a460c4bf77e34038af274b4ec3c3e30566c2cf9aedfe157a00772febdd1b8ff83ae9319136a000"
+  },
+  "1.20.2-1.0.3": {
+    "versionId": "8xZahg2U",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-02T14:08:17.914480Z",
+    "filename": "CraterLib-Fabric-1.20.2-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8xZahg2U/CraterLib-Fabric-1.20.2-1.0.3.jar",
+    "sha512": "04994694ac5772e3a82f3175cf9bbefd44132f1b19606fcf8082447206f20b86f69212c2419d81993329f2d44e584f1636bd5a79641b39057f9f4e229e2fee56"
+  },
+  "1.20.2-1.1.0": {
+    "versionId": "2KerZvqQ",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:31:04.063281Z",
+    "filename": "CraterLib-Fabric-1.20.2-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2KerZvqQ/CraterLib-Fabric-1.20.2-1.1.0.jar",
+    "sha512": "4a2b1300c8e6d03d4c8dd8635559fe3ebb0fc3e38c5d251a340069fe2e8d45de122fe32ca122e2c3217f25c69e32ea9887340c98c54e334e784dcb3c8003ece2"
+  },
+  "1.20.2-2.0.0": {
+    "versionId": "2t4ZGemV",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T20:02:17.885370Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2t4ZGemV/CraterLib-Fabric-1.20.2-2.0.0.jar",
+    "sha512": "a2a00656a91fbc2fbd9699f4802951ea1845e25e965dce490974472be62452fd143a7e30c3576542cecd74570fe8df1157fe17b9040e7d73fa0b13634d58ea9a"
+  },
+  "1.20.2-2.0.1": {
+    "versionId": "Qdz0ko4a",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T19:02:07.626155Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Qdz0ko4a/CraterLib-Fabric-1.20.2-2.0.1.jar",
+    "sha512": "b3d3bd9c2586fdfc37ba6f6aa8e0df55fc7b18ffe7c33844834116c650c93d71e29b0cb7b81841924625f352f6f7ef35f9b70e83cd882e54a04c707c2a89856f"
+  },
+  "1.20.2-2.0.2": {
+    "versionId": "wLrQm4As",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T10:57:24.550875Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/wLrQm4As/CraterLib-Fabric-1.20.2-2.0.2.jar",
+    "sha512": "1eddf2ece27c0321ca946823f02251e2ba1f13dc15856775d7853d1635d1cde5e4f977a605e1628ad4aee17011bbb7d0ad8b298b6324d8de0effcfdde31a9eb6"
+  },
+  "1.20.2-2.0.3": {
+    "versionId": "8BpMpA0m",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:29:08.298139Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8BpMpA0m/CraterLib-Fabric-1.20.2-2.0.3.jar",
+    "sha512": "6ee9eaa5284c0b842000fa7b52bc329d683af1d2adf128a0b1faee47c45e96e0d0b41946edcf491a356e2d5f170dea05b78b892bcc52baf97b02b21812d14204"
+  },
+  "1.20.2-2.1.0": {
+    "versionId": "rpLzF2f9",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:11:08.292395Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/rpLzF2f9/CraterLib-Fabric-1.20.2-2.1.0.jar",
+    "sha512": "f238276e806814bee078c7729a8d41db65ce87719beefcfeaf1e9698d4017c7d4793132354d52a40783cfeeb315052a2264fdf36188fadac0f3827edb7c5726a"
+  },
+  "1.20.2-2.1.1": {
+    "versionId": "cXxLVn8O",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:56:24.840505Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/cXxLVn8O/CraterLib-Fabric-1.20.2-2.1.1.jar",
+    "sha512": "6edac177b709f923c3bd0080dec9b2b40c428748002e6141189e93cce57d671abd339f0d5389f841ee63ba1b2c2eafa8356813792c9d6e1781d556c48c168e59"
+  },
+  "1.20.2-2.1.2": {
+    "versionId": "Ojt1I5HO",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:04:23.952924Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Ojt1I5HO/CraterLib-Fabric-1.20.2-2.1.2.jar",
+    "sha512": "1006d2dce7a77b76002486b74ed645f40116fc78c037fb415fb63bcb50b2e424859790b9e8cf4a464c44f6eca167dd9e7e41867103b6806ccaf82a8355cfc7d0"
+  },
+  "1.20.2-2.1.2+hotfix.1": {
+    "versionId": "s6t1Jft4",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-05T07:45:13.122038Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.2+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/s6t1Jft4/CraterLib-Fabric-1.20.2-2.1.2%2Bhotfix.1.jar",
+    "sha512": "4e96b3ab7868590e54130bd9d14e8d3282994e3acf3b7b9401ee33e4a9357048f63618813c20b1219402390a17860fc5ac0fccb3d2e50e133288d767a16ae76c"
+  },
+  "1.20.2-2.1.3": {
+    "versionId": "o47y8VjX",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:38:52.712528Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/o47y8VjX/CraterLib-Fabric-1.20.2-2.1.3.jar",
+    "sha512": "4a1201ce109f9a0be2751621160384142a9a4de19890e8b0c99549f50cd2cf9fd3ec1694a8c6fcccf5d8f3226d8387a22cc0a204778971e7730ed8f0d3998787"
+  },
+  "1.20.2-2.1.4": {
+    "versionId": "XMpTy3sR",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:16:39.305305Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XMpTy3sR/CraterLib-Fabric-1.20.2-2.1.4.jar",
+    "sha512": "99d3b1b66558aa4a83091965fc297ad061c67c9556f684e3b08eceb2f7cccd961eaa5d27c4df08d1e459feb5165e2433880a64de52e6409f1f2fccb719798ea8"
+  },
+  "1.20.2-2.1.5": {
+    "versionId": "8jGBiDZt",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:11:35.628821Z",
+    "filename": "CraterLib-Fabric-1.20.2-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8jGBiDZt/CraterLib-Fabric-1.20.2-2.1.5.jar",
+    "sha512": "7f71bc38cbd580b787b3926610bc38953df8b8a247cd09d7454259ab2b246cf609cd90495215eac5ef43efc1df57c5bea2cf8a03e9abd7966df2443d796eaae6"
+  },
+  "1.20.4-1.1.0": {
+    "versionId": "JD6qkduu",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-02T16:34:00.193870Z",
+    "filename": "CraterLib-Fabric-1.20.4-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/JD6qkduu/CraterLib-Fabric-1.20.4-1.1.0.jar",
+    "sha512": "0fa4e7c5f09d83bbef94fe6e923ea25170a358319ab535c1a5c3142eef39d2eacfd11596ceabeda5e1b0ed5b239201e67e62d32cfc1b70d7279765d3934b950a"
+  },
+  "1.20.4-2.0.0": {
+    "versionId": "58scQSMa",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T20:05:38.915662Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/58scQSMa/CraterLib-Fabric-1.20.4-2.0.0.jar",
+    "sha512": "699c19ee009496dea0744129ce179020c8a00a2df10843a1fd4d33526bef77096a61092bb87b1ccbf5a2ec1bc9a17fc6287793c7dbd3844bca3238addce5cb19"
+  },
+  "1.20.4-2.0.1": {
+    "versionId": "g9v2WxW5",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T19:05:12.250538Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/g9v2WxW5/CraterLib-Fabric-1.20.4-2.0.1.jar",
+    "sha512": "75339ab2bc6880d3b306190ee6088ec71a1422342dc7005fcf7b0c9329815d1f00f4f46e0abfae7ee2435f667e8c3ec1bd54720554056a993888b553925da555"
+  },
+  "1.20.4-2.0.2": {
+    "versionId": "V3uCrysT",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T11:00:43.221495Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/V3uCrysT/CraterLib-Fabric-1.20.4-2.0.2.jar",
+    "sha512": "076a81b63c92a45acdbd487d9cb59b9a8cf3f7aa5c6a8d1cb2537f31f7b884687ec008162bc9a68689ca0a97f363c2b054accd7023aa0ec82b886fbfd819ee82"
+  },
+  "1.20.4-2.0.3": {
+    "versionId": "8BwxvTC8",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:32:12.485319Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8BwxvTC8/CraterLib-Fabric-1.20.4-2.0.3.jar",
+    "sha512": "e03ecac09185730f37b93a95e29703ca171193a7eaf830328f25883c090361ac6df9d3f21c8b8961db9eb47ec1dc35ad958c0d1c06c408f44c79ce7a2e3369ba"
+  },
+  "1.20.4-2.1.0": {
+    "versionId": "MSgPmuEY",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:14:20.149212Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/MSgPmuEY/CraterLib-Fabric-1.20.4-2.1.0.jar",
+    "sha512": "804234626b60212ca0382031965e3a8903c743220508e66cab0681d4be5febe99cbdf2432e537314be51283fb67371df1aa14b4c993117686b20199da6af4639"
+  },
+  "1.20.4-2.1.1": {
+    "versionId": "ADu4CFq3",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T09:59:44.184440Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ADu4CFq3/CraterLib-Fabric-1.20.4-2.1.1.jar",
+    "sha512": "9fc00d68acf71e67067a48426c3b95990ec569b13f418bfa0a0797ef377975d377b0836e1b9e4cd860482fa35e4c18f875e403112c2ff29a489f1a5dd2cf2905"
+  },
+  "1.20.4-2.1.2": {
+    "versionId": "1f23sall",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:08:00.014954Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/1f23sall/CraterLib-Fabric-1.20.4-2.1.2.jar",
+    "sha512": "98a84dc611af6eb1fc26800f21ddc60f9583757e1196e0a07f01afd1f2099755e9b8d1cf9e16704e5b40a66b2cd0226fd3098651e2b9187a08ea1dcc1afafd63"
+  },
+  "1.20.4-2.1.3": {
+    "versionId": "FR62AcQt",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:42:19.781190Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/FR62AcQt/CraterLib-Fabric-1.20.4-2.1.3.jar",
+    "sha512": "9432ed1b69c8ed287eb594da660700faf48a55d3c8bd7598d4caeb824320749f09e86550e4268e5eb24a4c261ce583653d2ace6f31e215318c19d491b2444309"
+  },
+  "1.20.4-2.1.4": {
+    "versionId": "vTaMDWzI",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:21:04.030879Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/vTaMDWzI/CraterLib-Fabric-1.20.4-2.1.4.jar",
+    "sha512": "d23dacca3c12cd0f705bcab1a9f8324d279ca76609c669d675d181aa59b4b524be493ab09fed9220c21dc2c33215d36eba576cfe9716fa5758c49521522632d6"
+  },
+  "1.20.4-2.1.5": {
+    "versionId": "vYn8rIRS",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:18:09.960700Z",
+    "filename": "CraterLib-Fabric-1.20.4-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/vYn8rIRS/CraterLib-Fabric-1.20.4-2.1.5.jar",
+    "sha512": "a94bd4c87a7b322b8fc8a3079f531074f800b0b8e4ce9ac33b3e8912b3f7df1f7f749c36cf8d19848519b6702d61d746e4d4dbeeff9443f6620616bef66a5224"
+  },
+  "1.21-2.0.0": {
+    "versionId": "gZt0QN1i",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T20:09:21.139818Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/gZt0QN1i/CraterLib-Fabric-1.21-2.0.0.jar",
+    "sha512": "ce1c2a7dd8687fea9b5672ff05cf2ef7af582fe61378defa7d287b933e221895c389b3d9e5a08b4a805111816cf933329c0d44839d8864a24e8a5c4bab1fea12"
+  },
+  "1.21-2.0.0+hotfix.1": {
+    "versionId": "Xbut7zAn",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-14T06:03:42.734735Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.0+hotfix.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Xbut7zAn/CraterLib-Fabric-1.21-2.0.0%2Bhotfix.1.jar",
+    "sha512": "911b9f699c3c3351046d81c8fb42b42415d699d778a014965746ec6950580862334ca9c9db30eadadb00e821c75c236791324e69fdf8f392657dee8d0ac56042"
+  },
+  "1.21-2.0.0+hotfix.2": {
+    "versionId": "XlY3dmUA",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-24T18:37:16.481550Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.0+hotfix.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XlY3dmUA/CraterLib-Fabric-1.21-2.0.0%2Bhotfix.2.jar",
+    "sha512": "6e5983f10d863f830b03ba6203c54c33c73a56f6bc7eee99700db465edbfbda514351323c97c567eda0e6440be06874e7bb3ed93e340011e5e68a42e1b11fa69"
+  },
+  "1.21-2.0.1": {
+    "versionId": "WD4Ni5sx",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T19:08:21.847100Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/WD4Ni5sx/CraterLib-Fabric-1.21-2.0.1.jar",
+    "sha512": "ed1bf5b38afd55ef785bbfbb12e631b5897e2de3bac6ed139ea04d198473d572483f22fab800e346be0ec1b009d3a7e3687a7777834e74e92c196c37b8ac0da3"
+  },
+  "1.21-2.0.2": {
+    "versionId": "Dmn7Aour",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T11:04:00.414426Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Dmn7Aour/CraterLib-Fabric-1.21-2.0.2.jar",
+    "sha512": "f591b81c8a2b47003c7c150926e400f5602b58cb59ffcf1f71a5787983b31b3c2bab9974e772c784f9c324b8ab54d1a3a13d91d13b22f209558515c8938ddde7"
+  },
+  "1.21-2.0.3": {
+    "versionId": "BudKlTmu",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:35:25.551192Z",
+    "filename": "CraterLib-Fabric-1.21-2.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/BudKlTmu/CraterLib-Fabric-1.21-2.0.3.jar",
+    "sha512": "48e2baab1913abc50db7694a9c66ab29dc5718a2768baead695959a398e89b75d36bff08cd5c8ab7080a067b8d8ada1ba50ac90f2c4793418ae75deeaf00c169"
+  },
+  "1.21-2.1.0": {
+    "versionId": "F52pGppz",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:18:44.083705Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/F52pGppz/CraterLib-Fabric-1.21-2.1.0.jar",
+    "sha512": "283219ef8d6f74b1118e0d28723a12de902b7ac2d3c88b78382076598a956d53cfe6a63321e4442a7d91ea7319fad5e34f25a7883ebf35d9f64399706e6d3d3d"
+  },
+  "1.21-2.1.1": {
+    "versionId": "ALjOxtJZ",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T10:03:04.335062Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ALjOxtJZ/CraterLib-Fabric-1.21-2.1.1.jar",
+    "sha512": "bfaf8facb18738febfef3fda44eb592f643f553f990958cf76fd1d32e4b6c87e75f377471984038058aaee0fdfb64d6f882242aab51841883828cd8a16e94719"
+  },
+  "1.21-2.1.2": {
+    "versionId": "rb1P6s7w",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:12:04.163183Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/rb1P6s7w/CraterLib-Fabric-1.21-2.1.2.jar",
+    "sha512": "711d9754e409919415aa55b0fc4977274cc9cdf667dbb7b6a608ebea19741639cc838932060e96ea566ef1515a1e6f08263c982e12e775f0927e04e63e4058d9"
+  },
+  "1.21-2.1.3": {
+    "versionId": "bEBkHIwk",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:46:36.162124Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/bEBkHIwk/CraterLib-Fabric-1.21-2.1.3.jar",
+    "sha512": "ab86892a5461de78642df25b5c1a77ccb2657a15616e33e17761a34880684ec3c2628e771da171981189cb6d0f29d2ac6c6ab059137637aee343d01a1119d744"
+  },
+  "1.21-2.1.4": {
+    "versionId": "dr0qNCp0",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:25:00.169931Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/dr0qNCp0/CraterLib-Fabric-1.21-2.1.4.jar",
+    "sha512": "0561864d16d82f2343dc49fe421d5f8099fe6811d4546ea55f365bf4ef199dbc402315536bde1baa232990777ce87ea191384e1ba8c7ef851c98936437fae9f5"
+  },
+  "1.21-2.1.5": {
+    "versionId": "rLxrxXBc",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:21:47.413629Z",
+    "filename": "CraterLib-Fabric-1.21-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/rLxrxXBc/CraterLib-Fabric-1.21-2.1.5.jar",
+    "sha512": "5dddc5a068d88ec85f8774b5732412c09861f79cdaf55378e8c0739ddf67f0e58124b46b3b721652d12aa661cdead06eef4319616cf8e280e315fa31f933ef93"
+  },
+  "1.21-3.0.1": {
+    "versionId": "pAI9670M",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:18:40.376145Z",
+    "filename": "CraterLib-Fabric-1.21-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/pAI9670M/CraterLib-Fabric-1.21-3.0.1.jar",
+    "sha512": "152b447802177f42b6855efd7103595f9c006519bd7467bb70f733f95c413a66d6b1bdaf58254eab47c3ffc0c476e552f273535609590835b5cbcb4320aa9d8b"
+  },
+  "1.21-3.1.0": {
+    "versionId": "fLC282M5",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:16:27.821564Z",
+    "filename": "CraterLib-Fabric-1.21-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/fLC282M5/CraterLib-Fabric-1.21-3.1.0.jar",
+    "sha512": "00767faf57b3a1f35d62898b9a70f1d4827e5dcafd063e8b97c95eb29bb2378c805c3f51df54d1d37a6d6aecec814461162a2aee213a7786e7e4642e97efa996"
+  },
+  "1.21-3.1.1": {
+    "versionId": "HvoodWp7",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:33:01.281110Z",
+    "filename": "CraterLib-Fabric-1.21-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/HvoodWp7/CraterLib-Fabric-1.21-3.1.1.jar",
+    "sha512": "908032e3c29e01ad046389f9ddb63e4e53eb005c687b17cf36feb87df23cb0fbed4b92578719bd17f71654909274aaa66c0d82693f782566fb5ede3c21c0dfa3"
+  },
+  "1.21-3.1.2": {
+    "versionId": "7vCrReSb",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:08:10.993187Z",
+    "filename": "CraterLib-Fabric-1.21-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/7vCrReSb/CraterLib-Fabric-1.21-3.1.2.jar",
+    "sha512": "40f2cc82fae29bd5e6fe48ab3988e1aca78ef6022c03c80dda91ad12754cc599a3be701e8ec83c9b64a6a5724f0c18c89bb16a687710f46ff8a1cd66f1023839"
+  },
+  "1.21.11-3.0.1": {
+    "versionId": "icEQZbCf",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-04T16:38:56.920893Z",
+    "filename": "CraterLib-Fabric-1.21.11-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/icEQZbCf/CraterLib-Fabric-1.21.11-3.0.1.jar",
+    "sha512": "5a65108c33be70c9f1ccc5f2b839025b681f42e3cf10f03b9f90404b8e760001c6496087793c20260aa5e8587f8e605e5349bf26914503934dec930c9cfbadd4"
+  },
+  "1.21.11-3.1.0": {
+    "versionId": "ikggWAwk",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:47:18.892046Z",
+    "filename": "CraterLib-Fabric-1.21.11-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ikggWAwk/CraterLib-Fabric-1.21.11-3.1.0.jar",
+    "sha512": "e8eb13f1194c5f62e92e4b869738420b8471564c9b7d5659ddc0a30e58f50c69cbea94c573828580aa2857c27ffb8b81331f789c0fd92705a5ec4cfeba98006d"
+  },
+  "1.21.11-3.1.1": {
+    "versionId": "Y0SsNxqD",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T12:18:10.097801Z",
+    "filename": "CraterLib-Fabric-1.21.11-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Y0SsNxqD/CraterLib-Fabric-1.21.11-3.1.1.jar",
+    "sha512": "dc12e5ddf8fb0ba432cd04fe8fc3b507ccf82e60ba986b77c6f17c4ff5458ff46f3135c00ac786e9aff9fbb6c6cd3a7f5c92739a37f9eae3b69950de89221556"
+  },
+  "1.21.11-3.1.2": {
+    "versionId": "NPIPYNKe",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:39:09.639330Z",
+    "filename": "CraterLib-Fabric-1.21.11-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/NPIPYNKe/CraterLib-Fabric-1.21.11-3.1.2.jar",
+    "sha512": "633666da2370154a635949d29b445cbd3988f77be22aea368ee06ccf8451eef72804bd72c84a5f5223669fbbaeb07f3e1ae7175423dc29aeb73b9e8489eb2f0c"
+  },
+  "1.21.2-2.1.1": {
+    "versionId": "Fs1SP8Qg",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-22T17:47:31.120254Z",
+    "filename": "CraterLib-Fabric-1.21.2-2.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Fs1SP8Qg/CraterLib-Fabric-1.21.2-2.1.1.jar",
+    "sha512": "1d6335e32ff8c20a80b6b7dda0afe997d393881ea48bfe0e7457be0f06dffe5d330672c65265d8c4ef0eca2254a101536af7b2a7a08d16ac831e9957a04bf417"
+  },
+  "1.21.3-2.1.2": {
+    "versionId": "XCM1DsHb",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:14:53.290519Z",
+    "filename": "CraterLib-Fabric-1.21.3-2.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XCM1DsHb/CraterLib-Fabric-1.21.3-2.1.2.jar",
+    "sha512": "02e4edf582ad33b906b7831262e4587f6888c58729b5cbf67d437a007d6abdbc78092099c10da3ab3d4c492fb4e3191adcf420a52a003d2f66efb8537b0d18f4"
+  },
+  "1.21.3-2.1.3": {
+    "versionId": "u7dyJ9Ba",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:49:29.412833Z",
+    "filename": "CraterLib-Fabric-1.21.3-2.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/u7dyJ9Ba/CraterLib-Fabric-1.21.3-2.1.3.jar",
+    "sha512": "922a1d6f3a3c8237b7ae5545dc2f1879b651847010c8dd1ea1a39b52b2452db176efff3364d9c803a2581ba4f23a472007f5c32fc347fc9aaf1df4105ab0b616"
+  },
+  "1.21.3-2.1.4": {
+    "versionId": "SORpQLLM",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:27:58.513371Z",
+    "filename": "CraterLib-Fabric-1.21.3-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/SORpQLLM/CraterLib-Fabric-1.21.3-2.1.4.jar",
+    "sha512": "2831bfbc740bad3adfb0474460b293f58215e3ea80457355ec321ebd973a29ee9373e71ecf631b6bab329aa1d87cf9fba484c9ebfcd133e71293b317e5554b7e"
+  },
+  "1.21.3-2.1.5": {
+    "versionId": "JAVuxguJ",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:25:12.837334Z",
+    "filename": "CraterLib-Fabric-1.21.3-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/JAVuxguJ/CraterLib-Fabric-1.21.3-2.1.5.jar",
+    "sha512": "f8d4addf19fca3c4a139e5b2bc2996ea316aa9c532bd7653e6188f3f95f574a64ae79c0f9fd848f21c386812186393715421515e938213201b867373b192685a"
+  },
+  "1.21.3-3.0.1": {
+    "versionId": "O4Qwndwj",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:23:30.872962Z",
+    "filename": "CraterLib-Fabric-1.21.3-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/O4Qwndwj/CraterLib-Fabric-1.21.3-3.0.1.jar",
+    "sha512": "8beef09aed8ae5dd82d0f17bc82fcba84837e150600d40f4ea648910ec989fb61ebbcfe32c0f60c1d95b20c29ec6b7109b71482e143826b243c23936505e937e"
+  },
+  "1.21.3-3.1.0": {
+    "versionId": "FPAaHbrU",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:21:44.807596Z",
+    "filename": "CraterLib-Fabric-1.21.3-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/FPAaHbrU/CraterLib-Fabric-1.21.3-3.1.0.jar",
+    "sha512": "d67996a71838040129d9ce46c372c38cd1d0d6318828216aa939c00a6bf6ab076ff50036733c8b870a7c0d6da5eac5a65b2ae123c11b57d0e4984de8d9a2958e"
+  },
+  "1.21.3-3.1.1": {
+    "versionId": "69a6cisB",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:40:31.606213Z",
+    "filename": "CraterLib-Fabric-1.21.3-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/69a6cisB/CraterLib-Fabric-1.21.3-3.1.1.jar",
+    "sha512": "ccf66582cf830a2d56b8ef10ecb92a7301f7814fb154fb33e8bf65d0a7a38a0db41eb11cb67de8e9fe35ad368c7078d14d255b2e616d6e87861eff531bc24944"
+  },
+  "1.21.3-3.1.2": {
+    "versionId": "MbljnAmR",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:13:30.206904Z",
+    "filename": "CraterLib-Fabric-1.21.3-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/MbljnAmR/CraterLib-Fabric-1.21.3-3.1.2.jar",
+    "sha512": "90623409ccb6eb4fe5deb0ab3675f49cdcc2b7ecf63779484dc26cd2be7e0289db17f5d99550779944217c3499db818d2aad02cf332ea764f53a9751277f94c9"
+  },
+  "1.21.5-2.1.4": {
+    "versionId": "iT7V02Tu",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T18:55:35.755164Z",
+    "filename": "CraterLib-Fabric-1.21.5-2.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/iT7V02Tu/CraterLib-Fabric-1.21.5-2.1.4.jar",
+    "sha512": "8fe8d445a5a7345337fd5b65c5513c954796d9c2d6bf139075734f7ac391631d5a5157f4821fd49558b05f3a4e164da99db61175d7dc43b6f94235950829f27c"
+  },
+  "1.21.5-2.1.5": {
+    "versionId": "zdY9fnuu",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T07:27:39.188750Z",
+    "filename": "CraterLib-Fabric-1.21.5-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/zdY9fnuu/CraterLib-Fabric-1.21.5-2.1.5.jar",
+    "sha512": "d60dd4ccdffb0c96c56afb0dd4c4890b7a28168e24fed68aa342b7d9ccd5d36d3e8e4f21147b2500f04359e490fdae10acc22ce964beff35a12e4771eb78b239"
+  },
+  "1.21.5-3.0.1": {
+    "versionId": "2w4MW9ko",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:28:19.802684Z",
+    "filename": "CraterLib-Fabric-1.21.5-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2w4MW9ko/CraterLib-Fabric-1.21.5-3.0.1.jar",
+    "sha512": "306e0b156f4e447c61cff40d5721b29f8158719fb48c2838bd9bf99928bc316cbf4fe6581a7641af198ddc9d79fbb4e2be0f0932a1a371fcda397ea785858bfd"
+  },
+  "1.21.5-3.1.0": {
+    "versionId": "TJw6p3gC",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:27:00.412874Z",
+    "filename": "CraterLib-Fabric-1.21.5-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/TJw6p3gC/CraterLib-Fabric-1.21.5-3.1.0.jar",
+    "sha512": "af83271f3ebde01d7407b5a45bbd45786abecab6092c188ca88eb44c7313e92aa84fefb67d35fb6de2f4e7320c2ba29005a4eb190a9f100e071d9a36274933fa"
+  },
+  "1.21.5-3.1.1": {
+    "versionId": "XqY53kE8",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:46:41.102300Z",
+    "filename": "CraterLib-Fabric-1.21.5-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XqY53kE8/CraterLib-Fabric-1.21.5-3.1.1.jar",
+    "sha512": "617eb379758271b1985861004aff8de0bf7e33976f88c2fae3f32ff647e4d98aa6e98405a5a594adcbe6889a39fa1c39381ef29bedcacb6f34a4c456c4c0ebf6"
+  },
+  "1.21.5-3.1.2": {
+    "versionId": "b0nTi7Jx",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:19:26.834783Z",
+    "filename": "CraterLib-Fabric-1.21.5-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/b0nTi7Jx/CraterLib-Fabric-1.21.5-3.1.2.jar",
+    "sha512": "3341e1c15e95056668626daf5c9cbb1e971d79c3ecb1c0ef68da3f0c0c67328083c5d45f24f43b4b181417bb695e17570c0710deb8a586ac76153a008b542d36"
+  },
+  "1.21.6-2.1.5": {
+    "versionId": "o3hiSSue",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-17T20:24:48.866546Z",
+    "filename": "CraterLib-Fabric-1.21.6-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/o3hiSSue/CraterLib-Fabric-1.21.6-2.1.5.jar",
+    "sha512": "b5600ddd724921fd9227e105131f67aca2d7e208e8e8d226ddcc4a3087f5edfced101d72a91dc8560f8af25cffe1e8ee69c123853612e9e987ea1134e7fecc40"
+  },
+  "1.21.6-3.0.1": {
+    "versionId": "11hQTJ5x",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:33:13.129930Z",
+    "filename": "CraterLib-Fabric-1.21.6-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/11hQTJ5x/CraterLib-Fabric-1.21.6-3.0.1.jar",
+    "sha512": "0b270f6a53b0506e3b40c60f13437bf3f5c9af7066b2970a48dd4f4d430b771874500aaa8fa05cbbb745d921d4b93e4cabb5b8945de0e6cfc122bd2d96e29b9c"
+  },
+  "1.21.6-3.1.0": {
+    "versionId": "YoxxyrBm",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:32:33.782488Z",
+    "filename": "CraterLib-Fabric-1.21.6-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/YoxxyrBm/CraterLib-Fabric-1.21.6-3.1.0.jar",
+    "sha512": "b551d781554a8523eff9283d8c24ccce7fb473894bc6fee67b0219560c0f1962874899301b9db9b048a90e9f6915d0c83c1e9a8f819de254e938d53ad7d4ccfe"
+  },
+  "1.21.6-3.1.1": {
+    "versionId": "U2ftRmmT",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T11:51:55.707104Z",
+    "filename": "CraterLib-Fabric-1.21.6-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/U2ftRmmT/CraterLib-Fabric-1.21.6-3.1.1.jar",
+    "sha512": "0c7517ef7eb696cef7bc286540f617a1672ee8aaf6ae3812934c5676b5a86d87959e250344cfb680eef4de25f49105d0978d71fb8ba44c69baa35a38727db457"
+  },
+  "1.21.6-3.1.2": {
+    "versionId": "E4qmJGnH",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:24:38.418508Z",
+    "filename": "CraterLib-Fabric-1.21.6-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/E4qmJGnH/CraterLib-Fabric-1.21.6-3.1.2.jar",
+    "sha512": "5048c75cf793183ddb65ed4ed63937ede967e9de93b2e058ab5f99f64b23432f4fc36d9c6ccc83ff4be579ff1e9b158b6e921d2637f306e6193d6ce97a47cb00"
+  },
+  "1.21.9-2.1.5": {
+    "versionId": "8vFjssBM",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T16:58:02.622113Z",
+    "filename": "CraterLib-Fabric-1.21.9-2.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8vFjssBM/CraterLib-Fabric-1.21.9-2.1.5.jar",
+    "sha512": "af1c222e47b324b1a63cdf107f07ebb79b9400f4776e25afddec0812a21f3a71106c332ad11b9b4e0a79975b271060577f7fdbcb2f9ff2b4f0cd30d70bd43de8"
+  },
+  "1.21.9-3.0.1": {
+    "versionId": "XQB0K0Yv",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-06T20:38:04.493571Z",
+    "filename": "CraterLib-Fabric-1.21.9-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XQB0K0Yv/CraterLib-Fabric-1.21.9-3.0.1.jar",
+    "sha512": "3d129da98755d841e5048a60392b73d3318b1c90e7818a9c7fcc76741e6a87f9750e72d4c76d2444a3f561dacbf2ebfb611918aad0199e43b9f8860872802618"
+  },
+  "1.21.9-3.1.0": {
+    "versionId": "qe4cGO6p",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:41:35.077575Z",
+    "filename": "CraterLib-Fabric-1.21.9-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/qe4cGO6p/CraterLib-Fabric-1.21.9-3.1.0.jar",
+    "sha512": "938234fe1adb93bc0a871d8947babebad70f53aab53cc9045a2e5aed7afb6c92bbfc65c826a921e6288b518f8e25f723fabec25e19d2be4abcf79d29e5e80983"
+  },
+  "1.21.9-3.1.1": {
+    "versionId": "TGuLQ9SL",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T12:01:24.179075Z",
+    "filename": "CraterLib-Fabric-1.21.9-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/TGuLQ9SL/CraterLib-Fabric-1.21.9-3.1.1.jar",
+    "sha512": "4d0b763b5bb1caa61b953035bb9c10cf1ce33225187139a5c9c8cb6ff733c53db8e88c5f7901eedaa9ca51be9e297954e2e084a2532a2de7bc3255ceb5c0e673"
+  },
+  "1.21.9-3.1.2": {
+    "versionId": "tyDbWvpB",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:32:28.433619Z",
+    "filename": "CraterLib-Fabric-1.21.9-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/tyDbWvpB/CraterLib-Fabric-1.21.9-3.1.2.jar",
+    "sha512": "caa6ea806f65a226d7d573369f1f199571904d4786ecaca09e3bf68ab06309ea1edd55206b8911ab1c4630b2b26852487b92bc58ba254a89cc0572cb611a0e2f"
+  },
+  "26.1-3.1.0+experimental.2": {
+    "versionId": "h0AGyN83",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:53:31.121189Z",
+    "filename": "CraterLib-Fabric-26.1-3.1.0+experimental.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/h0AGyN83/CraterLib-Fabric-26.1-3.1.0%2Bexperimental.2.jar",
+    "sha512": "13722de5558fc92e2a05a1ecc810c6e7fb4acfc72ef531ef964983658901894688d0c370aa5adcc1e919e95f9432b7e40bfaccf994027d1f75e21ae0b8b500e4"
+  },
+  "26.1.2-3.1.1": {
+    "versionId": "XE8qvOGo",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T13:11:43.337331Z",
+    "filename": "CraterLib-Fabric-26.1.2-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/XE8qvOGo/CraterLib-Fabric-26.1.2-3.1.1.jar",
+    "sha512": "43fb3c215fe0ff722defc9d55d7d09a9893b5bf9a4ba0df051ab7c089be2328974c7d9122a71b5f747ca841d2253298aa3b23d640506f0c426439fcc312b4b17"
+  },
+  "26.1.2-3.1.1+hotfix.3": {
+    "versionId": "tI8ngEEA",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-06T08:33:15.377381Z",
+    "filename": "CraterLib-Fabric-26.1.2-3.1.1+hotfix.3.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/tI8ngEEA/CraterLib-Fabric-26.1.2-3.1.1%2Bhotfix.3.jar",
+    "sha512": "5ba24a34d1c7cca67f0287e6a4b8dee2ac0b2af1c5eb86ee9a72eb013f2896971c5332944381dc29511d564aa7d0c855544e8ecf58e12e855ef9c2f09fa1ec65"
+  },
+  "26.1.2-3.1.2": {
+    "versionId": "CmWNYoRU",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:45:23.438909Z",
+    "filename": "CraterLib-Fabric-26.1.2-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/CmWNYoRU/CraterLib-Fabric-26.1.2-3.1.2.jar",
+    "sha512": "dc8c75ee708c67ceb144a17107d702f4b05081e1fb46c334cbcdbbcdba0a0806b6ee2e6ee01d39187af278d9ba49c4c004740e254dd0d93ad9ae72db95f2dbcb"
+  },
+  "26.2-3.1.2": {
+    "versionId": "YS1XJpDW",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-27T09:17:42.834437Z",
+    "filename": "CraterLib-Fabric-26.2-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/YS1XJpDW/CraterLib-Fabric-26.2-3.1.2.jar",
+    "sha512": "1671f6c345971170bac8e425ac777c56b3d1543c307fd248462b833efa36c0784c3ac8bc0ac05733d281b4a8788782832814a308c19c373edbbfa028ee2818e9"
+  }
+}

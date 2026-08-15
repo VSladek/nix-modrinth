@@ -1,0 +1,574 @@
+{
+  "1.10.109-fabric": {
+    "versionId": "cALUj9l1",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-26T19:42:41.821295Z",
+    "filename": "spark-1.10.109-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
+    "sha512": "367f574f6d28432067f09737577d799ced9c309c1725da1d09ffdfe10eacf461a66967205cc938131afbcc8b8255c8c25f8aa516e15f061c6481b6e7b8c94250"
+  },
+  "1.10.113-fabric": {
+    "versionId": "whEIfq1H",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-22T21:40:48.317508Z",
+    "filename": "spark-1.10.113-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/whEIfq1H/spark-1.10.113-fabric.jar",
+    "sha512": "9273c185fd6ecf72dc76dbbc1ee53d311adb26ca0d6106bbe4b7591ac97ddb2fb47886c9cda16d874d5117088544675e1d1df0bcb25bad6cedf6c7a448b44873"
+  },
+  "1.10.115-fabric": {
+    "versionId": "D4nCQOay",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-26T09:08:10.994497Z",
+    "filename": "spark-1.10.115-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/D4nCQOay/spark-1.10.115-fabric.jar",
+    "sha512": "07c760c460f50e31758171151d57f459a020c8b480d326f45a019242956f36572d05cebd36daa03f7c104239d805c5716082aef0a51465cc593dd39a9bd8712f"
+  },
+  "1.10.119-fabric": {
+    "versionId": "rExumjPo",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-21T09:23:55.192933Z",
+    "filename": "spark-1.10.119-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/rExumjPo/spark-1.10.119-fabric.jar",
+    "sha512": "5320f9e58da80e6894ef1cb028c5f3d8de7a0162251be9d50bcf0a178cd93ce9d8c0189e2779030651d02a7f4fcec3b6b5ee7990e903446e74111b6f1265505b"
+  },
+  "1.10.120-fabric": {
+    "versionId": "EOLRjQgC",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-04T11:18:23.033612Z",
+    "filename": "spark-1.10.120-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/EOLRjQgC/spark-1.10.120-fabric.jar",
+    "sha512": "55bc7f5abefe01450523a53bb2d467f2a73bf81aa9c61516ff1b2d504d0075b71fd8efd7f118599ff5aea677c1e59634f84a7ffb6373774b922cb4f8c40d1a27"
+  },
+  "1.10.121-fabric": {
+    "versionId": "X2sypdTL",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-07T16:22:07.685979Z",
+    "filename": "spark-1.10.121-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar",
+    "sha512": "f164ca7dad6baf5e33b3a1b355319ddad264f2b27d2592fd80581d9dcaf35978149d005a159f1e0a116162a31dad4dc553cbaf3af70cc10285f63ca367fe4de5"
+  },
+  "1.10.128-fabric": {
+    "versionId": "NURCAL12",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T22:26:05.554819Z",
+    "filename": "spark-1.10.128-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar",
+    "sha512": "2159ce61963a1e2458c08e766f1beb6124ae6f6a69d463bfea28ffd675b4911273abd516456daeff691751b49d084a6d7c5c5252c9fe3db51541a502d80b8587"
+  },
+  "1.10.138-fabric": {
+    "versionId": "65SnrRgF",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-26T09:12:58.266687Z",
+    "filename": "spark-1.10.138-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/65SnrRgF/spark-1.10.138-fabric.jar",
+    "sha512": "c2bdb171c7ec1783f9efb0ff9a995433fd5838bd8571896be4f498c857ae9f2242d3f24c0541cd96049ea29d742a0e3f8077a3bd1af5d79654f19d34a3adc79c"
+  },
+  "1.10.139-fabric": {
+    "versionId": "qW2mPW6y",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-18T21:01:07.254001Z",
+    "filename": "spark-1.10.139-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/qW2mPW6y/spark-1.10.139-fabric.jar",
+    "sha512": "cd991acee93c074912f2934b5a9c3967be2f1e9157ca5a7254fd3fce8d280c5aa9a3ab06d3ee19f06c5111181853cf12048d000bf8b9f722c902c080fe258a97"
+  },
+  "1.10.140-fabric": {
+    "versionId": "wPYvarTa",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-30T21:15:05.540132Z",
+    "filename": "spark-1.10.140-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/wPYvarTa/spark-1.10.140-fabric.jar",
+    "sha512": "595fb359cdecda4afea773aa47a34c7bcfef899abfcfb93f0cd346c6308cb88ad09f87f29606640768c48945da1617a89bc97cdea6d9e916cb47ab1fbec41328"
+  },
+  "1.10.142-fabric": {
+    "versionId": "3KCl7Vx0",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-21T21:37:34.263188Z",
+    "filename": "spark-1.10.142-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/3KCl7Vx0/spark-1.10.142-fabric.jar",
+    "sha512": "95b7e4f2416e20abf9d9df41fcbce04f28ebf0aa086374742652789a88642dd6820c8884ab240334555345b49c39f7d0caf23d521cec9516991ef43ba24758af"
+  },
+  "1.10.145-fabric": {
+    "versionId": "xLX9xUcP",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-01T20:00:17.022529Z",
+    "filename": "spark-1.10.145-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/xLX9xUcP/spark-1.10.145-fabric.jar",
+    "sha512": "c64ef35928882e7f539588fc8da7f6fe5ba1b4aa3d0d019c53425ec15580e62e73d9e699b031f0e8a7467070cf2b79dff8e3f1d72bf18feffb95732a067af2e7"
+  },
+  "1.10.152-fabric": {
+    "versionId": "eqIoLvsF",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-11T12:13:34.415721Z",
+    "filename": "spark-1.10.152-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/eqIoLvsF/spark-1.10.152-fabric.jar",
+    "sha512": "f99295f91e4bdb8756547f52e8f45b1649d08ad18bc7057bb68beef8137fea1633123d252cfd76a177be394a97fc1278fe85df729d827738d8c61f341604d679"
+  },
+  "1.10.156-fabric": {
+    "versionId": "1CB3cS0m",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T09:07:15.790508Z",
+    "filename": "spark-1.10.156-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1CB3cS0m/spark-1.10.156-fabric.jar",
+    "sha512": "c17995968561761e0857445e28e9235f3c0ec5fc0695deda3b2ae408baf074348822f0a8671791032b32c6b2977edba1024a2cc3b4588b9274e7f131795af6e0"
+  },
+  "1.10.17-fabric": {
+    "versionId": "OT1CD9Qj",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-10T10:05:54.745624Z",
+    "filename": "spark-1.10.17-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/OT1CD9Qj/spark-1.10.17-fabric.jar",
+    "sha512": "3a8d641822bd99e565b69c3ab4cfd37228f61593b4bc1f88b28a481e00e948af375f790425d2fb89b9d72538e2a5f0ee0b40c5cda80d5738ad10baaac5405aa3"
+  },
+  "1.10.170-fabric": {
+    "versionId": "gonLOAU1",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T07:43:06.831770Z",
+    "filename": "spark-1.10.170-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
+    "sha512": "7460ac92a1241f373238b7afe3c9e8dc67101d3cc6d95322f9a86b7db4dc3be5da5e3ce80ad9653bff682f796a79cd8384851e0ed757b468f2f52b6bde71cb00"
+  },
+  "1.10.172-fabric": {
+    "versionId": "J1GUYyGQ",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T08:29:59.675898Z",
+    "filename": "spark-1.10.172-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/J1GUYyGQ/spark-1.10.172-fabric.jar",
+    "sha512": "e0697663689c5459b7ed92f21d86b0191bbe7f6327ac7e8972ad9f6318ef7a8ca93da3a8495459ee6f1443cadff7656b150ea0efc81f8cf1300c9301483a2fb3"
+  },
+  "1.10.173-fabric": {
+    "versionId": "iYFOl6lQ",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-18T21:12:12.918302Z",
+    "filename": "spark-1.10.173-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/iYFOl6lQ/spark-1.10.173-fabric.jar",
+    "sha512": "1dcbf2b76ceacf07523afaeaf63d3625b0318077cc6ce588bb701aea4a494bc2a5179fd2ca5aeda9513c6a2248c2ec590387e8aec6ac9fd8e3d01760bbc3dbfb"
+  },
+  "1.10.29-fabric": {
+    "versionId": "1K3xO8TS",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-05T10:45:40.345907Z",
+    "filename": "spark-1.10.29-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1K3xO8TS/spark-1.10.29-fabric.jar",
+    "sha512": "b354f221914e3077180c47d1f967ffc4458fe905f99bef04f42ffa6f7223a54fd4c49119acdfa87e347b41d15a995bc5fa698f0152da51d64d5cc425f8cd5af6"
+  },
+  "1.10.33-fabric": {
+    "versionId": "g5rM8xSA",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-13T11:23:38.307039Z",
+    "filename": "spark-1.10.33-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/g5rM8xSA/spark-1.10.33-fabric.jar",
+    "sha512": "9c2f815eb1b464ce887927a63dcc7e4eec2ea7d8cfac966806b31c05d9c8ee26e3904f449fb44fb36a271878f931c57f31ad9cb62aea420f9a2714edc457a521"
+  },
+  "1.10.34-fabric": {
+    "versionId": "N7JzEApO",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T19:34:42.986248Z",
+    "filename": "spark-1.10.34-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/N7JzEApO/spark-1.10.34-fabric.jar",
+    "sha512": "d5a6ea87dbff908a540c04521073189253ac685e9380c3c4ef78bf00eceadafaaf78a8bb7034e7d359e30ac2f00c0b3fb4d296c4c5d15e557ab1a0106cb94636"
+  },
+  "1.10.37-fabric": {
+    "versionId": "XhFbpH8f",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-24T16:12:27.433214Z",
+    "filename": "spark-1.10.37-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XhFbpH8f/spark-1.10.37-fabric.jar",
+    "sha512": "c5fa2d48e1805094416c92175f147c440672133b00a79f73602d198139ca98f330217bd4337b986d29fc7f5346f98a71960452aac623c1e004482808bd5f03f0"
+  },
+  "1.10.38-fabric": {
+    "versionId": "VhY9p1RU",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-24T16:50:07.154495Z",
+    "filename": "spark-1.10.38-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/VhY9p1RU/spark-1.10.38-fabric.jar",
+    "sha512": "6e8975490e5cf7f5bdccda419b5fb3a3d2a5f110e4dbd81fdeb9b5ae4b1863089a1d2736951b5dde103c8cc14a51050184239749ea192851115026c711cd3588"
+  },
+  "1.10.39-fabric": {
+    "versionId": "qyMNf4Pn",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-11T19:25:22.431286Z",
+    "filename": "spark-1.10.39-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/qyMNf4Pn/spark-1.10.39-fabric.jar",
+    "sha512": "787acb808d3f59c023119a129f751d6ff57d50229f09b2142e3102709c509e4b009be0a33133e0915a7fb1bb7fc2ca133a0b4f3a6a2e8b14b780f2a2a7a8c45b"
+  },
+  "1.10.41-fabric": {
+    "versionId": "dVHkMOHv",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-08T22:38:58.733344Z",
+    "filename": "spark-1.10.41-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/dVHkMOHv/spark-1.10.41-fabric.jar",
+    "sha512": "4b534ec3018a809a8aee0c73c9201d1a64ddbb644b9cfaf3c64fe8d86896776b767323e86dc7bb764380a3a1cf75d83f9688f9e8c8bb3aa946ef2b072b59b388"
+  },
+  "1.10.42-fabric": {
+    "versionId": "BeIg1bik",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-14T20:57:04.936402Z",
+    "filename": "spark-1.10.42-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/BeIg1bik/spark-1.10.42-fabric.jar",
+    "sha512": "d513ef4140d809aa3508d5132683ce77db6db7425398295613acc498270f84656b2ccabb366d57068e55a08a65e06e494cd6389f618ab6efb824f20d24badc1f"
+  },
+  "1.10.53-fabric": {
+    "versionId": "XGW2fviP",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-05T08:02:46.547456Z",
+    "filename": "spark-1.10.53-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar",
+    "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7"
+  },
+  "1.10.54-fabric": {
+    "versionId": "tCU9VuzX",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-22T20:36:12.241799Z",
+    "filename": "spark-1.10.54-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/tCU9VuzX/spark-1.10.54-fabric.jar",
+    "sha512": "474ff248f395a6c42ddfec805880f67301466a2b345df5dc219c60932d9ddccfb03efc76990d6db4841a0dc3459ac4755ff875380572b723c5655e3acfcc659f"
+  },
+  "1.10.57-fabric": {
+    "versionId": "8ZQqfeXy",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-06T21:47:06.383346Z",
+    "filename": "spark-1.10.57-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/8ZQqfeXy/spark-1.10.57-fabric.jar",
+    "sha512": "321c4b0d184501ec98e3f95518b4a0b325fdad1c19ecf4f9fa6630fbfed4466a1fac649ed4624953d60ec617ca0e7c67d02d7d307307c22df4ff525cd7a8d73e"
+  },
+  "1.10.58-fabric": {
+    "versionId": "FeV5OquF",
+    "gameVersions": [
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-11T22:48:56.451495Z",
+    "filename": "spark-1.10.58-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/FeV5OquF/spark-1.10.58-fabric.jar",
+    "sha512": "dfc0ba346fea064848ceb3539dd05351327489c6cec09413c4b5ba8a25eefce44da89224cd9e778b7984fa789fbe00a9269e8994e2eec81b79e411f20579fd3c"
+  },
+  "1.10.64-fabric": {
+    "versionId": "i3FZxFQO",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-23T22:18:09.674528Z",
+    "filename": "spark-1.10.64-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/i3FZxFQO/spark-1.10.64-fabric.jar",
+    "sha512": "a0c2d62a47eb91d47e9a2081428a112bb64731f776c4a237628bd86721017cbb4f16522e1f8fb3d8e9c5d1be8f6d16823e4edaddc5cd33d62200cda6fbb3b652"
+  },
+  "1.10.65-fabric": {
+    "versionId": "h0hKeaRD",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T20:20:55.155043Z",
+    "filename": "spark-1.10.65-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/h0hKeaRD/spark-1.10.65-fabric.jar",
+    "sha512": "fc4de3cd3d423d4922153595ac97baa15aef44211ef03b3c01a20dc5198efd647fccc0e63da82ee0f2c8544bfe63cb2d88fd41c9fd08227038975bcec4fce50e"
+  },
+  "1.10.73-fabric": {
+    "versionId": "KYGTUMOq",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-16T09:35:01.965076Z",
+    "filename": "spark-1.10.73-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar",
+    "sha512": "ddc0f8dfefc2006cbe56b397b8c5d7d5532763f3a67dc3f875a300428085a1eb5fa8963624eaf2e9b68bd65ad265c75bd55296af05141de2c1bc23fbd2818254"
+  },
+  "1.10.97-fabric": {
+    "versionId": "qTSaozEL",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-12T18:54:34.270274Z",
+    "filename": "spark-1.10.97-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/qTSaozEL/spark-1.10.97-fabric.jar",
+    "sha512": "4f2b3a6ff81ca7d2653eeddbcc597457310fb1e905650fa39629abc36acf9860a7952375fabaacd71b1a2d426145fda8c32c4d76caac2d5fd823a3c5060c7143"
+  },
+  "1.6.2-fabric": {
+    "versionId": "liwd7pvc",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T19:23:29.766201Z",
+    "filename": "spark-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.2-fabric/spark-fabric.jar",
+    "sha512": "7bea8c438c93b293baeaa8c194c84ac33892206612aa829802dcb01c26c8d9d3aba01fc16a5b9dab88ede2bc48fc4e5b6fa09d8787032b9b1dab645965c1ea59"
+  },
+  "1.6.3-fabric": {
+    "versionId": "D6L5yWtJ",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T19:24:23.923289Z",
+    "filename": "spark-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar",
+    "sha512": "6497765a2850a67147668a80688f138d51a3d45646caaaf4cf51cc7bc0a878c3688e36877338c9c9effb5ee0c27df2715f6827a3f92adadc4293f2f3992a9812"
+  },
+  "1.7.2-fabric": {
+    "versionId": "sf2nOVoP",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-01-02T16:31:16.115759Z",
+    "filename": "spark-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.7.2-fabric/spark-fabric.jar",
+    "sha512": "45936311e487a9c10aa6629a02b59206eae148ed253b171381dccfb5909fdd72e1fcdd3dd7d7785100748e67ff3397bcd4aa69db6b3f977e98372110987ca709"
+  },
+  "1.8.14-fabric": {
+    "versionId": "VkKsarbC",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-02T19:46:39.522508Z",
+    "filename": "spark-1.8.14-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.8.14-fabric/spark-1.8.14-fabric.jar",
+    "sha512": "f15ad7bc9f423ff507721ac1059df31dcb1211a488e61088f29467bc083eeb34bb1b126a39219a46a6e9711772f7384e254999181fdbfce3c7edec33f5be64fb"
+  },
+  "1.8.6-fabric": {
+    "versionId": "b3zKGLTS",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-10T20:49:49.172691Z",
+    "filename": "spark-1.8.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.8.6-fabric/spark-1.8.6-fabric.jar",
+    "sha512": "cca794c2061ce43560103c35a67a98e5e7be3226e79e16514a5c94476e02f570b9b48076fe3250eb887b6d777a7eda2d3e052ee89c171f8a0727aa5959d295f6"
+  },
+  "1.9.1-fabric": {
+    "versionId": "qBdtA5uj",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-24T16:46:02.367002Z",
+    "filename": "spark-1.9.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.1-fabric/spark-1.9.1-fabric.jar",
+    "sha512": "c7b9691096658f6d53de41f0be3ee64a9bb9275620493f1ce3366e08b9eed55010217e4d8479d91bb9f142e16c6776a7ef9703f6f6fef8b40ff87e29dd1b11d3"
+  },
+  "1.9.11-fabric": {
+    "versionId": "JjikdHMk",
+    "gameVersions": [
+      "1.18",
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-09T20:29:54.333003Z",
+    "filename": "spark-1.9.11-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.11-fabric/spark-1.9.11-fabric.jar",
+    "sha512": "f7cd1f49b70eac46a3c008ce5b985912c7dadb8ba0602e18befbb2877035cbf4b1675f6031f403ce4fce3049e778a35f306d777867e139c4f6ad9f6dd5df1140"
+  },
+  "1.9.13-fabric": {
+    "versionId": "CWiQ0oM4",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-09T20:31:14.395611Z",
+    "filename": "spark-1.9.13-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.12-fabric/spark-1.9.13-fabric.jar",
+    "sha512": "e7ce3660f4cbf1e2d6fbb0aab69881c5129276f1497712eddd2fc64f9477429f5ee3180195dc5db18510204f2e7a64cce4d95e55cb529df481b6cc4c9601178c"
+  },
+  "1.9.25-fabric": {
+    "versionId": "jg0K11We",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-14T20:04:38.871074Z",
+    "filename": "spark-1.9.25-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.25-fabric/spark-1.9.25-fabric.jar",
+    "sha512": "1e02810b2c878afbbc57cc26c8d3851ba5040ff257ca605bfd5244628b02f0c7f8c54d1eef804fcf2c20559f855ec9ad9b35ab118fa651987d81e98a7abb9898"
+  },
+  "1.9.26-fabric": {
+    "versionId": "Biivc7P1",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-17T11:33:21.845596Z",
+    "filename": "spark-1.9.26-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.26-fabric/spark-1.9.26-fabric.jar",
+    "sha512": "6f999b011c18a4ef11d52e5842454357b1ee351da3fa651d2df5ca36b2d8013ba99bd7fd64020c503e4458ae4b1703c765366ae100161df6ff9ecbcb6a51eac0"
+  },
+  "1.9.36-fabric": {
+    "versionId": "g60nhl1v",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-18T07:43:45.606587Z",
+    "filename": "spark-1.9.36-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/g60nhl1v/spark-1.9.36-fabric.jar",
+    "sha512": "ad946b878d76f3d29469d7c69df66db5c5d08eddc4f438135780b6e4b9b56eb70542d300a25282c307ecd35ed6b066a810109a1aa30f65b1f8bffb5bfb63e67a"
+  },
+  "1.9.40-fabric": {
+    "versionId": "FnKxsd40",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-23T21:45:05.507891Z",
+    "filename": "spark-1.9.40-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/FnKxsd40/spark-1.9.40-fabric.jar",
+    "sha512": "bab7609e5aae360421f21652fa084f0c01b9b900609a1163597a911199cdd19056b1389736e371f1fb96efb8b39cb9d1eb9b010a459e33307b47181d0babd6e6"
+  },
+  "1.9.42-fabric": {
+    "versionId": "3opVno4q",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-15T16:59:22.030292Z",
+    "filename": "spark-1.9.42-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/3opVno4q/spark-1.9.42-fabric.jar",
+    "sha512": "4967e64bc038d41a363b218881173b470730bd0e46d23f237ae11072a912e1e5f6cb41f8a35d7ba30a0ef594eb7fa01eb43d9e0b982a1da50cf7bbe196394ab2"
+  },
+  "1.9.45-fabric": {
+    "versionId": "RhyaY2vw",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-29T20:58:02.245199Z",
+    "filename": "spark-1.9.45-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/RhyaY2vw/spark-1.9.45-fabric.jar",
+    "sha512": "cdd669adbee9aca40d66d10b6062496d3bd1381f953231b3ca35b440eb60827f093a2b505d08898b08c567cfc5eee23ee26540bc9eda416ae5c76d643b7f9613"
+  }
+}

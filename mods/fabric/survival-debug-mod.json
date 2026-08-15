@@ -1,0 +1,162 @@
+{
+  "1.0.1-UYYPaa5U": {
+    "versionId": "UYYPaa5U",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-13T10:50:16.934615Z",
+    "filename": "survival-debug-mod-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/UYYPaa5U/survival-debug-mod-1.0.1.jar",
+    "sha512": "e456da28d9b0f38edb65889daf6a8504d23a3ac148139541fff0196bcadc8cb830265847175defce6f6d51caa7bd387e24547992bf22189940ed927265e91d83"
+  },
+  "1.0.1-m0Dxm7Eo": {
+    "versionId": "m0Dxm7Eo",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-18T13:33:30.949900Z",
+    "filename": "survival-debug-mod-1.0.1_1.19.3.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/m0Dxm7Eo/survival-debug-mod-1.0.1_1.19.3.jar",
+    "sha512": "805bf2ca4de57ea92bde409455fb70d178c6bd66eb3b69f9e21643fa29b3a89c6bb00d7822963f2bf86560a6ea7343692aca109368fcb1b10488211ba0ddc116"
+  },
+  "1.0.2": {
+    "versionId": "bU0PvexW",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-12T12:35:58.616685Z",
+    "filename": "survival-debug-mod-1.0.2_1.20.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/bU0PvexW/survival-debug-mod-1.0.2_1.20.jar",
+    "sha512": "c00f38342c1347b9a749ea7e8193a94dbc03effb73b653a04d9ae2da6b711902f224716b6ea35bdd8504ce88ef680c55b4459c02853d53b01f5db2a7110acde8"
+  },
+  "1.1.0": {
+    "versionId": "bJgYCNrE",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-21T21:57:01.393193Z",
+    "filename": "survival-debug-mod-1.1.0_1.21.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/bJgYCNrE/survival-debug-mod-1.1.0_1.21.jar",
+    "sha512": "b84efe284b85123c68c56e3aebc78edbe3f228d34293076db0412467909ea23f799756746f259ccefc302da9fd6033b2b963482b1aa433175fdd7bf0f491e1af"
+  },
+  "1.2.0": {
+    "versionId": "4YRDpsj2",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-22T11:49:32.862413Z",
+    "filename": "survival-debug-mod-1.2.0_1.21.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/4YRDpsj2/survival-debug-mod-1.2.0_1.21.jar",
+    "sha512": "c413d9a59a4b30f1c6b41a70e775fce14bee129ddbaaabd9059dced6477f48548fbbf96d211c098ed11e44e2f4be696891e7a5e8c6fc23b4ad1f7f3e29bfc20b"
+  },
+  "1.2.1": {
+    "versionId": "zTONzyeJ",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-09T08:59:44.523840Z",
+    "filename": "survival-debug-mod-1.2.1_1.21.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/zTONzyeJ/survival-debug-mod-1.2.1_1.21.jar",
+    "sha512": "e56c6df8f865a8c639d04aa9f940831361bba4c27d90b21a7c620acc92a3700a4021a5b3ed9cc39a68ea52d02bf7a1aa95f96f44093c07d8836410637e98f251"
+  },
+  "1.2.2": {
+    "versionId": "bx7alPI2",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-02T08:21:32.847273Z",
+    "filename": "survival-debug-mod-1.2.2_1.21.2.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/bx7alPI2/survival-debug-mod-1.2.2_1.21.2.jar",
+    "sha512": "850fe9e7262a6ad1ce1bb59af14244f5e7334694d49a540fddf9a03f932f5fe55f39b5920853c30d8d1495cc93c0efb55714aae2e1100456cda486e7dfad8e91"
+  },
+  "1.2.2_1.19.34": {
+    "versionId": "4RkPpwSb",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-03T07:11:37.272667Z",
+    "filename": "survival-debug-mod-1.2.2_1.19.34.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/4RkPpwSb/survival-debug-mod-1.2.2_1.19.34.jar",
+    "sha512": "b263a42b62b73fd0cc60986426604c53fa9fe6eaa3708b9fc86c1be597a45f7b9a55a8c033e48b8e6392af4096a8b9c9f15b03367b6926244bb3d71193804cc3"
+  },
+  "1.2.2_1.21": {
+    "versionId": "gqTPrcxi",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-03T07:10:23.775689Z",
+    "filename": "survival-debug-mod-1.2.2_1.21.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/gqTPrcxi/survival-debug-mod-1.2.2_1.21.jar",
+    "sha512": "f4a7e9941cea6caf7c736ab6b2c1d90d6fae37179a800ebd3d2fc0bba68ca9189ac6ba4b48e73fd5cebbc01385b96206766cbf0295d43cbe910abfe1c324b63d"
+  },
+  "1.2.3": {
+    "versionId": "4RtFndEh",
+    "gameVersions": [
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-11T15:39:09.984177Z",
+    "filename": "survival-debug-mod-1.2.3_1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/4RtFndEh/survival-debug-mod-1.2.3_1.21.5.jar",
+    "sha512": "a0fb202e44857bebb33bef20a6dba4fd77908366f046c0c20108aba6fadfb1c461e34ca6d619181e387434a99e02a1f86eca575d50074fcc26d54d9b5671d9ea"
+  },
+  "1.2.3+1.21.11": {
+    "versionId": "Ww7SQdBN",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-04T08:16:47.533420Z",
+    "filename": "survival-debug-mod-1.2.3+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/Ww7SQdBN/survival-debug-mod-1.2.3%2B1.21.11.jar",
+    "sha512": "b50e3e49dbad1dafd330c0bd258cee92e6e85c99edb19bcd64fa322a1f95896bb0746a9c30f4f2ae572876cec59d1af866aabc683890db693a6c8bea4be62d0a"
+  },
+  "1.2.3+26.1.2": {
+    "versionId": "b3BH4xII",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T07:23:24.297502Z",
+    "filename": "survival-debug-mod-1.2.3+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/9rVMDWPD/versions/b3BH4xII/survival-debug-mod-1.2.3%2B26.1.2.jar",
+    "sha512": "a671ca34f13d6cbdb40e82211468020d25ccc446a04b3adad356d42ba923ca46abac5657c161cf0c9df7aca7883a39790701e5cdbd7e3fe872e6e922b7863a61"
+  }
+}

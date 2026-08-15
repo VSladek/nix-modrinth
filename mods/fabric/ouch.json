@@ -1,0 +1,143 @@
+{
+  "1.0.0+1.21": {
+    "versionId": "NFHVjdnX",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-22T20:54:51.544175Z",
+    "filename": "ouch-1.0.0+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/NFHVjdnX/ouch-1.0.0%2B1.21.jar",
+    "sha512": "0778ac7d2c10db96367c4d5818f38a4b9683860db85213fd5383375f848977cf4e0e5218cdccde0d89fa33674bf977c1c8ebde83655f1acecd347c6ec2f7493d"
+  },
+  "1.0.1+1.21": {
+    "versionId": "wOTwpNZe",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-23T17:45:49.887186Z",
+    "filename": "ouch-1.0.1+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/wOTwpNZe/ouch-1.0.1%2B1.21.jar",
+    "sha512": "0440dd2525bf06ecc31f8d5e2a4d57b48f82ced7d2564466a900e266a7d42e5d1b63fddcf881490fa24f9cccfbf5d5c6561032fe2baeb4b42cf8027e12a38811"
+  },
+  "1.1.0+1.21": {
+    "versionId": "rq1lty2d",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-27T19:17:00.907049Z",
+    "filename": "ouch-1.1.0+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/rq1lty2d/ouch-1.1.0%2B1.21.jar",
+    "sha512": "ae8859fec79538431bfda53220969f756011e3acb8bea0ad7db91db0bf09b0fe98e2078c1b1e937153501205f9d3dc2bfd33979a4f1c1e3ce858af55c16596f5"
+  },
+  "1.2.0+1.21.3": {
+    "versionId": "wD9wH2Mm",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-24T20:41:47.133320Z",
+    "filename": "ouch-1.2.0+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/wD9wH2Mm/ouch-1.2.0%2B1.21.3.jar",
+    "sha512": "b4375166916ac8b2a764ad802250377b08b483122edf2f01a63f48715e984b5cb0f11068121c7c1f1f788bf51c936551aa44216b6ee6d955bedb82ec82547ff3"
+  },
+  "1.3.0+1.21.4-rc3": {
+    "versionId": "4vzyOqqA",
+    "gameVersions": [
+      "1.21.4-rc3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-30T19:50:01.578874Z",
+    "filename": "ouch-1.3.0+1.21.4-rc3.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/4vzyOqqA/ouch-1.3.0%2B1.21.4-rc3.jar",
+    "sha512": "6afadebdec4f9cbf870ca6cfd14903d8c7025b7f3e5c410cab27f0e728ede411f4e710a8f240b2ccc523459736bbe9a2bbcdf7a7a22e263ced2ba52093262aff"
+  },
+  "1.3.1+1.21.4": {
+    "versionId": "xetzH0UB",
+    "gameVersions": [
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-12T17:44:36.638372Z",
+    "filename": "ouch-1.3.1+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/xetzH0UB/ouch-1.3.1%2B1.21.4.jar",
+    "sha512": "114accbc69f1982c204613eed7105903b06d436936d66b5664ef2c6e32ddb5df942ac329b19b118ffe3a905c8d0d6cf21951921745c1134f2f9cc4dac3bb2e8d"
+  },
+  "1.4.0+1.21.5": {
+    "versionId": "VbLrL1Ak",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-26T19:59:57.765027Z",
+    "filename": "ouch-1.4.0+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/VbLrL1Ak/ouch-1.4.0%2B1.21.5.jar",
+    "sha512": "314fa99c73806def9b06eaf3c4da86e4434dd4888ba67a7184b1bc04a462f6a56c59b63dd83d7f15a84ab07f021cc62e2eaa0b95d41534a65dbd950739fe0df4"
+  },
+  "1.5.0+1.21.6": {
+    "versionId": "jQpc4lgy",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T16:43:17.175943Z",
+    "filename": "ouch-1.5.0+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/jQpc4lgy/ouch-1.5.0%2B1.21.6.jar",
+    "sha512": "a88c96d0de92d9da0bb9e82febfcc520b759f54591d1bf4631e338eeb3bc34d655a53d68c2a1b82e179f8810c9fca2408f1f221e5eb3f613c360164979c0de0d"
+  },
+  "1.6.0+1.21.9-rc1": {
+    "versionId": "GVsqCGGi",
+    "gameVersions": [
+      "1.21.9-rc1",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T07:44:11.293850Z",
+    "filename": "ouch-1.6.0+1.21.9-rc1.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/GVsqCGGi/ouch-1.6.0%2B1.21.9-rc1.jar",
+    "sha512": "61bbd6f6238205db7040f142e919c613024895333bfb636b5d8a69de6d2891938c0323e24ac7091ee5e6fcac2cbfd8849418098ea9737de36c5e2b1dde6d5f7d"
+  },
+  "1.7.0+1.21.11": {
+    "versionId": "qPaLSvSq",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T21:41:55.125411Z",
+    "filename": "ouch-1.7.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/qPaLSvSq/ouch-1.7.0%2B1.21.11.jar",
+    "sha512": "262c56820d86d66100fcb35dc268629f22222ed2719548de15e1ecc4bf79e0e96d0ad29bcb82218d6bd1f19b311a762bcff69b5a087c8f3e20be580e2dab747f"
+  },
+  "1.8.0+26.1": {
+    "versionId": "oQK7slVu",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T21:51:26.984287Z",
+    "filename": "ouch-1.8.0+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/oQK7slVu/ouch-1.8.0%2B26.1.jar",
+    "sha512": "710455182b7e7c4b2f7e059859873a4d1d90f04fa36e119adb800643669f8350609a12d02d9c5c4267f66f4c926dbe0f95518086d3827fb3f443a6fec0c90c68"
+  },
+  "1.9.0+26.2": {
+    "versionId": "qq3Y1YMb",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-17T10:44:08.844417Z",
+    "filename": "ouch-1.9.0+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/qq3Y1YMb/ouch-1.9.0%2B26.2.jar",
+    "sha512": "2ccdda2686c6cb823619916c9fc47cbd142be71ed58f23053da6ce26414dd5aefceff6dad913c0eb2f6ce205f87f541c72dcf46dd0ba56e6d2a7304e01485d49"
+  }
+}

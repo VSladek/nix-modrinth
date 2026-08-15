@@ -1,0 +1,457 @@
+{
+  "5.2.76": {
+    "versionId": "FidxKRFj",
+    "gameVersions": [
+      "1.16.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-05T13:18:36.859958Z",
+    "filename": "LuckPerms-Fabric-5.2.76.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.2.76/LuckPerms-Fabric-5.2.76.jar",
+    "sha512": "0f75f50d2c7b8da3d76e482621fc73259ab3edad5ad925b669009ea5c9305bc496b4817e25fc66f7079ab209fbc23e4cbecf96d87902af1b99d1637abd7e403d"
+  },
+  "5.2.92": {
+    "versionId": "AB34dkXL",
+    "gameVersions": [
+      "1.16.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-24T21:39:53.978179Z",
+    "filename": "LuckPerms-Fabric-5.2.92.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.2.92/LuckPerms-Fabric-5.2.92.jar",
+    "sha512": "b825e9e833bc3144530fe9a7817bce68004f586dc442ab25f1d4d826682a78386de97a9ebc70e93b079e5eb8da012981a232a9c2d3fb3b74ae8a08115529e4d6"
+  },
+  "5.3.84": {
+    "versionId": "wEWhExS3",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-02T21:29:36.710303Z",
+    "filename": "LuckPerms-Fabric-5.3.84.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.3.84/LuckPerms-Fabric-5.3.84.jar",
+    "sha512": "cbaf2be351390b0e7a3008f73b9c5b53a4e947798160d996b0abe6a611ccabe252e42583680cb8de2974a5b15d43b191775b20b9beda4c49aa5276169d1f4563"
+  },
+  "5.3.86": {
+    "versionId": "NbRSaDd7",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-02T21:30:01.910382Z",
+    "filename": "LuckPerms-Fabric-5.3.86.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.3.86/LuckPerms-Fabric-5.3.86.jar",
+    "sha512": "69f8539660850d9f25902d43c96f38717c9b592c555c66403d6203d783d260c7c85507580db4257b4cdee26769645f9a25b233eeb80ecd20b9cf103a03bbc75c"
+  },
+  "5.3.9": {
+    "versionId": "AFeyDid4",
+    "gameVersions": [
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-03-20T14:11:44.701213Z",
+    "filename": "LuckPerms-Fabric-5.3.9.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.3.9/LuckPerms-Fabric-5.3.9.jar",
+    "sha512": "80abdecea5ebd1a3e5c75209842d0fbcf336f99586ba1280ab8d81ccd29a31e926db5fd34e2c0cd04f1843f21dca0786e5fabb2d85ac4280710059b34ac6eee3"
+  },
+  "5.4.36-fabric": {
+    "versionId": "i7mAqq9g",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-24T15:14:02.541503Z",
+    "filename": "LuckPerms-Fabric-5.4.36.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.4.36-fabric/LuckPerms-Fabric-5.4.36.jar",
+    "sha512": "efc23352297057f5366f211e5546889a464d7f476c5634ab4253bb555c9029892ab04a5e1c0d73e67406dc66c3b97288ea414ce293a9b1996900672691e5d90d"
+  },
+  "v5.4.102-fabric": {
+    "versionId": "7PNj6nCm",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-05T08:00:08.324136Z",
+    "filename": "LuckPerms-Fabric-5.4.102.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/7PNj6nCm/LuckPerms-Fabric-5.4.102.jar",
+    "sha512": "45058fd2bbd2e7723af01a093ef7233d8a6fa2278a2232dfcc2aa53dae6df7ed78dbfbdb9ee133b19bc36655ccff5a4facdd476319c18e290b284733bf10edff"
+  },
+  "v5.4.109-fabric": {
+    "versionId": "jo7yK6ip",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-06T20:12:58.158915Z",
+    "filename": "LuckPerms-Fabric-5.4.109.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/jo7yK6ip/LuckPerms-Fabric-5.4.109.jar",
+    "sha512": "eabe44727134578c8bda9f6de1ee0c2d13762d2393b7c5d683adb207844beec605134a9d4a21d862f3538429975673380b408f38628cfaae447c001d83e7a3db"
+  },
+  "v5.4.111-fabric": {
+    "versionId": "V6jJcD5R",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-06T21:03:28.127901Z",
+    "filename": "LuckPerms-Fabric-5.4.111.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/V6jJcD5R/LuckPerms-Fabric-5.4.111.jar",
+    "sha512": "642a5e25e6b81c784c8faff3130fca7172285371eda5899cbec457249f465f7859cdffe649697b48a46410e3cee940171af7afd52b0b8f212bdae3b70b05b2bb"
+  },
+  "v5.4.112-fabric": {
+    "versionId": "Q8sYTIzD",
+    "gameVersions": [
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-11T22:51:42.711081Z",
+    "filename": "LuckPerms-Fabric-5.4.112.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/Q8sYTIzD/LuckPerms-Fabric-5.4.112.jar",
+    "sha512": "3a1bcfa567c593ecd9f7d3095115edae18ec44cd485359ba68d040a2055602eb2b83dcebcdfde9e9d108db767df95f2682278783a4c84f70536f3026d9cdb117"
+  },
+  "v5.4.113-fabric": {
+    "versionId": "42RCP8I8",
+    "gameVersions": [
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-16T11:20:44.934978Z",
+    "filename": "LuckPerms-Fabric-5.4.113.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/42RCP8I8/LuckPerms-Fabric-5.4.113.jar",
+    "sha512": "08a99ca6c7bf0e99d75db5cf085c0cb0bd5146b1b99ab0aef400bae6c7074a1aedf70edb2f7b1a1a065d8d689c1f58d7e100a11ba81022ea66d65e4f84dea250"
+  },
+  "v5.4.123-fabric": {
+    "versionId": "TIhJkC4u",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-23T22:18:32.409020Z",
+    "filename": "LuckPerms-Fabric-5.4.123.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/TIhJkC4u/LuckPerms-Fabric-5.4.123.jar",
+    "sha512": "832561d2574e2d5ad1616869b187a5fb779e525e3c89cde234aa8a7864855d333c389f7a7891fb084940de1e7d1785897ed2dfca6056367826ad0ac7150a3641"
+  },
+  "v5.4.125-fabric": {
+    "versionId": "BrZOYzp6",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T20:20:33.541389Z",
+    "filename": "LuckPerms-Fabric-5.4.125.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/BrZOYzp6/LuckPerms-Fabric-5.4.125.jar",
+    "sha512": "2c0959932eddc39af77e8686aeaaa96fe5b9ad9fdde45782224d84b8454147200716844710b51de30c039bac7400b24be60697d0ab7ad0b09f713afc52a529ae"
+  },
+  "v5.4.133-fabric": {
+    "versionId": "2RuZIzOq",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-16T10:06:22.073795Z",
+    "filename": "LuckPerms-Fabric-5.4.133.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.133.jar",
+    "sha512": "ecb5e47025b61b83d689c2d66088e0709a37cd199941c178658a5836092e7932e5bf72151d42a55ee4c11aef7d51ee565a4ed8ec8d6473152bf35a9a50b1e168"
+  },
+  "v5.4.139-fabric": {
+    "versionId": "oLykW1F8",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-12T18:55:25.312627Z",
+    "filename": "LuckPerms-Fabric-5.4.139.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/oLykW1F8/LuckPerms-Fabric-5.4.139.jar",
+    "sha512": "fcd867dd3bdaa880cf2fcdb2337a4069b3280b2f47ddbeadb64c423f59974fd585c5f06107a63c9ddde98331e8645a99126bf7b006897ea6c8a4abc653861f16"
+  },
+  "v5.4.140-fabric": {
+    "versionId": "l47d4ZWk",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-22T21:33:40.834033Z",
+    "filename": "LuckPerms-Fabric-5.4.140.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar",
+    "sha512": "386ff4d18981c830d21ddaa599d70c1c5430c1475e2c5960275bad535cbd572c77e38b3841f0a71e3ea4a795c56d45ff8c4a8dba3799dae26bff5a382c6e0a64"
+  },
+  "v5.4.145-fabric": {
+    "versionId": "S8033hpf",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-26T09:13:08.745197Z",
+    "filename": "LuckPerms-Fabric-5.4.145.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/S8033hpf/LuckPerms-Fabric-5.4.145.jar",
+    "sha512": "7da607e2419b128f558a9fc1add840fc42cc34b97115d768b12f0534ebe06fe294baaa361a1b667fe0d4a855f89a2b426db0bb1c2c791f08acdca0cd2c38b42f"
+  },
+  "v5.4.150-fabric": {
+    "versionId": "6h9SnsZu",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-07T16:33:55.555265Z",
+    "filename": "LuckPerms-Fabric-5.4.150.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/6h9SnsZu/LuckPerms-Fabric-5.4.150.jar",
+    "sha512": "d616346f5ae1cce2137ce589323e89263a08b4bd26e547fa67d2b87a729740d70dfd2b6b06ffd6b72433f7e20c03bde3b4da69c7cd325f295d1f28f1861c8698"
+  },
+  "v5.4.158-fabric": {
+    "versionId": "EXnNc30c",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-27T20:57:38.403235Z",
+    "filename": "LuckPerms-Fabric-5.4.158.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/EXnNc30c/LuckPerms-Fabric-5.4.158.jar",
+    "sha512": "b852128fcb61227a3a9f60ab8605983e850cbe06fa40163788a870964e5ce3127ce00595014c8db13e102b0bbd1446d433b788e2aa8851960465b6fc4db8e1a0"
+  },
+  "v5.4.46-fabric": {
+    "versionId": "5inRjMdb",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-18T19:59:35.056174Z",
+    "filename": "LuckPerms-Fabric-5.4.46.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar",
+    "sha512": "72ec6cfccd7fa73a5282864b69bc7b0b2dfd687bf9686df0f5e2b93ad39df8bf5d12c0add77fb79ab4a918a5ae8eddb09e2b8f5f9095db0bab54146c5ae0ac9b"
+  },
+  "v5.4.57-fabric": {
+    "versionId": "NopnADlz",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-01T22:19:55.159856Z",
+    "filename": "LuckPerms-Fabric-5.4.57.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/NopnADlz/LuckPerms-Fabric-5.4.57.jar",
+    "sha512": "588ea52be45dabaeba289c380bc59dbc1e65542fb7d5cd8d1ab3b8f84678def7432314dc3d3c67f2769a7b3eb91db85877ce23c9be431679e0418c51e7e3bf04"
+  },
+  "v5.4.60-fabric": {
+    "versionId": "DcPV35qG",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-29T11:06:10.441908Z",
+    "filename": "LuckPerms-Fabric-5.4.60.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/DcPV35qG/LuckPerms-Fabric-5.4.60.jar",
+    "sha512": "64539f13f6bad34cd0772e54524ad8d01d1e2a702cacf9f155dfdaf1f1814a293a095c50170a5174db9a961c1811c9aee2961f4c6e3b88424283b09b05d90996"
+  },
+  "v5.4.65-fabric": {
+    "versionId": "BQE71eJn",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-13T11:21:39.110512Z",
+    "filename": "LuckPerms-Fabric-5.4.65.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/BQE71eJn/LuckPerms-Fabric-5.4.65.jar",
+    "sha512": "ee3eaff74e41cdb56c88c6acf8e877e5cf57917ed8a77c0d632a08c7a53acf85857a9756e9a8a7853a84c37fa8731bce5aeef984ff73cfaeba1341e7d815c3c1"
+  },
+  "v5.4.66-fabric": {
+    "versionId": "Ws97yOyp",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T19:37:20.848313Z",
+    "filename": "LuckPerms-Fabric-5.4.66.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/Ws97yOyp/LuckPerms-Fabric-5.4.66.jar",
+    "sha512": "56f83af8208eaa0073faae0f8209e175ff74f50fa79a42459a055955e3a772188bf46e46b50e2bbc2f08b778e627254393c361600eb6f73694e6bd0484392cd4"
+  },
+  "v5.4.83-fabric": {
+    "versionId": "TxKd00aD",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-11T10:34:08.623164Z",
+    "filename": "LuckPerms-Fabric-5.4.83.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/TxKd00aD/LuckPerms-Fabric-5.4.83.jar",
+    "sha512": "99e0821da689024e269bbcbeb6b6f66358e4e525dc7cf3a57be4032bba87e6517a3bf0668f21da9cf5924217a392f36caa04d45026db7a604ee343d1229b8743"
+  },
+  "v5.4.88-fabric": {
+    "versionId": "7VG8Evoq",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-14T20:56:23.780328Z",
+    "filename": "LuckPerms-Fabric-5.4.88.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/7VG8Evoq/LuckPerms-Fabric-5.4.88.jar",
+    "sha512": "f98c6761c5e7e2315c57c89a7deac51f58569134fd32a2323abbf5f54c59d3a916ff235ad8840ceae24b92aaf295d4fc3e8fbe845fb4d8cff8dd9b1567b0ef99"
+  },
+  "v5.5.0-fabric": {
+    "versionId": "S2f2wz1y",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-26T09:08:44.311569Z",
+    "filename": "LuckPerms-Fabric-5.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/S2f2wz1y/LuckPerms-Fabric-5.5.0.jar",
+    "sha512": "b9d40c0dbec1ea504bd2af7ca00c148e934bf6025ab844255f949020f54a3fb1ce927684ba26ce61023a992d5bcbbb1db6573ccbcbd4429f36e4610887e7362e"
+  },
+  "v5.5.10-fabric": {
+    "versionId": "uStOaYyZ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-21T21:36:04.822664Z",
+    "filename": "LuckPerms-Fabric-5.5.10.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/uStOaYyZ/LuckPerms-Fabric-5.5.10.jar",
+    "sha512": "8985ee7fd0e1033022292e05cb7ad503ae82908bfacb92c269eb4e3895947a512c4e769e7110785ca55f14d4af04124c762515dbd2508bcd08fc7a107cbcc023"
+  },
+  "v5.5.15-fabric": {
+    "versionId": "SrA2XIHI",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-01T20:08:21.551315Z",
+    "filename": "LuckPerms-Fabric-5.5.15.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/SrA2XIHI/LuckPerms-Fabric-5.5.15.jar",
+    "sha512": "904a6bc3173b7eb6656eabe40d7949465025eaeb44106622598a49758d9a082e08a08cc81af2cee85ed709ac926c6aa630fe9a589ca5833db08477ff604a6d32"
+  },
+  "v5.5.17-fabric": {
+    "versionId": "rGOrpVtr",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-11T12:15:01.057900Z",
+    "filename": "LuckPerms-Fabric-5.5.17.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rGOrpVtr/LuckPerms-Fabric-5.5.17.jar",
+    "sha512": "ac03d161d2ca3be1e38beaa2d239c557921d6dd3f48a97ca38d6952ba61afde61b1666420906a165cd8fa09b658c425586c7b6911172db1194222c6f7ee8e50b"
+  },
+  "v5.5.21-fabric": {
+    "versionId": "CzCJJMuo",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T12:42:03.648473Z",
+    "filename": "LuckPerms-Fabric-5.5.21.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/CzCJJMuo/LuckPerms-Fabric-5.5.21.jar",
+    "sha512": "5dc98d5b3acaab65e8de2873af6b42eced427360f4f50b136b82d2820602341a5fb3cf9f10c27d07e6c7cc556e9d30922492421cb6cc734fa05562e89554fa43"
+  },
+  "v5.5.4-fabric": {
+    "versionId": "sq8a8S4D",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T20:52:00.983766Z",
+    "filename": "LuckPerms-Fabric-5.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/sq8a8S4D/LuckPerms-Fabric-5.5.4.jar",
+    "sha512": "e9c91e6c20625c52f4e126107ead8039ec3fc92a4073c5ca4f462c74ca97cc14a599bd81f62271beb15454b1d8263e966b95112d2fb86f3956d4ad25ef201bbb"
+  },
+  "v5.5.42-fabric": {
+    "versionId": "fTIdfb46",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T22:46:44.645095Z",
+    "filename": "LuckPerms-Fabric-5.5.42.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/fTIdfb46/LuckPerms-Fabric-5.5.42.jar",
+    "sha512": "bfe9f0e0e2d9dfe3c1c456298dbd778af02310dabab5d7fb4a54fcc4a4e8c2653bae0be84151d7c52992065d9884cdab97ec1eea6607e7f7cf01126a13be8630"
+  },
+  "v5.5.52-fabric": {
+    "versionId": "jlpCA3iL",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-27T07:10:17.309933Z",
+    "filename": "LuckPerms-Fabric-5.5.52.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/jlpCA3iL/LuckPerms-Fabric-5.5.52.jar",
+    "sha512": "30d4b7128ab7e34f41b34e69a9706f3e4a4fad2f2a3ea80e4ebd957c158e330c12ab618b926beb22d17bb9f97f642e524281cc9fa26347a5565611da34f60a03"
+  },
+  "v5.5.54-fabric": {
+    "versionId": "Nq5UZXxA",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-29T21:16:18.187776Z",
+    "filename": "LuckPerms-Fabric-5.5.54.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/Nq5UZXxA/LuckPerms-Fabric-5.5.54.jar",
+    "sha512": "e63b99101048779890ff2a1c56a919177e5b44c396189c8ae6d80000a9010bf413d577924f2c3917006ec600a5049ed772d305aaf22f26b082a3167e17139eaa"
+  },
+  "v5.5.57-fabric": {
+    "versionId": "UHUghDkV",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-18T21:16:14.917799Z",
+    "filename": "LuckPerms-Fabric-5.5.57.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/UHUghDkV/LuckPerms-Fabric-5.5.57.jar",
+    "sha512": "6fedf31ff4d17710394463b7bfc97f2beba90eaa0327d6e718aab3195ec748bfba2835a9af804593fc1788e256dba79534da7f249411c8daec47b6e1e70e6f42"
+  },
+  "v5.5.8-fabric": {
+    "versionId": "D0SyBQN7",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T18:59:09.202450Z",
+    "filename": "LuckPerms-Fabric-5.5.8.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/D0SyBQN7/LuckPerms-Fabric-5.5.8.jar",
+    "sha512": "9708bc51c553fbb0397d9a504b075cbaf6522dd04b056011a908aee9a40a299d7dbaa2f2debfec5c402f0411fc30c26b39406d91ec1cdbf369c47309c58ab187"
+  },
+  "v5.5.9-fabric": {
+    "versionId": "WBIpgXZQ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-30T21:47:30.474547Z",
+    "filename": "LuckPerms-Fabric-5.5.9.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/WBIpgXZQ/LuckPerms-Fabric-5.5.9.jar",
+    "sha512": "773bb9d7e4da2faa3e0856336b4b8aa08f503cae148c9a8dd7cf10528b44a3d1e3001626489739ea88bb7fb6cf07c1732999c6e560e5845894bdbaf1d2c0911d"
+  }
+}

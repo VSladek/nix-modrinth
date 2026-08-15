@@ -1,0 +1,548 @@
+{
+  "2.2.0-SNAPSHOT-10": {
+    "versionId": "POSJT1UH",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-29T00:42:17.398329Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/POSJT1UH/floodgate-fabric.jar",
+    "sha512": "b67f36bd46b337cd9379c69da3946197fbb32893f2e801af669d62a0393caefddc52c5cbce16bd63d018b3f07d76f845938ec3ab4678c7c060b6143b0c0cdc18"
+  },
+  "2.2.0-SNAPSHOT-11": {
+    "versionId": "y7veyylg",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-29T21:16:15.209271Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/y7veyylg/floodgate-fabric.jar",
+    "sha512": "c3b5d92eca7c9621d70ab745445d890ee74634c3dbe208e6447f08c5feae72f33c9b5c3d8e01ea27c1bb4048e9102a1a65945d2ba98feecfb43d49e79cbd6254"
+  },
+  "2.2.0-SNAPSHOT-12": {
+    "versionId": "BtLfDqqR",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-01T02:10:25.471966Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.12.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/BtLfDqqR/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.12.jar",
+    "sha512": "d2db9fdce837a0670509bbb434e5a423b453bf7c8b3666e5ab1fbe591e579992f3cd2615fea6fef16449fa2a74642bdba0e78b3ee4b38aa3b5de8f080c90aac9"
+  },
+  "2.2.0-SNAPSHOT-13": {
+    "versionId": "wOg9Nmbu",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-19T18:51:52.597368Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.13.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/wOg9Nmbu/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.13.jar",
+    "sha512": "562d260188085b3db03a7c68856aa43f51e841c6a81b4289c980ff4cb9c68ce0037cdcd22ec67a3e24fe5a99f9153936d4c1ead270be69909ffce82fd8d07922"
+  },
+  "2.2.0-SNAPSHOT-14": {
+    "versionId": "9jOPxBFy",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-14T21:44:56.062060Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.14.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/9jOPxBFy/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.14.jar",
+    "sha512": "ea17427cba7cc47c74a0c9250a814af85b9f792ff8f515e535ad2c0cd236f550b8cd9b0d0596b80438e8878df2cfbe590ff3981b9a8abd8b44bd16a2f0188690"
+  },
+  "2.2.0-SNAPSHOT-15": {
+    "versionId": "vpmeHMjv",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-14T22:34:43.586044Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.15.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/vpmeHMjv/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.15.jar",
+    "sha512": "90612a0f340cfe42d0a6d16b3334feab2c28b5c92af0f314ef07ce6cd673e8bc482dfd8ad3f2814158097002450e2bbff5c7c97ba98ae7ee9f74700b0554e8db"
+  },
+  "2.2.0-SNAPSHOT-16": {
+    "versionId": "hvGksb0D",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-15T00:58:44.583877Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.16.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/hvGksb0D/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.16.jar",
+    "sha512": "0c645c70bec3548d27cc003d08eaffe4385001e20882df8de9aa74a81bea8fc314476f858d0cc1ecaf2af1fb8a8d7a100697f4588b53a9d3a1c3dbf70188648c"
+  },
+  "2.2.0-SNAPSHOT-17": {
+    "versionId": "d7dxp1Jk",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-15T01:07:15.313127Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.17.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/d7dxp1Jk/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.17.jar",
+    "sha512": "f25e80b0c08d7309b66e28b4deea9c212903a4effea78135f855aa8b43f7873e874434a8a8733a20a2e74ff27d4c0d876c38b7bd2579630b09aa5a2b425e3710"
+  },
+  "2.2.0-SNAPSHOT-18": {
+    "versionId": "zUrRGwbT",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-04-27T15:13:33.759817Z",
+    "filename": "floodgate-fabric-2.2.0-SNAPSHOT+build.18.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/zUrRGwbT/floodgate-fabric-2.2.0-SNAPSHOT%2Bbuild.18.jar",
+    "sha512": "8916113c6256f1cafa21fa637717f1457d63d191ba56377aed4caa71afd3a49925809a4546e25bcc24f7167085668779e52d75606d8212ec45d82a98f5b65fa1"
+  },
+  "2.2.0-SNAPSHOT-3": {
+    "versionId": "wue4ZawV",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-03-20T20:35:40.984159Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/wue4ZawV/floodgate-fabric.jar",
+    "sha512": "82a1b44c6f489241fef7796dfaa7dc387dd1c326707db83b7dbecd70f5eefa1b83c940f5587ca9ada33a24cc3f92fe483887683a931a3231e92a109cd26e6417"
+  },
+  "2.2.0-SNAPSHOT-4": {
+    "versionId": "e62TttaY",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-04-07T19:09:51.577604Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/e62TttaY/floodgate-fabric.jar",
+    "sha512": "b14c4686dae7db34c2b1bb0e8b21e31ff673c71e89b4605c3f6bc59287f1b19490d95a2f311f5cf85a660fa8cf059ae3ddc85b56d4c9f96ed3b3043f121d58c7"
+  },
+  "2.2.0-SNAPSHOT-5": {
+    "versionId": "Cp8ca2gb",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-08T14:37:13.346837Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/Cp8ca2gb/floodgate-fabric.jar",
+    "sha512": "f7360474c662072f49e5f979bf2886488308a05360ef71b18e4aa82c7e978642daf1a4d0d343c3b71c22620942a80c3dd820fbf0f2124112823fe9cdfd25f2ab"
+  },
+  "2.2.0-SNAPSHOT-6": {
+    "versionId": "Ii5ABxEE",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-08T16:12:51.057742Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/Ii5ABxEE/floodgate-fabric.jar",
+    "sha512": "d4bdcd650b6388a42fe29f1bd272ae4b079a061f9900febfcc35297c05a848815821135cd154ee03056ff62a0fb633ed39f0fe8bd7467034ae70f69e8d67b5da"
+  },
+  "2.2.0-SNAPSHOT-8": {
+    "versionId": "vIbusVdM",
+    "gameVersions": [
+      "1.19.4",
+      "1.20"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-09T18:59:56.727418Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/vIbusVdM/floodgate-fabric.jar",
+    "sha512": "b9edd6470800077430c804e283dc3f5da3fa7a67504b64b9d7a21327b36036a9e5e007950977376fef3a4f2d42e1a9ab7d4c64877b731063ab44d8171dbffba7"
+  },
+  "2.2.0-SNAPSHOT-9": {
+    "versionId": "1OaCGOaa",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-29T00:13:39.828358Z",
+    "filename": "floodgate-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/1OaCGOaa/floodgate-fabric.jar",
+    "sha512": "0c75ca0a9786a237de4e2024f9ee76d61deb0130f907b6d2ee6aeb10c20aa8a035a1c6003863012537464ce41e484bbea5e36b804b25bc70cee6decaa07269f5"
+  },
+  "2.2.3-SNAPSHOT-22": {
+    "versionId": "ydyIdWSf",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-04-28T22:49:20.333633Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.22.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/ydyIdWSf/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.22.jar",
+    "sha512": "696d7ff8927520ec60e10fa131d96ad8c8ade2c95a3e07b8ecdb81b5d52b64a4ee9e7fee352257520ef193359aeee633842f5ab20a51aea856770fd33f561afe"
+  },
+  "2.2.3-SNAPSHOT-23": {
+    "versionId": "bukSLDQz",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-05-01T17:56:50.503700Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.23.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/bukSLDQz/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.23.jar",
+    "sha512": "c5b578624641d147f5ae8dcb16c53dfdcdfb83d50d881414f798b6b60c95540768acb6dfcf8d117ee8d7496f67b82068ffb40b0b065d826a5e87cd0dbc239122"
+  },
+  "2.2.3-SNAPSHOT-24": {
+    "versionId": "URy7hA3Z",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-05-01T20:21:17.109920Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.24.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/URy7hA3Z/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.24.jar",
+    "sha512": "d4d4ef0226779846ae6c9a499a821a798a3ebc5935b99c3e5658c4b849de70ace2e588ae3c76b30cc9459276559ba0296743020451f0c03865aaf35f0bcfa64c"
+  },
+  "2.2.3-SNAPSHOT-25": {
+    "versionId": "YlFk39jA",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-05-08T16:35:48.149669Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.25.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/YlFk39jA/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.25.jar",
+    "sha512": "eb95e9a01c5f5484c2d4bd169924579162de3fd0c7ee74d180613f20452ef8218dedcf3865079e2d26b30400a3d5c337dd076f8ba0556db41c0a6660dcfc69e1"
+  },
+  "2.2.3-SNAPSHOT-27": {
+    "versionId": "mSWqDkWm",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-06-13T15:52:56.247047Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.27.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/mSWqDkWm/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.27.jar",
+    "sha512": "a25c86ec84c31561749aec906565dd9dc727b594dd51c72e037bd49c1f870e970a1f639227b74a55092b6f4909e4fdeff17f2a5634e99d6d99e749164067f230"
+  },
+  "2.2.3-SNAPSHOT-28": {
+    "versionId": "D4KXqjtC",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-06-13T15:55:01.734489Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.28.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/D4KXqjtC/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.28.jar",
+    "sha512": "a25c86ec84c31561749aec906565dd9dc727b594dd51c72e037bd49c1f870e970a1f639227b74a55092b6f4909e4fdeff17f2a5634e99d6d99e749164067f230"
+  },
+  "2.2.3-SNAPSHOT-29": {
+    "versionId": "2u29xVeZ",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-07-20T22:40:19.985836Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.29.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/2u29xVeZ/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.29.jar",
+    "sha512": "a94de85d624d24e6c03de37cfbf136e45fe6e908c1c943904e1d85bc6cb24a84d6d938d2c74240f961508a8c56856e329a4abf38fd02aee7db1299d400aa8778"
+  },
+  "2.2.3-SNAPSHOT-30": {
+    "versionId": "yL5NRQ1i",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-07-23T18:06:50.243719Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.30.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/yL5NRQ1i/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.30.jar",
+    "sha512": "1106987f23df5ba820cd7c1315ec8613dce5e1e84ef45fbab8244b0a48fa6fcd43daf90845759818e2a4face8b6dabaa620b016162f53c002ced9227f11a34db"
+  },
+  "2.2.3-SNAPSHOT-31": {
+    "versionId": "iWEfqepR",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-08T17:49:22.023487Z",
+    "filename": "Floodgate-Fabric-2.2.3-SNAPSHOT+build.31.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/iWEfqepR/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.31.jar",
+    "sha512": "ba5ce3430d4ce4dcfe95b286def061d03cd4ce22071beb57651bf91e934ca842b3d67f3b61073aa41a9e07ccf802bab4d6ec565d64501059c1bfb693dc9a581e"
+  },
+  "2.2.4-b32": {
+    "versionId": "3K8YSPCx",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-10T18:08:30.792436Z",
+    "filename": "fabric-Floodgate-Fabric-2.2.4-b32.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/3K8YSPCx/fabric-Floodgate-Fabric-2.2.4-b32.jar",
+    "sha512": "b52590f6f1d57310a4118b67685e6a256d18544f765dab8999b05198f3be541fefaf04104f2dd74215538908cf970e1c2d6ea18e141192f08f3f1b234ff85daf"
+  },
+  "2.2.4-b33": {
+    "versionId": "Zt2E9coG",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-11T19:25:08.616504Z",
+    "filename": "fabric-Floodgate-Fabric-2.2.4-b33.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/Zt2E9coG/fabric-Floodgate-Fabric-2.2.4-b33.jar",
+    "sha512": "0f0bc7d284c0d708150aa34f429f2fc7b47848bd26624ea3d11528c88d910c3a59d7f3093fe2ea25f37e30a1d530288179766cccd5046e17824c41da3d870bfe"
+  },
+  "2.2.4-b36": {
+    "versionId": "wPa1pHZJ",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-13T21:54:31.638446Z",
+    "filename": "Floodgate-Fabric-2.2.4-b36.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/wPa1pHZJ/Floodgate-Fabric-2.2.4-b36.jar",
+    "sha512": "fd347e3e6fce95f57c83fa3d1e130d460d1ee244efd6eda8a788a837542f12b8e6e6a8e57a3379dcf45bd5cc3ea88b4d951862747909688000320f60d825ffb6"
+  },
+  "2.2.4-b37": {
+    "versionId": "nWQRJXRm",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-31T10:26:45.669975Z",
+    "filename": "Floodgate-Fabric-2.2.4-b37.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/nWQRJXRm/Floodgate-Fabric-2.2.4-b37.jar",
+    "sha512": "cd09f71c24ad4ac3065d5319eb7216bbd56ad16dbbc0dd8d3d901c346d8c56e72cc4f2111cc11e6a52a2a880677385e515620b70b53b2654841006cd2c9801fc"
+  },
+  "2.2.4-b38": {
+    "versionId": "Mf2wV7re",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-01T21:23:11.180031Z",
+    "filename": "Floodgate-Fabric-2.2.4-b38.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/Mf2wV7re/Floodgate-Fabric-2.2.4-b38.jar",
+    "sha512": "932c3baf74cebd7db1e753e93196a235acff6283dd050c7a8ec518a6a90888440a50411b8357087a0e8eba54791ba5929d548a0b7329f7ebe95b9438b4b51220"
+  },
+  "2.2.4-b39": {
+    "versionId": "fi1OaueM",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-27T11:59:41.643934Z",
+    "filename": "Floodgate-Fabric-2.2.4-b39.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/fi1OaueM/Floodgate-Fabric-2.2.4-b39.jar",
+    "sha512": "2f6103eae7fe5ca314396bc84ac2f1cce794bb67e25339cc2f5dcc0e8ccc6363ed1c7f00475d454709781ae9ddc7290c88623dfcec46e55e61aa6739ca77de42"
+  },
+  "2.2.4-b40": {
+    "versionId": "LFWgLGNB",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-02T20:02:02.791378Z",
+    "filename": "Floodgate-Fabric-2.2.4-b40.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/LFWgLGNB/Floodgate-Fabric-2.2.4-b40.jar",
+    "sha512": "3f6e3e94fdab3b3bcd8fd4d99a62db06e5c4f1a847dae55130ada9ba70c203a37dc9681269f2e2df348cd4fdb9023008238c5f5991741ae2e237b6dbbb1b67a7"
+  },
+  "2.2.4-b42": {
+    "versionId": "jb3lzved",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-06T05:23:49.613305Z",
+    "filename": "Floodgate-Fabric-2.2.4-b42.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/jb3lzved/Floodgate-Fabric-2.2.4-b42.jar",
+    "sha512": "5f759ded6efa72513ff82573263a9fa24146245bc80fc4b6c15f574f0923c24dd3a02a6c1f0d4f2d7a7a1771fec5ff969ca47beda71b9ce7bf866e1ba4bd4376"
+  },
+  "2.2.4-b43": {
+    "versionId": "nyg969vQ",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-09T19:50:31.537654Z",
+    "filename": "Floodgate-Fabric-2.2.4-b43.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/nyg969vQ/Floodgate-Fabric-2.2.4-b43.jar",
+    "sha512": "0d73f7f88429f15989b0e7a33f05c2812d13822fd50e4c1a1793c9e2e65abbbe19cb2ad6bb9a6328e076cadf531261e893a88666be7efbc1b6d7f9534e52b336"
+  },
+  "2.2.4-b44": {
+    "versionId": "dNRdr9Ra",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-21T10:17:01.355675Z",
+    "filename": "Floodgate-Fabric-2.2.4-b44.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/dNRdr9Ra/Floodgate-Fabric-2.2.4-b44.jar",
+    "sha512": "ac93be80a2a0548762bae0fe564832a0c8387fb15e65a6dbf2ae5b4b40388b54ee414a903c44d31304810e7024108fbb0374aafd421ef4c22fb3b3fa4fcceae3"
+  },
+  "2.2.5-b45": {
+    "versionId": "ps3IuRel",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-26T21:07:12.490517Z",
+    "filename": "Floodgate-Fabric-2.2.5-b45.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/ps3IuRel/Floodgate-Fabric-2.2.5-b45.jar",
+    "sha512": "eebd599f805cb0b090c5a917e0618509cc9e41161581e0f2240596e3d6c841e66ad6b37bc8140a651ca15eef37db52489c1431e022f7efafd13523b64ec92045"
+  },
+  "2.2.6-b48": {
+    "versionId": "8fIeSJaa",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-01T22:01:11.567855Z",
+    "filename": "Floodgate-Fabric-2.2.6-b48.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/8fIeSJaa/Floodgate-Fabric-2.2.6-b48.jar",
+    "sha512": "b0c5d534982aa8644e1b6da85bfdaf4e91561a67f89b6413ba7b7d811d183faa24286dde44867b945cb4cb2304ddd022b99df3005cf9cf30d59f24858b39df6d"
+  },
+  "2.2.6-b49": {
+    "versionId": "9LkTMF9C",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-05T12:48:31.426723Z",
+    "filename": "Floodgate-Fabric-2.2.6-b49.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/9LkTMF9C/Floodgate-Fabric-2.2.6-b49.jar",
+    "sha512": "88d118d309372689de4c90ba7d94d4d11b2536a62ed269d37dba39641ddd6bc7924ec3735d1ee59838cdc5923f1c83153208113fa12e9051cc75626f15e13e6f"
+  },
+  "2.2.6-b51": {
+    "versionId": "QFAMeMNB",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-01T16:17:05.726046Z",
+    "filename": "Floodgate-Fabric-2.2.6-b51.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/QFAMeMNB/Floodgate-Fabric-2.2.6-b51.jar",
+    "sha512": "68666f8305577c64c430f3a2fb972182202fdebacd9a85989e9f7b4ce2436e35ef09f825c399027eaa1f1d2dce7e8d97cbbdfdc0f678c4a63d512d9cc051dc05"
+  },
+  "2.2.6-b54": {
+    "versionId": "wzwExuYr",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-12T19:38:50.171460Z",
+    "filename": "Floodgate-Fabric-2.2.6-b54.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/wzwExuYr/Floodgate-Fabric-2.2.6-b54.jar",
+    "sha512": "aae816d98e2233167602c053becb43ffb6880451296fab2f3c6a6cd4c8bdc8208955d73e1089f9acdd8c1dccee7835c0b33fc42413ab317d9a9feee7b29de1af"
+  },
+  "2.2.6-b55": {
+    "versionId": "t2f4Hp6c",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-09T15:32:12.782969Z",
+    "filename": "Floodgate-Fabric-2.2.6-b55.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/t2f4Hp6c/Floodgate-Fabric-2.2.6-b55.jar",
+    "sha512": "f9db5e3d4f0b1518b10ffec349cfbcdebab00590fa541859f1b4befce9b6bb53c2082033366ce896f31ace364195285fad6658e724b1d539a35c5b15e4b95181"
+  },
+  "2.2.6-b58": {
+    "versionId": "ybFGCREt",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-09T19:18:32.988602Z",
+    "filename": "Floodgate-Fabric-2.2.6-b58.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/ybFGCREt/Floodgate-Fabric-2.2.6-b58.jar",
+    "sha512": "eb4b2cf439611f85c5b3f09fabe75347bd69dc951812df9cf1e98cec00bab2c4a47bf229a513903e1cbf9569bbb4bb2d7ba46ea29cc7b4c04f2976b1268fbd6f"
+  },
+  "2.2.6-b59": {
+    "versionId": "JDIXyTKD",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-09T21:31:50.035836Z",
+    "filename": "Floodgate-Fabric-2.2.6-b59.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/JDIXyTKD/Floodgate-Fabric-2.2.6-b59.jar",
+    "sha512": "eeba56e8f4e44c1e8bc7801f3cd90c87e970b369482374e79a851f4d067b74b7fbf5b8bb56456bcd08288f694ca120369e23437514390634f279ecd4ae577f80"
+  },
+  "2.2.6-b60": {
+    "versionId": "81EuNxeZ",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-11T13:41:59.656634Z",
+    "filename": "Floodgate-Fabric-2.2.6-b60.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/81EuNxeZ/Floodgate-Fabric-2.2.6-b60.jar",
+    "sha512": "ba7388eea5b4ff30f3895b6a03a541db604b69f80e18f303b5660cad4827e0f61dd00b976be90684e63593ba64b343b87b785b8e028f149e3d3633b1be917136"
+  },
+  "2.2.6-b61": {
+    "versionId": "KpQGJtqh",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-12T13:04:54.006478Z",
+    "filename": "Floodgate-Fabric-2.2.6-b61.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/KpQGJtqh/Floodgate-Fabric-2.2.6-b61.jar",
+    "sha512": "e81aae7c9f403b41b39eaf3bee6590d42ad4d393d4aa30754cb130cb446c51cb418c5d21e1724bc7a537a93f289ce57b546d408253cab90b4c70d36daf4edd7b"
+  },
+  "2.2.6-b63": {
+    "versionId": "fD4J9lnX",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-26T22:23:16.039998Z",
+    "filename": "Floodgate-Fabric-2.2.6-b63.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/fD4J9lnX/Floodgate-Fabric-2.2.6-b63.jar",
+    "sha512": "54874033236df688da15fd4dd7d2d99d002e8955cb2d788d5ba409d753eb17629f53a6e976992de8cca8c8dd3663c70b283da88b5a12d72cef9647d09e04ae62"
+  },
+  "2.2.6-b66": {
+    "versionId": "BLIcTLGI",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-18T18:26:43.221309Z",
+    "filename": "Floodgate-Fabric-2.2.6-b66.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/BLIcTLGI/Floodgate-Fabric-2.2.6-b66.jar",
+    "sha512": "a77843dc26f38b2a0702d53d5c87cf4c03a2d6317ec472d0237ee554f988955ebab749d0d1a12a87c20929f83a9c3cde872d0be86e9453a74fbb068b88808f4d"
+  },
+  "2.2.6-b67": {
+    "versionId": "urOFTrVX",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-18T23:26:05.539327Z",
+    "filename": "Floodgate-Fabric-2.2.6-b67.jar",
+    "url": "https://cdn.modrinth.com/data/bWrNNfkb/versions/urOFTrVX/Floodgate-Fabric-2.2.6-b67.jar",
+    "sha512": "d6ecacfbf1c31171317792783754c4f58414508a8fd1aa23b9e3da5da9fe450a6e6e882e39e862cb5f1df38d2d97be8465a39857fe4b78c1cf89934230a71205"
+  }
+}

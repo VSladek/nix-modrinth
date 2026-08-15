@@ -1,0 +1,1880 @@
+{
+  "fabric-1.19-1.0.3": {
+    "versionId": "o003ssDC",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-06-25T11:11:29.817594Z",
+    "filename": "audioplayer-1.19-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.0.3/audioplayer-1.19-1.0.3.jar",
+    "sha512": "3d4303b35233bd92edb087c32324b1fbd135414bfe8b7b4e78a74cb6386d9224e2361c6fb5b796ee59be8ea7ea2ab32449467c9c1458812ca2328df0c8da38d1"
+  },
+  "fabric-1.19-1.1.0": {
+    "versionId": "mXQFTwNT",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-12T12:32:25.476581Z",
+    "filename": "audioplayer-1.19-1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.1.0/audioplayer-1.19-1.1.0.jar",
+    "sha512": "2f0e3f6432f2ecedcdd925be10dd0e8d9a0e24cd980ae29ea2b0c166af4f6866be7fba1cda05fdded691d4752b7c807c6d07868c6dcd3decb4ce37eae29d3b88"
+  },
+  "fabric-1.19-1.2.0": {
+    "versionId": "O5vc7cq0",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-15T12:05:55.447167Z",
+    "filename": "audioplayer-1.19-1.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.2.0/audioplayer-1.19-1.2.0.jar",
+    "sha512": "47aa7207aa17723abae839ee0d05eb675c33a11f32142d51986997d4615dd2f003a6bb43093387c266f1ec021df69d9af943f3400824b1d1dcefd8d64f275137"
+  },
+  "fabric-1.19-1.2.1": {
+    "versionId": "Y2cphNfd",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-15T17:15:33.652151Z",
+    "filename": "audioplayer-1.19-1.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.2.1/audioplayer-1.19-1.2.1.jar",
+    "sha512": "20c40d700b0c7aff860eb9f312c92ab94dca283be6be88e731d8ec45e7a152e793c9505ac07eff2cf36f2b76932f2ae734e0d8d87052af580922c9c41112a331"
+  },
+  "fabric-1.19-1.3.0": {
+    "versionId": "LpibuSil",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-17T08:38:35.270471Z",
+    "filename": "audioplayer-1.19-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.3.0/audioplayer-1.19-1.3.0.jar",
+    "sha512": "9caeedae6399681699423f645c42b15f38718f6a93e265f583879c0f9256e86683105a0ec9eef50a7023c05d7e9cbae1ab61a58a415d9139ace7530fabef57e5"
+  },
+  "fabric-1.19-1.4.0": {
+    "versionId": "1lBjollB",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-07-29T13:11:04.037896Z",
+    "filename": "audioplayer-1.19-1.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.4.0/audioplayer-1.19-1.4.0.jar",
+    "sha512": "fff92110c2e7aba65ab169a8503e98213837390d6b0528977f9a56cc75434ffbedb60e7676a7fdb6b457079e21414270c4502064909c27fc23b93fabbb3f848d"
+  },
+  "fabric-1.19-1.4.1": {
+    "versionId": "IumVE2FS",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-08-01T12:24:03.777657Z",
+    "filename": "audioplayer-1.19-1.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.4.1/audioplayer-1.19-1.4.1.jar",
+    "sha512": "f89d5224f445187d64e0761cae35604f22e4a22b64a24388cbb528b9439094d79f3d77365a4b6fda0219f3e305a0948906a3c260c3aa1cf9485a8212177fdb6f"
+  },
+  "fabric-1.19-1.4.2": {
+    "versionId": "VkNDGYXh",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-08-09T16:41:42.462094Z",
+    "filename": "audioplayer-1.19-1.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19-1.4.2/audioplayer-1.19-1.4.2.jar",
+    "sha512": "23a82f6a70e6e2317286233142f573da24377bee38bc93372549d58aecda4c13c7dab83f2dadfe6c7073cd6c9b07aad106486d1cf323d5eeae4e8a4dc03007aa"
+  },
+  "fabric-1.19-1.4.3": {
+    "versionId": "PFbPsyGl",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-09-06T11:16:37.318353Z",
+    "filename": "audioplayer-1.19-1.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/PFbPsyGl/audioplayer-1.19-1.4.3.jar",
+    "sha512": "39b448075afe381244b0505c382d36cbec647c83fca42d7de57ab922257fb32a4985d2242c033200a359dd74889f2f62f5ff8c6e3553d52a2dfb0975a5aa7209"
+  },
+  "fabric-1.19.1-1.3.0": {
+    "versionId": "bzk3wwaq",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-27T17:22:55.074278Z",
+    "filename": "audioplayer-1.19.1-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.1-1.3.0/audioplayer-1.19.1-1.3.0.jar",
+    "sha512": "4a338ef03019c76f69452a072d021f7644fb3cc153bb5ea8b3b1e76c0f51b1803c3c66427648f06a3d4931df96b95150dc616adc38c06eb3a536f196567ac5e9"
+  },
+  "fabric-1.19.1-1.4.0": {
+    "versionId": "bFbftL8q",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-07-29T13:14:01.961595Z",
+    "filename": "audioplayer-1.19.1-1.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.1-1.4.0/audioplayer-1.19.1-1.4.0.jar",
+    "sha512": "c3044fee8a27faa4d95404b1a37f2b420655eab13591f6c1c42214e173ab4240adff3ed05d4b3a61f12bafb44f462c395a4ab12ceec1dec74d5bd3f836ccaa4b"
+  },
+  "fabric-1.19.1-1.4.1": {
+    "versionId": "Uib0DhkK",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-08-01T12:24:29.916566Z",
+    "filename": "audioplayer-1.19.1-1.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.1-1.4.1/audioplayer-1.19.1-1.4.1.jar",
+    "sha512": "f6b9871ce2990eaf40d77ddf85d09755175f128ef53138a93ddc65c1c771f82f28565161f533fd2b8c9795d4d6afd18f5cd7383c79404486bc3c7a4cf91dc646"
+  },
+  "fabric-1.19.1-1.4.2": {
+    "versionId": "emL3xnCI",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-08-09T16:42:07.014211Z",
+    "filename": "audioplayer-1.19.1-1.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.1-1.4.2/audioplayer-1.19.1-1.4.2.jar",
+    "sha512": "030497893b3c8ea6e9fb4fc2111cc0c3379a8adc8a56a831f2965d01c77c23811b634822aefdc5fcb4b140f40d54d92d76cf56f0558d9c93b3551ce4e1f837db"
+  },
+  "fabric-1.19.1-1.4.3": {
+    "versionId": "EK7QkTom",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-09-06T11:17:16.659819Z",
+    "filename": "audioplayer-1.19.1-1.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/EK7QkTom/audioplayer-1.19.1-1.4.3.jar",
+    "sha512": "632580fa627420547dd6daa60dfea6a023c381bdbf1e37c7bb33cd025d1032dec68a9166aafe10b0518b34c221e47beebdd9c7fbd13bbcfa5a5133a6a0077126"
+  },
+  "fabric-1.19.2-1.10.0": {
+    "versionId": "D7yqPxy9",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-05T12:24:19.623387Z",
+    "filename": "audioplayer-fabric-1.19.2-1.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/D7yqPxy9/audioplayer-fabric-1.19.2-1.10.0.jar",
+    "sha512": "be45df62c62082e503f7c878f353b3272fb6e9ed992db36844fcfb97f46be9b7590108848229df575da4d8ff2880d830623439d4d11cafac60723ad0dc7da9d8"
+  },
+  "fabric-1.19.2-1.10.1": {
+    "versionId": "MGzpxf4Y",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-28T14:33:31.056202Z",
+    "filename": "audioplayer-fabric-1.19.2-1.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/MGzpxf4Y/audioplayer-fabric-1.19.2-1.10.1.jar",
+    "sha512": "8b36439587455979b85d73612fff64ba1eb76fa6331b18adaf9ff11783bdc8c54689db497aaba8bf6c2e86903ee07a3f1d3cd7cb42c712358b349f3e5e36616f"
+  },
+  "fabric-1.19.2-1.10.2": {
+    "versionId": "tDjvsvLH",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-08T16:15:15.564390Z",
+    "filename": "audioplayer-fabric-1.19.2-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/tDjvsvLH/audioplayer-fabric-1.19.2-1.10.2.jar",
+    "sha512": "8480caa335c4f44a3faaf5c82119209a941eb7992f2b0e4a0e6d71fb6e9d9fd778c1f6256b14ad8e4b4bbce4c227ea4ddf5fe4796dfcadd0c8b46aecde25e7c0"
+  },
+  "fabric-1.19.2-1.11.0": {
+    "versionId": "XYGFrPr9",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-08-27T14:43:09.059958Z",
+    "filename": "audioplayer-fabric-1.19.2-1.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/XYGFrPr9/audioplayer-fabric-1.19.2-1.11.0.jar",
+    "sha512": "93f02fffe06b2b7af4be9cb5cc6fa41febca844780ebdb0cf6118a6b1c20f13854db44ff54780b03b83439f39163e2ff59aba5f725157c48513325cf2849cb02"
+  },
+  "fabric-1.19.2-1.11.1": {
+    "versionId": "kMvN8BZs",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-20T17:29:32.777389Z",
+    "filename": "audioplayer-fabric-1.19.2-1.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/kMvN8BZs/audioplayer-fabric-1.19.2-1.11.1.jar",
+    "sha512": "932c88f7166214092961bbb817d59902f1b9b410f145e5e66fcb23521e5339e99188c1fa3305129fe1540b17b6ade465977cfec1124373aeaa859f408244e0a1"
+  },
+  "fabric-1.19.2-1.4.1": {
+    "versionId": "ruKoiklq",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-08-05T14:51:10.068996Z",
+    "filename": "audioplayer-1.19.2-1.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.2-1.4.1/audioplayer-1.19.2-1.4.1.jar",
+    "sha512": "67726ece725ef920cbef18ce15fc7e552c13597a41b474f3e6d7c3f42a02b9bec4f4ef6bd8df88a030ca5b38823ceef0b80a7b5ddc6a8c89a3b41f22b5bffe3c"
+  },
+  "fabric-1.19.2-1.4.2": {
+    "versionId": "IXnyhepU",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2022-08-09T16:42:39.212605Z",
+    "filename": "audioplayer-1.19.2-1.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fabric-1.19.2-1.4.2/audioplayer-1.19.2-1.4.2.jar",
+    "sha512": "a64312ab47bcd0cee432b6e2d76d268b1e655106f26ce05834c7592667dbfc9d0035eb63670748a1874402331fc36f90da179872d06acb2bc7612111e1895d3b"
+  },
+  "fabric-1.19.2-1.4.3": {
+    "versionId": "RxdVdQMh",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-09-06T11:17:52.798580Z",
+    "filename": "audioplayer-1.19.2-1.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/RxdVdQMh/audioplayer-1.19.2-1.4.3.jar",
+    "sha512": "e40c930432175e736ef4ac37fff4d41da3f541dd457144645b023db63b69f826619de1d0514c9c3ae87281dcc08b9bf0413c62d7054dacf641fbfe769f078f93"
+  },
+  "fabric-1.19.2-1.4.4": {
+    "versionId": "6LbglOp5",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-09-30T18:19:14.944815Z",
+    "filename": "audioplayer-1.19.2-1.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/6LbglOp5/audioplayer-1.19.2-1.4.4.jar",
+    "sha512": "5f293e01d7c69b7f8e05d03f6a9a9ab02927599c39942a7b25876a0ebe3ae0ca8e64e400e4c265c0eaa6023c212758a6bc12e5e2f5cbde90b6965fbfaab76e1a"
+  },
+  "fabric-1.19.2-1.4.5": {
+    "versionId": "BhQxltzU",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-10-09T07:47:41.455641Z",
+    "filename": "audioplayer-1.19.2-1.4.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/BhQxltzU/audioplayer-1.19.2-1.4.5.jar",
+    "sha512": "c0b281eb72aef52f808d9b0453d68c7693ea974f8b8f06c8676162cd0df5cad0e5182f06ce67f883773ebf0f3d4fa5aaa8fa5e1af4c9c4f2c86ce32d7a8a5658"
+  },
+  "fabric-1.19.2-1.6.0": {
+    "versionId": "FsYVtipF",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-13T20:09:22.594380Z",
+    "filename": "audioplayer-1.19.2-1.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/FsYVtipF/audioplayer-1.19.2-1.6.0.jar",
+    "sha512": "32aacdabae52e2cbdf1424bde5085761b36eb048b11e811a61ff90ee64f8b7dedd89334310704d3bff1102c872c527aabace1b5a55fb327f3db75c358c3186b1"
+  },
+  "fabric-1.19.2-1.6.1": {
+    "versionId": "lbgmMGy4",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T12:55:27.606605Z",
+    "filename": "audioplayer-1.19.2-1.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/lbgmMGy4/audioplayer-1.19.2-1.6.1.jar",
+    "sha512": "aa19d016f239fd86b16b0a65bbd6c329a3aaaa991481b92fb4adcddfeabdd9681ebd1264e59b7ee07db7bb454547a5f8236f36ac8c613986b6cd3cc454dfe84d"
+  },
+  "fabric-1.19.2-1.6.2": {
+    "versionId": "wlite8gQ",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T13:36:40.792927Z",
+    "filename": "audioplayer-1.19.2-1.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/wlite8gQ/audioplayer-1.19.2-1.6.2.jar",
+    "sha512": "25e47bacd977fc2dbea5056e5fd49598b148a184b378bf6c6ee532e36f7215eabd5960fb39e99d63b5bfbd1801476b1cc7828360c7f0a8cd82fb5acb0a087131"
+  },
+  "fabric-1.19.2-1.7.0": {
+    "versionId": "v7XMKJXL",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-28T19:33:46.834176Z",
+    "filename": "audioplayer-1.19.2-1.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/v7XMKJXL/audioplayer-1.19.2-1.7.0.jar",
+    "sha512": "1674aaece11415fffa6b49406a4c1df96788fcc1cebd6f826b92690ce53bfea44404f5e349301c68fd2d3f47db8aab8f29316803c90b1235b337c775e17a465f"
+  },
+  "fabric-1.19.2-1.7.1": {
+    "versionId": "2cm1mjlp",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-31T07:21:18.208455Z",
+    "filename": "audioplayer-1.19.2-1.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/2cm1mjlp/audioplayer-1.19.2-1.7.1.jar",
+    "sha512": "d8d96ba2e930ba90ae0ee20c95dff95aa79c71c7ef86481a5923ec0c4e4ef42590bfa355323f2c2a669f41118d3adaddc81898e93005f7392b8d168768ef9b54"
+  },
+  "fabric-1.19.2-1.8.0": {
+    "versionId": "AtLYMxQU",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-11T17:58:52.791836Z",
+    "filename": "audioplayer-1.19.2-1.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/AtLYMxQU/audioplayer-1.19.2-1.8.0.jar",
+    "sha512": "2b85bb405c402a49f6a139a7aadf9f014dad6b46e9bcac3ced56aa69777f039831297bfd6bab7036ba4770eb882a0d35773ef7d28921f5d4427d8295d1ed5ddd"
+  },
+  "fabric-1.19.2-1.8.1": {
+    "versionId": "N1SvtjUW",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-17T07:17:06.505860Z",
+    "filename": "audioplayer-1.19.2-1.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/N1SvtjUW/audioplayer-1.19.2-1.8.1.jar",
+    "sha512": "b5ed14f2d5843b87d7bd730c68720348ffa5fff7b5adbe8e702bef5b6d857755ec7f8e1bfd4bab4210a680621dcbb9b9e4661d0cffb4e8e90cb88dbf96c74962"
+  },
+  "fabric-1.19.2-1.8.2": {
+    "versionId": "Sr7kRfvf",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-10-15T07:56:04.053901Z",
+    "filename": "audioplayer-1.19.2-1.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/Sr7kRfvf/audioplayer-1.19.2-1.8.2.jar",
+    "sha512": "a9bb5258eafc6b1d831611df2ec75d2a3e7b2cff14280d8d73a96de3ec6ba2c5d232c541e5c7a7908884b75f3c0503b4aa2e8af942c81789b1666317845c1c6f"
+  },
+  "fabric-1.19.2-1.8.3": {
+    "versionId": "ecpQWez8",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-17T07:28:09.150702Z",
+    "filename": "audioplayer-1.19.2-1.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ecpQWez8/audioplayer-1.19.2-1.8.3.jar",
+    "sha512": "349ba6cadf486e741f615865384ab39aab6f9e1fa56e7759c79e1efb422236f8cbff658c5befb278087f287907d3577e9c04a321fb7505fa1d60a1a77d91816e"
+  },
+  "fabric-1.19.2-1.8.4": {
+    "versionId": "y28TkwEC",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-29T17:19:34.873255Z",
+    "filename": "audioplayer-1.19.2-1.8.4.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/y28TkwEC/audioplayer-1.19.2-1.8.4.jar",
+    "sha512": "5f97c195681bf690c5fc9790db3302d3e9f3c3485e761b69730e011c04aa75ae8a7743c98445ea89f5fdfc346257f0cf97b2d172dfdeb759538c17ea0ed1a72c"
+  },
+  "fabric-1.19.2-1.8.5": {
+    "versionId": "l0svvRat",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-30T17:23:03.436502Z",
+    "filename": "audioplayer-1.19.2-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/l0svvRat/audioplayer-1.19.2-1.8.5.jar",
+    "sha512": "05acaa3fff8c3390875dbca004575a9dc5ab853a06fe4162495d3d5f27f5e43a18e69eec8b39660c6db058e0b246fdb3e3274b2428e864e8ca9854fd1c79251a"
+  },
+  "fabric-1.19.2-1.8.6": {
+    "versionId": "NtCwrzkw",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-25T12:03:32.320881Z",
+    "filename": "audioplayer-fabric-1.19.2-1.8.6.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/NtCwrzkw/audioplayer-fabric-1.19.2-1.8.6.jar",
+    "sha512": "32cad324010e483967fa7a0b6c6d760d281649f62fac81bdd19bbc3326e40cdd8c39ff06152057b0a9e493cc29a9515ea1ae785931510b9a343ec4e647555679"
+  },
+  "fabric-1.19.2-1.8.7": {
+    "versionId": "s6XhflgU",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-01-01T10:19:16.457430Z",
+    "filename": "audioplayer-fabric-1.19.2-1.8.7.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/s6XhflgU/audioplayer-fabric-1.19.2-1.8.7.jar",
+    "sha512": "a42cb1addead2c0f4df6bc5ac978b8e6e2f205e140a7419dc4e61478c2670578328573031a25444a4cb87cb4396fe2ce98f138fda96e940d99ac90f04d3e4ea8"
+  },
+  "fabric-1.19.2-1.8.8": {
+    "versionId": "cFPnLAOP",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-02-13T22:19:05.831840Z",
+    "filename": "audioplayer-fabric-1.19.2-1.8.8.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/cFPnLAOP/audioplayer-fabric-1.19.2-1.8.8.jar",
+    "sha512": "e9451e1f061a999b05771e5c730e50212bb88633c1284f33f76b5cc49015eeed1a26cf91df88f2058b2b627400f41641c3031624b2c2d244403a7f957e32a24d"
+  },
+  "fabric-1.19.2-1.8.9": {
+    "versionId": "s5oivqda",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-02T15:31:55.488784Z",
+    "filename": "audioplayer-fabric-1.19.2-1.8.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/s5oivqda/audioplayer-fabric-1.19.2-1.8.9.jar",
+    "sha512": "b3fde055ef0d544d4b52ea95df62b8d29287a6577d15b4232d089847742ccf2e0abf246c6966ee1d7196af8bedc62bea12e6e855283056deb599e6231676a543"
+  },
+  "fabric-1.19.2-1.9.0": {
+    "versionId": "3I7Un9ea",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-03-17T20:00:04.657318Z",
+    "filename": "audioplayer-fabric-1.19.2-1.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/3I7Un9ea/audioplayer-fabric-1.19.2-1.9.0.jar",
+    "sha512": "b5069add620c6874fad4a6c2a542636e391b62f4c112f5968a3c59bd26f4adebb6b8ac3482e18626b9f231fcf50a9a1430b037fe6232ce00e0d0c141e592e748"
+  },
+  "fabric-1.19.2-1.9.1": {
+    "versionId": "DYPQhZai",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-16T13:28:54.356550Z",
+    "filename": "audioplayer-fabric-1.19.2-1.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/DYPQhZai/audioplayer-fabric-1.19.2-1.9.1.jar",
+    "sha512": "0b99dca18ae05b2b9100b2a24bb2ad721d506eeac70a16e5dc970207f07a7d8a94dc9dd02e9d5dfa3e43427ae7c243fb8a36fde4f06198e78ab216c1b7dd4c11"
+  },
+  "fabric-1.19.2-1.9.2": {
+    "versionId": "CiOBca3e",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-03T12:11:05.249815Z",
+    "filename": "audioplayer-fabric-1.19.2-1.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/CiOBca3e/audioplayer-fabric-1.19.2-1.9.2.jar",
+    "sha512": "393a538eb876eac3d69c2f0fbcc9046f15f78528a2984ed6108e7c8f2803cfc5fbaec44a53ffd8593a02ae952fba65dbf41af631fa2cfeb6d8ad1fb0a6ab45f9"
+  },
+  "fabric-1.19.3-1.4.5": {
+    "versionId": "WUI9tQTS",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-12-07T16:35:29.589649Z",
+    "filename": "audioplayer-1.19.3-1.4.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/WUI9tQTS/audioplayer-1.19.3-1.4.5.jar",
+    "sha512": "89c1334e32f435c55d3def0c05041ea7936d5ba5aabf77adc054d34500af4c79d254d461643c47505fbef3b0d6124c096a680fa7d8fcd63c4121d3c7d871ce53"
+  },
+  "fabric-1.19.4-1.5.0": {
+    "versionId": "L2uZl4yD",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-03-14T16:28:13.175758Z",
+    "filename": "audioplayer-1.19.4-1.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/L2uZl4yD/audioplayer-1.19.4-1.5.0.jar",
+    "sha512": "2ed8f721c0e78f98b63e76d80e962a44e7a624302fa052c0635b51bdd91aa617d39e4231e0b8ba05bea783995ef52bc7bf9c46908c837138f00417480b12c8c7"
+  },
+  "fabric-1.19.4-1.5.1": {
+    "versionId": "SHmJR6hM",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-04-01T12:47:57.668458Z",
+    "filename": "audioplayer-1.19.4-1.5.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/SHmJR6hM/audioplayer-1.19.4-1.5.1.jar",
+    "sha512": "5c08bfa31d38ca6955185c3484f940cec6104503f834f4de4e38508591862ca21ea7e6d875d4aec68113ed82ad5958d0eb68408447b652ae968ad470d8bce6a8"
+  },
+  "fabric-1.19.4-1.5.2": {
+    "versionId": "2QQ2DTV0",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-04-12T11:30:25.363577Z",
+    "filename": "audioplayer-1.19.4-1.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/2QQ2DTV0/audioplayer-1.19.4-1.5.2.jar",
+    "sha512": "543e7c5be99556fc1e45a87207c6e90a9a8c15407f3585080677bae373906586416a5d57cb5b8a4c8a2b1d645dd08e3935c769aec52d0a8c9bb4643d8abd2424"
+  },
+  "fabric-1.19.4-1.6.0": {
+    "versionId": "JBvfTj6z",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-13T20:11:10.033257Z",
+    "filename": "audioplayer-1.19.4-1.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/JBvfTj6z/audioplayer-1.19.4-1.6.0.jar",
+    "sha512": "4e96f09e697c31a94d105e1009a9def1c77d27140d5b5b9b3cf21e43a65ec25f2a48e1f62e5f5ef25892a9af3ac5b348608431dcdfb678ac5cd5a75ee47c96d6"
+  },
+  "fabric-1.19.4-1.6.1": {
+    "versionId": "fBK5juS7",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T12:56:03.447251Z",
+    "filename": "audioplayer-1.19.4-1.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fBK5juS7/audioplayer-1.19.4-1.6.1.jar",
+    "sha512": "0c020d431a869562bedab485eff66cec071b0d9649e547ea15923892874c13299eb3b17be255dffdbb2dae20e79287382ca0944250537dee995ac32defa913d7"
+  },
+  "fabric-1.19.4-1.6.2": {
+    "versionId": "PgJUL2ol",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T13:37:32.308398Z",
+    "filename": "audioplayer-1.19.4-1.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/PgJUL2ol/audioplayer-1.19.4-1.6.2.jar",
+    "sha512": "c3629653140d6542f7e01783bfb8efd54ffdc241a1244c28dea1fa250ede1b76317761239deedf2dc5708fbb46225506adeaa08f5f5fca37b7c377b8a07c97a6"
+  },
+  "fabric-1.19.4-1.7.0": {
+    "versionId": "ILF6hjrX",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-28T19:34:26.476450Z",
+    "filename": "audioplayer-1.19.4-1.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ILF6hjrX/audioplayer-1.19.4-1.7.0.jar",
+    "sha512": "86e34c32cb3bca6b2b9dfff20d5363a54bd39df9d7974da8200ad26c4a021fd7982174647fd42eb9d857fd2181e6936691781385578b9eba5a978a3a1d4edf23"
+  },
+  "fabric-1.19.4-1.7.1": {
+    "versionId": "2f0iEEMy",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-31T07:21:54.080911Z",
+    "filename": "audioplayer-1.19.4-1.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/2f0iEEMy/audioplayer-1.19.4-1.7.1.jar",
+    "sha512": "e6aaacf666eb22a2213d8a7a565fdb0a67dc4f89a7933aabcab1209275d6db3ad051c914122be2a595f4d62b1308a3f5abcdf69189ff2bb2dc69422a6aaf9f60"
+  },
+  "fabric-1.19.4-1.8.0": {
+    "versionId": "iQlYUAN2",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-11T18:00:53.575299Z",
+    "filename": "audioplayer-1.19.4-1.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/iQlYUAN2/audioplayer-1.19.4-1.8.0.jar",
+    "sha512": "09f781d734dd9148115cf236327404afd8f5d0e2341c2501978bc1129f0e38828918157b789ad938ad94eeb57b7983121dae67d31fa4fac6ebf02b9a06fd6cb7"
+  },
+  "fabric-1.19.4-1.8.1": {
+    "versionId": "U76skYXV",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-17T07:17:55.851471Z",
+    "filename": "audioplayer-1.19.4-1.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/U76skYXV/audioplayer-1.19.4-1.8.1.jar",
+    "sha512": "628b701d9ec4fdf83c57cd3e73cdf335b69223f511422f55f7a716b6de01a79a5e46143348f4adee76ff7e38432a623375bda239401437d0e0f92c1ebd045817"
+  },
+  "fabric-1.19.4-1.8.2": {
+    "versionId": "gNH3nWWN",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-10-15T07:56:47.246255Z",
+    "filename": "audioplayer-1.19.4-1.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/gNH3nWWN/audioplayer-1.19.4-1.8.2.jar",
+    "sha512": "33a5200bb6d853cac017942ca6ae6519d9c8814a6aa2e76b46d86a875fe6917fde3ce136f5df9887390662d700890a129d64c6e885d5f5412ae22077f16adc03"
+  },
+  "fabric-1.19.4-1.8.3": {
+    "versionId": "j6JsEyhs",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-17T07:28:54.673345Z",
+    "filename": "audioplayer-1.19.4-1.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/j6JsEyhs/audioplayer-1.19.4-1.8.3.jar",
+    "sha512": "572b05f1dd795373babbb20e1e0d22480c5e73c63a64b3cf58281b8bb1dd2aeb350eac0297e9f0a80696aa2d5310b8c7a4572f96708a1d559ef328ac6c0a515c"
+  },
+  "fabric-1.19.4-1.8.4": {
+    "versionId": "owxcSQE0",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-29T17:20:17.030450Z",
+    "filename": "audioplayer-1.19.4-1.8.4.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/owxcSQE0/audioplayer-1.19.4-1.8.4.jar",
+    "sha512": "19c09f6a475d0a63dad9edf88fc9fe61c9a602c44cf2f124e5a17df9fbce327f7044c2fc52c2f0b2b8622363775a1b84216bb12bcade499b4b3f8c07dd4604f3"
+  },
+  "fabric-1.19.4-1.8.5": {
+    "versionId": "fBbdoxMS",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-30T17:24:15.997984Z",
+    "filename": "audioplayer-1.19.4-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fBbdoxMS/audioplayer-1.19.4-1.8.5.jar",
+    "sha512": "d8842c3f3aa032b3f1863ba03b41b09d713fe9b422ef176bbe0c8cbfcbaa3cad43f6669ded613db4040c4eb6add208de5df36cd60553beeebd3e3022669e2efa"
+  },
+  "fabric-1.19.4-1.8.6": {
+    "versionId": "MNGTjmkw",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-25T12:05:35.623607Z",
+    "filename": "audioplayer-fabric-1.19.4-1.8.6.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/MNGTjmkw/audioplayer-fabric-1.19.4-1.8.6.jar",
+    "sha512": "7dbb61f0a981d467836db6a0948e7bf7caf96109bfe2f06ca86ccd930e32f8ba9fd50ca8956e5a879c921ff2c54393a2a2f65710e8db4fad577f30280852c317"
+  },
+  "fabric-1.19.4-1.8.7": {
+    "versionId": "6W3Rpja8",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-01-01T10:20:28.759061Z",
+    "filename": "audioplayer-fabric-1.19.4-1.8.7.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/6W3Rpja8/audioplayer-fabric-1.19.4-1.8.7.jar",
+    "sha512": "832339654b7271c11b44df7aaa5a63d57b1818a338f77832f16dec5c563a25b8c2a849004d77e276d225925df7d6141b80cba7ae47d348f900a4050a2abdf316"
+  },
+  "fabric-1.19.4-1.8.8": {
+    "versionId": "ynNLYqD5",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-02-13T22:19:40.040537Z",
+    "filename": "audioplayer-fabric-1.19.4-1.8.8.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ynNLYqD5/audioplayer-fabric-1.19.4-1.8.8.jar",
+    "sha512": "b63b390f44f0c6c8c21a619ff8d658a394a0b9d5d8ac2dd72293d49b2375c9ad2906ecfae06038c14c9de8955d9b8050dfbf81712e96df8cddce708015cfa631"
+  },
+  "fabric-1.19.4-1.8.9": {
+    "versionId": "Y9yiwT8X",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-02T15:32:30.317094Z",
+    "filename": "audioplayer-fabric-1.19.4-1.8.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/Y9yiwT8X/audioplayer-fabric-1.19.4-1.8.9.jar",
+    "sha512": "828a58b7ddf80883d2d374d9c116e0c692f2739729c8a378188082f45a9a5f33575b4bda217cd4b4debeac91c06ead598e9f533aaaa0a514403a5bb2adb6176e"
+  },
+  "fabric-1.20-1.5.2": {
+    "versionId": "J6UOUzmz",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-07T15:32:17.322964Z",
+    "filename": "audioplayer-1.20-1.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/J6UOUzmz/audioplayer-1.20-1.5.2.jar",
+    "sha512": "9fbf36639f907f4b28779f3bacef661b6e26dc3f633495faeeca9419edf772fa0be61ed144f1a593fde5b9f105801a39b6f340b7ff25bfff3ea819fd5144a319"
+  },
+  "fabric-1.20.1-1.10.0": {
+    "versionId": "KqAoQhKA",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-05T12:24:55.485176Z",
+    "filename": "audioplayer-fabric-1.20.1-1.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/KqAoQhKA/audioplayer-fabric-1.20.1-1.10.0.jar",
+    "sha512": "53a190250c9f681314bd466b7a4c5e6ad4caf15f8bcafd587a85cdbb29c13d6b6317a3a3f64261475725cf5cb84822940a1035e48d6e10c1851abab6f437c4b3"
+  },
+  "fabric-1.20.1-1.10.1": {
+    "versionId": "eu3KVfnD",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-28T14:35:49.226120Z",
+    "filename": "audioplayer-fabric-1.20.1-1.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/eu3KVfnD/audioplayer-fabric-1.20.1-1.10.1.jar",
+    "sha512": "8ab7734f65a2be880e2b48532da491553ca1f82a0044c9bbf255204a39aef9a4a8448cc248abc5cb95cd86d19f09e8379c0e2e7b365d60d590dedad249144b44"
+  },
+  "fabric-1.20.1-1.10.2": {
+    "versionId": "kzX85vih",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-08T16:16:49.649362Z",
+    "filename": "audioplayer-fabric-1.20.1-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/kzX85vih/audioplayer-fabric-1.20.1-1.10.2.jar",
+    "sha512": "aef0265954a24395f8a7e9f8ea5fd9edea29e8a175114845542f34520cc51a41a685031e7922b39302b32f2070264fef74f93fc6a342fc3eae1e8b2ef7020849"
+  },
+  "fabric-1.20.1-1.11.0": {
+    "versionId": "BNaUH1EL",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-08-27T14:43:45.872622Z",
+    "filename": "audioplayer-fabric-1.20.1-1.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/BNaUH1EL/audioplayer-fabric-1.20.1-1.11.0.jar",
+    "sha512": "c60c5e5eeab1dbb08efd2c8d9d5af14e1bb30e142c8483b3ccd5210c2bbaa253d255be3cc1dc2fe1c6a3a55b14c1d6f191373b855716b3e785e652994d5da829"
+  },
+  "fabric-1.20.1-1.11.1": {
+    "versionId": "X5VnNQLt",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-20T17:30:05.248926Z",
+    "filename": "audioplayer-fabric-1.20.1-1.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/X5VnNQLt/audioplayer-fabric-1.20.1-1.11.1.jar",
+    "sha512": "1a36bc2e9215face8b6a8cb7235ddec3bda9e340aef03128f287c8cb2fa027e040d3ebd3d941fbace7dddd1a559b54002c203417a43c6eab22ea015ad0642f7c"
+  },
+  "fabric-1.20.1-1.13.0": {
+    "versionId": "jkyRKGIu",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-24T16:59:44.412575Z",
+    "filename": "audioplayer-fabric-1.20.1-1.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/jkyRKGIu/audioplayer-fabric-1.20.1-1.13.0.jar",
+    "sha512": "29cbb28c86830699c0c4b7504797d3ab8829173216804c451cbf8fad9fd45ccd9503693a560a0d8a267d80708e309e0b3722ec8add167e8e056d9b51ad1f9a07"
+  },
+  "fabric-1.20.1-1.13.1": {
+    "versionId": "7LsFhSCP",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-20T21:07:22.210828Z",
+    "filename": "audioplayer-fabric-1.20.1-1.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/7LsFhSCP/audioplayer-fabric-1.20.1-1.13.1.jar",
+    "sha512": "c0f895773b34ecb05b9563a75b4a66171372eb65a63be6e32b4858e27f3bf08d468288b85e7c25d2927a1535f587b072a6d30f85fa347170327e2e170edd54dc"
+  },
+  "fabric-1.20.1-1.13.2": {
+    "versionId": "M6EFtrdy",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-01-02T22:22:12.037946Z",
+    "filename": "audioplayer-fabric-1.20.1-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/M6EFtrdy/audioplayer-fabric-1.20.1-1.13.2.jar",
+    "sha512": "2012f04a9fc8092df4f6ac43a38dd1b463c40d8b90ecebaae3412b3d9d99b9fad5297657b729f69bb016270a0741475abb4ee3b41d9aed17107cdfa3873b6fb7"
+  },
+  "fabric-1.20.1-1.5.2": {
+    "versionId": "VsVdOs5V",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-12T14:51:28.030239Z",
+    "filename": "audioplayer-1.20.1-1.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/VsVdOs5V/audioplayer-1.20.1-1.5.2.jar",
+    "sha512": "b0fbaf7e23153192e3e29ae426b311ab3bfe135523dc0a645585ff787bed3cecc0101c6be30e0ea80b3408e8dec49c086802f1d163b5a17728e29fc3ee2c31c7"
+  },
+  "fabric-1.20.1-1.6.0": {
+    "versionId": "w2d5GWbr",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-13T20:11:47.056877Z",
+    "filename": "audioplayer-1.20.1-1.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/w2d5GWbr/audioplayer-1.20.1-1.6.0.jar",
+    "sha512": "2f68bdd350dcf4857a14daac8468a91153ff5cde9cc12acfd60e8b5cbbc20394df097d62ed73ba4651d91abe0f4e37234c4ec7541153b9a9f6502e438576c62d"
+  },
+  "fabric-1.20.1-1.6.1": {
+    "versionId": "OdqgxAuH",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T12:56:36.589521Z",
+    "filename": "audioplayer-1.20.1-1.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/OdqgxAuH/audioplayer-1.20.1-1.6.1.jar",
+    "sha512": "85d69080ff68b740749cc41b9079293c4b8ab27193484ea97bd77502b1bae70078c3ea06449c6222b835d68e6929b31253c55aa3374745404ee39993a7839551"
+  },
+  "fabric-1.20.1-1.6.2": {
+    "versionId": "MJIzsPLC",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-07-20T13:38:20.045536Z",
+    "filename": "audioplayer-1.20.1-1.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/MJIzsPLC/audioplayer-1.20.1-1.6.2.jar",
+    "sha512": "f48d32c6d1ef4cce71587bf8d567267fcb128573f3b3965c86368799d2116eca0238686223a8dd41d3010f8335105150afff2f6afa833aac47a716ecd83577f5"
+  },
+  "fabric-1.20.1-1.7.0": {
+    "versionId": "IgVHamWI",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-28T19:35:35.690501Z",
+    "filename": "audioplayer-1.20.1-1.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/IgVHamWI/audioplayer-1.20.1-1.7.0.jar",
+    "sha512": "5a49576d368c50a9addde340239388933fe9ae82d48c0e2c3986ff422fa81346536d5900acbd7c726151abf56c259bc99fb39b8125826c5d1b402dc2fdc134c8"
+  },
+  "fabric-1.20.1-1.7.1": {
+    "versionId": "3WIslIUo",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-31T07:22:33.592408Z",
+    "filename": "audioplayer-1.20.1-1.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/3WIslIUo/audioplayer-1.20.1-1.7.1.jar",
+    "sha512": "6eca8e230f5b6a662453b566d06dbe3e413f0abc14d51514695b1067944df667e526de3b34a7ceb5209e3141357a28c73efd5a5cab7e05a1d72a1de6ff8b439f"
+  },
+  "fabric-1.20.1-1.8.0": {
+    "versionId": "mUHyN1XK",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-11T18:01:31.328304Z",
+    "filename": "audioplayer-1.20.1-1.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/mUHyN1XK/audioplayer-1.20.1-1.8.0.jar",
+    "sha512": "7c9c44073cb7d8c4454a518ffc9ab567d57373887f410a481483d4957006779e0b8af90027a9b20c65f4b285f91546ee9bc3dba06e6b9883e9c7324cce247f21"
+  },
+  "fabric-1.20.1-1.8.1": {
+    "versionId": "dyAoCTEw",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-17T07:18:39.220002Z",
+    "filename": "audioplayer-1.20.1-1.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/dyAoCTEw/audioplayer-1.20.1-1.8.1.jar",
+    "sha512": "67b7a60bb008c9cf514d4bdacb8595219eceb6e2a25d56928faf80b8fcc15861c2e784d17e68c40f5914f3f26c30d40c280423713c8f058937d3ea8ee7272f78"
+  },
+  "fabric-1.20.1-1.8.2": {
+    "versionId": "easvO8X7",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-10-15T07:57:39.598591Z",
+    "filename": "audioplayer-1.20.1-1.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/easvO8X7/audioplayer-1.20.1-1.8.2.jar",
+    "sha512": "212055d5bce84b6dc789ac09d59b7745ad5c5abd0c7ba349b3a9e2825ed5c3be1a103280c7caa968015ec4aacb4678b4e2370bec735fe426555dc8919dc76756"
+  },
+  "fabric-1.20.1-1.8.3": {
+    "versionId": "mX3Gq9Ez",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-17T07:29:37.915842Z",
+    "filename": "audioplayer-1.20.1-1.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/mX3Gq9Ez/audioplayer-1.20.1-1.8.3.jar",
+    "sha512": "5c4b83e65e821a6014952ae73e6dddf4160285ce96b1f866f1637890104e205b1719ccc57d18e4a475f81ac90d0641f0118f32708f13d1447815408c078cc9a4"
+  },
+  "fabric-1.20.1-1.8.4": {
+    "versionId": "b7LNlHB6",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-29T17:20:48.477013Z",
+    "filename": "audioplayer-1.20.1-1.8.4.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/b7LNlHB6/audioplayer-1.20.1-1.8.4.jar",
+    "sha512": "9d6fecff742b8d6935c8a4f8bef6c1f6f23339b121069d8725271869811b066ce9cba8bf518009cc8fcb73390f006d21013f50279a834d9306c46ab1ecab47e1"
+  },
+  "fabric-1.20.1-1.8.5": {
+    "versionId": "AaHt4ziE",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-30T17:24:55.470056Z",
+    "filename": "audioplayer-1.20.1-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/AaHt4ziE/audioplayer-1.20.1-1.8.5.jar",
+    "sha512": "26101e2f6d411b9b830824ea18a2cceabe7bcc36e8f3ba5234b9c10d3abc51f1eeb67a7d5d8ea7fd6c9b71ddf55e7ac1b0f924fccd1808c9c2a34d586f6d84b6"
+  },
+  "fabric-1.20.1-1.8.6": {
+    "versionId": "PuGsTicx",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-25T12:06:04.645973Z",
+    "filename": "audioplayer-fabric-1.20.1-1.8.6.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/PuGsTicx/audioplayer-fabric-1.20.1-1.8.6.jar",
+    "sha512": "41b12de7e57a1979f752fbdd9fa683cf312390b9630a30cab5364683ae178b6bfb071cba71770fcb0f2d858e1fc9ed0669b2a7f67c1505a03f163f1f53bdf314"
+  },
+  "fabric-1.20.1-1.8.7": {
+    "versionId": "oPgu3WYf",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-01-01T10:21:15.412801Z",
+    "filename": "audioplayer-fabric-1.20.1-1.8.7.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/oPgu3WYf/audioplayer-fabric-1.20.1-1.8.7.jar",
+    "sha512": "4f17679fc00bd02bdd9fe614cc1d2ffef04ddeefc7c6213eb32a45d4551c3e53e3cddf7a0d7238bb947e4a18bcf917a7d33618793de6cd43a0806a457e9f5831"
+  },
+  "fabric-1.20.1-1.8.8": {
+    "versionId": "BHHLnFVT",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-02-13T22:20:12.456875Z",
+    "filename": "audioplayer-fabric-1.20.1-1.8.8.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/BHHLnFVT/audioplayer-fabric-1.20.1-1.8.8.jar",
+    "sha512": "2ab69e2c0e41b155cacf01d2a0e7db2420bdb369103c56606f202b8a5ed406ece3f7266f1b423650a523a878b8ba3e99b0c667af4b83b87b1dfa991dff96b3f8"
+  },
+  "fabric-1.20.1-1.8.9": {
+    "versionId": "hDi749ai",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-02T15:33:00.465058Z",
+    "filename": "audioplayer-fabric-1.20.1-1.8.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/hDi749ai/audioplayer-fabric-1.20.1-1.8.9.jar",
+    "sha512": "afc19b9187a7e4f17e814303f8235556bdb5c0cd7f3b42f5bef28479b0c697b60c3c77e812d167de304594ca4e2884eaf0287bee23b6eee9e4eac931a739a2b8"
+  },
+  "fabric-1.20.1-1.9.0": {
+    "versionId": "leSdRVZw",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-03-17T20:00:52.420663Z",
+    "filename": "audioplayer-fabric-1.20.1-1.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/leSdRVZw/audioplayer-fabric-1.20.1-1.9.0.jar",
+    "sha512": "52ff3ad62241b1b87ca5ec4c478918692d066b811a4047a165deb6a334b478e3ceba7b8ad910b2f7a3edf79e98ee408833c5ef1363c78b28be5b56a493ecaa4b"
+  },
+  "fabric-1.20.1-1.9.1": {
+    "versionId": "mN7QWOpr",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-16T13:29:24.547620Z",
+    "filename": "audioplayer-fabric-1.20.1-1.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/mN7QWOpr/audioplayer-fabric-1.20.1-1.9.1.jar",
+    "sha512": "a9b4fed889eed3ed1bc49dc1524a7f3db75d61b13cbc40bd7a31b07342f41dc01b0262b46e988554cb5ab455799d27e842c4e6215fafb5d428136355ef22eb50"
+  },
+  "fabric-1.20.1-1.9.2": {
+    "versionId": "3c0r9n0U",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-03T12:11:32.569661Z",
+    "filename": "audioplayer-fabric-1.20.1-1.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/3c0r9n0U/audioplayer-fabric-1.20.1-1.9.2.jar",
+    "sha512": "e07831aee8b7fd05a5eca19a0a638ce083838b308f057c96a2a5d88d4f3ffd8789430ed24c005e2344c20ca194a168f617b6b5e4f6618564f57598c1b543c042"
+  },
+  "fabric-1.20.2-1.8.1": {
+    "versionId": "INB3CThE",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-09-21T18:31:10.964892Z",
+    "filename": "audioplayer-1.20.2-1.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/INB3CThE/audioplayer-1.20.2-1.8.1.jar",
+    "sha512": "0e9f1f62888471ae5fe53fe4ec087bcd0d2378040651a76c065c526c4c908303e9a984de2381249b6097f19a17dfefb8c6d25179aafb37c1ed6685d727268320"
+  },
+  "fabric-1.20.2-1.8.2": {
+    "versionId": "sqrrgHuG",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-10-15T07:58:13.145076Z",
+    "filename": "audioplayer-1.20.2-1.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/sqrrgHuG/audioplayer-1.20.2-1.8.2.jar",
+    "sha512": "cc7af5b17b108ca26b4abe44e4674649fee03381e915353f8e9e975f1d91d616e0ec1f5ba1d65bdff2526d2ce4436743ddd40b2c5b5ff3fe0bb2346db0ccc409"
+  },
+  "fabric-1.20.2-1.8.3": {
+    "versionId": "sWu45rBH",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-17T07:30:13.148815Z",
+    "filename": "audioplayer-1.20.2-1.8.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/sWu45rBH/audioplayer-1.20.2-1.8.3.jar",
+    "sha512": "a72a442c76c28c6f2892274b3eb01a719334f375049144123c1ddb9008f0e0f6287bfe3a04456726c19fad7073c1821b4deb7ced95bc975301999787c6e8dd68"
+  },
+  "fabric-1.20.2-1.8.4": {
+    "versionId": "8SW9C4c0",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-29T17:21:22.110515Z",
+    "filename": "audioplayer-1.20.2-1.8.4.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/8SW9C4c0/audioplayer-1.20.2-1.8.4.jar",
+    "sha512": "f6e9de8860ab6a0f8687340d15df28bc422536b59b233a6b11c07cd1309d3e0bf9cfa4dc2f22c8d372c62c1f8e8108316a2a3b7c17bfd6f635312b2a6425af3c"
+  },
+  "fabric-1.20.2-1.8.5": {
+    "versionId": "V7VEXKMb",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-30T17:25:46.245028Z",
+    "filename": "audioplayer-1.20.2-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/V7VEXKMb/audioplayer-1.20.2-1.8.5.jar",
+    "sha512": "65eaec2a90929594e5e48afc1e0c074971fb62753f3a9b538482d6fc1e707b5b6e7594e54ec6efaff5a8f9f3532b22314ebbc6ce80fdb582bce27cde58184ee2"
+  },
+  "fabric-1.20.2-1.8.6": {
+    "versionId": "9lGjhdnd",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-25T12:06:32.934003Z",
+    "filename": "audioplayer-fabric-1.20.2-1.8.6.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/9lGjhdnd/audioplayer-fabric-1.20.2-1.8.6.jar",
+    "sha512": "4b2d31c310b3329730924257ec1707222e1786edd8ea36bce01807d61f06a71113624fae35b211abab44c4c1f6e82bc8ea4432f9a6b0a84cf017a6e78723f220"
+  },
+  "fabric-1.20.2-1.8.7": {
+    "versionId": "ZFCkqM8e",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-01-01T10:22:48.868425Z",
+    "filename": "audioplayer-fabric-1.20.2-1.8.7.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ZFCkqM8e/audioplayer-fabric-1.20.2-1.8.7.jar",
+    "sha512": "1cf0a8151fd4ba67eb2051c07d33a307e082268bc899cf52fb712057395531f0d243734cd589cb5869dd37360fe158f71d7e52e667f2848ccd8c795fe1dafd89"
+  },
+  "fabric-1.20.2-1.8.8": {
+    "versionId": "X6MuqNY7",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-02-13T22:20:44.667123Z",
+    "filename": "audioplayer-fabric-1.20.2-1.8.8.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/X6MuqNY7/audioplayer-fabric-1.20.2-1.8.8.jar",
+    "sha512": "e55d72709e6328ff5a3f385986793ea5cb2ba6fe7d3144c2aa59546c2e522f1f57148b2f4493b0ce92f32f44507c3ee72f86db78eac3d3ad19a63ce6b46f2aa7"
+  },
+  "fabric-1.20.2-1.8.9": {
+    "versionId": "TEMl5tcB",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-02T15:33:29.017191Z",
+    "filename": "audioplayer-fabric-1.20.2-1.8.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/TEMl5tcB/audioplayer-fabric-1.20.2-1.8.9.jar",
+    "sha512": "124ca3a7dca88ca45b3a9e60387f6734a6fd15fbc09de201fc710a82b8bdd4b0ff4a0437973e31fc577aad49074fbb23dbff1aa2f0770072b67de20ee1587017"
+  },
+  "fabric-1.20.2-1.9.0": {
+    "versionId": "7kbNLKxh",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-03-17T20:01:22.819139Z",
+    "filename": "audioplayer-fabric-1.20.2-1.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/7kbNLKxh/audioplayer-fabric-1.20.2-1.9.0.jar",
+    "sha512": "973ed4cac9cbabfb25bf094054ec7f239a26c4e70bc973323e64b7a45c79f75c1ea5b9c25f744cb1e65c43e2482f40e8eff36620fe991a94d4f07a59c6d55e0a"
+  },
+  "fabric-1.20.3-1.8.5": {
+    "versionId": "fOpJeX6i",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-05T18:18:34.457930Z",
+    "filename": "audioplayer-1.20.3-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fOpJeX6i/audioplayer-1.20.3-1.8.5.jar",
+    "sha512": "6c11745038165568cfb21d4affda68b891641249ed20d9d6dd2d503539dff05d83e107a55b80484d5ba3c90e63553307768ed27e9286c9fd78b331f0cf575e02"
+  },
+  "fabric-1.20.4-1.10.0": {
+    "versionId": "S8NRSplH",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-05T12:25:28.868693Z",
+    "filename": "audioplayer-fabric-1.20.4-1.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/S8NRSplH/audioplayer-fabric-1.20.4-1.10.0.jar",
+    "sha512": "a815f52ba6ecca26bbf53aa24311a0b7d6601cae691093aa6759296ea57ae94d2071cbf7ac90885beb4e34476acda11637f9b2fe6127b0a35a109797207cbf0f"
+  },
+  "fabric-1.20.4-1.10.1": {
+    "versionId": "GN1Cblk9",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-28T14:40:11.343180Z",
+    "filename": "audioplayer-fabric-1.20.4-1.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/GN1Cblk9/audioplayer-fabric-1.20.4-1.10.1.jar",
+    "sha512": "d937fe98ef1e05b091666464010d3ed9f90d7706f4ad0e56b7230c0b6075d725e7122cea49be545ba8ee8d79c76019bc999d72a78e8a20575b744481d61eb0a2"
+  },
+  "fabric-1.20.4-1.10.2": {
+    "versionId": "6nM3cFNv",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-08T16:19:30.426632Z",
+    "filename": "audioplayer-fabric-1.20.4-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/6nM3cFNv/audioplayer-fabric-1.20.4-1.10.2.jar",
+    "sha512": "e2cb4bcf29c16cfb5fa263643855b7952f34cd3e7b059520abe7000f76221b73ca1ec89bb650f977715d961e40fa8695b560806dcb6f3d0aed8381969aff1cee"
+  },
+  "fabric-1.20.4-1.8.5": {
+    "versionId": "k53Fto1X",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-07T16:02:51.308591Z",
+    "filename": "audioplayer-1.20.4-1.8.5.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/k53Fto1X/audioplayer-1.20.4-1.8.5.jar",
+    "sha512": "870ec2ab132621551c813e22b37883eb4f055f474b0e06ec6073c49486fe99b3413e371142ef81a186edc12bdab035e2326cf115d8303fe3d295df2fecbcf1e3"
+  },
+  "fabric-1.20.4-1.8.6": {
+    "versionId": "kI5CWPQa",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-25T12:18:14.286909Z",
+    "filename": "audioplayer-fabric-1.20.4-1.8.6.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/kI5CWPQa/audioplayer-fabric-1.20.4-1.8.6.jar",
+    "sha512": "255ba80331a660cb98ad4b0944c505f65e92e4a8b39a035e5e66082b09a8d507e7e20dbd2c37911cbfd1615cbdbf892c98f637bfc092ebb5d755f9d4309c4966"
+  },
+  "fabric-1.20.4-1.8.7": {
+    "versionId": "JDN9sb58",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-01-01T10:23:37.617991Z",
+    "filename": "audioplayer-fabric-1.20.4-1.8.7.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/JDN9sb58/audioplayer-fabric-1.20.4-1.8.7.jar",
+    "sha512": "6ee22d070d7270fc4ddcc38a34d58d47d2e34244a313a0292d5fb7db4ef947f6ed53dde7203904b696af341e090472c590af0925ac8478fef40d86659ed4b208"
+  },
+  "fabric-1.20.4-1.8.8": {
+    "versionId": "VO20s4JC",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-02-13T22:21:14.552796Z",
+    "filename": "audioplayer-fabric-1.20.4-1.8.8.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/VO20s4JC/audioplayer-fabric-1.20.4-1.8.8.jar",
+    "sha512": "7bb0f73acea3c2274b20c9589e1f0a0c1e0b2506fcef85667f7f39b83e5a7dc345f0172ec49eaccd438180b3f8ccae4c0865329987954ee3d647330a02cfbe67"
+  },
+  "fabric-1.20.4-1.8.9": {
+    "versionId": "stSyrtc4",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-02T15:33:56.383768Z",
+    "filename": "audioplayer-fabric-1.20.4-1.8.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/stSyrtc4/audioplayer-fabric-1.20.4-1.8.9.jar",
+    "sha512": "5f1d7fc33e170f693128c6817100dd43b4f9bf2b377f2adc091a3f637bf2427304eec023f35ecce9b2ea0ea410e6700ade40168f3770e7b9c8f9cbeae8d5f6ca"
+  },
+  "fabric-1.20.4-1.9.0": {
+    "versionId": "fh0XFTz3",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-03-17T20:01:50.651082Z",
+    "filename": "audioplayer-fabric-1.20.4-1.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/fh0XFTz3/audioplayer-fabric-1.20.4-1.9.0.jar",
+    "sha512": "d594a70d813738c6206d525f06cc1dc5ee6e24ef37c15358592818b0b6c02b5e70b1d65fa6258719e4074691f21cab1c52c72c9336bfa44fbcb41a78460acf8b"
+  },
+  "fabric-1.20.4-1.9.1": {
+    "versionId": "34d1C0gI",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-16T13:30:38.743649Z",
+    "filename": "audioplayer-fabric-1.20.4-1.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/34d1C0gI/audioplayer-fabric-1.20.4-1.9.1.jar",
+    "sha512": "80a7f5ea88a7aaee4068f9e0bd06a62671d67a80c5e6faf5d0410017390f5e1f5dee8d8993583795cfdf1bb271635bc0f5dfcfb94d80f244b412770aaedcbc10"
+  },
+  "fabric-1.20.4-1.9.2": {
+    "versionId": "HAxJuN8z",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-03T12:12:01.988422Z",
+    "filename": "audioplayer-fabric-1.20.4-1.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/HAxJuN8z/audioplayer-fabric-1.20.4-1.9.2.jar",
+    "sha512": "fc452e8d48badebdeb02ad96b8e29d3397d4245d44f92554dd60766b6153c4addf34c15946e80e20374bf892314cca5ac2b80b1880eadccc840b10259eeec87d"
+  },
+  "fabric-1.20.5-1.9.1": {
+    "versionId": "ilBaou4o",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-23T15:18:48.161384Z",
+    "filename": "audioplayer-fabric-1.20.5-1.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ilBaou4o/audioplayer-fabric-1.20.5-1.9.1.jar",
+    "sha512": "9d336c1db26b2f79d8b89fd3b7b25de8c0b631b0da0496aa8ca53646b733c14572326ee8f7430286c7bd25148cdcda04f75035b939b2056cd2cf2c83377de775"
+  },
+  "fabric-1.20.6-1.10.0": {
+    "versionId": "JivX9DVU",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-05T12:26:11.809413Z",
+    "filename": "audioplayer-fabric-1.20.6-1.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/JivX9DVU/audioplayer-fabric-1.20.6-1.10.0.jar",
+    "sha512": "d532b09b410e7eee49e07d5bd3d1a36ba80a80a51164880fd1a26d5986120830cb0d6ed539a5f1db4de368834d28cfa572081a89a8f00862d1023fe5d0b32381"
+  },
+  "fabric-1.20.6-1.10.1": {
+    "versionId": "NGfQ1mH3",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-28T14:41:50.802913Z",
+    "filename": "audioplayer-fabric-1.20.6-1.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/NGfQ1mH3/audioplayer-fabric-1.20.6-1.10.1.jar",
+    "sha512": "d7ee55b381a7a8fcc1fb67a16e8d6365bb30765848c9422cb201f272f3f0a845f64f5631094c2656f4ab74b433f6c996407742b97092857b2f17b16ae0049559"
+  },
+  "fabric-1.20.6-1.10.2": {
+    "versionId": "iWsbHrwJ",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-08T16:20:49.848887Z",
+    "filename": "audioplayer-fabric-1.20.6-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/iWsbHrwJ/audioplayer-fabric-1.20.6-1.10.2.jar",
+    "sha512": "df83735cd089018499160d397e46bb4e07506eef1fdb7c741d331f43b2d0c397b0073c421c34c8d2d88e1e6051ac36e9d17ee24d9f60525455249e84da082596"
+  },
+  "fabric-1.20.6-1.9.1": {
+    "versionId": "dNM9Ps0Z",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-29T16:45:57.414270Z",
+    "filename": "audioplayer-fabric-1.20.6-1.9.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/dNM9Ps0Z/audioplayer-fabric-1.20.6-1.9.1.jar",
+    "sha512": "bd2b843d931410c8e0bb3b1d5eddf6c79b3d7f69d40f838f644859bf790cd532669e41cccda6deaca442e27483a37499aabf393a9ebefdc57b0c919f1d5dcb77"
+  },
+  "fabric-1.20.6-1.9.2": {
+    "versionId": "OwGxcHnL",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-03T12:13:37.412815Z",
+    "filename": "audioplayer-fabric-1.20.6-1.9.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/OwGxcHnL/audioplayer-fabric-1.20.6-1.9.2.jar",
+    "sha512": "c655df4a010216ceca6d2e533d37cb194508d00a9f13864480f4894b359c9622e2a78fbf88a1a483b0591da2806fecd48866ea13e1a5658b20a1d8f94122bdbf"
+  },
+  "fabric-1.20.6-1.9.3": {
+    "versionId": "bzuJfql3",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-05-03T12:36:50.418152Z",
+    "filename": "audioplayer-fabric-1.20.6-1.9.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/bzuJfql3/audioplayer-fabric-1.20.6-1.9.3.jar",
+    "sha512": "f86da5d2f92f6cebb3ab9da7ca77ac3651298e9d6593f7a6920d3685d0ec382b9c4faf74c29793d829780801f5b9eb446d56e368d594521ca10f5caaa5b7ac91"
+  },
+  "fabric-1.21-1.10.2": {
+    "versionId": "1ml6cwS0",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-13T15:38:03.596137Z",
+    "filename": "audioplayer-fabric-1.21-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/1ml6cwS0/audioplayer-fabric-1.21-1.10.2.jar",
+    "sha512": "952c6ff4c0fe6236767a6db93bd128927ad5b9268c30a427e3344b5c9c422eee0995717665e5a9d057223c565d046fbb13c89dc73eba80e1b62f3058dfd0a92e"
+  },
+  "fabric-1.21.1-1.10.2": {
+    "versionId": "USkw8wQQ",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-08T16:08:12.710737Z",
+    "filename": "audioplayer-fabric-1.21.1-1.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/USkw8wQQ/audioplayer-fabric-1.21.1-1.10.2.jar",
+    "sha512": "1aa505e061384837459dc472807a275982770f215e18ca4ec43c40980c0956f74f3d6426b5798035c73224f084cbe894a1311f864f01e00d6f8165dd0307f40d"
+  },
+  "fabric-1.21.1-1.10.3": {
+    "versionId": "j4Ln78VF",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-09T11:38:20.236654Z",
+    "filename": "audioplayer-fabric-1.21.1-1.10.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/j4Ln78VF/audioplayer-fabric-1.21.1-1.10.3.jar",
+    "sha512": "74542c232e9926732d2e295fcb2e3524d2f777d85319bc6369259510a0c95ba6a328f2310b6c054af9ff4f9b82a6e85ecf0971aa1301643e673044a2b165dc3a"
+  },
+  "fabric-1.21.1-1.11.0": {
+    "versionId": "sj20Kdbr",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-27T14:45:20.767634Z",
+    "filename": "audioplayer-fabric-1.21.1-1.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/sj20Kdbr/audioplayer-fabric-1.21.1-1.11.0.jar",
+    "sha512": "75d88d82c5bdd9d36b70d8da45297d9391770e4cb75ac01fba21fdb50a0e2789c9c96e437e528e9a7090d8f9554e6ef04df4062e46bbc90f6959f13e15982ca3"
+  },
+  "fabric-1.21.1-1.12.0": {
+    "versionId": "feUw7ncq",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-08T11:13:24.652144Z",
+    "filename": "audioplayer-fabric-1.21.1-1.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/feUw7ncq/audioplayer-fabric-1.21.1-1.12.0.jar",
+    "sha512": "35cc26c059459d3f7523fd22877e22435d88b7fc8c5d1afec195609f14a2d1733ac582b3ebe9de89798a1bab9415e82d0705b4cf88be5bf3389faa5db0b93117"
+  },
+  "fabric-1.21.1-1.12.1": {
+    "versionId": "GSzrlWyD",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-20T17:30:41.660955Z",
+    "filename": "audioplayer-fabric-1.21.1-1.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/GSzrlWyD/audioplayer-fabric-1.21.1-1.12.1.jar",
+    "sha512": "6047a5b997cabe8d599bae699dbe0cc12119de5e437008e166b6d0ac6e32c0dc4d8956550b22a70198049bac3f6d4a4e6f9f94947d3841df066dab1a24d5d0cd"
+  },
+  "fabric-1.21.1-1.13.0": {
+    "versionId": "HRkzrgMC",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-24T17:00:22.596029Z",
+    "filename": "audioplayer-fabric-1.21.1-1.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/HRkzrgMC/audioplayer-fabric-1.21.1-1.13.0.jar",
+    "sha512": "3af777f5be5124a858db817f778f26b8c24ae9ce301539f416b2688d30a9bf6113ec677eddfebe5c2f87663c3a2978bd7f0a746adfef0c86fa57218a67c7305f"
+  },
+  "fabric-1.21.1-1.13.1": {
+    "versionId": "DSyTFnau",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-20T21:07:54.698231Z",
+    "filename": "audioplayer-fabric-1.21.1-1.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/DSyTFnau/audioplayer-fabric-1.21.1-1.13.1.jar",
+    "sha512": "4b9c86117123f3721f4bc5daa272a5fae6e0a91e12056d9cc624280b0a45d379974762a4999ed526f1d4bd80dccaab113a1add87b783ab0fe3610e67f2a38ce9"
+  },
+  "fabric-1.21.1-1.13.2": {
+    "versionId": "7SlDRxwD",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-01-02T22:23:04.389776Z",
+    "filename": "audioplayer-fabric-1.21.1-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/7SlDRxwD/audioplayer-fabric-1.21.1-1.13.2.jar",
+    "sha512": "a494196f05b52ec7544108ea08df89b5775a029f95e8d395958dc3d192e90ca7574675db697505204df383edd3ac0dbd10fba33dfb99df190e19b3794255ae07"
+  },
+  "fabric-1.21.2-1.12.1": {
+    "versionId": "bPENebcJ",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-22T15:47:47.808287Z",
+    "filename": "audioplayer-fabric-1.21.2-1.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/bPENebcJ/audioplayer-fabric-1.21.2-1.12.1.jar",
+    "sha512": "8520877285619a3e9735ba621e798ebc5c2bd116d7abf6b4a26f8bec7956d62619636709414f871bd5cda194bb8a2cb59818afe327cd0c732a3b6716fc4e397b"
+  },
+  "fabric-1.21.2-1.12.2": {
+    "versionId": "HaxA7Tye",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-22T20:55:54.820901Z",
+    "filename": "audioplayer-fabric-1.21.2-1.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/HaxA7Tye/audioplayer-fabric-1.21.2-1.12.2.jar",
+    "sha512": "dddf8685974ebc21a46aec0016b2a2d01478064f495fb0564edd77e724ad08e3b1813fcdafb7f499ee7cf6327f5881954e5f0027591d6ad74dea6af3c67ff14d"
+  },
+  "fabric-1.21.3-1.12.2": {
+    "versionId": "kxpkRdpO",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-23T16:42:20.559248Z",
+    "filename": "audioplayer-fabric-1.21.3-1.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/kxpkRdpO/audioplayer-fabric-1.21.3-1.12.2.jar",
+    "sha512": "385e50b494f0492db1da9aef92e0d8ce15ad5b061f01cf395c1c042cab2e0db7fcaf69aba867e91d87a49039485f26a297f65782a300d114d03a5e795932d86c"
+  },
+  "fabric-1.21.3-1.13.0": {
+    "versionId": "hiD9a0hF",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-10-24T17:00:54.124340Z",
+    "filename": "audioplayer-fabric-1.21.3-1.13.0.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/hiD9a0hF/audioplayer-fabric-1.21.3-1.13.0.jar",
+    "sha512": "186ab7ff33d1fc37617f67327e1be106c5dfdff311ef39c2eb9c6146e675b08d4b174472c2f3fde26f7bb0f33727d47c6d3e716ed53c5cc12efcf44bbe329a41"
+  },
+  "fabric-1.21.3-1.13.1": {
+    "versionId": "8Facm7PS",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-20T21:08:25.526672Z",
+    "filename": "audioplayer-fabric-1.21.3-1.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/8Facm7PS/audioplayer-fabric-1.21.3-1.13.1.jar",
+    "sha512": "fedece0794f7a912d1bb680f00f8c3e24e40ae4e1001d905f70334adc05bddc934b3b600f9b132993b8a2791aded9e2f228bff344eb7f4435930107b0b924f6c"
+  },
+  "fabric-1.21.4-1.13.1": {
+    "versionId": "we6TNJhS",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-12-03T16:40:00.244654Z",
+    "filename": "audioplayer-fabric-1.21.4-1.13.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/we6TNJhS/audioplayer-fabric-1.21.4-1.13.1.jar",
+    "sha512": "bad5024dc7688941e1e27ea35ac5e498120d1eb4c8f45895ea3d771bb634af2c2e9cc37acfb89940cf1c8f9b09e6e926fe493859b5909174d49a1b74f3f23cd7"
+  },
+  "fabric-1.21.4-1.13.2": {
+    "versionId": "377C94c4",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-01-02T22:23:39.744780Z",
+    "filename": "audioplayer-fabric-1.21.4-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/377C94c4/audioplayer-fabric-1.21.4-1.13.2.jar",
+    "sha512": "32ebe138c6a842a4dd994178753be43c8b4e8358bcf4bca2ba35eef684b8a834a4b3f83cbfa0c690a47798e64bf37c11ae0bfaf714052ee41a21d2f280c69b34"
+  },
+  "fabric-1.21.5-1.13.2": {
+    "versionId": "gJYpGwtr",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-03-25T17:01:43.851081Z",
+    "filename": "audioplayer-fabric-1.21.5-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/gJYpGwtr/audioplayer-fabric-1.21.5-1.13.2.jar",
+    "sha512": "ad93bcb3763126a7cb49e2c81030407508b78dd3167cbbbd6a83f1b7ae774a6f6f3be97ed2b421d59ca2837dd7a9c19689aa9961b6fce9575b1bfd8345fd911a"
+  },
+  "fabric-1.21.6-1.13.2": {
+    "versionId": "SjXhQiPH",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-06-17T19:02:28.873076Z",
+    "filename": "audioplayer-fabric-1.21.6-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/SjXhQiPH/audioplayer-fabric-1.21.6-1.13.2.jar",
+    "sha512": "be6f6571a76b7520f0894766b96b371a1a6c621a2fc23ae8d8132c67892c9e527a8da4cd8c675acf7dceb25b7d1ba2971e586119bfb8729a782f26cb7bce7498"
+  },
+  "fabric-1.21.7-1.13.2": {
+    "versionId": "1cNRNynB",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-06-30T14:45:07.416051Z",
+    "filename": "audioplayer-fabric-1.21.7-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/1cNRNynB/audioplayer-fabric-1.21.7-1.13.2.jar",
+    "sha512": "555ad4b922883fad02b3c34d7151512169dd0c8bf2a3e119b452bb5b403447df2b11dd8de90956afdbc0ca611c900c5f81b54bff03a1a02c1a71b403609d270b"
+  },
+  "fabric-1.21.8-1.13.2": {
+    "versionId": "iSKldPrA",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-17T14:48:29.524793Z",
+    "filename": "audioplayer-fabric-1.21.8-1.13.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/iSKldPrA/audioplayer-fabric-1.21.8-1.13.2.jar",
+    "sha512": "a4a3523f30888a57ac71bc8b4a3299e14ecfc1ace77808c5c22df8208bda542720b973c7dea81ce16bcf2266dae9258175b0582e77676cedd1896cdfd392645c"
+  },
+  "fabric-2.0.0+1.21.9": {
+    "versionId": "jydNO5QR",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-09-30T15:27:41.613841Z",
+    "filename": "audioplayer-fabric-2.0.0+1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/jydNO5QR/audioplayer-fabric-2.0.0%2B1.21.9.jar",
+    "sha512": "90bd28a9ed4d6f4d0aa1ac9fd12833ef59ef69a291acef6042b57603bdf17bfcb38ccdd0556ab5199ced7ba8367eda2cefcf90415674eac0cdad77294dd9ad50"
+  },
+  "fabric-2.0.1+1.21.9": {
+    "versionId": "gHqPNYEH",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-07T12:23:52.408756Z",
+    "filename": "audioplayer-fabric-2.0.1+1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/gHqPNYEH/audioplayer-fabric-2.0.1%2B1.21.9.jar",
+    "sha512": "751e2cb17b76df19c709edd912da82b3a339c59ca51d58a082f8a77798da1380a414d11b0fd524771e6798d269d6ec9d1b6964807aaaa49f9ba765bd347bf5ec"
+  },
+  "fabric-2.0.10+1.21.11": {
+    "versionId": "J0LiTi6e",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-12-10T11:32:29.890406Z",
+    "filename": "audioplayer-fabric-2.0.10+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/J0LiTi6e/audioplayer-fabric-2.0.10%2B1.21.11.jar",
+    "sha512": "4e4e5a87e6720e4bf20ed20c08b66674c40c35b8f8cdc3f33f9ef206d18ad290439ef3d6d685b7a0b0b3156a5138f2d48d1a413a9d9029f756a41067832e5e2b"
+  },
+  "fabric-2.0.2+1.21.10": {
+    "versionId": "y8XpABBi",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-07T14:21:38.340933Z",
+    "filename": "audioplayer-fabric-2.0.2+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/y8XpABBi/audioplayer-fabric-2.0.2%2B1.21.10.jar",
+    "sha512": "5465f518e1708b4efbb028debcd05218d9332e56d54657adc650d874585c124542fd0464adeada6330f29f98f657ecc04466c2f447b640731537ccae50199f01"
+  },
+  "fabric-2.0.3+1.21.10": {
+    "versionId": "Y22V4XOC",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-08T14:38:16.653734Z",
+    "filename": "audioplayer-fabric-2.0.3+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/Y22V4XOC/audioplayer-fabric-2.0.3%2B1.21.10.jar",
+    "sha512": "4e3e243289d5e40a22c2e50b99c4ef797d84b1236ccc9b82b4e0653c3ced6d89902f3999ca2bff5ff83b1d4c83d2bc022c4647603d21ddb77012bf4eeada076d"
+  },
+  "fabric-2.0.4+1.21.10": {
+    "versionId": "lr4WB1az",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-11T10:16:52.743122Z",
+    "filename": "audioplayer-fabric-2.0.4+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/lr4WB1az/audioplayer-fabric-2.0.4%2B1.21.10.jar",
+    "sha512": "88ee5967043f4bde969b046813f970330ccba7e407b7a1eaa0e63210dfa433e68b799fc4db4293593cbf3bf206250e1a44cfc0d3f3f36dcd5312e01d3e22f6be"
+  },
+  "fabric-2.0.5+1.21.10": {
+    "versionId": "YTCMsVNR",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-14T15:14:29.194062Z",
+    "filename": "audioplayer-fabric-2.0.5+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/YTCMsVNR/audioplayer-fabric-2.0.5%2B1.21.10.jar",
+    "sha512": "fb169f2bc7488d1943efda42600d04ffc9d01c80f9622b7e52375bad93a54e12f1d2f950cc6c444538e0b8b0176528d253c51c1bd6b5c15400ed29d12fee4973"
+  },
+  "fabric-2.0.6+1.21.10": {
+    "versionId": "e2U6jlos",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-30T16:51:07.389173Z",
+    "filename": "audioplayer-fabric-2.0.6+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/e2U6jlos/audioplayer-fabric-2.0.6%2B1.21.10.jar",
+    "sha512": "e5e646849b67272dffda724db94be0856e193ad6bd37d7af0368ed17ec5ada31ec82530253f13354139716b09186c7e84f53648a4dc9efb133f66b339f0384b6"
+  },
+  "fabric-2.0.7+1.21.10": {
+    "versionId": "h9hbHF6j",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-10-30T19:36:58.144276Z",
+    "filename": "audioplayer-fabric-2.0.7+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/h9hbHF6j/audioplayer-fabric-2.0.7%2B1.21.10.jar",
+    "sha512": "eff17306d2ebf7ffc35bbca405ff49e25052aeaee829de3bea122979a47a1e4b26aa4fb8c8f2030f62008f5fd2e0a52c537c8edf733e9d40c6c19d088fca05ff"
+  },
+  "fabric-2.0.8+1.21.10": {
+    "versionId": "TzIW82aR",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-11-09T17:58:02.760135Z",
+    "filename": "audioplayer-fabric-2.0.8+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/TzIW82aR/audioplayer-fabric-2.0.8%2B1.21.10.jar",
+    "sha512": "117563038ae87f23ab12ea522a5ee7a032e8e256a8a5e0f94e02839e4ea4e3781a21742c38c520a0376ee176471c83107b756be0cb54cd271bceaad15a1cfa0b"
+  },
+  "fabric-2.0.9+1.21.10": {
+    "versionId": "cD1eR1si",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-12-02T18:06:26.647292Z",
+    "filename": "audioplayer-fabric-2.0.9+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/cD1eR1si/audioplayer-fabric-2.0.9%2B1.21.10.jar",
+    "sha512": "7cd274d77cf465b0f897b11948614fd1d93054e0d5bfdf92abb062d8cb0bcfd31f2af1b6fbd7e274919db8b1f179f4f5a7e2ff44910a7dc37d8506132092d1bd"
+  },
+  "fabric-2.0.9+1.21.11": {
+    "versionId": "c2QbXkNj",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2025-12-09T16:30:26.100633Z",
+    "filename": "audioplayer-fabric-2.0.9+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/c2QbXkNj/audioplayer-fabric-2.0.9%2B1.21.11.jar",
+    "sha512": "f3426d50e304a2e312f98b93d171953470e8c1ac8ddad55bb671340319a8dda3029a83d4f1cc4283f72ec1792ee66b35552a6d207a022bb7f74f8df99cd61d95"
+  },
+  "fabric-2.1.0+1.21.10": {
+    "versionId": "x7zCnstm",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-01-03T20:04:33.983297Z",
+    "filename": "audioplayer-fabric-2.1.0+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/x7zCnstm/audioplayer-fabric-2.1.0%2B1.21.10.jar",
+    "sha512": "3721a33ce763ee6837f1c32e663ef7f93b8c54f1fe07f3e43aeffe6fe487f3881c1bff32c5dcfdda45799f1ea13fc6b4012c053b3cdb672308283bdd4f83aba0"
+  },
+  "fabric-2.1.0+1.21.11": {
+    "versionId": "cxRGd2KF",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-01-03T20:05:13.703944Z",
+    "filename": "audioplayer-fabric-2.1.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/cxRGd2KF/audioplayer-fabric-2.1.0%2B1.21.11.jar",
+    "sha512": "81a1c432e51812e5ff7a2f3ea8030191d1f53ae4a3d42ab647358f52327e890c6d22b779c1ec02c5e92a3e438851d26aa6709dbb44af2d05fdd7c7d34e2f1dd4"
+  },
+  "fabric-2.1.1+26.1": {
+    "versionId": "DpRWl6UL",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-03-24T16:16:57.692535Z",
+    "filename": "audioplayer-fabric-2.1.1+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/DpRWl6UL/audioplayer-fabric-2.1.1%2B26.1.jar",
+    "sha512": "6019af153b421b0584ce2c3efbaf28e684d3fd8d89aed154f62a69829d443ded763310cacfe4f6e0c2bb87ccd855db01f461d881fbdd6f21e9d130772bbda4a6"
+  },
+  "fabric-2.2.0+1.21.10": {
+    "versionId": "16QVCO5B",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-04-02T08:36:32.297520Z",
+    "filename": "audioplayer-fabric-2.2.0+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/16QVCO5B/audioplayer-fabric-2.2.0%2B1.21.10.jar",
+    "sha512": "2230b1239e4bd1fb5de951a85aef7e7e73926bbc10d488af2ded7df752d6ef0d5bd4235b612e222e171b512567f3aeb36957d0d4d1826c502e3103c7031560b3"
+  },
+  "fabric-2.2.0+1.21.11": {
+    "versionId": "7ZlqajxU",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-04-02T08:37:44.969323Z",
+    "filename": "audioplayer-fabric-2.2.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/7ZlqajxU/audioplayer-fabric-2.2.0%2B1.21.11.jar",
+    "sha512": "fdec58048c478e83a41026d854cd271ac188b48a42d4268863586134ad2511be19cbc6da568eb894250a6f189c75cf1ac75d0e6f82cc960abc85ace6905f9d35"
+  },
+  "fabric-2.2.0+26.1.1": {
+    "versionId": "OcGZ6w5N",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-04-02T08:39:30.567683Z",
+    "filename": "audioplayer-fabric-2.2.0+26.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/OcGZ6w5N/audioplayer-fabric-2.2.0%2B26.1.1.jar",
+    "sha512": "74a838b347abadd1071edb8974548f1e19fe0fce349d4e8c55989fdc456ba2717c01bd780743f2447ecd4c1fb2fffdb1d51bf14232c13725695cf4082aec4716"
+  },
+  "fabric-2.2.0+26.1.2": {
+    "versionId": "UVK6lzoH",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-04-10T12:04:18.346313Z",
+    "filename": "audioplayer-fabric-2.2.0+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/UVK6lzoH/audioplayer-fabric-2.2.0%2B26.1.2.jar",
+    "sha512": "0bdc3e772038ce49f7a3a77ec465d505090a0e3bdec43f65fd1e88235f07ba61aab50fdbd3121298c2340424407bf0cc62271f556cedff2fa18431985584c6fe"
+  },
+  "fabric-2.2.1+1.21.10": {
+    "versionId": "uPoYmW9g",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-14T18:37:00.485932Z",
+    "filename": "audioplayer-fabric-2.2.1+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/uPoYmW9g/audioplayer-fabric-2.2.1%2B1.21.10.jar",
+    "sha512": "ff606bf3e34d2cd4d03083022df47fe99b86e22cb77fcf79885b9f561404168fcb2ffc704a0f10a6217c8848978847bdfe3dc1f2e57d3fd2cb66c4537ad3d473"
+  },
+  "fabric-2.2.1+1.21.11": {
+    "versionId": "T3MNIyE2",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-14T18:37:46.890002Z",
+    "filename": "audioplayer-fabric-2.2.1+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/T3MNIyE2/audioplayer-fabric-2.2.1%2B1.21.11.jar",
+    "sha512": "15baad83b4c770c87cdfcaadb44ad62740f81bb2a7b32fbba489d390f33608982e95ad2c331cf1b8465101f8dda7b0886a00a3d20db7179870cf8ac31c07d9cc"
+  },
+  "fabric-2.2.1+26.1.2": {
+    "versionId": "WJG4dBDJ",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-14T18:38:35.656886Z",
+    "filename": "audioplayer-fabric-2.2.1+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/WJG4dBDJ/audioplayer-fabric-2.2.1%2B26.1.2.jar",
+    "sha512": "de2ec0d5b1c37a2540d9b3386f71521a7960497b595012a45360fb654f834654bdcd86b1b2523b303ffc1541bbf867a3f8ff19ef7c27c481d2efb183a6739dab"
+  },
+  "fabric-2.2.1+26.2": {
+    "versionId": "sCarPr7x",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-16T15:27:10.256046Z",
+    "filename": "audioplayer-fabric-2.2.1+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/sCarPr7x/audioplayer-fabric-2.2.1%2B26.2.jar",
+    "sha512": "e81291dd90d5d95591d22214225aeb6f17a2f91e2969cd962d67b5f9f42ba69919c17c4e2aac8e6c4c237d6cd9fe4c4a4c0d828ad834912d1b1b9aa22f5fc4ad"
+  },
+  "fabric-2.3.0+1.21.10": {
+    "versionId": "wSvxd5II",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T16:27:25.686419Z",
+    "filename": "audioplayer-fabric-2.3.0+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/wSvxd5II/audioplayer-fabric-2.3.0%2B1.21.10.jar",
+    "sha512": "60e3c3efa068ab8c25d1673ede47705b1f290437458b83398daeb3118c01b8e248a5e781c4fe47793b42964774b9277b65b5114fcf6f5311e1538188b7b33b01"
+  },
+  "fabric-2.3.0+1.21.11": {
+    "versionId": "42vONW2u",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T16:28:25.376854Z",
+    "filename": "audioplayer-fabric-2.3.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/42vONW2u/audioplayer-fabric-2.3.0%2B1.21.11.jar",
+    "sha512": "461ab83e854b9b375b2da7fdf901a2256b364816f0d778b8fb30beb611d625eb47b7bb712829080ca9844dab9030c8a6599f0e17589472465fad974121e45ef9"
+  },
+  "fabric-2.3.0+26.1.2": {
+    "versionId": "B16e2Sw8",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T16:29:29.314965Z",
+    "filename": "audioplayer-fabric-2.3.0+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/B16e2Sw8/audioplayer-fabric-2.3.0%2B26.1.2.jar",
+    "sha512": "35c2eba6bcf76e9c82efe641f499861b176570d88c4ef60eb80a577eb8c6d3b123cf0bd12dfbeb9898dea0103beb06d52797d17deee70a327ec8b3b06dc63c67"
+  },
+  "fabric-2.3.0+26.2": {
+    "versionId": "wq8kEcV7",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T16:30:47.083642Z",
+    "filename": "audioplayer-fabric-2.3.0+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/wq8kEcV7/audioplayer-fabric-2.3.0%2B26.2.jar",
+    "sha512": "a11df05614a7f5ef4aaba2c6309f2f506e7abbf94ff0be98bb48e5935d07b196e6bbd7b808237178099607b474d79740fa5b02c86464dca7c1b9bec7fc8cdd38"
+  },
+  "fabric-2.4.0+1.21.10": {
+    "versionId": "IEt5o8BM",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-07-16T17:21:20.886301Z",
+    "filename": "audioplayer-fabric-2.4.0+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/IEt5o8BM/audioplayer-fabric-2.4.0%2B1.21.10.jar",
+    "sha512": "9116fc568de3cbec1ae6015f918311b7d7ff9083da66f2d78e8918f822bd6c965415153b164719ba3cfb807a62b26d270926ffe0e470467620fb1b39f89e2683"
+  },
+  "fabric-2.4.0+1.21.11": {
+    "versionId": "QDto44wD",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-07-16T17:23:28.855782Z",
+    "filename": "audioplayer-fabric-2.4.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/QDto44wD/audioplayer-fabric-2.4.0%2B1.21.11.jar",
+    "sha512": "01437170a6d6ff11fcb5faef3bd7e1af1951af676b21161169cfbcc4a178382f2b0e7aa18752fee763cbeb6107f63ba57df8b06725412c3a2c80bee9a2e29ae1"
+  },
+  "fabric-2.4.0+26.1.2": {
+    "versionId": "h2tFLqun",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-07-16T17:24:41.103770Z",
+    "filename": "audioplayer-fabric-2.4.0+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/h2tFLqun/audioplayer-fabric-2.4.0%2B26.1.2.jar",
+    "sha512": "a8b5f9640334ce415911465e52d445eeb27abd0bb9018262d89f66b97f9728c8a10754b813998d437b2f7ff1b00b9d638f5ba7669d6868297820d12db71f4f60"
+  },
+  "fabric-2.4.0+26.2": {
+    "versionId": "Nod7ADZm",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-07-16T17:25:45.701373Z",
+    "filename": "audioplayer-fabric-2.4.0+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/Nod7ADZm/audioplayer-fabric-2.4.0%2B26.2.jar",
+    "sha512": "55d2982716a969eeba759b295287b69af23ad5c8cce03e65f98b0069ea8930e311e487822d30f7c414ef617562353236924734966473c1f7b6834578b3c58722"
+  }
+}

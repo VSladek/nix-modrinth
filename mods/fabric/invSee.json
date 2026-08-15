@@ -1,0 +1,289 @@
+{
+  "1.4.0": {
+    "versionId": "2wrS5pLX",
+    "gameVersions": [
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-10T16:53:33.198289Z",
+    "filename": "InvView-1.4.0-1.16.4+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.0/InvView-1.4.0-1.16.4%2B.jar",
+    "sha512": "b148e300fed1ce6c47fdc08daeef3435f084f88f7b12d9222796ddf8dad2e771c7303ff32f7011489d338224b5f26e903bc4d4fbc78000c7782ed88524527bbc"
+  },
+  "1.4.1": {
+    "versionId": "r4H4qQY6",
+    "gameVersions": [
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-02-20T22:48:55.160072Z",
+    "filename": "InvView-1.4.1-1.16.4+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4/InvView-1.4.1-1.16.4%2B.jar",
+    "sha512": "e72ce4cc82dc080c9afb31497aac19c4ba8a5f65c7ed770215e5738ada0c92f608821de8b71a43ea65467f5edbc5d4a84320c39b04bff43ac13c0b07a5ba4efa"
+  },
+  "1.4.10": {
+    "versionId": "rv8bhw5X",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-20T00:57:05.499356Z",
+    "filename": "InvView-1.4.10-1.19.3+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/rv8bhw5X/InvView-1.4.10-1.19.3%2B.jar",
+    "sha512": "7a57163ed07e5ff8443795bc369dad87fe96f2df90764dda6064d20b3181168ef561178bf8bb5f9aefe4e1d1fcabb8f7d802097f36e97005d0728c3e56c3d3f5"
+  },
+  "1.4.11": {
+    "versionId": "ZfaNA30D",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-12T01:03:41.467166Z",
+    "filename": "InvView-1.4.11-1.20+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/ZfaNA30D/InvView-1.4.11-1.20%2B.jar",
+    "sha512": "8da1b6f407ac2f642af983b8b14dbbd422bf7b82ca4ab55f098645a716c1630a8222c825f76e6a7c08cab7119255fe66c87a53ccfffc572bf3c791a359b17a7f"
+  },
+  "1.4.12": {
+    "versionId": "mQnjqDOd",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-08-31T19:32:51.146645Z",
+    "filename": "InvView-1.4.12-1.20+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/mQnjqDOd/InvView-1.4.12-1.20%2B.jar",
+    "sha512": "3c7c4297ad424e32078da283ee02e3c3788dad5a71a9de9806ff5e9ca26ff8abe54dac6002f0f5387b1cfe01440679e99965449e82a9bd755d689f04e996e7e6"
+  },
+  "1.4.13": {
+    "versionId": "4oVGNHuZ",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-09T23:12:38.307245Z",
+    "filename": "InvView-1.4.13-1.20.2+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/4oVGNHuZ/InvView-1.4.13-1.20.2%2B.jar",
+    "sha512": "f5420b63b283ab6a7cb848e4756c60f6e4cdc682cacb263a8106248e077a093175414ca01db3680ea788593ce7d176b9e4282a9ac91e98263a0f893a27c8d8e5"
+  },
+  "1.4.14": {
+    "versionId": "nVacs1Yr",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-21T00:08:42.800968Z",
+    "filename": "InvView-1.4.14-1.20.4+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/nVacs1Yr/InvView-1.4.14-1.20.4%2B.jar",
+    "sha512": "8313bf4c1b34d2d62547f1e0e478cbf44244278d0d22ed1f6861507d2a780faef72ce5a3762330830f39336cac3794f9be43031e6d9b84e10bb73f1037cf4adf"
+  },
+  "1.4.15": {
+    "versionId": "LNGVFn7g",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-27T19:56:39.205551Z",
+    "filename": "InvView-1.4.15-1.20.5+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/LNGVFn7g/InvView-1.4.15-1.20.5%2B.jar",
+    "sha512": "48c2c19f13d09e0859583becf6eb2a9cbd03b85f1cd5dc44288687219d4fa3a11dbd14bfcd9ba5e8035a7ff541170c90489005b29aaa22e6c21a5ec62a761165"
+  },
+  "1.4.16": {
+    "versionId": "VD8wa5Wp",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-01T21:48:19.278725Z",
+    "filename": "InvView-1.4.16-1.21.5+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/VD8wa5Wp/InvView-1.4.16-1.21.5%2B.jar",
+    "sha512": "5d4b9f7625839f5648a25264cf137f3776a8e875124a31a95a3663c1fbd37fb5c627e8b3280ade44d86bf86145f6ce317222d52bdae91321136f4faa921b9516"
+  },
+  "1.4.17": {
+    "versionId": "dOWMOPHz",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-29T15:59:55.378375Z",
+    "filename": "InvView-1.4.17-1.21.6+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/dOWMOPHz/InvView-1.4.17-1.21.6%2B.jar",
+    "sha512": "48cc0beb73b8cf3c375b91e43dc7df5e3a071d21d9a043c30dcd486cac6094a5fe2868d01dd53d1db117f7cfba3d0a10f3af242bca3ff1202789596c4cef4e46"
+  },
+  "1.4.18": {
+    "versionId": "OmPLoAVf",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-10T00:23:40.014956Z",
+    "filename": "InvView-1.4.18-1.21.9+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/OmPLoAVf/InvView-1.4.18-1.21.9%2B.jar",
+    "sha512": "96ec498d63eee1b41ea06733f31947831278ad7e6b4261a001eb2cb84167575e78990067a83e5ecfdf96e823ba21e8b63a436e73ee39e49eda444583163ce936"
+  },
+  "1.4.19": {
+    "versionId": "r95mrAaQ",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-17T22:17:18.080575Z",
+    "filename": "InvView-1.4.19-1.21.11+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/r95mrAaQ/InvView-1.4.19-1.21.11%2B.jar",
+    "sha512": "63de563def778f03963061c039073a638e15339b0a23a61a92f8d3d4ddd824439e02f990e907d8b196ba9481b3e57148fc99cf25990d3eb793cc25057feebad9"
+  },
+  "1.4.2": {
+    "versionId": "G4JrlQhI",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-09T03:53:35.703590Z",
+    "filename": "InvView-1.4.2-1.17+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.2/InvView-1.4.2-1.17%2B.jar",
+    "sha512": "c873f52aa633a4aeb70bdd18f4679fcf6e230791b7704a44cfa089e5c4b46c08fcccf3f0d2b7b537ec520c0ffaa70960a78e8208b8550762a757d62c6ce3cc78"
+  },
+  "1.4.20": {
+    "versionId": "fqTW8gQ3",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-31T21:41:42.391941Z",
+    "filename": "InvView-1.4.20-26.1+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/fqTW8gQ3/InvView-1.4.20-26.1%2B.jar",
+    "sha512": "320d89b83a5613f6cb2c168e3981505f1a3542ac221b8d2649d9abb814a19c607d17a9b1b6d37eaaadb84013d9ce0394df105037870b6c0d64b5d27d08f0107b"
+  },
+  "1.4.21": {
+    "versionId": "WL9M9WOP",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-17T04:40:12.202815Z",
+    "filename": "InvView-1.4.21-26.2+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/WL9M9WOP/InvView-1.4.21-26.2%2B.jar",
+    "sha512": "6eec7e7831316f9768b42daa441af83442ec9d30cfe2a963b51d77339805e4c8cdd8283ae758ec73ce4bfbce2a6454c0a6389683e830acb6ff1fb0dcef2534ea"
+  },
+  "1.4.3": {
+    "versionId": "24FxNPZr",
+    "gameVersions": [
+      "1.17",
+      "1.17.1-pre1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-22T14:45:25.428408Z",
+    "filename": "InvView-1.4.3-1.17+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.3/InvView-1.4.3-1.17%2B.jar",
+    "sha512": "e8728f4c2b32429aba18a71c8a84b96ce9f127971f1f801e6b5928fe91920c53aa75711233392eebe65094a17eff6d3815925cbcb923c7ba0861b7fe5c3c21f7"
+  },
+  "1.4.4": {
+    "versionId": "r37tmHvV",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-06T21:48:38.107492Z",
+    "filename": "InvView-1.4.4-1.17.1+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.4/InvView-1.4.4-1.17.1%2B.jar",
+    "sha512": "92c83a555f694edfb5f8c434d5f45e42aa779fda39eb2552d674229f97eab20802977f5a8d3908bae1e386ce858c9509dfe644e1be2dbd7042625acf47ba0c8f"
+  },
+  "1.4.5": {
+    "versionId": "l6sn9A4O",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-11T17:05:44.146376Z",
+    "filename": "InvView-1.4.5-1.17.1+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.5/InvView-1.4.5-1.17.1%2B.jar",
+    "sha512": "1d0749fb1137e5dab2fe113ebc8ae0c7e617abef6be154989bfef9007c07c3b2f9b251ae30dbe29622ed5727b420d1662b030205418d9e0f4428d189d51d3e8b"
+  },
+  "1.4.6": {
+    "versionId": "sZzHxsYl",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-08-12T17:36:50.307422Z",
+    "filename": "InvView-1.4.6-1.17.1+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.6/InvView-1.4.6-1.17.1%2B.jar",
+    "sha512": "34cc5a63a1a82454702915b71e83ad77b7830914c942bc36c4cf280f134e1dfd74cc09ec4bb81fbd9b20d0f01657b2889aad56bd6e22da478567fa31f721b5fd"
+  },
+  "1.4.7": {
+    "versionId": "Re2cPhUd",
+    "gameVersions": [
+      "1.18-rc3",
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-28T00:37:23.918037Z",
+    "filename": "InvView-1.4.7-1.18-rc3+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.7/InvView-1.4.7-1.18-rc3%2B.jar",
+    "sha512": "3131066b7f66f758f6bbc8e0667157b26dd0fef131b5099ed6cfb1682e012e286525f5e11a343cff3747b46b84a5a31279bf32f2d55ba751a348311da4df88a9"
+  },
+  "1.4.8": {
+    "versionId": "I4MXu784",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-12T16:40:47.812927Z",
+    "filename": "InvView-1.4.8-1.18+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.8/InvView-1.4.8-1.18%2B.jar",
+    "sha512": "fa09ad811c40171e17320681943cb29d1a7d6177276cf587987d4c84e8fa808db82d9c88f2819cc0916b0d74da38913aab6915d07904f23b184c8464c0490f1b"
+  },
+  "1.4.9": {
+    "versionId": "98WTbguS",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-14T02:38:09.315517Z",
+    "filename": "InvView-1.4.9-1.19+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/1.4.9/InvView-1.4.9-1.19%2B.jar",
+    "sha512": "033ef17412960f917baa546807bacb622c9ad29c9cc9040969b6b0ef5b91430c4a925a2157776c680687ba07815c13422e1e6b6730f8cfce9ab205c1f571a1d3"
+  },
+  "v1.2.0": {
+    "versionId": "qPmueoIm",
+    "gameVersions": [
+      "1.16.2",
+      "1.16.3",
+      "1.16.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2020-12-04T16:55:09.167568Z",
+    "filename": "InvView-1.2.0-1.16.2+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/v1.2.0/InvView-1.2.0-1.16.2%2B.jar",
+    "sha512": "4a531c359a5197ee011403a181ce01e889299a6c296f3536e2023541165f80f260d4d7e5961e3bf343274d1d9c377c631e84c3b6f9201bbe7a436e68c4d89cd5"
+  },
+  "v1.3.0": {
+    "versionId": "MePTEuts",
+    "gameVersions": [
+      "1.16.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-01-05T18:21:03.513426Z",
+    "filename": "InvView-1.3.0-1.16.4+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/v1.3.0/InvView-1.3.0-1.16.4%2B.jar",
+    "sha512": "33c82303ea5681d5a8dec650891d25a9cc0e2d864479aebd4947ac401935a898b238fb35ddd31c92778cb33433b41e3ffd2efb20f3c5d7567c482615ad7807fa"
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "fabric-0.1.0": {
+    "versionId": "1AcgR5SK",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-21T08:41:15.973787Z",
+    "filename": "badpackets-fabric-0.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.1.0/badpackets-fabric-0.1.0.jar",
+    "sha512": "51719935f3f1f2e5984124217bf1ad9ab12643cfae3b5f81ced9269d35505180d5bb0a1acd7c9b78ccfd796db9f2d472cf4441f4c22433d42414919e76a825de"
+  },
+  "fabric-0.1.1": {
+    "versionId": "1Hbu2VKC",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-24T08:36:51.382835Z",
+    "filename": "badpackets-fabric-0.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.1.1/badpackets-fabric-0.1.1.jar",
+    "sha512": "1e7f35ebeb56fcebcea574d3e6ded247e72c9ccb3ff2602c1ecb07f80e43d98f1451b624094eaf4a8d08e68f3c5a7fe76baacd7e72a126315a0463b887cd3605"
+  },
+  "fabric-0.1.2": {
+    "versionId": "CrA8IgxU",
+    "gameVersions": [
+      "1.18.2",
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-04-30T10:44:21.656059Z",
+    "filename": "badpackets-fabric-0.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.1.2/badpackets-fabric-0.1.2.jar",
+    "sha512": "0081091e3da2b13f9a7e6031b9d072c8368ca99626459b2ca2710835ed8848f746c4e47fbd6653b401bded04e738f8705982dc4eeb1433c33e58f5eb02e5df68"
+  },
+  "fabric-0.1.3": {
+    "versionId": "vH59yR5Z",
+    "gameVersions": [
+      "1.18.2",
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-08T09:16:34.837202Z",
+    "filename": "badpackets-fabric-0.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/vH59yR5Z/badpackets-fabric-0.1.3.jar",
+    "sha512": "4f6d2e96a5944cd3d2e1a16ff69e159b77eb9cb11a8d1977b678742881de0e4d10895cdedc97c259eade94b107f12fcb9392d1562396d24f23a63af1b63fed9e"
+  },
+  "fabric-0.10.0": {
+    "versionId": "w9aYB5gB",
+    "gameVersions": [
+      "1.21.9-pre2"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-21T19:37:44.866394Z",
+    "filename": "badpackets-fabric-0.10.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/w9aYB5gB/badpackets-fabric-0.10.0.jar",
+    "sha512": "1aa953fd9da6b4649274493354efaa9aaf896ac9a777b586296e4c18b65a738f0ba41bb8ee7d7455e6155de011f25bda2e0ff5b29ca095410eae7c14f1503a98"
+  },
+  "fabric-0.10.1": {
+    "versionId": "gDFGpOdZ",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-01T03:43:33.908210Z",
+    "filename": "badpackets-fabric-0.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/gDFGpOdZ/badpackets-fabric-0.10.1.jar",
+    "sha512": "969e7a1ab2fcacce879784cc91760567c419c05469bd855b3845a219b622abeaae186552fb51a294dd9b05ca777bce31f2a3afc99a2cf934ce200e568fc08e73"
+  },
+  "fabric-0.10.2": {
+    "versionId": "bJjBP5HF",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-04T15:48:00.518025Z",
+    "filename": "badpackets-fabric-0.10.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/bJjBP5HF/badpackets-fabric-0.10.2.jar",
+    "sha512": "c286f9a9ef62729f285cc1a38d6d6912c87bd44d0528052c1b1616c53e010a797f41ba879d34a31e50f085dc2f1086407773dbe3591d754179898d4ed109b811"
+  },
+  "fabric-0.11.0": {
+    "versionId": "RKcPJRB1",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-19T16:10:42.389138Z",
+    "filename": "badpackets-fabric-0.11.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/RKcPJRB1/badpackets-fabric-0.11.0.jar",
+    "sha512": "4f4c67767a86a96f08e5d40f263343956c3d61b5efc5235fc1f863f6be99cb24cb7ea8d6142e86214dedd1a6c112302e86c89c7c0199f294a36a6577a7d25777"
+  },
+  "fabric-0.11.1": {
+    "versionId": "HFxWrt8s",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T18:39:03.628111Z",
+    "filename": "badpackets-fabric-0.11.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/HFxWrt8s/badpackets-fabric-0.11.1.jar",
+    "sha512": "f51464b23a24c69522be3ea5bff6ed3eec8675ca3f093c6fc28678cfc261859d0f7915f96313686a31a79f520c7f97d99df0eff5822b330c1891d4b7d58cea73"
+  },
+  "fabric-0.11.2": {
+    "versionId": "SZTlaMHp",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-12T15:16:13.307150Z",
+    "filename": "badpackets-fabric-0.11.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SZTlaMHp/badpackets-fabric-0.11.2.jar",
+    "sha512": "edcdcda86958194f3b822ff8aed2d8e8830b62763d33bd713a8955a6ecbd8280f17de1a9753917538bda029f5ecd77d2254b652e630eb29a9ebba015931746d0"
+  },
+  "fabric-0.12.0": {
+    "versionId": "sCymo7od",
+    "gameVersions": [
+      "26.1-pre-2",
+      "26.1-pre-3",
+      "26.1-rc-1",
+      "26.1-rc-2",
+      "26.1-rc-3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-15T16:27:24.710961Z",
+    "filename": "badpackets-fabric-0.12.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/sCymo7od/badpackets-fabric-0.12.0.jar",
+    "sha512": "34088b3266fe031497125fa04d2d319e753cc745ec82fe6315bb6cec033fcf98ea743111c61063aafcfb090636210e0ac030f27575451f16ffd9ef3ba8dcbb56"
+  },
+  "fabric-0.12.1": {
+    "versionId": "IeccU5cL",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T01:52:59.361891Z",
+    "filename": "badpackets-fabric-0.12.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/IeccU5cL/badpackets-fabric-0.12.1.jar",
+    "sha512": "485e840b373236881188db20b7454c6e428c1a6117dd9d21b06966fc26a682ce83d37e024bf479a1aa557662ffa636cd2ac843f0bc3edd44c88b31c825c1e8e7"
+  },
+  "fabric-0.12.2": {
+    "versionId": "SgNrUT3E",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-05T09:50:34.786289Z",
+    "filename": "badpackets-fabric-0.12.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SgNrUT3E/badpackets-fabric-0.12.2.jar",
+    "sha512": "91ba4b89e2730d1c31ed6eea35605706908441b6097d4e6b7388cfff9d4a0bc8ae99db98926142a376adff6f0c7910b67c014cf90b9859a7754a2a2dc78c5384"
+  },
+  "fabric-0.2.0": {
+    "versionId": "Sbpp5LIv",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-28T09:36:59.497457Z",
+    "filename": "badpackets-fabric-0.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.2.0/badpackets-fabric-0.2.0.jar",
+    "sha512": "affa21aa39bdc0896048f31b6ecadd0442c2f8b518dd258a92891c71dab52b6a0060bde69fa68c3252f09f398b364ef2acd7823cd293f4cf91f94a75d4fa82e9"
+  },
+  "fabric-0.2.1": {
+    "versionId": "AifWRdyF",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-08T09:25:07.651940Z",
+    "filename": "badpackets-fabric-0.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/AifWRdyF/badpackets-fabric-0.2.1.jar",
+    "sha512": "f41e5aa02662c6d4f70084b1c604b806414776a18b90ed31432daa98123504c5bb403fece55b1350d85a91c40673c3cc0ec6497a7f65f5c1c55f7881304d0329"
+  },
+  "fabric-0.2.2": {
+    "versionId": "R4VZLscL",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-03T14:19:15.021517Z",
+    "filename": "badpackets-fabric-0.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/R4VZLscL/badpackets-fabric-0.2.2.jar",
+    "sha512": "b65dea3570493122875e977dfc5b68c9a07033ad389fabefabafadc081f57bdbec35418d3c63eb72d3b7c282856683e5da31fe3fa4cf42f44e045c4292b11505"
+  },
+  "fabric-0.2.3": {
+    "versionId": "7Y5NcPRW",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-06T11:33:36.901309Z",
+    "filename": "badpackets-fabric-0.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/7Y5NcPRW/badpackets-fabric-0.2.3.jar",
+    "sha512": "52c66eaa443efb9b0b6cf8970cb05d5c0622bce2687554735e1697d40938a9dcecfe5ae4fa79677b4eba7809cb759f60bee2073888f3d035b219e4cb2fd09d58"
+  },
+  "fabric-0.3.0": {
+    "versionId": "pNwyuhpf",
+    "gameVersions": [
+      "22w42a"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-23T10:45:23.821327Z",
+    "filename": "badpackets-fabric-0.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/pNwyuhpf/badpackets-fabric-0.3.0.jar",
+    "sha512": "f6e60b58f80c0914511ecb86c1c163c5ed3fe0d18351d8f5c69d94d2950b628c604cff1fce051677c1895c3892b82a29144048cc1c8bfa30620a108f4f5b377e"
+  },
+  "fabric-0.3.1": {
+    "versionId": "79fychO4",
+    "gameVersions": [
+      "22w43a"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-27T07:36:51.049593Z",
+    "filename": "badpackets-fabric-0.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/79fychO4/badpackets-fabric-0.3.1.jar",
+    "sha512": "73e4aed304114b2420c3caebedb62eed40abbfe93bba7ec8fad1f69d69c7782cf57af76845aff6378385236d4e91976736045207e39520a719521da771a23f03"
+  },
+  "fabric-0.3.2": {
+    "versionId": "VFUaifUX",
+    "gameVersions": [
+      "22w43a"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-08T09:34:16.888648Z",
+    "filename": "badpackets-fabric-0.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/VFUaifUX/badpackets-fabric-0.3.2.jar",
+    "sha512": "17b98c273c9986540b7055552761b171286ca1c71cfffd76fa00428c6e453690a076a3dfe39fca10020a510112b3834b01da038d00b5c42870ec8cef2f3a11bd"
+  },
+  "fabric-0.3.3": {
+    "versionId": "tJ3Zo8XL",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-18T13:51:26.125836Z",
+    "filename": "badpackets-fabric-0.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/tJ3Zo8XL/badpackets-fabric-0.3.3.jar",
+    "sha512": "b9a8692531ecf8fdfdc05ce390f8dc1a9e5bacadd1a947652b57310a703effe90929c4854e3f6ca20acdd69c6831fc518fea332858ac591354a0d1a3a8ffce65"
+  },
+  "fabric-0.3.4": {
+    "versionId": "9hA9pLHz",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-11T12:46:01.432915Z",
+    "filename": "badpackets-fabric-0.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/9hA9pLHz/badpackets-fabric-0.3.4.jar",
+    "sha512": "4b395b8924a0b810f9a29eb4669551db5f812951ec33c5fc51e737a14ba2e5019a2bfb775638b118d02277ad58939b1402264c2b886f9455ad6a394e960927c7"
+  },
+  "fabric-0.3.5": {
+    "versionId": "BwFS3gJU",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-03T14:30:23.632699Z",
+    "filename": "badpackets-fabric-0.3.5.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/BwFS3gJU/badpackets-fabric-0.3.5.jar",
+    "sha512": "d4f15ead46eb4812d9f31c0275131741d2a8f69a67458d06a58a2f2374994b42b1bb3682e8b7a15f2a56fd498e90b844e1c09783e9df4ba79f32f8e4af1eeaed"
+  },
+  "fabric-0.3.6": {
+    "versionId": "y3ePCCWU",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-06T11:48:47.317134Z",
+    "filename": "badpackets-fabric-0.3.6.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/y3ePCCWU/badpackets-fabric-0.3.6.jar",
+    "sha512": "23f0f73ea074a2133ef90ceeb19355bf36cb3e80c7fc81d1add79b6c830180c3ff2c423045360a80581301fdfefbe2204862581e45daae38955ef00473db4ffe"
+  },
+  "fabric-0.4.0": {
+    "versionId": "M4Yx6u7G",
+    "gameVersions": [
+      "23w07a"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-19T09:56:25.177819Z",
+    "filename": "badpackets-fabric-0.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/M4Yx6u7G/badpackets-fabric-0.4.0.jar",
+    "sha512": "7307792e5e95f5bc17dbab3475ebcab2b76f309ba1e36b93b4d75a0d92cb17a3f55a4bfb1bc473116941a74cb5bf4c81928545f1596d00e7afe59a93ddf2089e"
+  },
+  "fabric-0.4.1": {
+    "versionId": "ivJ0srK8",
+    "gameVersions": [
+      "1.19.4",
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T16:12:06.371022Z",
+    "filename": "badpackets-fabric-0.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/ivJ0srK8/badpackets-fabric-0.4.1.jar",
+    "sha512": "2501637744bd37aa746bc3a4210d1066b503248f3706db214821525226d95414de3d606314eb83c8b21103390f6d3acde632236d230711935d0b35064bad8760"
+  },
+  "fabric-0.4.2": {
+    "versionId": "BTK3ZWby",
+    "gameVersions": [
+      "1.19.4",
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-03T14:40:28.272168Z",
+    "filename": "badpackets-fabric-0.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/BTK3ZWby/badpackets-fabric-0.4.2.jar",
+    "sha512": "cf70218498c32e1a8ded7703336bcdc7ddfb72c2f0b855cbb1d17a9b8a6c9cb7464487cc67d2312ce3022b677a8dc9c4e6489e515ca66be922546e50862cdf95"
+  },
+  "fabric-0.4.3": {
+    "versionId": "JjLWLyDz",
+    "gameVersions": [
+      "1.19.4",
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-06T12:02:27.693282Z",
+    "filename": "badpackets-fabric-0.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/JjLWLyDz/badpackets-fabric-0.4.3.jar",
+    "sha512": "2375bf680a6bc716808735e4258408212609480c1088c6249c8a6dbb450429e81de02891a4b412fcafe588d3b521e68f33918b8f99bb425e7dc79f212c924b9c"
+  },
+  "fabric-0.5.0": {
+    "versionId": "tlVfTMfA",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-08T09:55:25.890735Z",
+    "filename": "badpackets-fabric-0.5.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/tlVfTMfA/badpackets-fabric-0.5.0.jar",
+    "sha512": "6a0db17e328113b8b6768cdaf2492fcf8cdd21b9d73c2637a9361d03206d4e1ad6ec7eb1172852cb0bc090a074643598d302c2b88a6685a16daf3a82c494c77d"
+  },
+  "fabric-0.5.1": {
+    "versionId": "Bz8FfSYz",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-12T17:31:05.076290Z",
+    "filename": "badpackets-fabric-0.5.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Bz8FfSYz/badpackets-fabric-0.5.1.jar",
+    "sha512": "e8317da23cd16cccb8d4aac9eafefda5c47573723aaa46ab0cbed006ebeb14a385fe48601a53e9edf082eeaafc134ae29ee4c3b2e53a60953c972ae936e9ce44"
+  },
+  "fabric-0.5.2": {
+    "versionId": "vkkhLNyf",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-20T12:17:40.556190Z",
+    "filename": "badpackets-fabric-0.5.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/vkkhLNyf/badpackets-fabric-0.5.2.jar",
+    "sha512": "4faa0e2af8cd71f80dd10db8c5a3b3ea1c18c612b416c6a1b0ffbdc440048aba7695e9c4bf2a7d581ba8001ada57970ecbb4ea37b1f559e2fe62da973e43c43a"
+  },
+  "fabric-0.5.3": {
+    "versionId": "CbkPVEhy",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-20T14:23:16.803814Z",
+    "filename": "badpackets-fabric-0.5.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/CbkPVEhy/badpackets-fabric-0.5.3.jar",
+    "sha512": "81387e94d5ddbd15f9bfeb2a1895f43ba9db90bc4588906bf53be66b87b7bf2064943e34d9f31e104d1e4ca43c88f0a005141168385a76cdd6f257fd8bc86e95"
+  },
+  "fabric-0.5.4": {
+    "versionId": "SvSHT7FN",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-03T17:09:32.039012Z",
+    "filename": "badpackets-fabric-0.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SvSHT7FN/badpackets-fabric-0.5.4.jar",
+    "sha512": "54f1c57680e2f8b1a1095bbff1a99ef385af7a6d2d0025d86934885a722bc4cf1174a19f94d54ec1f018873d74fde4f29a02e0f5f0c47710309c13241a01ae5d"
+  },
+  "fabric-0.5.5": {
+    "versionId": "mvzSGXpX",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-15T14:32:51.901786Z",
+    "filename": "badpackets-fabric-0.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/mvzSGXpX/badpackets-fabric-0.5.5.jar",
+    "sha512": "44250cd7c57b6860d946114642403144289026d5b3aef8a4e39d1e68ff3b6b52106b2e6e152f30375e140574f588b6c8ed7ccab545027530958ab28499a6bc95"
+  },
+  "fabric-0.5.6": {
+    "versionId": "Qlt6D4vq",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-13T17:34:02.229502Z",
+    "filename": "badpackets-fabric-0.5.6.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Qlt6D4vq/badpackets-fabric-0.5.6.jar",
+    "sha512": "cebe6fcf777eced31881dcf28205fe3d6e7bd7dee4327fcdd1d9d05fa84e9ddb700ba7411e2b32bcd8cd4381423aa8bb6974cb71911e5cb447e922c489b01ec8"
+  },
+  "fabric-0.5.7": {
+    "versionId": "ZKydYmib",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-08T20:14:36.080599Z",
+    "filename": "badpackets-fabric-0.5.7.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/ZKydYmib/badpackets-fabric-0.5.7.jar",
+    "sha512": "2ff5b0c1923982579e0bb1bdd042492beff3aab00e4e497afe94b66e7046603d8c5bd3ef7612946dd7f7fb8cc323ebd10e865ba0ea324dc1fd85b257f2a64f04"
+  },
+  "fabric-0.6.0": {
+    "versionId": "M5H8gKAX",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-15T14:56:51.828994Z",
+    "filename": "badpackets-fabric-0.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/M5H8gKAX/badpackets-fabric-0.6.0.jar",
+    "sha512": "6eb0f3c7350c321d101a196cfb2a33cf037fac30a72cd9b99bc05c4bfcb785e40bbdadaac5c3c8715b16787671858cbac38ec5df9f4132b6a2fba6053a6cc4ae"
+  },
+  "fabric-0.6.1": {
+    "versionId": "riqsK6Al",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-23T13:51:31.407628Z",
+    "filename": "badpackets-fabric-0.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/riqsK6Al/badpackets-fabric-0.6.1.jar",
+    "sha512": "380ef40e1719b8e083f9b3f59137d115cc4ee90eed2336b9303300bebd312dfeff96e517e79bc7cf2b35d055c8455f306b9973807a092527df000c3bb84e2330"
+  },
+  "fabric-0.6.2": {
+    "versionId": "cJeV31is",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-08T20:29:31.149921Z",
+    "filename": "badpackets-fabric-0.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/cJeV31is/badpackets-fabric-0.6.2.jar",
+    "sha512": "03f61f91adb50efc0e608eadf0460bb2f694f5d825b4d9dd1dbb266e1b4f7ce0590c5e64dbc2b0de3b9570cf787a8c00f4ef8a5a4d3fa3080d261d9190899583"
+  },
+  "fabric-0.7.1": {
+    "versionId": "LQPjmR6D",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-16T11:18:44.070281Z",
+    "filename": "badpackets-fabric-0.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/LQPjmR6D/badpackets-fabric-0.7.1.jar",
+    "sha512": "2f1b046b67832341ba41d961d44915456778bad312dcc78de0d42d5ca1ce359d66adeb4d632ba079c21af1bea923dbf4b87f9858574d5959115ef8c63a2cd40f"
+  },
+  "fabric-0.7.2": {
+    "versionId": "UYxT6HjU",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6",
+      "24w18a",
+      "24w19b"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-24T17:11:10.207632Z",
+    "filename": "badpackets-fabric-0.7.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/UYxT6HjU/badpackets-fabric-0.7.2.jar",
+    "sha512": "f37e78b781540799cc4495a6173962c45748181398d6aca043808958dbec48181847cfe4c3c56dfffeb659af94d679bddb8fa31575c1ab556fd21daae7ddcb89"
+  },
+  "fabric-0.7.3": {
+    "versionId": "QeK88m3Z",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-05T10:43:21.415429Z",
+    "filename": "badpackets-fabric-0.7.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/QeK88m3Z/badpackets-fabric-0.7.3.jar",
+    "sha512": "c9e41340472fdb6551937bbc3b426e0888d20a1eb526b13fc98cfaa570d6d1e7c027024024d10c3e808e49408fe47d062b68d67ead6ef013858e312920b64f39"
+  },
+  "fabric-0.7.4": {
+    "versionId": "51Q6yUsH",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-08T21:03:28.148400Z",
+    "filename": "badpackets-fabric-0.7.4.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/51Q6yUsH/badpackets-fabric-0.7.4.jar",
+    "sha512": "6425200c8261c03b985f2108991ee3552c28a71e1032313d384fbdc984314af33940ca156479b8dd1fae7f4e1339c191498bfff8612645266c0ea250ed561e07"
+  },
+  "fabric-0.8.0": {
+    "versionId": "YVPHzQSG",
+    "gameVersions": [
+      "1.21-pre2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-02T09:44:01.826400Z",
+    "filename": "badpackets-fabric-0.8.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/YVPHzQSG/badpackets-fabric-0.8.0.jar",
+    "sha512": "a9f95ed64e603cef37ba8888d7021c710ad9c40f8b5734943b2e2c8c1b1baf725ecf5289366364ee32e415e91386e31021b40159124b619eb3b68d59ad50e075"
+  },
+  "fabric-0.8.1": {
+    "versionId": "ac4a1Xj7",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-15T09:18:55.969038Z",
+    "filename": "badpackets-fabric-0.8.1.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/ac4a1Xj7/badpackets-fabric-0.8.1.jar",
+    "sha512": "5ecebd0840c50ea876d5172d916a3621b11907f39128b6e787152cc69b2af530f95dc7bff577b057db3a54044b0a5c90d6801720d1176a985822fa3a886fa11f"
+  },
+  "fabric-0.8.2": {
+    "versionId": "hjhT2sMz",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-08T23:00:02.923094Z",
+    "filename": "badpackets-fabric-0.8.2.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar",
+    "sha512": "d156bd787c2f7b37314994b0f95f5a2edbee24f0f72459559d81ce7f77ba2ee01154d84fa3b7a670f21fb98c4b22df640e0f6d3def9d022c2f94889da0a31ac1"
+  },
+  "fabric-0.9.0": {
+    "versionId": "Luy2S9Fr",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T16:04:03.540960Z",
+    "filename": "badpackets-fabric-0.9.0.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Luy2S9Fr/badpackets-fabric-0.9.0.jar",
+    "sha512": "4448f40d1d90f9ccf2f77675f1926df6bf839e6ab69d5722fd6ffa64b362eb6ddd0562b40acd7f997964012544cd6a1319faed244fe093fd122125c1d44761a0"
+  }
+}

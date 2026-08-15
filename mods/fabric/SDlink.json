@@ -1,0 +1,1032 @@
+{
+  "1.16.5-1.3.0f": {
+    "versionId": "auQZxcmD",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-19T18:21:48.685302Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.16.5-1.3.0f/SimpleDiscordLink-fabric-1.16.5-1.3.0.jar",
+    "sha512": "f2885bf0cb7ffa41d9a03b8828798767ea58e7e9630291dec12ea0cfddb1a5b1537d921a103f5186cc43ade06ee85dc0891edaf5cfd0f4946232580e1e1546a0"
+  },
+  "1.16.5-1.4.0f": {
+    "versionId": "1yVpcSNd",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-04T16:45:12.771758Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-1.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.16.5-1.4.0f/SimpleDiscordLink-fabric-1.16.5-1.4.0.jar",
+    "sha512": "b210acc636037d723fb891b50a8d0ef36f0cb328a10411028166519debbae62e338a2b55a9a5c310609d63e3b811d4cc1b0ba9054a4f401811582d9125bdd20b"
+  },
+  "1.16.5-2.0.0f": {
+    "versionId": "rHhJ6V2S",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-29T18:20:15.975798Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/rHhJ6V2S/SimpleDiscordLink-fabric-1.16.5-2.0.0.jar",
+    "sha512": "bff323de1b2e914d63b12fdb4bcec6f842261deb81041f02516bf5f334bb1475066bde4a505c0b5b022285249b8a95ea62b3504ac1db847747e05e0928fa3aee"
+  },
+  "1.16.5-2.1.0f": {
+    "versionId": "DFR4KJJy",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-01T10:59:59.809531Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/DFR4KJJy/SimpleDiscordLink-fabric-1.16.5-2.1.0.jar",
+    "sha512": "3de0e4569492af91f0aef866bff008e765827325c261efab392a620ba3c7dfdf24537bd4973b3589597e133ada6a49fc7fea01af0005de55ce9f15bb892fe8b7"
+  },
+  "1.16.5-2.2.0.finalf": {
+    "versionId": "SGjbdHbT",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-12T12:51:13.079709Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-2.2.0.final.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/SGjbdHbT/SimpleDiscordLink-fabric-1.16.5-2.2.0.final.jar",
+    "sha512": "2039efcaaa6e2515787ad7e74e4c74979a272035b74ce85de05f023ca5e369bf12a42a8980854f43d91815049764a33188161f70144554e244ae542137fdafa3"
+  },
+  "1.16.5-2.2.1.final": {
+    "versionId": "pClnfEUU",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-18T16:51:04.913192Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-2.2.1.final.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/pClnfEUU/SimpleDiscordLink-fabric-1.16.5-2.2.1.final.jar",
+    "sha512": "2be5c7763d2aba8ec1852b5d241a814d2b0ac2e499c27e9086d58755ee99ef29a184ad2bc9c32c4aabc7c13baf521ea3f32056fe9f9aaa13f68f53f317f42ad4"
+  },
+  "1.16.5-2.2.2.final": {
+    "versionId": "wCMtarLq",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-30T21:34:24.224428Z",
+    "filename": "SimpleDiscordLink-fabric-1.16.5-2.2.2.final.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/wCMtarLq/SimpleDiscordLink-fabric-1.16.5-2.2.2.final.jar",
+    "sha512": "e84fd26aaf3e118792932c0af7736df0ab2826140f8da0806e23c87f0163b941039a06dbb838719a8737a0e01b7f8178097e96d749c53ed8d05f919804ad882c"
+  },
+  "1.18.1-1.3.0f": {
+    "versionId": "rcqFNGs8",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-19T18:23:04.203719Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.18.1-1.3.0f/SimpleDiscordLink-fabric-1.18.1-1.3.0.jar",
+    "sha512": "a5fa5f3bd839b2a65243806ca941987ddd9224f3f0056294695ac67cbc52d5a740125ce475fd4ffe234711a613033c04ba1593af3463a4cfbe06cb97966b2569"
+  },
+  "1.18.1-1.4.0f": {
+    "versionId": "vbT17hJD",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-04T16:47:31.936249Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-1.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.18.1-1.4.0f/SimpleDiscordLink-fabric-1.18.1-1.4.0.jar",
+    "sha512": "194fa948c9dc95e5a1897e4524c42f83ea9317898b887dfd24bf8d290d63e1b1f9c2881f2a00feaf66063c29842a32a8ee6cc7d9a520afcd477ca00f70b9ba48"
+  },
+  "1.18.1-2.0.0f": {
+    "versionId": "sGS5x6eI",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-29T18:22:35.964841Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/sGS5x6eI/SimpleDiscordLink-fabric-1.18.1-2.0.0.jar",
+    "sha512": "b0cede8139e8064da44166e74bbc03bbd09d5d95a0907e8eb663e74ae50d33d9111a92fbe518893873402c69f04bd27cd664ea93f88e8e135c7b1c57406678f7"
+  },
+  "1.18.1-2.0.1f": {
+    "versionId": "ZpYcn07S",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-04T21:34:07.210683Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/ZpYcn07S/SimpleDiscordLink-fabric-1.18.1-2.0.1.jar",
+    "sha512": "8b496b1fa5fa81ee15a7c82da436a7776873dc3c8a4df7691901bd8fd6e2edad341e4bb33b9309bc28c404837dfb4b70e40a3f1c0079cc425bea66118cf993d4"
+  },
+  "1.18.1-2.1.0f": {
+    "versionId": "BIXPPbJA",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-01T11:01:16.193400Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/BIXPPbJA/SimpleDiscordLink-fabric-1.18.1-2.1.0.jar",
+    "sha512": "1505a6195dcb3f34ffaf8225c8deb0f3be7f04315632618fd4c78bfaa233cd209370df965a4dd1709f81cbcde3e60818f03651943a6c085b3a487c805d2751c7"
+  },
+  "1.18.1-2.2.0f": {
+    "versionId": "fjb7PWNt",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-12T12:54:24.378808Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/fjb7PWNt/SimpleDiscordLink-fabric-1.18.1-2.2.0.jar",
+    "sha512": "20e37fbfccf72e67045047507dd726a6c80baf73f0a95d7adb18dac0495b03bce17a5e6f97849f8dfecc3d7cd7f5b668ee4b796fe06e09e7d0bc2fea0383f428"
+  },
+  "1.18.1-2.2.1": {
+    "versionId": "Yj13mxTm",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-18T16:52:46.932982Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/Yj13mxTm/SimpleDiscordLink-fabric-1.18.1-2.2.1.jar",
+    "sha512": "01886bd23a337baeac3fe162522a19b024e85d479e38a73a512c1ac6ce9e8f79291a97f53f022ce3cb47e8e2cdb70aa53f41752a2c110bb6521f0d2f88e3fd20"
+  },
+  "1.18.1-2.2.2": {
+    "versionId": "fWdpkZWc",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-30T21:35:45.061014Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/fWdpkZWc/SimpleDiscordLink-fabric-1.18.1-2.2.2.jar",
+    "sha512": "1bd970ab9c28c8e33b1b63e606ecd91405c97b24a8d9eced9e6eddac63f62ab62a7c42cb89aa1bcb4c5764c298361df64b99aca3b8593c831095e5496debba23"
+  },
+  "1.18.1-2.2.3": {
+    "versionId": "ORiipIRy",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-31T15:13:31.805768Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/ORiipIRy/SimpleDiscordLink-fabric-1.18.1-2.2.3.jar",
+    "sha512": "3e4430c793caab64a5cfdfb6db90ed58baa257782b496a3931dbdc7e67f546b1ee5c4d9438725149e1236f5324c2f975e225ce8ebce74bb4ac8003552123877f"
+  },
+  "1.18.1-2.2.4": {
+    "versionId": "zIvAO01R",
+    "gameVersions": [
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T09:56:45.931542Z",
+    "filename": "SimpleDiscordLink-fabric-1.18.1-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/zIvAO01R/SimpleDiscordLink-fabric-1.18.1-2.2.4.jar",
+    "sha512": "b6ed3985b5249d7563407ded72d00e9e8d2036fba5b08a2988811f3dbd013a9c0c5d2855d4d274987269fb7bbb956eb8f229027e1d73047946bed9f2f346482f"
+  },
+  "1.18.2-3.0.0": {
+    "versionId": "J0BPITOp",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-03T05:52:07.119964Z",
+    "filename": "SimpleDiscordLink-Combo-1.18.2-3.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/J0BPITOp/SimpleDiscordLink-Combo-1.18.2-3.0.0.jar",
+    "sha512": "c9d1274bab56a4fae87678b54a2e0f3d747f754b6f8cea4cc8dcfea0d7b4488bbf87099fa1dacf3461ed0c8036be2615f3dbe2a4a7a5941f8eccded9451f30c6"
+  },
+  "1.18.2-3.0.1": {
+    "versionId": "N0vEV4zK",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-01-02T17:08:38.029943Z",
+    "filename": "SimpleDiscordLink-Combo-1.18.2-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/N0vEV4zK/SimpleDiscordLink-Combo-1.18.2-3.0.1.jar",
+    "sha512": "a1252a6edc27a9da9e08e6b35712b440e4746c2a355939e2f58989128a398a757f8f3c425f3afde638c3baa390f4f8ce2e1988a2929ca8e8891c349a0c0adb86"
+  },
+  "1.19-1.3.0f": {
+    "versionId": "FqYXzLn3",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-19T18:24:50.775103Z",
+    "filename": "SimpleDiscordLink-fabric-1.19-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.19-1.3.0f/SimpleDiscordLink-fabric-1.19-1.3.0.jar",
+    "sha512": "211e33edc62f5db77f159317d55083b1d23e13be940767dcb5f1f2dacada17ee90032862e12bf6bb15fa631211bcae00b2745690f0b7d9ff38def924bf0b44f1"
+  },
+  "1.19-1.4.0f": {
+    "versionId": "oxCi5LAQ",
+    "gameVersions": [
+      "1.19",
+      "1.19.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-04T16:48:52.337598Z",
+    "filename": "SimpleDiscordLink-fabric-1.19-1.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.19-1.4.0f/SimpleDiscordLink-fabric-1.19-1.4.0.jar",
+    "sha512": "90ba961fd733f9dd6db0fd5f62ec50b24caeddd87807397d13df9617497cbc0edd52df0435500ad30d40da538c301c39a7abfcec1c617146753b016a82c18cf6"
+  },
+  "1.19.1-1.4.1f": {
+    "versionId": "TCkNED2m",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-10T13:12:12.761460Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-1.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/1.19.1-1.4.1f/SimpleDiscordLink-fabric-1.19.1-1.4.1.jar",
+    "sha512": "299eb01331cccf6f3c06bd2141833a44c89fff4514412ae20297740fb98417135a11949b9b08e5b3157ee46f58e18eb4281736c27968234922fe867dcbe6858b"
+  },
+  "1.19.1-2.0.0f": {
+    "versionId": "Ji1U4CvQ",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-29T18:30:58.115111Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/Ji1U4CvQ/SimpleDiscordLink-fabric-1.19.1-2.0.0.jar",
+    "sha512": "4445500453fe5f5c4a3e7c37b070b4d5df1b3209f9771425da339f8f76f87d05d16d30515375e0ceadd7fa22b0ab1b8b158b229f4e483463d7ca05a4db23433f"
+  },
+  "1.19.1-2.0.1f": {
+    "versionId": "XoNjYY7s",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-11-04T21:35:50.803894Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/XoNjYY7s/SimpleDiscordLink-fabric-1.19.1-2.0.1.jar",
+    "sha512": "329c698425c8c45953f512c49cd4af9851fd2623da3dedc4cee2b03421bff53583dce34cbef2fee7755915700e87837b0424062b645ff97236b3cda9c199ebf4"
+  },
+  "1.19.1-2.1.0f": {
+    "versionId": "YGhQzzUV",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-01T11:03:13.011826Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/YGhQzzUV/SimpleDiscordLink-fabric-1.19.1-2.1.0.jar",
+    "sha512": "a0e2a8f0f4e2443d7a9cbba4e967a118ef0e79143ff40941d15fe372ebbad120382735191fb22132f36cd7331fe3fd984bcdc5f6b8e62f0bdb134da13b503623"
+  },
+  "1.19.1-2.2.0f": {
+    "versionId": "fcCvzfEN",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-12T12:56:54.416983Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/fcCvzfEN/SimpleDiscordLink-fabric-1.19.1-2.2.0.jar",
+    "sha512": "6d4bf9515f568e27e9f5a3fa85b2e74ba7317c5aea5903bec7a54c6893090cee7f846e69219779a03d7a775ed2a9eba276a4a78b8325a67182385e5f2d1c48b4"
+  },
+  "1.19.1-2.2.1": {
+    "versionId": "27Qp6gtD",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-18T16:55:28.295113Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/27Qp6gtD/SimpleDiscordLink-fabric-1.19.1-2.2.1.jar",
+    "sha512": "8b5418a2cf3eed39ebc611bbcac4ef43a8ace2618efd4d1fbcfa765d6512ee3174392713bc648e81499aa645c2730be909b7679ec25ebb40ab47628097216e8e"
+  },
+  "1.19.1-2.2.2": {
+    "versionId": "GlOKGSPk",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-30T21:40:09.009278Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/GlOKGSPk/SimpleDiscordLink-fabric-1.19.1-2.2.2.jar",
+    "sha512": "fafba4cb5aeec6f4262aaafda0f382a9d9c3fb07960eca170d6ef0766bc81e9859bda8cd0d161114b525de6c849f9e9bc87cc5b85bebc14c8d9f8a7f391a0816"
+  },
+  "1.19.1-2.2.3": {
+    "versionId": "EFOtYbjs",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-31T15:23:18.441800Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/EFOtYbjs/SimpleDiscordLink-fabric-1.19.1-2.2.3.jar",
+    "sha512": "8f8208e078b1230ecc17b17d21398fe5def5588215fbb25974a9ac04e896643d1a4fa658c505438645e7022c17a74d457f1ae9def7cd651ca6a06ed1681f1ac8"
+  },
+  "1.19.1-2.2.4": {
+    "versionId": "YQcotmVn",
+    "gameVersions": [
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T09:58:47.512757Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.1-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/YQcotmVn/SimpleDiscordLink-fabric-1.19.1-2.2.4.jar",
+    "sha512": "319a1dab53b07c5979c9cbb3a2fb3fbd1aa2e0e7cb4181651a1b49c81dcb348d9a86c8f0489d0b30333edb64337da081827fcbdee0dff787da7cddc440291e93"
+  },
+  "1.19.2-3.0.0": {
+    "versionId": "SJcyWCa1",
+    "gameVersions": [
+      "1.19.2",
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-03T05:54:24.484222Z",
+    "filename": "SimpleDiscordLink-Combo-1.19.2-3.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/SJcyWCa1/SimpleDiscordLink-Combo-1.19.2-3.0.0.jar",
+    "sha512": "5c79b52863c9790b3f00e6efb67a8df96d3561410558330aa0f6907c95a58065feae019eeadd7c16b31de9a248893072fe8ad40a59cac0d58bf73b8a8b18a596"
+  },
+  "1.19.2-3.0.1": {
+    "versionId": "pREDfxP9",
+    "gameVersions": [
+      "1.19.2",
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-01-02T17:10:49.865572Z",
+    "filename": "SimpleDiscordLink-Combo-1.19.2-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/pREDfxP9/SimpleDiscordLink-Combo-1.19.2-3.0.1.jar",
+    "sha512": "0fb7392119e5281a1caca5d85190ef0d32c1026f0efb78457f14c08ab784f265e04a976ce84b863a922e24513ff5ffb291a585964d0f92af0e7cfe3f0a2e82b3"
+  },
+  "1.19.3-2.1.0f": {
+    "versionId": "JmRuwVRc",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-01T11:04:22.317881Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.3-2.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/JmRuwVRc/SimpleDiscordLink-fabric-1.19.3-2.1.0.jar",
+    "sha512": "817d7f62cf0553ace361e5464021afe203ecf22de455bfb1cf1d7eff9dbab5a85bd7df4f9241a6b9e2fd3bf9267c2e44aac11720b48c28d9cebd3e01bcd5a3a0"
+  },
+  "1.19.3-2.2.0f": {
+    "versionId": "U77niVPZ",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-02-12T12:59:26.373716Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.3-2.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/U77niVPZ/SimpleDiscordLink-fabric-1.19.3-2.2.0.jar",
+    "sha512": "c2258eb0d7def0bf698a1439f7051f30639239ad3b101ca7d00dce55a4c8eb91f44a7128e800eecff1baf24a7c123c9d9d99fa5ba1eb1f461a7a791b7dbe59ea"
+  },
+  "1.19.3-2.2.1": {
+    "versionId": "MTGFMPrs",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-18T16:57:50.887389Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.3-2.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/MTGFMPrs/SimpleDiscordLink-fabric-1.19.3-2.2.1.jar",
+    "sha512": "1945fd6e0577ab18c8ca3ebe0bba9063d1d3b9de37618eada4a16459dd4894f63cb0e0e9f18e63a29beae9932283ef0c14349f8b4e87e1078875e92b7a4e19ce"
+  },
+  "1.19.3-2.2.2": {
+    "versionId": "o6PeNvt1",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-05-30T21:41:53.831515Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.3-2.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/o6PeNvt1/SimpleDiscordLink-fabric-1.19.3-2.2.2.jar",
+    "sha512": "ab0296303edf904efeb3a46ec0b2b9a9af8414ed12047fdb9508810fe85421a34d3708888015f36d74858a600296bc927bca9eaaa5477f07d7e9cd63379690c1"
+  },
+  "1.19.3-2.2.4": {
+    "versionId": "kBkO8a45",
+    "gameVersions": [
+      "1.19.3",
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T10:00:40.999147Z",
+    "filename": "SimpleDiscordLink-fabric-1.19.3-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/kBkO8a45/SimpleDiscordLink-fabric-1.19.3-2.2.4.jar",
+    "sha512": "f3e4b41e024274b6f6c7244398f6e972d1be2c4d6f4f3b2cf93f7df3f11aa5412cacd0ef0654b1fa0a7589c573ff2a84c352fe5b38ee92747a8cb72a7adab05a"
+  },
+  "1.20-2.2.2": {
+    "versionId": "ZuyAYJhO",
+    "gameVersions": [
+      "1.20",
+      "1.20.1-rc1",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-10T17:17:38.238150Z",
+    "filename": "SimpleDiscordLink-fabric-1.20-2.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/ZuyAYJhO/SimpleDiscordLink-fabric-1.20-2.2.2.jar",
+    "sha512": "5ead720f7a8c75fd7ffa871172b33ecc05544b9cbff1eaf448c8b4550a7bac3eecb10f86aa3b509097af440b475452151a418f2ac9845c826aef7626de20770b"
+  },
+  "1.20-2.2.3": {
+    "versionId": "NfJhY5gb",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-31T15:27:49.649658Z",
+    "filename": "SimpleDiscordLink-fabric-1.20-2.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/NfJhY5gb/SimpleDiscordLink-fabric-1.20-2.2.3.jar",
+    "sha512": "3fc8145b3bd1d77deedb03e3e8b0827aeb3e1ba55c1dc7bff05e28b5c0fd0704a7bfaa7d4488fef76baba31591314e0bb3d099dcc496c128ac1014bd03428186"
+  },
+  "1.20-2.2.4-HOGGi3Tp": {
+    "versionId": "HOGGi3Tp",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T10:02:04.483054Z",
+    "filename": "SimpleDiscordLink-fabric-1.20-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/HOGGi3Tp/SimpleDiscordLink-fabric-1.20-2.2.4.jar",
+    "sha512": "bf9e816d84de43bb914485a13cd2e534da35d8208c46b040aa45158091075485a935500ace50b21252ca67a05a459c456024a620112fe3486a70bd73cf46fbda"
+  },
+  "1.20-2.2.4-txL4nZcz": {
+    "versionId": "txL4nZcz",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T10:05:00.872025Z",
+    "filename": "SimpleDiscordLink-fabric-1.20-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/txL4nZcz/SimpleDiscordLink-fabric-1.20-2.2.4.jar",
+    "sha512": "93bba11c688f6597909d199bafaa77a0af084d0aaefe32b5ebe36f7e3b087d825cc42ff9912cdcf1265b54f9aac1a9ae44c4c6bb292fe1e301f30150c6ffb627"
+  },
+  "1.20-3.0.0": {
+    "versionId": "FrWZgcNC",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-03T05:56:25.892878Z",
+    "filename": "SimpleDiscordLink-Combo-1.20-3.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/FrWZgcNC/SimpleDiscordLink-Combo-1.20-3.0.0.jar",
+    "sha512": "5ccc7e0868686cbc3c00b79617c21535779aa1944f0bfcdaf8acae77a7c811af7b884b3ec0ec640c826b85d7574ccc99c2d9d2344782d359b22eb30264672ab0"
+  },
+  "1.20-3.0.1": {
+    "versionId": "rtVmg0Ey",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-01-02T17:12:50.228826Z",
+    "filename": "SimpleDiscordLink-Combo-1.20-3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/rtVmg0Ey/SimpleDiscordLink-Combo-1.20-3.0.1.jar",
+    "sha512": "d7eed8a4542f8d669244aaba1165fc80ba006723e482d639ba56f0470552acd9fa0dec7e7e008e6b1e2b69c560748b6cb4d58c2693dc0ab040fb1f77d8754bcf"
+  },
+  "1.20.2-2.2.4": {
+    "versionId": "CTOpa05J",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-01T10:06:28.593092Z",
+    "filename": "SimpleDiscordLink-fabric-1.20.2-2.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/CTOpa05J/SimpleDiscordLink-fabric-1.20.2-2.2.4.jar",
+    "sha512": "433efa02fbc719447cac3d659ff76d6198454043b298403917a13c02988ffda7ea5916239c05eb5f3075edabb453fc6ab4668815617b673ca77c0237b333f77b"
+  },
+  "3.1.0": {
+    "versionId": "tsAzYS2f",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T20:26:20.526779Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/tsAzYS2f/SimpleDiscordLink-Universal-3.1.0.jar",
+    "sha512": "8c8a0dacc92b02a69556c9083ea847a7745eb3b1c725114f4887b493439c0dca5ccd395f9142c938615f1ef4ba1d25a0b0d00d2c3bc1c5cd8d2a857e53e72d72"
+  },
+  "3.1.1": {
+    "versionId": "As4UhLqH",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-24T18:38:57.679256Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/As4UhLqH/SimpleDiscordLink-Universal-3.1.1.jar",
+    "sha512": "db671f81ca270a6a582853c94a5136e00765825c926ca41b272610f148899aa43988fe08002ff4f96f850957dbe3c09d66e91f1f614babfcd7eb639d126bbe13"
+  },
+  "3.1.2": {
+    "versionId": "FRKC30zu",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-30T12:34:07.706494Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/FRKC30zu/SimpleDiscordLink-Universal-3.1.2.jar",
+    "sha512": "a12ec7d575a4e05cdb5aa373a76e847d456c8cf8da5ffb0d7979d11fc59f98becf31f823f64063b66c4b3e04aa87d99778e7e4d2b9595fe04af0552d9fb68103"
+  },
+  "3.1.3": {
+    "versionId": "LmRVlHyB",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T19:10:45.390401Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/LmRVlHyB/SimpleDiscordLink-Universal-3.1.3.jar",
+    "sha512": "282fb4ac14e381e4de5f3502ead83fd8dd9d53f1da00cb7c7038b29b8f8a20a3180473971329f1a49b8de0d887b96bd2376f098414c61f4cb7845dd42a0ad52d"
+  },
+  "3.1.4": {
+    "versionId": "L0SRMSQ0",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-28T11:10:29.981668Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/L0SRMSQ0/SimpleDiscordLink-Universal-3.1.4.jar",
+    "sha512": "4bf5ea30d1a445c765312ab4aae6bc6d2293ef311110048eaf724112d6eeec229b301417ff4efe7bf427dfb8e3f39941b0249b57f3698b89fcc8fa04379643e3"
+  },
+  "3.1.5": {
+    "versionId": "3mNPZrbD",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-10T11:39:04.121862Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/3mNPZrbD/SimpleDiscordLink-Universal-3.1.5.jar",
+    "sha512": "bb2e26994b9a6b3b85feb3f6caf0502f6d646d6b696cfb59dfa4866a676dde407e6307f2b4cd0dc33e4b99ca36fe1d839f920ba4b6745096997599bd8f750a09"
+  },
+  "3.1.6": {
+    "versionId": "mDnw4mrB",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-07T08:21:14.199838Z",
+    "filename": "SimpleDiscordLink-Universal-3.1.6.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/mDnw4mrB/SimpleDiscordLink-Universal-3.1.6.jar",
+    "sha512": "755c0c98946ce7e12ebf707ce1365dd1fe162424806d5e96eb989e78153437f7c1b4869626a4ac724e01f86c5300b03996fe8e9c023d5d910c937b9bd43dcfe9"
+  },
+  "3.2.0": {
+    "versionId": "6sbR3f3z",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-11T10:09:31.873518Z",
+    "filename": "SimpleDiscordLink-Universal-3.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/6sbR3f3z/SimpleDiscordLink-Universal-3.2.0.jar",
+    "sha512": "2ba3b91e45f61c139ad1fa79997d68f8d921a4903d8f110f261841bc7e96c9b8e23eb55bcc33eb49f558e2cf6b974cf47e372a9e0eecb9442adf1ddaefadf19f"
+  },
+  "3.2.1": {
+    "versionId": "AVJaD8ZA",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T11:40:40.500362Z",
+    "filename": "SimpleDiscordLink-Universal-3.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/AVJaD8ZA/SimpleDiscordLink-Universal-3.2.1.jar",
+    "sha512": "b75f10d201509ab9c3ed14b89d369f3d0008a33ac48c38cc1381e1910fbeea4280f1b40973dd945171f2a113266769e78a92777585ade81ea0a27dac1e28a963"
+  },
+  "3.2.2": {
+    "versionId": "DAQzQD8d",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-02T14:53:02.704805Z",
+    "filename": "SimpleDiscordLink-Universal-3.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/DAQzQD8d/SimpleDiscordLink-Universal-3.2.2.jar",
+    "sha512": "318c72266e7efe463be42206b64091154854c554e5cb646af2a9d946b5e0588b9e631f44a108f10d6631581f4bba410fb0aaeeceecd576f91b3d09d7ae09cda6"
+  },
+  "3.2.3": {
+    "versionId": "gXgTfzl5",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-20T16:40:28.854271Z",
+    "filename": "SimpleDiscordLink-Universal-3.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/gXgTfzl5/SimpleDiscordLink-Universal-3.2.3.jar",
+    "sha512": "dc24de2c7508f84fe00c144170b2bc0ed5a95e5f60652978ae20596f4d8f94cd0d6d1e50575d2d0bd1e11214f02dbf03509661b9d07ab3e41df26b4972ff0e82"
+  },
+  "3.3.0": {
+    "versionId": "B4rrgB1b",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-29T09:31:43.243228Z",
+    "filename": "SimpleDiscordLink-Universal-3.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/B4rrgB1b/SimpleDiscordLink-Universal-3.3.0.jar",
+    "sha512": "c3232aee23c6bb5ea39ed512c243ab591f73e685ea698c92b5708e760ede7fbd9dd7f414ae8564094f760e61cf607f8d1b1fd58a6c7c933863c56a7621239312"
+  },
+  "3.3.1": {
+    "versionId": "U3TpSJoR",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-16T08:36:03.701445Z",
+    "filename": "SimpleDiscordLink-Universal-3.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/U3TpSJoR/SimpleDiscordLink-Universal-3.3.1.jar",
+    "sha512": "bca2573b976653539945454e0ebcefcf72d8a4ef4ca008db124c705184cc99de15fb2acdb74cebe92f62611eb01d7611afe19de40b036443a2381d7a8de9560d"
+  },
+  "3.3.2": {
+    "versionId": "zX9ZfDNw",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-06T11:04:14.398823Z",
+    "filename": "SimpleDiscordLink-Universal-3.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/zX9ZfDNw/SimpleDiscordLink-Universal-3.3.2.jar",
+    "sha512": "495d5c14cc5e38089bb842cb3e92d352c805573edea4d2c5bac5da4eedff3563768a6ce9f0dbbe9633c2086e0796ccb4dc922206568069ab0bf9591f52442ac9"
+  },
+  "3.3.3": {
+    "versionId": "R49qbfnG",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-09T09:47:20.541240Z",
+    "filename": "SimpleDiscordLink-Universal-3.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/R49qbfnG/SimpleDiscordLink-Universal-3.3.3.jar",
+    "sha512": "6388afd2169da6e5b85ee1737e80b7a519a0fb27c264cf8e28437829b03503851480b535b2c0859fd719341f91fd97857f569a28c07f5e6ecc6c857f6a78b203"
+  },
+  "3.3.4": {
+    "versionId": "VADIv5pg",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-05T19:28:03.072783Z",
+    "filename": "SimpleDiscordLink-Universal-3.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/VADIv5pg/SimpleDiscordLink-Universal-3.3.4.jar",
+    "sha512": "b8d2bc66f1a31d2b3a95b159400cac7ef59e8ccb15a8f7d1c5ad792929646e5f42c7107c2ec47512397dcfa9ac7c2e6670a2067c176fd667d084a547c9ca3c1f"
+  },
+  "3.4.0": {
+    "versionId": "UqboHM07",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-25T12:58:13.950855Z",
+    "filename": "SimpleDiscordLink-Universal-3.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/UqboHM07/SimpleDiscordLink-Universal-3.4.0.jar",
+    "sha512": "6dc8974dc3706b01cd3cdc325ee2f3cc910527b4012a319c85f246cb9de3ebf319729639c3fbd5d8df9cf3c0226527feb3bb3f0385a1900b4c0b54f3d06cc2d0"
+  },
+  "3.4.1": {
+    "versionId": "RL1yMqBX",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-19T13:19:05.810945Z",
+    "filename": "SimpleDiscordLink-Universal-3.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/RL1yMqBX/SimpleDiscordLink-Universal-3.4.1.jar",
+    "sha512": "1ab6034c7e9d2f5a4847a0fb81be6725cc7e57d6b131d63056a23fdedd3e83c89afcf328f717b3892d57262ea14daddec10c508eea9e2cbfa8625fc2a6ae1cd8"
+  },
+  "3.4.2": {
+    "versionId": "Mjtluzo1",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-20T09:51:32.649431Z",
+    "filename": "SimpleDiscordLink-Universal-3.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/Mjtluzo1/SimpleDiscordLink-Universal-3.4.2.jar",
+    "sha512": "1aa0c5555c4f8b1ae5ac550ed0948ea5504b8bfaf7db9f05eaf890740b406e52f100ba41918fd976802f35f5a62d227174cd036d4821bcf7ef0fa83fb150249f"
+  },
+  "3.4.3": {
+    "versionId": "O5Pjj1gV",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-27T09:19:48.762196Z",
+    "filename": "SimpleDiscordLink-Universal-3.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/O5Pjj1gV/SimpleDiscordLink-Universal-3.4.3.jar",
+    "sha512": "59f600560c75fd9992d1ffa26814162d7bc72d9800733c4929c355564f97152b869bf2d569c02470300cc1dd6d55bdb655f1e25b69514d0dae08a06d0d56d1eb"
+  },
+  "3.4.4": {
+    "versionId": "w2ngBoyZ",
+    "gameVersions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-15T11:28:47.168491Z",
+    "filename": "SimpleDiscordLink-Universal-3.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/w2ngBoyZ/SimpleDiscordLink-Universal-3.4.4.jar",
+    "sha512": "9363675647582e83234706efa8e53a0b192cad819fc9b0f546cc24a08290d2c510fb70011110220d0cf5654aa32c9d2cda1a5e73e2e3acee6d863d5345dcfe43"
+  }
+}

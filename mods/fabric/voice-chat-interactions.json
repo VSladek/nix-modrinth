@@ -1,0 +1,492 @@
+{
+  "fabric-1.0.8+26.1": {
+    "versionId": "VfJL4MK4",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-03-24T17:14:49.947170Z",
+    "filename": "vcinteraction-fabric-1.0.8+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/VfJL4MK4/vcinteraction-fabric-1.0.8%2B26.1.jar",
+    "sha512": "82cc6070e13dfdf6344e904509e7f058b866fd52aba68428aa3fecadd7d0966a9e900b7cd09dac40caa0035c8e5fa182d7c24be3d3271b830a52180021053606"
+  },
+  "fabric-1.0.8+26.1.1": {
+    "versionId": "WQ2lo58r",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-04-01T12:41:01.923866Z",
+    "filename": "vcinteraction-fabric-1.0.8+26.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/WQ2lo58r/vcinteraction-fabric-1.0.8%2B26.1.1.jar",
+    "sha512": "33f0091d09b1f274db057b4d12a447341660737ea149b8bfcdaa0b01093fb97a4f4a7f5739eff511f9fb9b8480bdf1a8c5be82d0f7d74aabdca104212454b845"
+  },
+  "fabric-1.0.8+26.1.2": {
+    "versionId": "iOesV3fA",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-04-10T13:45:29.561521Z",
+    "filename": "vcinteraction-fabric-1.0.8+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/iOesV3fA/vcinteraction-fabric-1.0.8%2B26.1.2.jar",
+    "sha512": "f44a72be317546acb1c44caf9d52561bb57fed392e2e6e3827b21b91d2b44f3497342c01d68309a8a2ba5973b9212493536c904b1da49208b98d34b22b760099"
+  },
+  "fabric-1.0.8+26.2": {
+    "versionId": "luUS5Hod",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-16T15:33:54.891466Z",
+    "filename": "vcinteraction-fabric-1.0.8+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/luUS5Hod/vcinteraction-fabric-1.0.8%2B26.2.jar",
+    "sha512": "4f2f6fe0675dc7a95275de8251870e0cc79b2657e46010038a85aaee401f39636b566ed46dd0b213ad5ece41c1e73d3380ac8d293393c3162a849f3d63b212dd"
+  },
+  "fabric-1.19-1.0.1": {
+    "versionId": "vuzuiv1A",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-09T08:02:37.871290Z",
+    "filename": "vcinteraction-1.19-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fabric-1.19-1.0.1/vcinteraction-1.19-1.0.1.jar",
+    "sha512": "d08f59c48d7a993d70494d1d378014ed9f100412324f8cbfb4e6850be9574e72e9b2279ac48a129ea58e9f4b10495524b6c3ba75a26ed53d591084edfd119b0b"
+  },
+  "fabric-1.19-1.0.2": {
+    "versionId": "38g9RLnU",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-17T20:57:41.468288Z",
+    "filename": "vcinteraction-1.19-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fabric-1.19-1.0.2/vcinteraction-1.19-1.0.2.jar",
+    "sha512": "571e0f7dc6e87a6424fc2700d7acb247688992c74d21a1aa572c0bb6f255591f41f700f9c6bf10d0c1689eb7d355a5ad9148d7d9dfc99577f840326ab1908244"
+  },
+  "fabric-1.19.1-1.0.2": {
+    "versionId": "63KsLjqx",
+    "gameVersions": [
+      "1.19.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-07-27T17:57:26.936763Z",
+    "filename": "vcinteraction-1.19.1-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fabric-1.19.1-1.0.2/vcinteraction-1.19.1-1.0.2.jar",
+    "sha512": "536aa5634a682b8c68f94eaaf0afede969b7e395ba8d06a484b6159d5f616a0b5299d8c4f6f74d72574e357ef61acff7a81381fc5a669c4a581085e211566168"
+  },
+  "fabric-1.19.2-1.0.2": {
+    "versionId": "ilZ1Gyt5",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-08-05T14:42:17.619672Z",
+    "filename": "vcinteraction-1.19.2-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fabric-1.19.2-1.0.2/vcinteraction-1.19.2-1.0.2.jar",
+    "sha512": "7fd3428f45d0b39163d21ec9acf828d5855ffec3a25473459171ea649e1292ff6f2eabe03896b6bc72442918156ceaf89a7dce4222028606edfb32abe6cf1476"
+  },
+  "fabric-1.19.2-1.0.3": {
+    "versionId": "ljZO4mJm",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-11-25T13:26:42.536251Z",
+    "filename": "vcinteraction-1.19.2-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/ljZO4mJm/vcinteraction-1.19.2-1.0.3.jar",
+    "sha512": "220f52dfeb5d4fac2c129dfc69c143dcf337c3f2977a14a461da28c6d474f3d18d975170f3762e70f75ba9c4f32c47118becdc9ec6d0701ffbffe73d4f0603aa"
+  },
+  "fabric-1.19.2-1.0.4": {
+    "versionId": "1OOyh31D",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-28T11:26:59.151836Z",
+    "filename": "vcinteraction-1.19.2-1.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/1OOyh31D/vcinteraction-1.19.2-1.0.4.jar",
+    "sha512": "698b7dda2aae7bb0eaa742180bddd1d088dc221728601fd31b76ee44987884e5f901826314313943f86d5d5256a9615e01f8c95ab43868b27e0df45207cba6b2"
+  },
+  "fabric-1.19.2-1.0.5": {
+    "versionId": "55L90w2d",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T19:08:43.503950Z",
+    "filename": "vcinteraction-1.19.2-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/55L90w2d/vcinteraction-1.19.2-1.0.5.jar",
+    "sha512": "3b5f054c5e67ba7136845e3284113f87e79a5ec8e99abc1e596b75c655183cbc09c437f3449c6542dcb0b91ed0b88d5cc7990a25a0ab562a99e3c6f6a75db9d2"
+  },
+  "fabric-1.19.2-1.0.6": {
+    "versionId": "JU8Kmubk",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-26T09:53:18.236726Z",
+    "filename": "vcinteraction-fabric-1.19.2-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/JU8Kmubk/vcinteraction-fabric-1.19.2-1.0.6.jar",
+    "sha512": "7009a80ffd1f472eed87aca5e16724bf68423ea1cf06e93090dfca39bdd6348abaf437a580220e182211c1b3cf344d6de2abd5c2187538d5dc0c72ff53fa3033"
+  },
+  "fabric-1.19.3-1.0.3": {
+    "versionId": "FeoZscEV",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-12-07T19:44:29.231510Z",
+    "filename": "vcinteraction-1.19.3-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/FeoZscEV/vcinteraction-1.19.3-1.0.3.jar",
+    "sha512": "fb344187acfce3e836ec1bba6da8bf71cf972a5aa4d786cbecd13b024c88141963026d009b0f5c8006c57e792a20e504817a8485ce71e4a868b56a6721996508"
+  },
+  "fabric-1.19.4-1.0.3": {
+    "versionId": "mk50VjEL",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-03-15T12:27:04.803932Z",
+    "filename": "vcinteraction-1.19.4-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/mk50VjEL/vcinteraction-1.19.4-1.0.3.jar",
+    "sha512": "afe3fc425047e99c6fd12915d606680309ecd7e9915ce95546ea7e8878500585b4ba64c5c150734c8af8fcec9b57eccf000a09d7fe009ee89d7d1994cb582301"
+  },
+  "fabric-1.19.4-1.0.4": {
+    "versionId": "QsSlzEQf",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-28T11:29:18.840853Z",
+    "filename": "vcinteraction-1.19.4-1.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/QsSlzEQf/vcinteraction-1.19.4-1.0.4.jar",
+    "sha512": "f07ce77c559b46c2d1fe95c94e80460bc10152e96c683b559125cc5284cd497a2a1ebf6e2757c83e02f8359311e8d98789b1fe27b5580e7865fd7341c6cc45fc"
+  },
+  "fabric-1.19.4-1.0.5": {
+    "versionId": "7MYzKYs4",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T19:09:36.610361Z",
+    "filename": "vcinteraction-1.19.4-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/7MYzKYs4/vcinteraction-1.19.4-1.0.5.jar",
+    "sha512": "9438fca82391dc34e6687abf3e282a3b0aea4084bfb9a3ca6c09d184e99685121af5acd60225298a34d0bd28bb906589288467dc4e5ff9e1d4ccb1a17fa89ecf"
+  },
+  "fabric-1.19.4-1.0.6": {
+    "versionId": "3amUmqf8",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-26T09:53:54.745502Z",
+    "filename": "vcinteraction-fabric-1.19.4-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/3amUmqf8/vcinteraction-fabric-1.19.4-1.0.6.jar",
+    "sha512": "a0a4cc0f3edf96100625451dbe2c4be62e1d3e2d1cff1520a8614bf14564f0b8ef461c70471e3f1c6f2473e0d3a9d840500130e3cb9d8a02110d6a9b408d9bcd"
+  },
+  "fabric-1.20-1.0.3": {
+    "versionId": "6i6HNoT3",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-07T15:36:36.367756Z",
+    "filename": "vcinteraction-1.20-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/6i6HNoT3/vcinteraction-1.20-1.0.3.jar",
+    "sha512": "64ef301214e52ed855f15b3cb09617ee08ff07445bed7dbadd027f08a664c8b99decf89feca6f50fe334c86ca45a6ec845fca88feb6c82d35a677f63392ae28d"
+  },
+  "fabric-1.20.1-1.0.3": {
+    "versionId": "2jPnBjYc",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-06-12T14:54:48.116823Z",
+    "filename": "vcinteraction-1.20.1-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/2jPnBjYc/vcinteraction-1.20.1-1.0.3.jar",
+    "sha512": "b71920fd7d75e110991671e8ce0b682bb98af96b4cea19f1616fb1d334ab88763307cdbb3e2e2eed5675519f0ce31ac809e683c10a0f519d9a9852598772e1c9"
+  },
+  "fabric-1.20.1-1.0.4": {
+    "versionId": "RowtQNrx",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-28T11:31:08.872736Z",
+    "filename": "vcinteraction-1.20.1-1.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/RowtQNrx/vcinteraction-1.20.1-1.0.4.jar",
+    "sha512": "76772a68c17af6742e91b89b2f396d218b6314fc99682d0eab889a3c4c1a80f3f6a7d0ca105a5d5c8d56d0c0667082cfa6b909d8ed27bc6e2bd58fcae0728799"
+  },
+  "fabric-1.20.1-1.0.5": {
+    "versionId": "v4X0aHw0",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T19:10:22.090811Z",
+    "filename": "vcinteraction-1.20.1-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/v4X0aHw0/vcinteraction-1.20.1-1.0.5.jar",
+    "sha512": "7d6fda60afea86b6e20f8bf32e131eb654911f621f5d6ab6749aa58c710fa03d6c50a59a30e9e4ff63d9cca29963c17031b48001be532cd456ddc2ab181337b7"
+  },
+  "fabric-1.20.1-1.0.6": {
+    "versionId": "LX0uNyw4",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-26T09:54:33.956702Z",
+    "filename": "vcinteraction-fabric-1.20.1-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/LX0uNyw4/vcinteraction-fabric-1.20.1-1.0.6.jar",
+    "sha512": "aaf799e4a0ab02f907538b5afb762b161d581904d98d41e9dc166005eab89dc5b0a489b5fe29c12f7e2285daec7ba2329711a7104a6a2d712d3a9fb25a0aaaf8"
+  },
+  "fabric-1.20.2-1.0.3": {
+    "versionId": "OBliqbUm",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-22T09:47:12.586541Z",
+    "filename": "vcinteraction-1.20.2-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/OBliqbUm/vcinteraction-1.20.2-1.0.3.jar",
+    "sha512": "714643496de455b7cbfb29f800ef69114fcf7d0ebefc1cf08fde7aa23a20a50bd7ba5dfabb2e1f2786d70a3302043ea05b091e5d9d446ab860644486e079147b"
+  },
+  "fabric-1.20.2-1.0.4": {
+    "versionId": "zFoKZurg",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-28T11:32:52.272039Z",
+    "filename": "vcinteraction-1.20.2-1.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/zFoKZurg/vcinteraction-1.20.2-1.0.4.jar",
+    "sha512": "c08fc4f2a0d00844b2b0dcad4021c01fa69946d9b7a9689298d614362c94ad6cb2396028616584d09a69d1bc9a847a82a908bed4765a53eb8b573d63a39c2613"
+  },
+  "fabric-1.20.2-1.0.5": {
+    "versionId": "kCOps8sU",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-30T19:11:13.162Z",
+    "filename": "vcinteraction-1.20.2-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/kCOps8sU/vcinteraction-1.20.2-1.0.5.jar",
+    "sha512": "c2a56a9c4411d8ff7ad2754eeff1bde2af390413e21f12ef08edb5ac2a838232da5fb27aae5259024258c940aa13e9a61669633a22c7f346e3b543e4a5a8abe4"
+  },
+  "fabric-1.20.2-1.0.6": {
+    "versionId": "7QS7AzHY",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-26T09:55:01.031718Z",
+    "filename": "vcinteraction-fabric-1.20.2-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/7QS7AzHY/vcinteraction-fabric-1.20.2-1.0.6.jar",
+    "sha512": "d89236d3d094ddcfefd0fb606b73d923772f512302bb1afe15e243d7392e06f9cbad9aa76aa2d0f08029c07de54b827ed86f0cdd6a89d8cfceed7d3687fc8619"
+  },
+  "fabric-1.20.3-1.0.5": {
+    "versionId": "8UzlNkp5",
+    "gameVersions": [
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-05T18:06:29.574960Z",
+    "filename": "vcinteraction-1.20.3-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/8UzlNkp5/vcinteraction-1.20.3-1.0.5.jar",
+    "sha512": "63bf415553fde889e2e3388ffaf13634ba61e73d5477552d802cb36bcc1f5190005f22dd90eee074214857ca93e22a3942722f7c9c538b57c59a0f78e265094b"
+  },
+  "fabric-1.20.4-1.0.5": {
+    "versionId": "P2KEEmcw",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-07T15:59:38.390870Z",
+    "filename": "vcinteraction-1.20.4-1.0.5.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/P2KEEmcw/vcinteraction-1.20.4-1.0.5.jar",
+    "sha512": "4ba0151f1a96d0157a0809f67302086cdce374cb7330f745bc0b8ebc11608c9833382248f8fdc71ebcad978c0ab4166b9be58d1903b4cd9a7c7c72ddceb19533"
+  },
+  "fabric-1.20.4-1.0.6": {
+    "versionId": "i7ZfTsAF",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2023-12-26T09:55:24.411176Z",
+    "filename": "vcinteraction-fabric-1.20.4-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/i7ZfTsAF/vcinteraction-fabric-1.20.4-1.0.6.jar",
+    "sha512": "377753d51e9d803cfc7f41183c153d31c41a3d09a3d3b21a8383be712aea2d04d7cc36ab7d4c03f6c60f26ff4c2eeb815cd72475825fcc8b3f6255089890d4dc"
+  },
+  "fabric-1.20.5-1.0.6": {
+    "versionId": "I7QfiiJx",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-23T15:33:25.348242Z",
+    "filename": "vcinteraction-fabric-1.20.5-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/I7QfiiJx/vcinteraction-fabric-1.20.5-1.0.6.jar",
+    "sha512": "3d1eda9034271f1acdc7e846dc8dd6b6d15eda501f37a25a03beecb0ae22f9c480a750963a5bce2493a48de3cd15e324e9894b5468b1dbf71324bd425d019841"
+  },
+  "fabric-1.20.6-1.0.6": {
+    "versionId": "VoqoSFjv",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-04-29T16:51:29.351660Z",
+    "filename": "vcinteraction-fabric-1.20.6-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/VoqoSFjv/vcinteraction-fabric-1.20.6-1.0.6.jar",
+    "sha512": "3ec259c15b127a2f0ac3d80364f118ab95977c632cdabba6401141f95be65f19d66693c27a39a45306d20b7b111c4347d3485dc259185121e782962995c47db8"
+  },
+  "fabric-1.21-1.0.7": {
+    "versionId": "KoOapeKw",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2024-06-13T17:11:45.814179Z",
+    "filename": "vcinteraction-fabric-1.21-1.0.7.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/KoOapeKw/vcinteraction-fabric-1.21-1.0.7.jar",
+    "sha512": "0e325476a75051b6ad011949936d899d5bdaf85d2c1d7635b7874167250ad7da3571103fed3d44d58e5267d2c426bdf20325e9fe6de94cb5902ceb8ea14a2e6e"
+  },
+  "fabric-1.21.1-1.0.7": {
+    "versionId": "fauY9zOQ",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-09T11:25:26.297390Z",
+    "filename": "vcinteraction-fabric-1.21.1-1.0.7.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fauY9zOQ/vcinteraction-fabric-1.21.1-1.0.7.jar",
+    "sha512": "b393d8bc1884a88f79f4de9a5ea6c657383d53aff1a728bbe79043386d4c7c6d4f43acdbc03670f28c029c0fb386f96af4bf3772661b34778f1901c2be859feb"
+  },
+  "fabric-1.21.1-1.0.8": {
+    "versionId": "4m0Fd6Fa",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-09T11:27:35.868230Z",
+    "filename": "vcinteraction-fabric-1.21.1-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/4m0Fd6Fa/vcinteraction-fabric-1.21.1-1.0.8.jar",
+    "sha512": "77c5568901c2450d7cc927a9692bf5037e9da137102fc4706f8475d074e89a057bc56f69bcec8f90ebd14cdd650db2c61f02a2db57145fbb482a6a50b717528a"
+  },
+  "fabric-1.21.10-1.0.8": {
+    "versionId": "kONRqDyw",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-10-07T15:24:18.792317Z",
+    "filename": "vcinteraction-fabric-1.21.10-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/kONRqDyw/vcinteraction-fabric-1.21.10-1.0.8.jar",
+    "sha512": "5ae5fdd8fde639886b881b9138ff577989135850c10c7e84afb81c1cc614964faef3986d92ae93a97477fcadc6a0e58e7940ded4075daa87cc3b52a6839a1984"
+  },
+  "fabric-1.21.11-1.0.8": {
+    "versionId": "9PqoA83N",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-12-09T16:35:35.918068Z",
+    "filename": "vcinteraction-fabric-1.21.11-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/9PqoA83N/vcinteraction-fabric-1.21.11-1.0.8.jar",
+    "sha512": "c16e9233d4798333650e90006b0657a0e7c347703fbab5e9546d38ffc528f9df2bbf82bf2e4d0b49de2ec6891b3b550b6104b0d3a8b111527434359fc41c6411"
+  },
+  "fabric-1.21.2-1.0.8": {
+    "versionId": "k9QLnWhe",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-22T15:41:35.148850Z",
+    "filename": "vcinteraction-fabric-1.21.2-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/k9QLnWhe/vcinteraction-fabric-1.21.2-1.0.8.jar",
+    "sha512": "32351f2b6d7bcd9680389c0a75a8eb02002a57763f22ba4da56d2423a16d734607843be13ff8a5733a4375fa97978ad4beafbee4c185f9681ec66f50ec911d96"
+  },
+  "fabric-1.21.3-1.0.8": {
+    "versionId": "5MeVBOF8",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-23T16:33:19.905284Z",
+    "filename": "vcinteraction-fabric-1.21.3-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/5MeVBOF8/vcinteraction-fabric-1.21.3-1.0.8.jar",
+    "sha512": "0f2704ed6009df630eb54b1280d023de5f7321d74b8110e1bc186e805371c8178654fa0a6d2fbdeb4cc3a04b8228e545e6de029fc65a6bda47590942f3a6c096"
+  },
+  "fabric-1.21.4-1.0.8": {
+    "versionId": "MCSYkp3r",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-12-03T16:32:11.152646Z",
+    "filename": "vcinteraction-fabric-1.21.4-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/MCSYkp3r/vcinteraction-fabric-1.21.4-1.0.8.jar",
+    "sha512": "f4e43a4a7e8e07bf4a3e096987ce7e71edf73007983436973a1a4205ccdff82b90e09d5e43c0cc3a2691e3750c98a225aa6306ac8dd086eb37729a77c6a8011d"
+  },
+  "fabric-1.21.5-1.0.8": {
+    "versionId": "FjQl1BYe",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-03-25T18:45:23.512887Z",
+    "filename": "vcinteraction-fabric-1.21.5-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/FjQl1BYe/vcinteraction-fabric-1.21.5-1.0.8.jar",
+    "sha512": "e14357002496cbd273ebc761fa6753b7878d51d52d37c0b00c14d84e8b741f65c3edc92e2b38a6a741f4e18156f69816a1c62532affc84dfbc7f6a7224e8b616"
+  },
+  "fabric-1.21.6-1.0.8": {
+    "versionId": "aSXk30aF",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-17T18:58:09.337523Z",
+    "filename": "vcinteraction-fabric-1.21.6-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/aSXk30aF/vcinteraction-fabric-1.21.6-1.0.8.jar",
+    "sha512": "3d5f9cd2e33771cdeff6b7067551b88a4aa203de58289de82045f89fc4d11eb14b763c1da783ecda07ac6c4ca3ba4b0998a3340d875cd6f4135de5baac883db9"
+  },
+  "fabric-1.21.7-1.0.8": {
+    "versionId": "prgeBDfn",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-30T14:19:06.976193Z",
+    "filename": "vcinteraction-fabric-1.21.7-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/prgeBDfn/vcinteraction-fabric-1.21.7-1.0.8.jar",
+    "sha512": "85e397596b5be61a06c2c067e1e276104ccc38a2c02d1c49b0d63d4cf127dbf77388166145e99e54a72ddf5b66000e2e18bc3f01e8e1608120b7372706f354e6"
+  },
+  "fabric-1.21.8-1.0.8": {
+    "versionId": "M9BfeJDT",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-17T14:51:54.840115Z",
+    "filename": "vcinteraction-fabric-1.21.8-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/M9BfeJDT/vcinteraction-fabric-1.21.8-1.0.8.jar",
+    "sha512": "0ce58e5e6fd8acb020f1a1623f2e3da12f0f973cd97cf53c7a50f83d52c1fbc1b6a03dc7f8360727fb0548613f40628dfefb1833c07b6478151beb3b0da7dd10"
+  },
+  "fabric-1.21.9-1.0.8": {
+    "versionId": "PhtN4k6P",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-09-30T15:32:25.634181Z",
+    "filename": "vcinteraction-fabric-1.21.9-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/PhtN4k6P/vcinteraction-fabric-1.21.9-1.0.8.jar",
+    "sha512": "779720fa2e63b34a3894e7602cd02273e9b14c34f6fd5a40f7ff2e0930fb5fb3b000d450fe637a268cdeee1f4f6e7761b9d85bae20fab02d78cf4e99a1e0a81b"
+  }
+}

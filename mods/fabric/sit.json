@@ -1,0 +1,1680 @@
+{
+  "1.0.0+1.20-1.20.1": {
+    "versionId": "e3BkkdIW",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-23T02:33:25.823251Z",
+    "filename": "sit!-1.0.0+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/e3BkkdIW/sit%21-1.0.0%2B1.20-1.20.1.jar",
+    "sha512": "edca1149fa9499b0b4fc5585e8281c362c5bdaa57def4bd8834b9d07348fb7077ac1a585643a46cabd85f9f015bd480485646ec24e3afe4ef9727a4cdabe0176"
+  },
+  "1.0.1+1.20-1.20.1": {
+    "versionId": "HoMKjOeU",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-07-25T12:50:28.970799Z",
+    "filename": "sit!-1.0.1+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/HoMKjOeU/sit%21-1.0.1%2B1.20-1.20.1.jar",
+    "sha512": "1265a8fe8362da93c9d475ef5d4a253a94a31a3094a8b0c7d049726c6033e57590b3875f749f986d60b75a169fb52271a0bf4ee50a04506730cb6ecf9cbf956d"
+  },
+  "1.0.2+1.20-1.20.1": {
+    "versionId": "RU8IKlNO",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-08-03T04:13:22.775024Z",
+    "filename": "sit!-1.0.2+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/RU8IKlNO/sit%21-1.0.2%2B1.20-1.20.1.jar",
+    "sha512": "f5f53a62c2bee50f526ca630c802e0c4dd975c8e98383715eec30068da5c88c9bf4d2cebfbcecf7ca008f6a14f39a201e8e85b43ff9da2e96fdee8997f51d66c"
+  },
+  "1.0.2+1.20.2": {
+    "versionId": "GA5fQWwP",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-21T17:19:04.405963Z",
+    "filename": "sit!-1.0.2+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/GA5fQWwP/sit%21-1.0.2%2B1.20.2.jar",
+    "sha512": "822e39fa1ccb1b9668d44523b1d6f98973d57170420095d8b0068a82c08572116a95671bf05f5a14379470f2d8bd63586243404403b7f2fd2f71a907474a214a"
+  },
+  "1.0.2+1.20.2-pre1": {
+    "versionId": "TkKnal66",
+    "gameVersions": [
+      "1.20.2-pre1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-05T21:49:14.047084Z",
+    "filename": "sit!-1.0.2+1.20.2-pre1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/TkKnal66/sit%21-1.0.2%2B1.20.2-pre1.jar",
+    "sha512": "60817eac107edd3b5774d20a2134d0620ba1a39299e1f77c764a48927284acc37a5b30473bfebb9dfd935f92a00004cfbf2bb9e7744f21a644970cff4bd26267"
+  },
+  "1.0.2+1.20.2-pre2": {
+    "versionId": "vseAb8Ge",
+    "gameVersions": [
+      "1.20.2-pre2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-07T19:35:50.808877Z",
+    "filename": "sit!-1.0.2+1.20.2-pre2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/vseAb8Ge/sit%21-1.0.2%2B1.20.2-pre2.jar",
+    "sha512": "51432dc4e12468c8fd52139556a7aeff0fb70ed1e694f8cf8ab8cf4d6f924ea76f43752a3104d4c6dbb385c382092a632a05ec1a964c472de4663e51bebe458a"
+  },
+  "1.0.2+1.20.2-pre3": {
+    "versionId": "jNYuk1KW",
+    "gameVersions": [
+      "1.20.2-pre3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-12T17:44:00.396577Z",
+    "filename": "sit!-1.0.2+1.20.2-pre3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/jNYuk1KW/sit%21-1.0.2%2B1.20.2-pre3.jar",
+    "sha512": "f233629360896e3232b50993bca7bc1777f747801af44d50934f031cdfd19b4f8b03ed70d152cc64f7cbf0c0a5e6c46e4cfa904ff84f7e54e738aced9c20000f"
+  },
+  "1.0.2+1.20.2-pre4": {
+    "versionId": "2ibUlM2y",
+    "gameVersions": [
+      "1.20.2-pre4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-13T17:41:45.247980Z",
+    "filename": "sit!-1.0.2+1.20.2-pre4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/2ibUlM2y/sit%21-1.0.2%2B1.20.2-pre4.jar",
+    "sha512": "62c775af61f9f63341d78db2e1b48cdfc344e672239f9b873cfd93e4196649419f4e731aa881d5dce1b93d6d662965c6f1353f154cfb9e4ab3b7d6abdaf4c58e"
+  },
+  "1.0.2+1.20.2-rc1": {
+    "versionId": "SlBwawnd",
+    "gameVersions": [
+      "1.20.2-rc1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-16T17:37:12.206329Z",
+    "filename": "sit!-1.0.2+1.20.2-rc1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/SlBwawnd/sit%21-1.0.2%2B1.20.2-rc1.jar",
+    "sha512": "87d0a47581631bfc4167db691103fb7f9451eabdb9b35154772a741b33319f604fc287789048fae414fff1c4986980f94c24439fb0bcc2f5e1af58829ece3539"
+  },
+  "1.0.2+1.20.2-rc1-1.20.2-rc2": {
+    "versionId": "WaDvcp9O",
+    "gameVersions": [
+      "1.20.2-rc1",
+      "1.20.2-rc2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-18T20:24:00.344324Z",
+    "filename": "sit!-1.0.2+1.20.2-rc1-1.20.2-rc2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/WaDvcp9O/sit%21-1.0.2%2B1.20.2-rc1-1.20.2-rc2.jar",
+    "sha512": "37ed839359a6789326cb982c17252939e6b986cd36281e006070458c4f315247e650b56c11dea869bc8164d48953d1946b0e5e8b27a86137f305dfade7453a83"
+  },
+  "1.0.2+23w31a": {
+    "versionId": "aeEFhnwM",
+    "gameVersions": [
+      "23w31a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-09T02:38:36.663509Z",
+    "filename": "sit!-1.0.2+23w31a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/aeEFhnwM/sit%21-1.0.2%2B23w31a.jar",
+    "sha512": "ae77910e895d04a84aafd639cc3119ad97ccb1951d2feb9b815fbad7d5801c7b12e154b192717f32f3c088d7b336e58369a11a4edf3d13f3771d2074e3870f1b"
+  },
+  "1.0.2+23w32a": {
+    "versionId": "UsFGSyiE",
+    "gameVersions": [
+      "23w32a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-09T22:14:49.639366Z",
+    "filename": "sit!-1.0.2+23w32a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/UsFGSyiE/sit%21-1.0.2%2B23w32a.jar",
+    "sha512": "a1c96346bb645f1269c93dbc8e888351c8370b2ac3338f37ed62d2ac8a40e5487a1f1933766abf1e2b5d146169430ba7885aca750b7309148bdde2b5e5d25d95"
+  },
+  "1.0.2+23w33a": {
+    "versionId": "29bCGtyS",
+    "gameVersions": [
+      "23w33a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-08-17T17:40:33.794144Z",
+    "filename": "sit!-1.0.2+23w33a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/29bCGtyS/sit%21-1.0.2%2B23w33a.jar",
+    "sha512": "f8bbb7a91d64a3eaeb1713ac763b5838f27ef185c3d677de325f8d02c233cb45dbdbb8f0cd2008effac71e91625ede60c22eef5664166aa2d996e210e83399ca"
+  },
+  "1.0.2+23w35a": {
+    "versionId": "DADMqa0K",
+    "gameVersions": [
+      "23w35a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-09-01T19:19:50.708639Z",
+    "filename": "sit!-1.0.2+23w35a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/DADMqa0K/sit%21-1.0.2%2B23w35a.jar",
+    "sha512": "e552712082bf9ac4f10d62262b63bb3ac4d2e7a847d26babbf88f5b6fefe6be9db252bb28817fce81e2167c57bed548e8512cd78f976dd5708ae614d2b6ad192"
+  },
+  "1.0.3+1.20-1.20.1": {
+    "versionId": "afnAoQTi",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-26T13:35:10.806669Z",
+    "filename": "sit!-1.0.3+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/afnAoQTi/sit%21-1.0.3%2B1.20-1.20.1.jar",
+    "sha512": "5d9f8ba0a15b33bb230c8bef6594400a95351fa325a365c1079bd96996c79e2d7182ce21b35610b9e97d171e3086269965a5020c9f267d0e98e33464487b6586"
+  },
+  "1.0.3+1.20.2": {
+    "versionId": "Kwtxiwsy",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-10-28T14:12:41.995267Z",
+    "filename": "sit!-1.0.3+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Kwtxiwsy/sit%21-1.0.3%2B1.20.2.jar",
+    "sha512": "8cd2cbac0f731fdf83438961440a2420a76197ebc638cc18da6ccde93a12d755518a34bb176586cbd6c1a6bb6530c439aa2618d2d3c9eec16c82909f36d82ad2"
+  },
+  "1.0.3+23w41a": {
+    "versionId": "qneOkQv1",
+    "gameVersions": [
+      "23w41a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-13T14:21:24.662143Z",
+    "filename": "sit!-1.0.3+23w41a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/qneOkQv1/sit%21-1.0.3%2B23w41a.jar",
+    "sha512": "96e7a663ea72a1af5769ff5ee0a77e33dbf0ebc0a6686f26d3ff47bd7f592d0b567ab9f11d0ede0a55a5eb057a59f429265110677628bbeb93b21f8171f11e25"
+  },
+  "1.0.3+23w42a": {
+    "versionId": "EeixE7lH",
+    "gameVersions": [
+      "23w42a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-18T18:08:46.878167Z",
+    "filename": "sit!-s1.0.3+23w42a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/EeixE7lH/sit%21-s1.0.3%2B23w42a.jar",
+    "sha512": "a203d81792416b674f28007f1d6b65263f787032499497ab835bd411a3e7379c170b2552830b924abcdf5dc5a62f7cd900e17900fb2bfd5f14ee4dcd7df47772"
+  },
+  "1.0.3+23w43a": {
+    "versionId": "bZVvYYkY",
+    "gameVersions": [
+      "23w43a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-25T16:04:06.017206Z",
+    "filename": "sit!-s1.0.3+23w43a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/bZVvYYkY/sit%21-s1.0.3%2B23w43a.jar",
+    "sha512": "588bc5ce2eca557ab1ed25f575e876b3d4ff2c284ca45cfec3d393f0fc3e79781a713aa1d92b056551ef96e1a34252dd87454c62756f00fdaffa72c9373aaa51"
+  },
+  "1.1.0+1.20-1.20.1": {
+    "versionId": "pkvJ8vFE",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-26T17:22:25.862263Z",
+    "filename": "sit!-1.1.0+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/pkvJ8vFE/sit%21-1.1.0%2B1.20-1.20.1.jar",
+    "sha512": "979d8a3e9298236346cb90f374eec6d22d7f8abe74db3e0fbc363becce916383ced0e8a7c05c33bc5b1b562be1a372319141d12e1966f2c584e123e9df7b634e"
+  },
+  "1.1.0+1.20.2": {
+    "versionId": "i9CXUeL3",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-11-26T15:04:09.981547Z",
+    "filename": "sit!-1.1.0+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/i9CXUeL3/sit%21-1.1.0%2B1.20.2.jar",
+    "sha512": "ac30602553f69631eab19898bd0e2086680bca0e1e41a1261f6079cc2bd247688de5f44fab63124ca6783a4443942c5aa2ff401d90c6ce451e9eb1f827dbe64a"
+  },
+  "1.1.1+1.20-1.20.1": {
+    "versionId": "AzFHTyLV",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-05T20:59:07.465129Z",
+    "filename": "sit!-1.1.1+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/AzFHTyLV/sit%21-1.1.1%2B1.20-1.20.1.jar",
+    "sha512": "382bcadfd022cc145ab20c55fe428366611e72d851e8159982f34b11490dda2f2a285b56f9cac6fb3040d98425499a89b37f1372ab5e30444d44ce0463da8eb5"
+  },
+  "1.1.1+1.20.2-1.20.3": {
+    "versionId": "Cms7HZ20",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-05T20:24:35.031996Z",
+    "filename": "sit!-1.1.1+1.20.2-1.20.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Cms7HZ20/sit%21-1.1.1%2B1.20.2-1.20.3.jar",
+    "sha512": "a192b20e0cf28f1e6ec80cdfc8220c3b431d62f6aa4c6005b3e8283bc3bd8faaa3990184c1462c84ef37e5c573572c874cc83a151db91b2545d4687b0be2bc10"
+  },
+  "1.1.1+1.20.2-1.20.4": {
+    "versionId": "sBzguQR0",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-07T18:25:46.302287Z",
+    "filename": "sit!-1.1.1+1.20.2-1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/sBzguQR0/sit%21-1.1.1%2B1.20.2-1.20.4.jar",
+    "sha512": "c25de4f357e708adf92f9171b8731c227859a429bb0d36944de02a9cb2152a5e4a0160286ef5ff08149f0d1a14eee6fad672a2a9a11193b9337291c20834622f"
+  },
+  "1.1.10+1.20.1": {
+    "versionId": "iLrlRGHY",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-24T22:12:50.810591Z",
+    "filename": "sit!-1.1.10+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/iLrlRGHY/sit%21-1.1.10%2B1.20.1.jar",
+    "sha512": "acd97cac2096ad1c293692e8368bdbe233282bb7518e56dfdeeb30e3ba03d7997a1a28c5daf59049128aafb4188f5f637f7c66011e551e54382e0080650868d9"
+  },
+  "1.1.10+1.20.4": {
+    "versionId": "DG3BZxwx",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-24T22:15:19.027092Z",
+    "filename": "sit!-1.1.10+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/DG3BZxwx/sit%21-1.1.10%2B1.20.4.jar",
+    "sha512": "a742cc28741497e31f4bca0d79c54ae25640fdcba79448ea078fb55fed138875703421b8eff2b81f810ef69c84ba57d2537e6516db5fd3a254996ba124277220"
+  },
+  "1.1.10+1.20.6": {
+    "versionId": "FGAPJXqe",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-24T22:16:28.864560Z",
+    "filename": "sit!-1.1.10+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/FGAPJXqe/sit%21-1.1.10%2B1.20.6.jar",
+    "sha512": "b731ff12cf102200a4cb1b7d375622c9cac69fadb948c0509dbd73593a37f71b229e0c7c0821b87367794f1bf359823a0cb964970c75163f01ff4a0fb6d5acc6"
+  },
+  "1.1.10+1.21-1.21.1": {
+    "versionId": "XzGle247",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-24T22:17:01.372838Z",
+    "filename": "sit!-1.1.10+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/XzGle247/sit%21-1.1.10%2B1.21-1.21.1.jar",
+    "sha512": "b69461bed41b736ff6172522aab747eeadc889b4aabf2163ed5cfe9d96410177befa8a071ca2cc3f85ab47b8bfec28a5bbc2b59be7ab972cbe8c3f44e9fc2427"
+  },
+  "1.1.10+1.21.2": {
+    "versionId": "EjnVIozp",
+    "gameVersions": [
+      "1.21.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-22T16:23:25.267830Z",
+    "filename": "sit!-1.1.10+1.21.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/EjnVIozp/sit%21-1.1.10%2B1.21.2.jar",
+    "sha512": "ace97ffabb37b2a938f7f8c3190aa96d93b82f31aaa998d843b9ac65325f290a1be9d9ba8521cae0884af81dcfbfe68b49b21a8afafcd2db9119741f9fed9e79"
+  },
+  "1.1.10+1.21.3": {
+    "versionId": "7k45fPnV",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-23T16:52:32.128374Z",
+    "filename": "sit!-1.1.10+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/7k45fPnV/sit%21-1.1.10%2B1.21.3.jar",
+    "sha512": "7eb0d593d017dc745e6b7583bb80214be3cd9f6ed6e9ca8af4fd65dd182a840360066227264617dc966689c1454ca6cbb8da98acca10079224f5d6cf02e4da7a"
+  },
+  "1.1.2+1.20.2-1.20.4": {
+    "versionId": "zNNsNobp",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-09T19:10:31.473250Z",
+    "filename": "sit!-1.1.2+1.20.2-1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/zNNsNobp/sit%21-1.1.2%2B1.20.2-1.20.4.jar",
+    "sha512": "ee8734768a4cd8e88b0ab2d510797ba732dbc1e0d31837089ac2007e54d2d224a0d0dc40658cfe5930c929ba476c579bfe77f7b36b22aad5cd98e92d2c2962c6"
+  },
+  "1.1.3+1.20-1.20.1": {
+    "versionId": "9RC1jgLa",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-08T18:13:43.993853Z",
+    "filename": "sit!-1.1.3+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/9RC1jgLa/sit%21-1.1.3%2B1.20-1.20.1.jar",
+    "sha512": "edbc4b5c143f0922930ea5c59b71e7cebaaafa825042f3f8ec5c974f442ea289d6edea9acce5857806ae5b49eb7b894b22d21ff7ed95fcf4fa22078bc71d5843"
+  },
+  "1.1.3+1.20.2-1.20.4": {
+    "versionId": "64Ph2wUH",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-08T18:13:50.152101Z",
+    "filename": "sit!-1.1.3+1.20.2-1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/64Ph2wUH/sit%21-1.1.3%2B1.20.2-1.20.4.jar",
+    "sha512": "8775b611ff1712b50bf59852dc0479c91a0149b34b7ee04cb3f94b503198374d8dcc191ffd3d80ea012b839aef137e1a549918a615ae39099fe1444ad02475bd"
+  },
+  "1.1.4+1.20-1.20.1": {
+    "versionId": "yRayXLeH",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-05T16:17:32.542355Z",
+    "filename": "sit!-1.1.4+1.20-1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yRayXLeH/sit%21-1.1.4%2B1.20-1.20.1.jar",
+    "sha512": "8e49ec15d0eaf4f2f70727c43c61e042b0aa44c304f8dec0540f8ada2ebbe2022cb0cdabb90649f7609334f6726357847e04a16d56bbcc23939584ccc06edc24"
+  },
+  "1.1.4+1.20.2-1.20.4": {
+    "versionId": "wuMBQ49N",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-05T16:17:34.774815Z",
+    "filename": "sit!-1.1.4+1.20.2-1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/wuMBQ49N/sit%21-1.1.4%2B1.20.2-1.20.4.jar",
+    "sha512": "b0de761a5d6f3db3fa2d753fec3f0bff719a1bbcca39013a42e323b5d89510022a990c1d54834b854264c9d3b565e0a0f39e6beda65967549a513ec4f8ce3164"
+  },
+  "1.1.4+1.20.5": {
+    "versionId": "5ibldTWu",
+    "gameVersions": [
+      "1.20.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-23T16:19:26.377251Z",
+    "filename": "sit!-1.1.4+1.20.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/5ibldTWu/sit%21-1.1.4%2B1.20.5.jar",
+    "sha512": "0b0e60c52ef7927eee92d1cd482f215689dd2163372b880bec572bfc0ebe9033f56646c2296644395852ddab10d5274941eeb3fdbf54f4601d2feca386c9cc15"
+  },
+  "1.1.5+1.20.1": {
+    "versionId": "LBPlizvM",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T17:49:30.883384Z",
+    "filename": "sit!-1.1.5+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/LBPlizvM/sit%21-1.1.5%2B1.20.1.jar",
+    "sha512": "17796dae529224021b0a7d9a9ff3cabbdaa8a4ac4319e49078ea4c8fe4311b22fcf80d72355a9fd7d3cb89e6740c689a40b8c633c48e09068987742e8d239876"
+  },
+  "1.1.5+1.20.2-1.20.4": {
+    "versionId": "PQVEDsrw",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T17:49:27.956093Z",
+    "filename": "sit!-1.1.5+1.20.2-1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/PQVEDsrw/sit%21-1.1.5%2B1.20.2-1.20.4.jar",
+    "sha512": "25282216553ae95dacb93ed8f8e86bd9e96e8946a63bd3c7571a41acbc6c74614883faaa17e442ee641cef4d84176e20c7850ec994f0cf657681522396c7c04b"
+  },
+  "1.1.5+1.20.6": {
+    "versionId": "A0kfk7px",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-29T17:03:12.266638Z",
+    "filename": "sit!-1.1.5+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/A0kfk7px/sit%21-1.1.5%2B1.20.6.jar",
+    "sha512": "4d57192340dd871d21b1548916a08749c686e194b3343e59cb9ffa26824966c385cb9f0397c74301ed87692faf94341dc7fbec14153900c659559a7b35ebe5b4"
+  },
+  "1.1.6+1.20.1": {
+    "versionId": "vQUR6cgQ",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T19:36:30.870020Z",
+    "filename": "sit!-1.1.6+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/vQUR6cgQ/sit%21-1.1.6%2B1.20.1.jar",
+    "sha512": "aa54957ba785835176fb946b8c53551759b9a931267dc90996d1083ef9259aa971dab97912e56222af9ad568334c5cf2d0d5bd1937439790fc422d14df5c7510"
+  },
+  "1.1.6+1.20.4": {
+    "versionId": "13fieKGt",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T19:36:26.703553Z",
+    "filename": "sit!-1.1.6+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/13fieKGt/sit%21-1.1.6%2B1.20.4.jar",
+    "sha512": "69407f84b2518a3083c4f0e524a3f1e78c0b39bab565c7fa8d8f6bdc2068c554c23de679db53195ea173cfcf3d781beec1db32997634eb38a86c0146930b265a"
+  },
+  "1.1.6+1.20.6": {
+    "versionId": "RCahS6Oh",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-16T20:15:36.472487Z",
+    "filename": "sit!-1.1.6+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/RCahS6Oh/sit%21-1.1.6%2B1.20.6.jar",
+    "sha512": "ec93047e08af54e79b7ea19124e5afc6701504696f8bd30882d4c06e0a2680e22478fa819559cd27ec6c3ece650771a46e62cfa1079feace3a8eb2a0c32ed3cf"
+  },
+  "1.1.6+1.21": {
+    "versionId": "4cTV9eag",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T15:43:34.366221Z",
+    "filename": "sit!-1.1.6+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/4cTV9eag/sit%21-1.1.6%2B1.21.jar",
+    "sha512": "54904f7db3c9a7707ab9d130c494a4d8bebebc224ec0800846fd909fea1344161dd8774143337641dddf6d8bcc3a3aa02050aaa5a1d08744d1830a03eedb6d67"
+  },
+  "1.1.7+1.21": {
+    "versionId": "sHchUbpF",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-23T00:32:08.315553Z",
+    "filename": "sit!-1.1.7+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/sHchUbpF/sit%21-1.1.7%2B1.21.jar",
+    "sha512": "0b4f13958e9c93fb4fc47278199c7691a19cb6fa5b38da3a85e7a3462c7b0691c624a37b46dc76b092fe6e3c77f801ab46b5de2c53ed82f6021a1a0944c4b699"
+  },
+  "1.1.8+1.20.1": {
+    "versionId": "ZZdDnczl",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-22T15:56:03.404977Z",
+    "filename": "sit!-1.1.8+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ZZdDnczl/sit%21-1.1.8%2B1.20.1.jar",
+    "sha512": "472ddc3940a20ac358eb7eacfb57fd87ebec88d4aca7b45d6ba2f41315eae745872743ad2815f66c5a10489a208341c7d6d75abc62cef5e0130e6af3eca882b4"
+  },
+  "1.1.8+1.20.4": {
+    "versionId": "MUS2YN3V",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-22T15:55:56.651406Z",
+    "filename": "sit!-1.1.8+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/MUS2YN3V/sit%21-1.1.8%2B1.20.4.jar",
+    "sha512": "25c90fd9aeaf5b11866e433bf5aa4a3084e66d632e62bcb90dd0bec36fc8523e5e1099fe3b586b2b03ff30bd911f3c60d616644a4afa9c41e1dc2b1db03206d3"
+  },
+  "1.1.8+1.20.6": {
+    "versionId": "phDooUKF",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-22T15:54:23.677052Z",
+    "filename": "sit!-1.1.8+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/phDooUKF/sit%21-1.1.8%2B1.20.6.jar",
+    "sha512": "bed3d7d2c4a83c90b7ea7b0847198114342e913a2020ca236505a5abd064f0efab5cf9d0bc6ced4d80974ca247440bf4ebed9bedf329ab372e60d2e7e15016a2"
+  },
+  "1.1.8+1.21": {
+    "versionId": "Nl20Sfvy",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-22T15:53:13.214888Z",
+    "filename": "sit!-1.1.8+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Nl20Sfvy/sit%21-1.1.8%2B1.21.jar",
+    "sha512": "797235a5e1d7291c8e9bfa7b6702ebb259edbb8da405203904efa364c3aa8092994e85aff85fd1c95487569193e9593205d30fbca2668dccb98132c1febe4afe"
+  },
+  "1.1.9+1.21-1.21.1": {
+    "versionId": "WdpALvvv",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-08T15:30:25.970036Z",
+    "filename": "sit!-1.1.9+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/WdpALvvv/sit%21-1.1.9%2B1.21-1.21.1.jar",
+    "sha512": "9b67e347ee2af7499b379a1a0b57afc49bff8cdec456e13e99f30261919aa8632434f84a50db4b784492da3f82e1e326f2f50d8e79f649d4667bc8379d7da1e8"
+  },
+  "1.2.0+1.20.6": {
+    "versionId": "pU916s5i",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-27T16:43:12.199416Z",
+    "filename": "sit!-1.2.0+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/pU916s5i/sit%21-1.2.0%2B1.20.6.jar",
+    "sha512": "4d63f5b762d556612aed5c1862f1a2482b0ecda7be0f8ef8d7774c3ba1be64ed2e1be7cdc70e745e0d33df147dbcbd9c464c1f1b0b2fd7515ca78fce2a882c15"
+  },
+  "1.2.0+1.21-1.21.1": {
+    "versionId": "GNkZt2pd",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-25T19:20:47.584260Z",
+    "filename": "sit!-1.2.0+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/GNkZt2pd/sit%21-1.2.0%2B1.21-1.21.1.jar",
+    "sha512": "195d24135e1c9d330b2d8134b0d7d68841b658153d8e50604048f55c2da894d5efe74bd73b8dfd1f2e9f0f23dfcc7ffeb2818c88ba150dabd7557fc3b6d2c325"
+  },
+  "1.2.0+1.21.3": {
+    "versionId": "YDvOz4q0",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-23T15:55:50.882323Z",
+    "filename": "sit!-1.2.0+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/YDvOz4q0/sit%21-1.2.0%2B1.21.3.jar",
+    "sha512": "cd2fb42e38fe9aee39c13078984d77f9fbb76c57be3c2630577a1dcf3c277e52e72139ec7a6c919f9a836f3b0225d5589a18671524108c676970c088956abec0"
+  },
+  "1.2.0.0+1.21": {
+    "versionId": "P0exJKxv",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-07-12T15:02:41.046262Z",
+    "filename": "sit!-1.2.0.0+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/P0exJKxv/sit%21-1.2.0.0%2B1.21.jar",
+    "sha512": "b6472652f07d6c78d66acb262665616bbd938608cb1c2556936d875ef15389c01e7ca29371f0ec34fd44cfa4d38636a0814ce3367277e19b48628c6cb7a1b27b"
+  },
+  "1.2.0.1+1.21": {
+    "versionId": "Nft3QqQp",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-07-26T15:45:31.453433Z",
+    "filename": "sit!-1.2.0.1+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Nft3QqQp/sit%21-1.2.0.1%2B1.21.jar",
+    "sha512": "e75ea1b5feb5d628076886da9043cf35c94b91ff3ef5a5b7b5718cf301a2b0ed7ce02bf6ce13b00ad6ee05eca77b4054e0779d5d980e3263238c3da0e9063b81"
+  },
+  "1.2.0.10+1.21.3": {
+    "versionId": "GajAvBaq",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-18T21:40:11.055019Z",
+    "filename": "sit!-1.2.0.10+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/GajAvBaq/sit%21-1.2.0.10%2B1.21.3.jar",
+    "sha512": "58fc1e4797b2709996e4b15bb53024552ae6cf551508e552f147de6bd966892343dbc348fd1452c19e34b82e7b77eb052e0d1033e009e55ddca7baa3ccabbf4c"
+  },
+  "1.2.0.2+1.21-1.21.1": {
+    "versionId": "ruex5xdI",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-11T15:45:31.549404Z",
+    "filename": "sit!-1.2.0.2+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ruex5xdI/sit%21-1.2.0.2%2B1.21-1.21.1.jar",
+    "sha512": "4f0bd250915fba8235722cc9edd7ea1f601206264bf62db1b9385204c63c797d8d10760ff7c64de94fcf3e01bc0bdc7f02e63cb3902e1384277d6aefd7b2823b"
+  },
+  "1.2.0.3+1.21-1.21.1": {
+    "versionId": "2OJvFqNA",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-13T18:08:56.870627Z",
+    "filename": "sit!-1.2.0.3+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/2OJvFqNA/sit%21-1.2.0.3%2B1.21-1.21.1.jar",
+    "sha512": "bcc9fbd63b1736567a3465b02ac0bdd32d8fef30c85374b7130bc81c9267e9d8c40187c2290e8822a26f8d3ca8a2c55b5acec69384461561f24dd30e7392de17"
+  },
+  "1.2.0.4+1.21-1.21.1": {
+    "versionId": "tqW1m05X",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-08-31T15:26:23.396040Z",
+    "filename": "sit!-1.2.0.4+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/tqW1m05X/sit%21-1.2.0.4%2B1.21-1.21.1.jar",
+    "sha512": "b48628456d77305b97c4ca86aa25a1179a3b4883fbd9325de22900f393dd7719b56c4e8980f6f467f8273fb00645692e0da3dedd35cf6ed045bfa5eb0efdb103"
+  },
+  "1.2.0.5+1.21-1.21.1": {
+    "versionId": "eSdZKIw9",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-09-22T16:58:21.271714Z",
+    "filename": "sit!-1.2.0.5+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/eSdZKIw9/sit%21-1.2.0.5%2B1.21-1.21.1.jar",
+    "sha512": "25c1423972dc31f6739fbf659fcd0911494b57a2f4a7a1becb7ccdf5f49b067022578de98ce491eae7a410a8d33e2c9f988b08ebbe3e64eb709b2764b023023b"
+  },
+  "1.2.0.6+1.21-1.21.1": {
+    "versionId": "ZBMV5K6l",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-09-29T16:38:10.874042Z",
+    "filename": "sit!-1.2.0.6+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ZBMV5K6l/sit%21-1.2.0.6%2B1.21-1.21.1.jar",
+    "sha512": "29edf40d9f046663b74d75d5b25e52800d8b98d5ccf03630da9db92758d29f4b877535e33389d2d45876b1fb8b8e16efdaf7b06254e188b90d953a6a11033e19"
+  },
+  "1.2.0.7+1.21-1.21.1": {
+    "versionId": "BXv7sN4Y",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-03T20:48:44.271614Z",
+    "filename": "sit!-1.2.0.7+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/BXv7sN4Y/sit%21-1.2.0.7%2B1.21-1.21.1.jar",
+    "sha512": "224a24491ee296c7cec21c63430adf7152d58864c2d05835e52345ab768c0be1bae7985992ce0c6d78e759345fc842194a5c801737e9752a4b06d971fe5937ee"
+  },
+  "1.2.0.8+1.21-1.21.1": {
+    "versionId": "QFrEHSRS",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-20T15:31:21.064529Z",
+    "filename": "sit!-1.2.0.8+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/QFrEHSRS/sit%21-1.2.0.8%2B1.21-1.21.1.jar",
+    "sha512": "491c05a36ef92d031c09964b52e65752f629a22995ad0408ec3487af3f13878d7f56d00101fee3adcc649b3ae4d4f08462555c6717d1655c65c8ac9d3613ca57"
+  },
+  "1.2.0.8+1.21.3": {
+    "versionId": "Q50T5fDD",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-10-28T20:52:51.911145Z",
+    "filename": "sit!-1.2.0.8+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Q50T5fDD/sit%21-1.2.0.8%2B1.21.3.jar",
+    "sha512": "0abfd40158298d74b59e37ebdd09520139b71c1f893b453c5ff04be4a28ac2c444a941867b412e9bbec89aac7d785873008e01316bd754f77fad8f3622c11b02"
+  },
+  "1.2.0.9+1.21.3": {
+    "versionId": "gPR7xw2r",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-11-10T17:19:35.429298Z",
+    "filename": "sit!-1.2.0.9+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/gPR7xw2r/sit%21-1.2.0.9%2B1.21.3.jar",
+    "sha512": "7a1dfa8a488932c97e4f3ef81f657e7998e03e0ee10a678c1910957ea26c6d5faee0daf2383ae52ca197117b6b21f5c5f361c5039d016cb6752676b53c63e9b3"
+  },
+  "1.2.1+1.20.1": {
+    "versionId": "VD4mDKYW",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-23T00:00:18.729552Z",
+    "filename": "sit!-1.2.1+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/VD4mDKYW/sit%21-1.2.1%2B1.20.1.jar",
+    "sha512": "b09f64fcad00e9dd7e597cc758443b6ce7ef8f33642e226316d6c02b84b488572f5220dae8299304b6fb8c45be17d58df5c15ea355c49837bd61f7bc714c26bd"
+  },
+  "1.2.1+1.20.4": {
+    "versionId": "sdcDwcmX",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-17T18:52:13.289652Z",
+    "filename": "sit!-1.2.1+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/sdcDwcmX/sit%21-1.2.1%2B1.20.4.jar",
+    "sha512": "169e7caf760dc36f8a2396cd61a86f33d549390e9dc0aaf58e762c2e9dfaca076991c2d2fc324515bc2602126f6025ef462fbe0f2332a21e777df53c618a7a26"
+  },
+  "1.2.1+1.20.6": {
+    "versionId": "ExAxyvr0",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-11T20:54:21.087682Z",
+    "filename": "sit!-1.2.1+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ExAxyvr0/sit%21-1.2.1%2B1.20.6.jar",
+    "sha512": "807a8f60c72482e2998886b932ce24cbd0d0b22a8c5041f4c3443a2ea1569c0e7f9b2289b5c8ede25544e2ea6d1b33b31ca72f2bb4aa9a8da2c5257205dde854"
+  },
+  "1.2.1+1.21-1.21.1": {
+    "versionId": "UvuuwmsA",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-15T17:59:58.971378Z",
+    "filename": "sit!-1.2.1+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/UvuuwmsA/sit%21-1.2.1%2B1.21-1.21.1.jar",
+    "sha512": "e325208bcee34fefea28f8cf7da0ef4594ce57bf6c24650e419f4aada3cfaff2f05293cee198e52c68b6cfcf20238b71acf69f3a01f3b719409c5e54a92c829a"
+  },
+  "1.2.1+1.21.3": {
+    "versionId": "PmME7uTD",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-05T20:17:19.952980Z",
+    "filename": "sit!-1.2.1+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/PmME7uTD/sit%21-1.2.1%2B1.21.3.jar",
+    "sha512": "cd7d2607aa9f3d4cc20402ad510ebc6f00477b951d591875b4a4b33fba75fb75aaa725ab472d5b755fd86226b48f6e76033ea8bc1c3ee4e8c837733befa6fd8d"
+  },
+  "1.2.1+1.21.4": {
+    "versionId": "LmDd9wsK",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-03T17:09:33.867733Z",
+    "filename": "sit!-1.2.1+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/LmDd9wsK/sit%21-1.2.1%2B1.21.4.jar",
+    "sha512": "fcd2e056c0dbf2ace2668ac3ff1f01cedb76695e2be019e8dcac570d000e261170286d17c66f97f769ba988f5a94f669acb79e4733f21a66bb6b3f285357716e"
+  },
+  "1.2.2+1.20.1": {
+    "versionId": "i92F5Bs5",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-23T21:48:10.437711Z",
+    "filename": "sit!-1.2.2+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/i92F5Bs5/sit%21-1.2.2%2B1.20.1.jar",
+    "sha512": "0328bb438a7366284679ea1f96502f9f4a3c83cc4d3c0b5627328577826cc4fcf66a605b97cbf309f68654e2e278b47cdfa5f79d95b7d85bd7abb4b889f47e52"
+  },
+  "1.2.2+1.20.4": {
+    "versionId": "Pb1rmrhz",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-23T21:42:14.483476Z",
+    "filename": "sit!-1.2.2+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Pb1rmrhz/sit%21-1.2.2%2B1.20.4.jar",
+    "sha512": "b9283e83fd62776deff494b7c74bcc3afc2403b04feb8a4b435b2154c181d6193e4a716f7fa2faada8f67dc6c07d922a0831de7dba27872b0998de36655b51e2"
+  },
+  "1.2.2+1.20.6": {
+    "versionId": "SpFRxqDb",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-23T21:39:26.585233Z",
+    "filename": "sit!-1.2.2+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/SpFRxqDb/sit%21-1.2.2%2B1.20.6.jar",
+    "sha512": "6542d1cbe78c876963c995524c68645d17c17248c23eb542dccced186e4b27eef44ea1f0362e4ac7ae4263fb8a8d8698c10619e88dca984ab78851cb7eeba25b"
+  },
+  "1.2.2+1.21-1.21.1": {
+    "versionId": "Op6bkIE0",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-23T21:06:39.603202Z",
+    "filename": "sit!-1.2.2+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Op6bkIE0/sit%21-1.2.2%2B1.21-1.21.1.jar",
+    "sha512": "25046390e6ce34ecc20922d4becfc866188fa34a7436f837cf6d9c52072f8617ddc329d4425f9317aa360a524d8c5f097ab317627b97593a70d31e3e4f4af22b"
+  },
+  "1.2.2+1.21.3": {
+    "versionId": "HQgnpxPT",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-18T18:07:27.654500Z",
+    "filename": "sit!-1.2.2+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/HQgnpxPT/sit%21-1.2.2%2B1.21.3.jar",
+    "sha512": "267a750bc26d7d5eb63cd0b3d305da72ec8bad8444feb02e3910950b196cdb2a8b882881a2c5486f77acc777388c735404a772cbf2c1b11ddbfa2b11dd2f2ae6"
+  },
+  "1.2.2+1.21.4": {
+    "versionId": "2ytuxMt1",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-14T17:59:34.302886Z",
+    "filename": "sit!-1.2.2+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/2ytuxMt1/sit%21-1.2.2%2B1.21.4.jar",
+    "sha512": "fe674ec8c63ebf57419a9adad99c9d1364feece36b9602306445bed3798f753ab86ef2f53c67b40a3904ff08a9d2a70248903e7dd154dba282f432d13b98eb63"
+  },
+  "1.2.3+1.20.1": {
+    "versionId": "sUV22q0D",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-14T19:23:05.451325Z",
+    "filename": "sit!-1.2.3+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/sUV22q0D/sit%21-1.2.3%2B1.20.1.jar",
+    "sha512": "363f190f55f330053b2894ef52b59ccff39bee2522bc1d649d91a52c2a00875981f7d743d9f4b3d680ea5073d7ec55fe9fb7fa59945ca3e80cfbb3fbaaba3c7f"
+  },
+  "1.2.3+1.20.4": {
+    "versionId": "ofRnlUVI",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-14T18:13:04.374678Z",
+    "filename": "sit!-1.2.3+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ofRnlUVI/sit%21-1.2.3%2B1.20.4.jar",
+    "sha512": "96790218b7a3327c93ab4db2cd31fb659de2630e1dbeea1b9ea35be44ab972a43fe0448f69ca02593b10b38ac771cd34f911943a318b028155325ca134eb04e8"
+  },
+  "1.2.3+1.20.6": {
+    "versionId": "E5QWybP4",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-14T18:08:36.813764Z",
+    "filename": "sit!-1.2.3+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/E5QWybP4/sit%21-1.2.3%2B1.20.6.jar",
+    "sha512": "1b01a0edafd79d5fa95a70b36ea76dca6b205237d1cb31dd7e61459b21110186d8ea67b38b1cced6ea5f2e5e971196b9cafe0747dd8b1670ebc2b3d4769f5221"
+  },
+  "1.2.3+1.21-1.21.1": {
+    "versionId": "kuv8ny7G",
+    "gameVersions": [
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-13T22:56:10.567787Z",
+    "filename": "sit!-1.2.3+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/kuv8ny7G/sit%21-1.2.3%2B1.21-1.21.1.jar",
+    "sha512": "58b2db1de83d54df5c623a359293b90aa70d5c5fc7aea43c8616609d598e86c492e07f1c332d5032fb6d5b9a88aa85149f81077bd3d51729097a899a20c094cd"
+  },
+  "1.2.3+1.21.3": {
+    "versionId": "7RPpBaTk",
+    "gameVersions": [
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-13T22:47:59.136485Z",
+    "filename": "sit!-1.2.3+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/7RPpBaTk/sit%21-1.2.3%2B1.21.3.jar",
+    "sha512": "da94d68f7b41cac3951e03a58f8d8a1266e0872abddb19ffa29b2d1c732559efbf3a89bec832cf1c64200dd8633cb2ef5f3cbe30d9f74a7be0504c11a81e5388"
+  },
+  "1.2.3+1.21.4": {
+    "versionId": "31bLjUY2",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-09T19:58:34.348731Z",
+    "filename": "sit!-1.2.3+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/31bLjUY2/sit%21-1.2.3%2B1.21.4.jar",
+    "sha512": "0bcacc51a2e9c89784460b9dcae208939a601f99f0145f172a061f1b6eb0d49bbc7638816210833db22d2d16c668999b2297e932254d418ad7979a8a8da7eda5"
+  },
+  "1.2.3+1.21.5": {
+    "versionId": "sRgfJ3uU",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T17:18:10.819219Z",
+    "filename": "sit!-1.2.3+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/sRgfJ3uU/sit%21-1.2.3%2B1.21.5.jar",
+    "sha512": "c790804f6bb2ca2c7c5bd995e011cdc8b89aab082eac29b680eb789b6b9c369554b972b94ae4206931bed3a740dd2f3081dc4f4e3174566b4ad8f3f0d1f34564"
+  },
+  "1.2.3+1.21.5-pre2-1.21.5": {
+    "versionId": "cTgvJ5fT",
+    "gameVersions": [
+      "1.21.5-pre2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-03-12T23:44:47.331547Z",
+    "filename": "sit!-1.2.3+1.21.5-pre2-1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/cTgvJ5fT/sit%21-1.2.3%2B1.21.5-pre2-1.21.5.jar",
+    "sha512": "d3196b2304ab5cf68b25e21b0cf8ab2877ff595dc2046ad9b59610c7044ca3324eaeb896120e99f3be80329429fa73893f9287468988ef107d69c0c6ea65b013"
+  },
+  "1.2.3.1+1.21.4": {
+    "versionId": "KrowdcsU",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-08T19:37:54.712596Z",
+    "filename": "sit!-1.2.3.1+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/KrowdcsU/sit%21-1.2.3.1%2B1.21.4.jar",
+    "sha512": "0bdf8884fa7629386182888b944787182b08ffaf9c56cb9b307b4275aaf3273a2f806324f8f7819c40aeb5e9d80a6a502a2a823271fa3fc427787d91bb8f06dd"
+  },
+  "1.2.3.1+1.21.5": {
+    "versionId": "QTTlGVkz",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-08T19:05:50.502685Z",
+    "filename": "sit!-1.2.3.1+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/QTTlGVkz/sit%21-1.2.3.1%2B1.21.5.jar",
+    "sha512": "7ef1fec27a4f032a0d5f9c7d4df61192dbdf69eb6dca9322724df57ee58a7e9d2f269884e95bf7f64775567187541132ab75aa2307b848a40aa67a4708ac65cb"
+  },
+  "1.2.3.2+1.20.1": {
+    "versionId": "XjXmxWBs",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-03T17:29:34.969395Z",
+    "filename": "sit!-1.2.3.2+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/XjXmxWBs/sit%21-1.2.3.2%2B1.20.1.jar",
+    "sha512": "8a15c3c42c2a74828663cecca2ebbbd0d04617e3c2a701fff4cfbe4d8ef76ee8705acf181e0c22b21e4a823ed1b49c038316f34959c5cc310fcf8d97d20cf5bd"
+  },
+  "1.2.3.2+1.20.4": {
+    "versionId": "SrMqAMs6",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-03T17:25:15.272787Z",
+    "filename": "sit!-1.2.3.2+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/SrMqAMs6/sit%21-1.2.3.2%2B1.20.4.jar",
+    "sha512": "0a751b30987488267141969bb874cf441fa4766fec7e1405430f44ee868e796c5ec64f04663ae4fcaec2a485299f4a5ce18b0a72f4dfc0b708d5ee3875fabe79"
+  },
+  "1.2.3.2+1.20.6": {
+    "versionId": "eZEdA8qc",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-28T00:42:19.626407Z",
+    "filename": "sit!-1.2.3.2+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/eZEdA8qc/sit%21-1.2.3.2%2B1.20.6.jar",
+    "sha512": "f7267733d94d7cd2d30f4d9896a5e98b9e608f3bdb95ae1f47ad0357d82dbe71a8d848e0df810fb3bc461e5efa03fdabd4db906f757903aacf775473471e7050"
+  },
+  "1.2.3.2+1.21-1.21.1": {
+    "versionId": "4EkoZm7Q",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-28T00:36:35.796155Z",
+    "filename": "sit!-1.2.3.2+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/4EkoZm7Q/sit%21-1.2.3.2%2B1.21-1.21.1.jar",
+    "sha512": "772ba8aa6a777e58c09523c4453da79c670e63c0c44222e22c8bbfa7dff1d1d5963dabfb71a1bb645992cabf821b2d261bb1c6a2a10fb02ce4cebedace77745a"
+  },
+  "1.2.3.2+1.21.4": {
+    "versionId": "p95f9ot4",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-20T00:46:49.216792Z",
+    "filename": "sit!-1.2.3.2+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/p95f9ot4/sit%21-1.2.3.2%2B1.21.4.jar",
+    "sha512": "c4d61ed838b5de10789ab221d089274de11940834f1762b249c68e63953eca0ad3559567cc3c8425680d6a14d856ebace35fa41de849335feee0d07258eae465"
+  },
+  "1.2.3.2+1.21.5": {
+    "versionId": "LQzcYAOs",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-20T00:42:32.186566Z",
+    "filename": "sit!-1.2.3.2+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/LQzcYAOs/sit%21-1.2.3.2%2B1.21.5.jar",
+    "sha512": "daaf4b58a252608a374e561311c2b52987b18c2ef0a8e80279532a4065bb75eca7521b92964f441128a4cc352d806bf962f6e50e0c3fed1ab3faefb7e788734c"
+  },
+  "1.2.4.0+1.21.5": {
+    "versionId": "ANCsofgi",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-08T18:03:48.177798Z",
+    "filename": "sit!-1.2.4.0+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ANCsofgi/sit%21-1.2.4.0%2B1.21.5.jar",
+    "sha512": "f797a1d6e54b48ea5c9cc32601e0074aa486ca5db970f7701340b1bdef3c7d760311eb9b31adeedc070750e73182c4414b8c7bd03c58887d570fd32e75dd18c6"
+  },
+  "1.2.4.1+1.20.1": {
+    "versionId": "zeBAjx3e",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-20T18:02:09.237485Z",
+    "filename": "sit!-1.2.4.1+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/zeBAjx3e/sit%21-1.2.4.1%2B1.20.1.jar",
+    "sha512": "f2030f2c68554552d6f81d78b6b66626dd1dc07557f50812578d7f05c2a0d0dbb8c3689a860ae8566024846d97b5112e16692fda0cb6b7e219ac0a0d3cb4ae76"
+  },
+  "1.2.4.1+1.20.4": {
+    "versionId": "j4eAAyhE",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-20T17:57:56.931786Z",
+    "filename": "sit!-1.2.4.1+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/j4eAAyhE/sit%21-1.2.4.1%2B1.20.4.jar",
+    "sha512": "2ae332e55e1bb4f2104e14b0da4d91df5d6c86ef5c7c724708b8a8bc314707fba2546a4282c6685631a322177b4b00ed5c43759b715c539b9843ed8199ae2d9f"
+  },
+  "1.2.4.1+1.20.6": {
+    "versionId": "MF6UDe0w",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-20T17:50:18.275444Z",
+    "filename": "sit!-1.2.4.1+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/MF6UDe0w/sit%21-1.2.4.1%2B1.20.6.jar",
+    "sha512": "897c5a6140d0205ea16188e8917f25b360f609a3dafb8015c2cc7f154a147542e5a1ba6d72448fe4a7079f7b2d8f7bf5d81c514fa870e6410439dc2eea6a738e"
+  },
+  "1.2.4.1+1.21-1.21.1": {
+    "versionId": "kQaL75j1",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-18T19:02:05.274702Z",
+    "filename": "sit!-1.2.4.1+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/kQaL75j1/sit%21-1.2.4.1%2B1.21-1.21.1.jar",
+    "sha512": "70befeb5f8ac9a0de46bae96ee729f75f8470f317120311a628d84c7f15a6ed5ca5b0eb936cb92bc046b15d3dadbddf6668003133216191fd81a910229a1a98a"
+  },
+  "1.2.4.1+1.21.4": {
+    "versionId": "TdxMsbXY",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-15T16:21:58.646574Z",
+    "filename": "sit!-1.2.4.1+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/TdxMsbXY/sit%21-1.2.4.1%2B1.21.4.jar",
+    "sha512": "a573b607181dbf84c371fd358a73376db0049566bbfb078694ce0348535469a177d136c9bc9b636f38baa3f83e15f924a885277b1d10af4cf961e7a02770793f"
+  },
+  "1.2.4.1+1.21.5": {
+    "versionId": "hpPbXeff",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-13T18:57:22.166894Z",
+    "filename": "sit!-1.2.4.1+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/hpPbXeff/sit%21-1.2.4.1%2B1.21.5.jar",
+    "sha512": "b0a65aa1159b8c5dba9a27ab0602d35846efe9e19649beb04affeefceafdad81314a47d723f06635e3efd2d37f324324ae535bc29365d543520a0a7089a253b6"
+  },
+  "1.2.4.2+1.21.5": {
+    "versionId": "4U9AyhqD",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-14T23:52:24.365107Z",
+    "filename": "sit!-1.2.4.2+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/4U9AyhqD/sit%21-1.2.4.2%2B1.21.5.jar",
+    "sha512": "8deac94f39fb76d9ee02c2269dc0ab5d3dd7050c0c1bbaf3388c73b7bfd6b63b86566d7d068bb6093d80b9a53bb74ac910ee8b8eb565f55a80accc2841371be0"
+  },
+  "1.2.4.3+1.20.1": {
+    "versionId": "lD8cT1eu",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T00:10:37.882848Z",
+    "filename": "sit!-1.2.4.3+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/lD8cT1eu/sit%21-1.2.4.3%2B1.20.1.jar",
+    "sha512": "579ebd9a80969be2ea4e8210734ae3d07dc2852a04693dc0d906a0ae1f02efdf0a4a90e733bbf3593341f4578a310dcc4f22f2e2b807933f491a061803746dab"
+  },
+  "1.2.4.3+1.20.4": {
+    "versionId": "xp5Bv7LB",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T00:08:27.856774Z",
+    "filename": "sit!-1.2.4.3+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/xp5Bv7LB/sit%21-1.2.4.3%2B1.20.4.jar",
+    "sha512": "05c6f71caea09fbda9a557f2f103966bfbdf88e0033d0b98660f3b52a166639b3bf2dbd78bca76c417753389ef513cd7661ab40880c6e1f8dd1a58211a95ecb1"
+  },
+  "1.2.4.3+1.20.6": {
+    "versionId": "H2BI2ivO",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T00:05:29.712210Z",
+    "filename": "sit!-1.2.4.3+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/H2BI2ivO/sit%21-1.2.4.3%2B1.20.6.jar",
+    "sha512": "d77236c9d893749ec291454fc2f271ba41b9b0a4b08f8fcd16851b02a9a5de75663f73d6da522f4f15751c3aff1f9cb1d2477fa4d13bac09e006f51e60614250"
+  },
+  "1.2.4.3+1.21-1.21.1-S4GySOuP": {
+    "versionId": "S4GySOuP",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-27T22:45:16.499275Z",
+    "filename": "sit!-1.2.4.3+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/S4GySOuP/sit%21-1.2.4.3%2B1.21-1.21.1.jar",
+    "sha512": "cdd0cc388e6bb2de7e80933d5ab9738564de1c45fe14a7b166cd0a9762c7074c6bfff68894042dc58eea72f82f77fcadc38397811cf84bcc2363b7f968560e6d"
+  },
+  "1.2.4.3+1.21-1.21.1-cpRlhDqf": {
+    "versionId": "cpRlhDqf",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T00:02:39.156680Z",
+    "filename": "sit!-1.2.4.3+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/cpRlhDqf/sit%21-1.2.4.3%2B1.21-1.21.1.jar",
+    "sha512": "5895eedad49be2521489a5a3ff50176cdb0449c786ec68edaf4193809c64fa58dc9fbbe653ae3909b9c1b2ecb408ec9072b550316daf3e11052895e9c2fc8f33"
+  },
+  "1.2.4.3+1.21.4-2kiWp8u8": {
+    "versionId": "2kiWp8u8",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-27T22:39:05.562020Z",
+    "filename": "sit!-1.2.4.3+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/2kiWp8u8/sit%21-1.2.4.3%2B1.21.4.jar",
+    "sha512": "71402ed50a8e4faea2031f9f3ca9f2cb8c7e3b6de1989feb7806d2973ef8329dcf687b435ae2b1082fe9797e23cdd58a56e4443e97c15ee8dde4d525c4ab19c4"
+  },
+  "1.2.4.3+1.21.4-M5EW8u4o": {
+    "versionId": "M5EW8u4o",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-15T00:00:14.670496Z",
+    "filename": "sit!-1.2.4.3+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/M5EW8u4o/sit%21-1.2.4.3%2B1.21.4.jar",
+    "sha512": "6459532e10757cfa58771c5842f8b0d256d09e9fca95dea6dd542f032ac794b6d89cbfda6fd4e1827ce3b85ab6ce702253b89d6ff8811511a019b721fb340846"
+  },
+  "1.2.4.3+1.21.5": {
+    "versionId": "6djKdeDX",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-14T23:57:58.893169Z",
+    "filename": "sit!-1.2.4.3+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/6djKdeDX/sit%21-1.2.4.3%2B1.21.5.jar",
+    "sha512": "da84ef83d9bbfaa173966c748041fb56351c0d1279a1cb31cf171d888840e8ea54d4de712548ba82c5271f0d42cbecd5a8b764d1b00d6a1290f9d7b17f78bccb"
+  },
+  "1.2.4.3+1.21.6": {
+    "versionId": "bbvv2A7Z",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-17T15:35:11.633333Z",
+    "filename": "sit!-1.2.4.3+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/bbvv2A7Z/sit%21-1.2.4.3%2B1.21.6.jar",
+    "sha512": "17c7d9e12c685e310d9effadbad002c8b008015a2fd9ba8ac6127a26adb1d9f005855c90370cca84b0b1564856ebe4102ba9a2ea22fcd1b86a420a255bcc8412"
+  },
+  "1.2.4.5+1.20.1": {
+    "versionId": "Qta76dAv",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-08T18:28:47.785421Z",
+    "filename": "sit!-1.2.4.5+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Qta76dAv/sit%21-1.2.4.5%2B1.20.1.jar",
+    "sha512": "e8fc9d558032a1595bfa505b9fa0969627cdc0ecfc1d44f753e7b8d72719434ffe45813ab50e5f77f8d34f7d997fb876c1f8bc3c3dc48f05b3daa07200268226"
+  },
+  "1.2.4.5+1.20.4": {
+    "versionId": "uKBTMmFJ",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-08T18:23:53.614126Z",
+    "filename": "sit!-1.2.4.5+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/uKBTMmFJ/sit%21-1.2.4.5%2B1.20.4.jar",
+    "sha512": "42c154fe15c3e71081b2056713dcb978cb12629b98e372a34342d613b79948c8ce11d20bd3a3e62861a4b1ab8c8dadbd90abf5c5c0d17fa3958029bc99731f37"
+  },
+  "1.2.4.5+1.20.6": {
+    "versionId": "OrGqRyTe",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-08T18:21:07.494476Z",
+    "filename": "sit!-1.2.4.5+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/OrGqRyTe/sit%21-1.2.4.5%2B1.20.6.jar",
+    "sha512": "eda86100d9bfc6777a5e476f68cae30f0f8bc91dac0ab220c10621bd915f580abdb3ec073c3314a4c4275d61010b9b70b78195e9074a533ced2cb86efacd6f68"
+  },
+  "1.2.4.5+1.21-1.21.1": {
+    "versionId": "qcOAEgdz",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-08T18:19:53.080818Z",
+    "filename": "sit!-1.2.4.5+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/qcOAEgdz/sit%21-1.2.4.5%2B1.21-1.21.1.jar",
+    "sha512": "5585e2cfca82ec171a1c1c3ce815e26c58b1524b14366d478ef810c15e7e9ecc933018c2186ab6539b6490b0128259f566f5b8920983e2159fd636c1c5dfa1f1"
+  },
+  "1.2.4.5+1.21.4": {
+    "versionId": "EQf3G23k",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-08T18:17:03.880288Z",
+    "filename": "sit!-1.2.4.5+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/EQf3G23k/sit%21-1.2.4.5%2B1.21.4.jar",
+    "sha512": "2c390e9184c41cd1eb5f7b5a3dcb43525bc747ab84fb69a0ee5f5a3286c07b523ce894b281a78b3c566faa8192e4e611e2786855a9570cbaaf5f6e84b6b22ce5"
+  },
+  "1.2.4.5+1.21.5": {
+    "versionId": "gKYxphmy",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-27T22:35:52.290778Z",
+    "filename": "sit!-1.2.4.5+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/gKYxphmy/sit%21-1.2.4.5%2B1.21.5.jar",
+    "sha512": "5fd0ce26fabee166c6bcf3426b5cf6c59530a619244e9c710c84b7408cc4f721bbd2d54cc24d22e115de0a08150ef03063f6858ebad283546cac54f309fd277c"
+  },
+  "1.2.4.5+1.21.6": {
+    "versionId": "FcCK9avL",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-24T18:53:40.044778Z",
+    "filename": "sit!-1.2.4.5+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/FcCK9avL/sit%21-1.2.4.5%2B1.21.6.jar",
+    "sha512": "e6862777822b17b7e1beb351eb4aa530fc9e32b51f7853394c927befb1b6f1f528dcc2029a46ac50f6b2a2f1906c3404879bccaddaed1e96e6e344967b8316c9"
+  },
+  "1.2.4.5+1.21.7": {
+    "versionId": "ImC46K5m",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-30T14:53:25.999060Z",
+    "filename": "sit!-1.2.4.5+1.21.7.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ImC46K5m/sit%21-1.2.4.5%2B1.21.7.jar",
+    "sha512": "5df96b3abdd04968c9efba39b562400f7014cb7e377f45283f7dbba8fa8637e3bb83cb05c9bdcda99b10a7265d61f86fad1fe3daa09e83feac55ff76be223521"
+  },
+  "1.2.4.5+1.21.8": {
+    "versionId": "m7lBLCr4",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-17T15:21:27.883857Z",
+    "filename": "sit!-1.2.4.5+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/m7lBLCr4/sit%21-1.2.4.5%2B1.21.8.jar",
+    "sha512": "459e8e7a938d9628e2a83e1eab9bcf526c49a126720bf543562660cafe2fff453ced42f70031ea21af8ce7cb15054d28e7a81978afab4de7aa6b39d25fb2d49e"
+  },
+  "1.2.4.6+1.21.8": {
+    "versionId": "qfWetil7",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-17T15:28:26.354745Z",
+    "filename": "sit!-1.2.4.6+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/qfWetil7/sit%21-1.2.4.6%2B1.21.8.jar",
+    "sha512": "6581c73e3407cfadcf8b687c6375cefb3beec4513a8dcefbf7efda5274c0595ac2ad10ab8c69a07210b5ec522e1cc04a530f35819b072dbdeb526a0cd06b33eb"
+  },
+  "1.2.4.7+1.20.1": {
+    "versionId": "el7DJLJF",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-31T19:49:16.646378Z",
+    "filename": "sit!-1.2.4.7+1.20.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/el7DJLJF/sit%21-1.2.4.7%2B1.20.1.jar",
+    "sha512": "7d5f776b45d95c409b0b5f89f36a0129681d8444e0fdef4a9be5d9a7e72052f3eddbe4005f9c8db7ae33c4df5b6154e95291686919849db0f7d494db3791fe69"
+  },
+  "1.2.4.7+1.20.4": {
+    "versionId": "dsZwCgjF",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-31T19:40:09.268080Z",
+    "filename": "sit!-1.2.4.7+1.20.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/dsZwCgjF/sit%21-1.2.4.7%2B1.20.4.jar",
+    "sha512": "f23fa7a1e62799713008cac87eeaba9b9bced284b124ae4d99d4e6a2bc455be8d53e9d33a7ba742f95b57047a1caad2e3c621b206a591ccd3ee6559047c7b151"
+  },
+  "1.2.4.7+1.20.6": {
+    "versionId": "YQwmLw2c",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-31T19:17:07.309295Z",
+    "filename": "sit!-1.2.4.7+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/YQwmLw2c/sit%21-1.2.4.7%2B1.20.6.jar",
+    "sha512": "bcb42132dd033b7abc6b7301674ed9c68e814113abd3074163cd3cdd21f90e56b320b5ec5fd566d59f2e3b1e21454a1463cf4268311ae98eb703491bdcc354ae"
+  },
+  "1.2.4.7+1.21-1.21.1": {
+    "versionId": "Ow5Iv0Np",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-20T02:02:42.990321Z",
+    "filename": "sit!-1.2.4.7+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Ow5Iv0Np/sit%21-1.2.4.7%2B1.21-1.21.1.jar",
+    "sha512": "7d5ee64aa7c2feb27245d39f34b1ea27c696b4b9ce91bf0e1b0512b498f7db996feb76b4e7a8cafe79f6af5d869b78754c35d2c7cca9b14d6e3d2498430787c1"
+  },
+  "1.2.4.7+1.21.4": {
+    "versionId": "yHBRKgO7",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-20T02:01:43.687826Z",
+    "filename": "sit!-1.2.4.7+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yHBRKgO7/sit%21-1.2.4.7%2B1.21.4.jar",
+    "sha512": "3f73a1af7fb011d0cd2968f5c4637a7ea46a76a25028c63083816d538ea2eccc1759f5be33149855638085b7c08395fa59fec375d6b0b03ff049feebeb09dae8"
+  },
+  "1.2.4.7+1.21.5": {
+    "versionId": "EbFBtGda",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-20T02:00:42.586345Z",
+    "filename": "sit!-1.2.4.7+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/EbFBtGda/sit%21-1.2.4.7%2B1.21.5.jar",
+    "sha512": "06163d9ceff05a4396fbde9d74fc6489ab45669678250c2a5b8089fee77609d89cf968542cef6df4334be7c2a4fb32e344b3086f5de740594f9ccd4a4f71fb1d"
+  },
+  "1.2.4.7+1.21.8": {
+    "versionId": "yKe3ReZZ",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-20T01:54:42.750735Z",
+    "filename": "sit!-1.2.4.7+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yKe3ReZZ/sit%21-1.2.4.7%2B1.21.8.jar",
+    "sha512": "50292e5a9403b7838abec765938c824f6a2107a9c090c5a4966606212888dbc415d052ed56a0d63e1a888348d52ce0227a18b4b8011dfe2efaf4e2cdbe99a9c6"
+  },
+  "1.2.5.0+1.21.8": {
+    "versionId": "yGaQnuwV",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-23T17:33:11.375354Z",
+    "filename": "sit!-1.2.5.0+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yGaQnuwV/sit%21-1.2.5.0%2B1.21.8.jar",
+    "sha512": "041fa46958a57ee13007532cda292e6919cacb4f82228d4850e70841a7c9611e606debc3555458294a4fb18533c2cda2e787121cff3a48442ec1279bf6d967d9"
+  },
+  "1.2.5.0+1.21.9-1.21.10": {
+    "versionId": "cJvlmbfO",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-05T06:25:06.753447Z",
+    "filename": "sit!-1.2.5.0+1.21.9-1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/cJvlmbfO/sit%21-1.2.5.0%2B1.21.9-1.21.10.jar",
+    "sha512": "d261b5790a8ac0a17ed0c9bd26849af26ec520da0af1b3835edee189cde5796a9d3d3e616a2662a37fa406316a2982147d434f1425d4132530823d535ca4f4cb"
+  },
+  "1.2.5.1+1.21-1.21.1": {
+    "versionId": "wstK3UaY",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-24T01:54:06.513433Z",
+    "filename": "sit!-1.2.5.1+1.21-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/wstK3UaY/sit%21-1.2.5.1%2B1.21-1.21.1.jar",
+    "sha512": "c4ef82808ff6ae669affbe4138253d0886b65dd9c96464c752cdf694f9d0a171cc63681c85fe7ac58b75cff528950787188058874bdbfcfec16deca2a39325ed"
+  },
+  "1.2.5.1+1.21.11": {
+    "versionId": "6skzufDg",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T05:59:23.008268Z",
+    "filename": "sit!-1.2.5.1+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/6skzufDg/sit%21-1.2.5.1%2B1.21.11.jar",
+    "sha512": "78ab5ec2773320ffb2b32d2eae75b83c8f981651e0daf42bb31e6bab7d990b14deaa82afd43c0d3967239c756e13d7d70e241dceef06621fbf47bc90f650130e"
+  },
+  "1.2.5.1+1.21.4": {
+    "versionId": "LdRWY1js",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-29T15:46:16.140011Z",
+    "filename": "sit!-1.2.5.1+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/LdRWY1js/sit%21-1.2.5.1%2B1.21.4.jar",
+    "sha512": "1563f79c4ae4543b7a3c0826f3e94201f048476c52bb4c6e53beebb5c5f6125535a887da364fe00c0aa85b14e55f02b0e2addd6d9ec228dd31fe32e24f99f667"
+  },
+  "1.2.5.1+1.21.8": {
+    "versionId": "1LyZIoNv",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-22T04:37:21.764297Z",
+    "filename": "sit!-1.2.5.1+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/1LyZIoNv/sit%21-1.2.5.1%2B1.21.8.jar",
+    "sha512": "b848f376262dfbaa7bb2688671f62e2131cf68255932a1b667af96914c409e24c29c340fe7d5eb9641125455eecbeeb5bdbb7a691816689fc496f78d9e19dd1a"
+  },
+  "1.2.5.1+1.21.9-1.21.10": {
+    "versionId": "wOMpgPKm",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-18T23:26:48.464846Z",
+    "filename": "sit!-1.2.5.1+1.21.9-1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/wOMpgPKm/sit%21-1.2.5.1%2B1.21.9-1.21.10.jar",
+    "sha512": "85cc5c0881aaf803a2df9ea89e05602b2bac4bd1871c7c04eddb5b6e1afd5c8c12ecac3d55aec236f280a1f34af69efded8596365cbb34ca55a3eaeab8d57741"
+  },
+  "1.2.5.2+1.21.11": {
+    "versionId": "xy4C23w4",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-02T05:11:11.722785Z",
+    "filename": "sit!-1.2.5.2+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/xy4C23w4/sit%21-1.2.5.2%2B1.21.11.jar",
+    "sha512": "2c53a85dcaf9db9866e99e06bec8b0f678b47ab2dc055ea02dd1aac14edd870043ade70e90e6628304f451d97f0c7aeee124863d5bef3d5678999d315ed678c5"
+  },
+  "1.2.6.0+26.1": {
+    "versionId": "9i13JWal",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T05:08:25.614784Z",
+    "filename": "sit!-1.2.6.0+62.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/9i13JWal/sit%21-1.2.6.0%2B62.1.jar",
+    "sha512": "1acc2f74b948ec2aab3f36674ce03fea5803584d61a0fb7b29efe1ac7e88c7ab71aac14b89dda6a589ad3728069d7df5f924aafb3310fedbe80213405fb90f35"
+  },
+  "1.2.6.0+26.1.1-HztkP6GQ": {
+    "versionId": "HztkP6GQ",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-10T02:22:22.411096Z",
+    "filename": "sit!-1.2.6.0+26.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/HztkP6GQ/sit%21-1.2.6.0%2B26.1.1.jar",
+    "sha512": "a73231af1361f264e06537e3a420728c8016440a49eda20c86e8644f5d220a75f220b9ba528ef8daaf5383d9e2a65799df54837560ca796b0e2ba2718665c82e"
+  },
+  "1.2.6.0+26.1.1-IlNcmR6y": {
+    "versionId": "IlNcmR6y",
+    "gameVersions": [
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-01T13:52:12.787076Z",
+    "filename": "sit!-1.2.6.0+26.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/IlNcmR6y/sit%21-1.2.6.0%2B26.1.1.jar",
+    "sha512": "17e0555a48423f363d1daacd8c8aa1333e1c7266df106e9c24fd6f004f9d45eaf94e967ec0c84ff2ede09e0d5130d1c488527e6df3cea7c2f68403b28357a750"
+  },
+  "1.2.6.2+26.1": {
+    "versionId": "s1ghgeMQ",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-16T23:23:53.261958Z",
+    "filename": "sit!-1.2.6.2+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/s1ghgeMQ/sit%21-1.2.6.2%2B26.1.jar",
+    "sha512": "91004b5817c153d5324e1692aff7a72c1d3af8a4770ff3f9baad0143099b22b4dcd877f4ab331a3c3038522e8ffe678642cdd4054f9faeb99b8314d0115e8e2f"
+  },
+  "1.2.6.2+26.2": {
+    "versionId": "k1DXWkqw",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-22T01:26:39.471328Z",
+    "filename": "sit!-1.2.6.2+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/k1DXWkqw/sit%21-1.2.6.2%2B26.2.jar",
+    "sha512": "c413bae6b692bc6dbb7c54567e9472f1f24ae6d8cf9e0a04070e296334c2f9f387193f7e19b3bb4ad9b0ae6d291c2d8fe74849268ee1b5af823678c4fb539163"
+  },
+  "1.2.6.3+26.2": {
+    "versionId": "yymwWm0P",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-28T22:58:31.458957Z",
+    "filename": "sit!-1.2.6.3+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yymwWm0P/sit%21-1.2.6.3%2B26.2.jar",
+    "sha512": "d6d1310de1f77601e45bbb25c5f5a8194053b3dc31b6c70f4f162c598354b1913bc6e07996e6cbf37a6673097444ce845403e52dd850437414d4d4c838f36e79"
+  },
+  "s1.0.3+1.20.3-pre1": {
+    "versionId": "rfknnJKL",
+    "gameVersions": [
+      "1.20.3-pre1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-20T18:11:57.316784Z",
+    "filename": "sit!-s1.0.3+1.20.3-pre1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/rfknnJKL/sit%21-s1.0.3%2B1.20.3-pre1.jar",
+    "sha512": "13675f7b615b2a09f7f75247dfdee1abb28476f8c3a78ab5111cb75f81407030228b63992aaf755f5015b297da532fedc985ec498c25b49a12eeeabcc2ee10b8"
+  },
+  "s1.0.3+23w43b": {
+    "versionId": "97C4JbH9",
+    "gameVersions": [
+      "23w43b"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-10-27T14:36:04.095062Z",
+    "filename": "sit!-s1.0.3+23w43b.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/97C4JbH9/sit%21-s1.0.3%2B23w43b.jar",
+    "sha512": "8afd8229ee83501fe9709a5add7b35c35717d7a2ee866c1fc2be0a4b477e9d70972a8b9538791da4c0a8684f546358150fca54f033305514267721ae9a5e0a4a"
+  },
+  "s1.0.3+23w44a": {
+    "versionId": "K5au5Cnu",
+    "gameVersions": [
+      "23w44a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-01T19:20:30.862841Z",
+    "filename": "sit!-s1.0.3+23w44a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/K5au5Cnu/sit%21-s1.0.3%2B23w44a.jar",
+    "sha512": "3b02dade15bcbac96b8099c4f01bdf84efc73b4d7a96425cd854726a3e2dd4dd03ea852414833a855b4a1e49043539cb16c80447feff41aa62fe20bd9d3dd756"
+  },
+  "s1.0.3+23w45a": {
+    "versionId": "Rk4gub9u",
+    "gameVersions": [
+      "23w45a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-08T20:07:22.667713Z",
+    "filename": "sit!-s1.0.3+23w45a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/Rk4gub9u/sit%21-s1.0.3%2B23w45a.jar",
+    "sha512": "49ed1bf095880b9c97f9050cba450be2def5603aa2d4e73ea7d83fe2669b10fe84122f56eecab30579c62c345c38e3dd64bfb0e614826c9faa960b5f3f74c8ed"
+  },
+  "s1.0.3+23w46a": {
+    "versionId": "S5Dlozk2",
+    "gameVersions": [
+      "23w46a"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-11-17T00:38:34.144119Z",
+    "filename": "sit!-s1.0.3+23w46a.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/S5Dlozk2/sit%21-s1.0.3%2B23w46a.jar",
+    "sha512": "bc5e070755e949329d202a6ed7a056cebcc523afa10240caf60f1de0947b375e79e59ceb8c397c63b0b97613696b20076036e568bce4369ac1131ac97abaaa33"
+  },
+  "s1.1.0+1.20.3-pre1-1.20.3-rc1": {
+    "versionId": "S5duYX2r",
+    "gameVersions": [
+      "1.20.3-pre1",
+      "1.20.3-pre2",
+      "1.20.3-pre3",
+      "1.20.3-pre4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2023-12-01T00:16:35.349977Z",
+    "filename": "sit!-s1.1.0+1.20.3-pre1-1.20.3-rc1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/S5duYX2r/sit%21-s1.1.0%2B1.20.3-pre1-1.20.3-rc1.jar",
+    "sha512": "faaaed6fc9d639c81d7f57b638612ee342e8167789152bc4229dfa5a0aef3f6deea3b985fc21b5fdaf970d8b8957f5e645ede00999ccb34ec49c1d90fc7f196e"
+  },
+  "s1.1.3+24w03b": {
+    "versionId": "YvSQ4NU2",
+    "gameVersions": [
+      "24w03b"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-01-22T23:59:47.582732Z",
+    "filename": "sit!-s1.1.3+24w03b.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/YvSQ4NU2/sit%21-s1.1.3%2B24w03b.jar",
+    "sha512": "a8540c32e1286fd448fa1b8ddbd379878ed2590393ccbaea8372d825a43e7df599b79bc24ad302a54b40aefecd6944e9205f6e917290d5fe546252c1f57bfe89"
+  },
+  "s1.1.4+1.20.5-pre1": {
+    "versionId": "ADIV5m9P",
+    "gameVersions": [
+      "1.20.5-pre1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2024-04-10T19:09:15.212332Z",
+    "filename": "sit!-s1.1.4+1.20.5-pre1.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/ADIV5m9P/sit%21-s1.1.4%2B1.20.5-pre1.jar",
+    "sha512": "168f352e65bc2af6b72b54a9bdfefc619854cd5016d61a7e5b914e36720f852ef4843b36e677bc9aa557564df598675e128ccbeb348a52d84107a95fd180779b"
+  }
+}

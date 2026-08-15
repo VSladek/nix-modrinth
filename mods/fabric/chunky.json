@@ -1,0 +1,388 @@
+{
+  "1.2.124": {
+    "versionId": "yhBANmmU",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T22:59:25.881898Z",
+    "filename": "Chunky-1.2.124.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.124/Chunky-1.2.124.jar",
+    "sha512": "e45f5a39093e3b7f27bca68cacaa341873577de2fd92b030bc4826dbb46403737bf24ceede815d601f2312c2e6146c79faec7eee6652688bd1d671b3211f6955"
+  },
+  "1.2.147": {
+    "versionId": "IoMvLDHx",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T23:00:03.589806Z",
+    "filename": "Chunky-1.2.147.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.147/Chunky-1.2.147.jar",
+    "sha512": "558c8bc1f3937dab731997ddc73d920cd1df1ab4554eb5d560caa2755fc719705e837159e3043b859e2ad1d02404430f6b41a7c2fd42c84c57e4a82c36c9ca82"
+  },
+  "1.2.153": {
+    "versionId": "VjT0vsLw",
+    "gameVersions": [
+      "1.18",
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T23:00:29.733241Z",
+    "filename": "Chunky-1.2.153.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.153/Chunky-1.2.153.jar",
+    "sha512": "13ec78b307ff26e692a6051f93cdec7c19d623c6e4dd82f0a853803472e9ac1e854098da1bb5112fa80f5fc97e5162cddffa0274e7fbd8281da64bfd59dfda14"
+  },
+  "1.2.164": {
+    "versionId": "JJMpSOeW",
+    "gameVersions": [
+      "1.18",
+      "1.18.1",
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-25T06:33:52.714017Z",
+    "filename": "Chunky-1.2.164.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164/Chunky-1.2.164.jar",
+    "sha512": "5b39b3091df275a8dae7976f25adabd41ffb84d286ccdc8e4ffe18b1211d1b59ede088e5a17b28b9157fbd91a416b38732764f413b8951782d793059fcabb616"
+  },
+  "1.2.202": {
+    "versionId": "s488XwTT",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-08T05:23:57.827500Z",
+    "filename": "Chunky-1.2.202.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar",
+    "sha512": "d25a2ea5894f331f9503b2a1a8e5d32bb3ee4a1432f551da8bac84a83fcd690b956c34250be6fa3fef535e2a3b7581e3313d3f14a89235317fd0d58b17cc3875"
+  },
+  "1.2.217": {
+    "versionId": "fIg7SKWd",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-08-27T00:32:28.502208Z",
+    "filename": "Chunky-1.2.217.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/fIg7SKWd/Chunky-1.2.217.jar",
+    "sha512": "35a0fed5f0523f07bcf3d0c80b5a773081482315b0fafc74ed239e9007de0436e170607e3093af86fb180d9b1d0432ad3e2e1d383339561ad0d0198641333506"
+  },
+  "1.2.54": {
+    "versionId": "iwbcBiUq",
+    "gameVersions": [
+      "1.16",
+      "1.16.1",
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-04-04T21:18:30.579867Z",
+    "filename": "Chunky-1.2.54.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.54/Chunky-1.2.54.jar",
+    "sha512": "ce65fa4ab4749f3b4d958b73fe89f845948a0f8add3b80fd19187aa2d5495595d64a2f12d678cca1a4f8fdb336391cf432869a9b3369e2c645cc1a3e9348c0b4"
+  },
+  "1.2.86": {
+    "versionId": "BszkqxWc",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-08T20:38:16.573357Z",
+    "filename": "Chunky-1.2.86.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.86/Chunky-1.2.86.jar",
+    "sha512": "55965850ee573633d247b40b192ee7fa43e6f42e9bf274764e857bb5643463f5fccd49d4e6919ba2d57e1dec45702c6e76ed99c0f85a59d2a69bc499de8af9f9"
+  },
+  "1.2.93": {
+    "versionId": "KJ2eDK9s",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-06T10:24:51.801229Z",
+    "filename": "Chunky-1.2.93.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.93/Chunky-1.2.93.jar",
+    "sha512": "25e3d8bafdd4be901aed5c8c16ebaeff7cddc20e3dab168db8c9413334f325acc7055e77f5497d4f36c71ae8a4872c93c6045bc5c09230cfd39554f8a0c6165e"
+  },
+  "1.3.136": {
+    "versionId": "lSushBci",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-15T08:08:55.458620Z",
+    "filename": "Chunky-1.3.136.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/lSushBci/Chunky-1.3.136.jar",
+    "sha512": "b70574cdc861bbd72cf5774bec899cc42cd4043d45b3cb8c9e05da4dd28801b880fb9a7a00a6259ffd4f4b95995accbfb379cfe4e4af8e74ea5ed2ce72aa5bcb"
+  },
+  "1.3.138": {
+    "versionId": "iwsbfPGg",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-02-17T02:33:10.980662Z",
+    "filename": "Chunky-1.3.138.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/iwsbfPGg/Chunky-1.3.138.jar",
+    "sha512": "872c9b60381ec9ee7ebd78f31977220cf23a5fda6b9d902e36480024352640993146a389a0052e371ff31b52e80ae4bcf6da27f6af011a88fd1f0b3bd8d6a668"
+  },
+  "1.3.146": {
+    "versionId": "NHWYq9at",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-06T07:32:31.222951Z",
+    "filename": "Chunky-1.3.146.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+    "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa"
+  },
+  "1.3.38": {
+    "versionId": "wFqA1p32",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-09-06T11:02:39.911595Z",
+    "filename": "Chunky-1.3.38.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/wFqA1p32/Chunky-1.3.38.jar",
+    "sha512": "8bf38f9b7212e9637ab7899cc4ad66ab55c60d9006daf4b576d3ab3881e8be82e7cecb1df85bba061a03c7ecf7210fa463034d2a586272cb2a74674af3bfb1bb"
+  },
+  "1.3.52": {
+    "versionId": "fA3P7zqW",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-15T10:55:07.032043Z",
+    "filename": "Chunky-1.3.52.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/fA3P7zqW/Chunky-1.3.52.jar",
+    "sha512": "3dd04ab71c5eabb3e599f072f6dc813770b9d9308c9795ece7be2d53aabfbc3a13414947ec1a991ebb1ee79d4a49978f8feef5178626428acd14f504d3bee725"
+  },
+  "1.3.53": {
+    "versionId": "F7XrnmdD",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-16T01:50:46.288814Z",
+    "filename": "Chunky-1.3.53.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/F7XrnmdD/Chunky-1.3.53.jar",
+    "sha512": "9e814be63bec4d7607617b4ac7f807dc3412d9e8a56c2da45fc2e46a5a829b615a8089f3e603a825fe977ff09ee85bb1a6956f8e74e001ea31eae6703791685b"
+  },
+  "1.3.74": {
+    "versionId": "MpJo7JH4",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-04-15T08:56:48.717946Z",
+    "filename": "Chunky-1.3.74.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/MpJo7JH4/Chunky-1.3.74.jar",
+    "sha512": "860781d45c31048a8197fca71c66f6d38d6520a5a5eb499aa66d4a5dd8f3d496aeb338016421dde3b567a11e9d6a44340aa28c2dcb4d5f53e0dbbeffd0dbb94e"
+  },
+  "1.3.90": {
+    "versionId": "g7X03gUa",
+    "gameVersions": [
+      "1.20"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-10T06:41:23.861918Z",
+    "filename": "Chunky-1.3.90.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/g7X03gUa/Chunky-1.3.90.jar",
+    "sha512": "f3033021672cd2193196ab68504b42a8e7e4741afd6f364b2eaaff5c9c74531b02c68d438a5842f588126a2d2d470e873cf18d5ca1a8c34483efa845377e6697"
+  },
+  "1.3.92": {
+    "versionId": "t8SbUchF",
+    "gameVersions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-16T20:22:40.396979Z",
+    "filename": "Chunky-1.3.92.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/t8SbUchF/Chunky-1.3.92.jar",
+    "sha512": "25fc408d1604d0d9dfe61db0a79cd482085c79d9fbd426608836e30a838f947aa6c25da828a932f8f0c4bb0d5ad7e34bf5f3e93e77281df06c2e3576b232089a"
+  },
+  "1.4.10": {
+    "versionId": "ZrmnYk7q",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-06T07:36:22.808783Z",
+    "filename": "Chunky-1.4.10.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/ZrmnYk7q/Chunky-1.4.10.jar",
+    "sha512": "abd8c71efc02f65aa894ffec0899cb81381a5461e8aa3d974723eac1b85831fe9d202a200170b4c06ef349cf4773982800f09187dae9555c5d9e1591adf48080"
+  },
+  "1.4.14": {
+    "versionId": "nstsfdMu",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T06:31:28.652429Z",
+    "filename": "Chunky-1.4.14.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar",
+    "sha512": "47566aaa0c7e911671bf31e21fca5954ffdcf50cf080ecfd6b6fdf197d85d9c70b35d74b2eac7d88f54c682782c51584bbfa42e05f9fe559e4511234facbe7d6"
+  },
+  "1.4.16": {
+    "versionId": "dPliWter",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-17T06:00:13.853652Z",
+    "filename": "Chunky-1.4.16.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar",
+    "sha512": "7e862f4db563bbb5cfa8bc0c260c9a97b7662f28d0f8405355c33d7b4100ce05378b39ed37c5d75d2919a40c244a3011bb4ba63f9d53f10d50b11b32656ea395"
+  },
+  "1.4.23": {
+    "versionId": "RVFHfo1D",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-04T06:33:52.501452Z",
+    "filename": "Chunky-Fabric-1.4.23.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
+    "sha512": "02ca6af1ed31e9ebc51af20948a2afb670fe653c80aaeb990947caf6b655d6ab8eda3f1b64ef478633b67ef5d2fd0d1fe67e2107a4a522ef45fd1f183c9a6c9c"
+  },
+  "1.4.27": {
+    "versionId": "VkAgASL1",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-05T09:30:06.958801Z",
+    "filename": "Chunky-Fabric-1.4.27.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar",
+    "sha512": "a89f94947e7c3992e01e46be8967d2a6593334333a546b4fff5fdb02a1f5a6b83c93adc4c72a9b9b1f14f9299efcaa8a5d7f5eeedf3da541c7e72abc5e2724c6"
+  },
+  "1.4.36": {
+    "versionId": "mhLtMoLk",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-04T06:38:02.206292Z",
+    "filename": "Chunky-Fabric-1.4.36.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/mhLtMoLk/Chunky-Fabric-1.4.36.jar",
+    "sha512": "65a201c246c95f6189a16e715d944e4a7ca7f44a8c4a39c8e6523d8c58e331d6611c78deff050cb4a2a2d80c5b8d84e3593a9b8ff961f7aee3d171a4ef7af2c7"
+  },
+  "1.4.40": {
+    "versionId": "inWDi2cf",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-21T08:03:56.454684Z",
+    "filename": "Chunky-Fabric-1.4.40.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar",
+    "sha512": "9e0386d032641a124fd953a688a48066df7f4ec1186f7f0f8b0a56d49dced220e2d6938ed56e9d8ead78bb80ddb941bc7873f583add8e565bdacdf62e13adc28"
+  },
+  "1.4.51": {
+    "versionId": "kkEljQ4R",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-05T10:40:23.258963Z",
+    "filename": "Chunky-Fabric-1.4.51.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/kkEljQ4R/Chunky-Fabric-1.4.51.jar",
+    "sha512": "a9bf1e7ce7618acdf202eb93b14bd5f1e50a8fa09c6d2661711a22f8de501c89c7d480c264aa26ef8386c2dab2c88abe467a64e7fb662d3b0865c70e0f72b3e9"
+  },
+  "1.4.52": {
+    "versionId": "F3FNq8Q9",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-22T10:42:51.034317Z",
+    "filename": "Chunky-Fabric-1.4.52.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/F3FNq8Q9/Chunky-Fabric-1.4.52.jar",
+    "sha512": "b269a59126052aaf911f9640d13a95129bd58946f402f1c10614080f4089410c60b1187239f1db6f0a9566dd5b8437f1dcbcfbbbe220effd4f652e5ba46f1e41"
+  },
+  "1.4.54": {
+    "versionId": "bk9YUabA",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T09:46:52.350448Z",
+    "filename": "Chunky-Fabric-1.4.54.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/bk9YUabA/Chunky-Fabric-1.4.54.jar",
+    "sha512": "bf15fdb0c0e204c294766c6b92f0dc89d96e94ce4f70b98ac42eaa46b87802af56cfeb6548778f4945b1fdc2fe561a25477f711937dbf390e20b94c1bd006cae"
+  },
+  "1.4.55": {
+    "versionId": "1CpEkmcD",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-22T10:43:31.045916Z",
+    "filename": "Chunky-Fabric-1.4.55.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1CpEkmcD/Chunky-Fabric-1.4.55.jar",
+    "sha512": "3be0e049e3dea6256b395ccb1f7dccc9c6b23cb7b1f6a717a7cd1ca55f9dbda489679df32868c72664ebb28ca05f2c366590d1e1a11f0dc5f69f947903bad833"
+  },
+  "1.4.58": {
+    "versionId": "DCgX52a5",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-01T06:20:36.531660Z",
+    "filename": "Chunky-Fabric-1.4.58.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/DCgX52a5/Chunky-Fabric-1.4.58.jar",
+    "sha512": "82edc03802bf1796c2e0e9ca11ea8eb7b8753b9f5c4107350786258de6349935f6827e585134500b3c42924f3f8cd32e46d1c1f460b01affd6ae23ed0fbc1025"
+  },
+  "1.5.3": {
+    "versionId": "4Eotm6ov",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-04T05:47:16.215347Z",
+    "filename": "Chunky-Fabric-1.5.3.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4Eotm6ov/Chunky-Fabric-1.5.3.jar",
+    "sha512": "b83bfe7b218d0aa6232af977ae741dc1f82b10e50cd12bb759f65cf416b8b62beccb543e587ef0b9670abe03815660f8e091bc6823624d65cf07300571573516"
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "1.0.0": {
+    "versionId": "y1AvZsGA",
+    "gameVersions": [
+      "1.17-rc1",
+      "1.17-rc2"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-07T16:31:03.568538Z",
+    "filename": "ledger-1.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.0.0/ledger-1.0.0.jar",
+    "sha512": "e368f7e2d4a25e53a56658ad1d40314f70fad1da4cf5e514371cc25a82e4f3f39021f1e26aac457a549b0541e8e9541274fa70bd4e486102e25b450c3d6f6fa9"
+  },
+  "1.0.1": {
+    "versionId": "xrYP85FU",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-22T18:38:40.504969Z",
+    "filename": "ledger-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.0.1/ledger-1.0.1.jar",
+    "sha512": "11b37a76525df37cca9775ceb2529795e58f07cb73ff37139497a6caa692bcb4f94401171f6b37af43483fa1df147627c20b4b98eea2da8c11d0d1e852e94aa4"
+  },
+  "1.0.2": {
+    "versionId": "3mow574k",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-07-05T19:33:07.267681Z",
+    "filename": "ledger-1.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.0.2/ledger-1.0.2.jar",
+    "sha512": "f019ffd78cd852633e1506626325174062576886ea3155c471b30843cb02d38d420896ac00708ac79689989b30cc9b93f13d9ac746b1f83fc71bbeff5e1ecdf2"
+  },
+  "1.1.0": {
+    "versionId": "5J28GTd4",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-09-19T07:15:24.393632Z",
+    "filename": "ledger-1.1.0.jar",
+    "url": "https://cdn.modrinth.com//data/LVN9ygNV/versions/1.1.0/ledger-1.1.0.jar",
+    "sha512": "b702598cdd1319a076712c0c150cde93034eec8d8c32392d7e1864849b1fdb833921b11ef2bf7d53ec4a76b52ec4e0537bb8bdd47ef18f7eb6a27c10a1c18707"
+  },
+  "1.1.1": {
+    "versionId": "Hec5yP2e",
+    "gameVersions": [
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-10-04T15:37:12.201364Z",
+    "filename": "ledger-1.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.1.1/ledger-1.1.1.jar",
+    "sha512": "0e13684fd236c5ab4c0c6b8976939b7e3666246f9372abdd68b599519c4bc01cac194b0405f81a5552f4ee84842005eab94b7a5b872f5f44c4af8ccee2feddaf"
+  },
+  "1.2.0": {
+    "versionId": "uR2IDmue",
+    "gameVersions": [
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-11-30T16:23:23.827748Z",
+    "filename": "ledger-1.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar",
+    "sha512": "3844112f2d5c9078c49568c518a4c965124e149c21c62a5a1c3fb5c75d03c53947480f324bd6ebc85b76ea4c85201ae384011c9b3fcf2cc3173bbf84ac08b18e"
+  },
+  "1.2.1": {
+    "versionId": "CQLcQXra",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-07T17:18:58.435009Z",
+    "filename": "ledger-1.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.1/ledger-1.2.1.jar",
+    "sha512": "c116cc17c70e77c5ff1b3afd78457193fbe45f46bc3d73fb355275bed8c8dfde68465770821e190713872c6466f87833722dd2b02844368b396d217ba56ce844"
+  },
+  "1.2.10": {
+    "versionId": "aeyvUBDY",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-01-16T17:09:24.404016Z",
+    "filename": "ledger-1.2.10.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar",
+    "sha512": "81bdf38b17da1620a37f17f2a2be8dc4200fa9dd400216d69e970cb59b17c3305bd95bcb6c13b75ac001c07d022dfa101d25a7843d81cafc769bdc6901d583d9"
+  },
+  "1.2.2": {
+    "versionId": "CaD4wO5w",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-09T21:32:06.100808Z",
+    "filename": "ledger-1.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.2/ledger-1.2.2.jar",
+    "sha512": "361a8bae28c688af4a4534933d9019a4230090f69d9f14f5beb89597b4535dfd8ff4d6aa96cdddb6eff6978b4dd22db5f31d6127bbf5cdd71bea7eb6f0200e14"
+  },
+  "1.2.3": {
+    "versionId": "iUXwqvHZ",
+    "gameVersions": [
+      "1.18.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-02-24T16:05:09.244370Z",
+    "filename": "ledger-1.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.3/ledger-1.2.3.jar",
+    "sha512": "61059089a6527880a60d6b4e9956cf2d090aee471872cc31cd00d8621c82906e7ea21675d7283b2f6f9d7aff0b83875df0eaca98abdea45ced87fb68a2bd2987"
+  },
+  "1.2.4": {
+    "versionId": "BSpZzH6c",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-03-02T02:22:29.955824Z",
+    "filename": "ledger-1.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar",
+    "sha512": "27b8ad7bb7ca181c3b8a8a5f02631e0d561c1485e8111665d52523b1c7fc41c8ebdbcc0f5ed046e6e4c183d61ee168b8d497261b06ff1649f0a10ac571741874"
+  },
+  "1.2.5": {
+    "versionId": "KwzHK3mh",
+    "gameVersions": [
+      "1.19",
+      "1.19.1",
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-07T23:16:24.122907Z",
+    "filename": "ledger-1.2.5.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar",
+    "sha512": "905e2fd08ad3de5d056ba437d31937a01c1820bb126b1d173cb0bd5c21a99e0ea317a19e6f42883196720c6a9960dc5419ea100dbf95ff6329c133e0ad711efb"
+  },
+  "1.2.6": {
+    "versionId": "ykSbFGkA",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-10T01:24:38.891092Z",
+    "filename": "ledger-1.2.6.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/ykSbFGkA/ledger-1.2.6.jar",
+    "sha512": "7632ee3efa5f5ab7b5e1aeef007d631823f67eb991119596207535dec6111e28f3862a066e453dc2b9824aeda51cf5439f1780846e79d709017acbd437bf741f"
+  },
+  "1.2.7": {
+    "versionId": "DrNDLlGK",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-16T03:36:11.346670Z",
+    "filename": "ledger-1.2.7.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/DrNDLlGK/ledger-1.2.7.jar",
+    "sha512": "64e51555cd4d8ea7a55fd21ab47540795fddcbb19af989b37d074c4d39a85ec4e180b70a1bfa4d447b1b0ae8270a7a15604ca662db3b62aae46158419c2360a5"
+  },
+  "1.2.8": {
+    "versionId": "pOxgWfwI",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-07T22:51:47.542561Z",
+    "filename": "ledger-1.2.8.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/pOxgWfwI/ledger-1.2.8.jar",
+    "sha512": "8230ae7ef5495dd43b6ebc19fb212b7ffb10dc571fc586ecc7e2cc8177989daa41c102ac386d82586c83a0b48b9dba29f095ffa4b8d78e34d715e25830117f8d"
+  },
+  "1.2.9": {
+    "versionId": "8WSkA7qO",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-26T19:15:25.796217Z",
+    "filename": "ledger-1.2.9.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/8WSkA7qO/ledger-1.2.9.jar",
+    "sha512": "4aec6a70b2171dc1fec94bbb08e90ba78a92abe99b05ff29928f4968c1b5b7c111696bb9f17821f1bb0e073566f048dd72b416bcc0a121893d6c8900fca52197"
+  },
+  "1.3.0": {
+    "versionId": "8xCDy2Ry",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-23T23:51:28.588133Z",
+    "filename": "ledger-1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/8xCDy2Ry/ledger-1.3.0.jar",
+    "sha512": "4d78c9e6b5d08587f70192966a19a2047cc377e2ce8864fa4179a09d110ae723273522707fb1b631d4aa6ec6b5fd6dcb737166097fdd2e4c6957b5d0b5bf16c6"
+  },
+  "1.3.1": {
+    "versionId": "zDjIMO8b",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-30T18:59:31.068953Z",
+    "filename": "ledger-1.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/zDjIMO8b/ledger-1.3.1.jar",
+    "sha512": "3cf458d5ea14503d7c5a23a2249c25fb34627af1e56e560df9b8edab8b40cbfa4f41aaa4bb53475889bdcca72d14fbc4db2a52bdcc28cc0c231da3189035cbaa"
+  },
+  "1.3.10": {
+    "versionId": "IGthG5z2",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-13T00:46:01.151896Z",
+    "filename": "ledger-1.3.10.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/IGthG5z2/ledger-1.3.10.jar",
+    "sha512": "3bb51a26da2f95656edb1f8bcaab0ae71bb1130f7d2d863c07d85a0dec02fda62ce9faf7f5afaf08deb76808b0b01fdb36b6eb0014e9c1e4286fbc42a223ef3f"
+  },
+  "1.3.11": {
+    "versionId": "j1igk5ZG",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T23:44:13.869911Z",
+    "filename": "ledger-1.3.11.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/j1igk5ZG/ledger-1.3.11.jar",
+    "sha512": "2f81a1dd3f102d2a2cb679d4b49826aa161af0a0f57ab6373fbc971425ddb8ed32b0ebce119f43a8039ef77a429c2a7f66ac48c9108dc8d3a8cb7c9a43a3fe5a"
+  },
+  "1.3.12": {
+    "versionId": "f3h7no4G",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-21T00:10:22.912605Z",
+    "filename": "ledger-1.3.12.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/f3h7no4G/ledger-1.3.12.jar",
+    "sha512": "f92e67f549abb7cd82f5cd2ade1830b50c312673b95ee4ae73bb455f9fe4b61442f90eb30b6515f16260945ca8f5dcf63a9728959bb5b454b3d59485a5ea29be"
+  },
+  "1.3.13": {
+    "versionId": "Dcmwp5wF",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-01T02:06:21.997270Z",
+    "filename": "ledger-1.3.13.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/Dcmwp5wF/ledger-1.3.13.jar",
+    "sha512": "2389d48de8744ba79c684968764e5f7519240e0f80c2fe209f964e6438c3faaae5749d4e26dcae9ad97e43d3afee149ec68ca9461341e38ec1e6104ec027e113"
+  },
+  "1.3.13-fixtimestamp": {
+    "versionId": "52ev59ef",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-09T23:27:17.788683Z",
+    "filename": "ledger-1.3.13-fix.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/52ev59ef/ledger-1.3.13-fix.jar",
+    "sha512": "7dff2eb317a7336099beff0a4b8962f2c020d5c21b1c0590f211bb6772c50bab8fd8bb9d150a789c2858d3db27fbe6d05de03ade28281cae3f8c210edad65534"
+  },
+  "1.3.14": {
+    "versionId": "QSXvstxA",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-02T20:40:20.140926Z",
+    "filename": "ledger-1.3.14.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/QSXvstxA/ledger-1.3.14.jar",
+    "sha512": "75a904b43be3b22b1386ef561bbd50f5663460412e9f89c3c2f7004010567fff7310b3077d92fe7f812ac863d28daa192ab6109fa187b5b640e93ab7e4f02465"
+  },
+  "1.3.15": {
+    "versionId": "QgHDT0zm",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-09T23:25:03.111693Z",
+    "filename": "ledger-1.3.15.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/QgHDT0zm/ledger-1.3.15.jar",
+    "sha512": "3a699d72fee876f44e2397d2be11c0a2a6823e2bcf8f95209606ad50d5e2564a283074490fc440048effac4365514c357833632b0ddb5b22fb2b687cd2763c01"
+  },
+  "1.3.16": {
+    "versionId": "O4Rna8OX",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-16T23:53:01.761416Z",
+    "filename": "ledger-1.3.16.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/O4Rna8OX/ledger-1.3.16.jar",
+    "sha512": "1efdb3ea0882e47110aabcf82675d4c124517bb36140c4a85e8acf7b52c107e795468ae3562ce18ed2ed02e6fc2172b5f5832ca2efdd2c540c31d40fa2371367"
+  },
+  "1.3.17": {
+    "versionId": "UDnaslOG",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-05T22:22:04.785956Z",
+    "filename": "ledger-1.3.17.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/UDnaslOG/ledger-1.3.17.jar",
+    "sha512": "211c0b2d394bb4923ac5d2ce23bafaea5d90998436ef6e3c8911ad46dc33b80529fbaa079eee1e7b30daa8ac36022b9bfda60c5bcff45984153835ce5104d13a"
+  },
+  "1.3.18": {
+    "versionId": "d8PpCdaP",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-15T21:52:39.413861Z",
+    "filename": "ledger-1.3.18.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/d8PpCdaP/ledger-1.3.18.jar",
+    "sha512": "11095728b3db8d49c729cb143cc17f22984a7d6140307a17a96a36325f899036bba331d5e5a2a59739b10ccb9275a9ea70704c3cb330c28648480c7e5de447d0"
+  },
+  "1.3.18-backport": {
+    "versionId": "85vYzkP3",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-19T20:13:44.449737Z",
+    "filename": "ledger-1.3.18.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/85vYzkP3/ledger-1.3.18.jar",
+    "sha512": "ecf348e94eaac2faf926747f2b5bd466930398be22d35e11483ec3986251f91de35864a2acd7de2dbd74f4f2f6c11b1d8a240d2eab4cf93dc18245194bd70ac5"
+  },
+  "1.3.19": {
+    "versionId": "c1d39lju",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-02T01:07:10.855936Z",
+    "filename": "ledger-1.3.19.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/c1d39lju/ledger-1.3.19.jar",
+    "sha512": "91c6cdd9d8bcb6fb57f3ec83c968217b157d7d763724ba19e6d21711bf14bdefdfe2a5b03226bce65c77a0988c6b1d336535de9c9bae4193902a95fac17152a0"
+  },
+  "1.3.2": {
+    "versionId": "y46dYjhh",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-01T22:37:37.184162Z",
+    "filename": "ledger-1.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/y46dYjhh/ledger-1.3.2.jar",
+    "sha512": "e585bcff45a860f124831aaba9b0441faef8b0b5c6eb6a2a48a71f78c13002556215c3f460a41e7f0a7db51573fd46ffb40a062d3b4c12eeecbe851ae3a52da9"
+  },
+  "1.3.20": {
+    "versionId": "6iy4cM2k",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-01T01:12:38.254342Z",
+    "filename": "ledger-1.3.20.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/6iy4cM2k/ledger-1.3.20.jar",
+    "sha512": "8830a43acc85317399937b5843668f1929c1cbd1af7c98df90fcafb1a28fab5b25119ccfadc4dced9d5b2e41ea99167e1f01780e9fabdbbde592ab700746a76e"
+  },
+  "1.3.21": {
+    "versionId": "vCyuyhN7",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T03:51:27.227293Z",
+    "filename": "ledger-1.3.21.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/vCyuyhN7/ledger-1.3.21.jar",
+    "sha512": "af04e4adf4e31cdcec0948d006a0a65918064491f43bc7b6f315bc814a2c158d3c6fe861a689c747e0fe0396990851dbcfc66deb741f4e1e1bbc93830eff451c"
+  },
+  "1.3.22": {
+    "versionId": "NopA8uYe",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T04:54:20.293776Z",
+    "filename": "ledger-1.3.22.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/NopA8uYe/ledger-1.3.22.jar",
+    "sha512": "50e1f1e3e2c7ab7260be99ccc52f6531f365c6030e0b0caecdcc2993d9b717b47c0a03dd00788d5a2fdae25198215a6fd24c6fcd44f23fcf7e93b964c0be05da"
+  },
+  "1.3.23": {
+    "versionId": "KpVLPOJk",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-17T04:21:21.441097Z",
+    "filename": "ledger-1.3.23.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/KpVLPOJk/ledger-1.3.23.jar",
+    "sha512": "d5df460ccb86f130fac83af9c6fec3ff3a36d071af01c7d2d49c5a9abc915938fc172782e2762d857f1a3e7f5b2c78c68f7e62dc416d6eed907570a176977763"
+  },
+  "1.3.3": {
+    "versionId": "HXOeSdtP",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-18T20:21:10.470582Z",
+    "filename": "ledger-1.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/HXOeSdtP/ledger-1.3.3.jar",
+    "sha512": "b93db0d524a51b6da95bc83ff9590f257f4314fa91e894e317784561176f145cf3e9849f0c3b16a4f07eafdc473ea18dc1b6f8fea8f868beca75ad0a983881f3"
+  },
+  "1.3.4": {
+    "versionId": "mb29Srom",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-19T21:07:39.438210Z",
+    "filename": "ledger-1.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar",
+    "sha512": "9701759b8507478ec19a8d441d884e2c5c41f7932207805e18ec1f14f17e3ff64394e31ee28d47b776730dde0c3a97ceca5f27af49d8b38d4a1577fb39351b44"
+  },
+  "1.3.5": {
+    "versionId": "t1AtqfxZ",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-13T19:45:18.582717Z",
+    "filename": "ledger-1.3.5.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/t1AtqfxZ/ledger-1.3.5.jar",
+    "sha512": "ab2407e568fd94d863ee178c6009e8a2f21887cc8a9b73d042f9bbc65ffd072848f426351c55e36ffa5430122e4487e7e5392b4a189fc530d62efa59a47f1234"
+  },
+  "1.3.6": {
+    "versionId": "rFhmujrA",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-13T20:17:53.692442Z",
+    "filename": "ledger-1.3.6.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/rFhmujrA/ledger-1.3.6.jar",
+    "sha512": "3b26d26e75b7941f9e622f5e065135f64bdccfaddb8e89060a2f4d7df94c5e7126224249fdcc3be53a2721766d48a522e052f6611c5ff09e6d036b1c290413b8"
+  },
+  "1.3.7": {
+    "versionId": "a6TcvEKA",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-05T00:29:54.624124Z",
+    "filename": "ledger-1.3.7.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/a6TcvEKA/ledger-1.3.7.jar",
+    "sha512": "1ef6d8aca04b5425777d3c10d2131b73d62b7d85d2b68d36137bdc9681f5a6666f5ec1db8b0e4b56d928fd9087eaaba32aeef4ca7aef4f692a1b6607b9023091"
+  },
+  "1.3.8": {
+    "versionId": "rTQMkMmp",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-30T22:07:07.716759Z",
+    "filename": "ledger-1.3.7.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/rTQMkMmp/ledger-1.3.7.jar",
+    "sha512": "dac2d05d2b114100fa273b7ff4a233a00f8dcb1f2af36d8376bbaba0c11ece2f583eeffd79c660f82d8f8291035ff1852d647dc85536276b6e306fe67bd8cbe3"
+  },
+  "1.3.8-backport": {
+    "versionId": "pzDwE16E",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-13T00:48:46.132017Z",
+    "filename": "ledger-1.3.7-fix.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/pzDwE16E/ledger-1.3.7-fix.jar",
+    "sha512": "2e099be8f9661590e5fee6ea93d8624a1a570972623ef8b327d9cc325d52f3e30862b16b3a4f3fb974332e89f6e2bb217f5231f9371a7e96f808e83cfc380f4d"
+  },
+  "1.3.9": {
+    "versionId": "cyKd32dm",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-30T23:20:05.842926Z",
+    "filename": "ledger-1.3.9.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/cyKd32dm/ledger-1.3.9.jar",
+    "sha512": "1fa0c017e8520eadfcaf15d457ce037ebe20c509c9dc91a8d5e812a14262178064fcc0083a0dd91e83af78b80ba1c349d7d1fa65f5c090beca53ae369b8a3448"
+  }
+}

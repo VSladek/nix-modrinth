@@ -1,0 +1,1049 @@
+{
+  "v.1.0.0+mod-5N2ILvrK": {
+    "versionId": "5N2ILvrK",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-28T07:57:05.181510Z",
+    "filename": "mob-heads-v.1.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/5N2ILvrK/mob-heads-v.1.0.0.jar",
+    "sha512": "db747bd39917bace513d3f72b3ff25a1180ef35210de1695f5948fc003c0eb8bd2a69bd3ced19c9d2d028ff6b77971f501d25fc19fa3f0597113153b9dbbb6fc"
+  },
+  "v.1.0.0+mod-7W8iTWbG": {
+    "versionId": "7W8iTWbG",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-05T11:10:46.076608Z",
+    "filename": "mob-heads-v.1.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/7W8iTWbG/mob-heads-v.1.0.0.jar",
+    "sha512": "33ce7d34b560093e8c3d41897fd608bee8a7e6af4b14be5f02ff53e7fb3212111eb132b5b78b9dbf3e7f6261b32821db0cfc83fa1365358baa442dbcca1e92c3"
+  },
+  "v.1.2.0+mod": {
+    "versionId": "M6ltvjGl",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-10T15:32:15.030030Z",
+    "filename": "mob-heads-v.1.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/M6ltvjGl/mob-heads-v.1.2.0.jar",
+    "sha512": "4aa7fea8463f858e40b1a205340cd0918b344909abdd4878e2775f68489a19dbee9bf7d021996def53b1c4ab2717b065016bb69a0f915ac300202e43d3ac57e4"
+  },
+  "v.1.3.0+mod": {
+    "versionId": "Dq55uEV8",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-11T21:04:37.180075Z",
+    "filename": "mob-heads-v.1.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Dq55uEV8/mob-heads-v.1.3.0.jar",
+    "sha512": "744da589627716a8bfc1935c508394e31d61c76765e0d7f44e5ea2c502002800ad04708b17de7b5eb705bf28fb3f25717acb5172582d105bfb2914ce46d0368f"
+  },
+  "v.2.2.0+mod": {
+    "versionId": "nVJSDMoz",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-18T16:22:07.931331Z",
+    "filename": "mob-heads-v.2.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/nVJSDMoz/mob-heads-v.2.2.0.jar",
+    "sha512": "c91e44b3041de783f4aeba3f12c4992e6423d1171aa571f36cafb3278c1e579d2b7eec80bddf0be9e4fc2924ad0eb1c43d4067a5026fc958f715b22df61c5876"
+  },
+  "v.2.2.1+mod": {
+    "versionId": "Pub9AAgC",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-18T16:47:08.078508Z",
+    "filename": "mob-heads-v.2.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Pub9AAgC/mob-heads-v.2.2.1.jar",
+    "sha512": "23fa59fd07d83d0ebb5c59f50e9610c2443c13b39961fe0ba69c3cdffcb9aff935065fea972063a6d9f3ca46d8da550b1bd55983ddda77210599e95991a6bea5"
+  },
+  "v.2.3.0+mod": {
+    "versionId": "Ldgq6cMx",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-18T17:30:38.939337Z",
+    "filename": "mob-heads-v.2.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Ldgq6cMx/mob-heads-v.2.3.0.jar",
+    "sha512": "5bad4f1493b61d9450fb5d9bbf8370e1f96a3e8b5ae230a81c5a31159ae49a93adac11115e96dd748bf9e83d50ce85e7795d8ad44a6780d4a49fb3ebe62237f1"
+  },
+  "v.2.3.1+mod-TurvqzE6": {
+    "versionId": "TurvqzE6",
+    "gameVersions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T12:12:11.882105Z",
+    "filename": "mob-heads-v.2.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/TurvqzE6/mob-heads-v.2.3.1.jar",
+    "sha512": "b6ba3bdfe8324f207f6e6890a0be9b9e9585d9d47f5dcd14804b9904ed27ea4b475c90a4355925c9bc5c69e72ff13bfda0ead77abb952838d5a09e8c3b10a8aa"
+  },
+  "v.2.3.1+mod-wUwc2uG0": {
+    "versionId": "wUwc2uG0",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-18T17:31:18.844350Z",
+    "filename": "mob-heads-v.2.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/wUwc2uG0/mob-heads-v.2.3.1.jar",
+    "sha512": "f53158098c8ea588e3ceffe31a09d16664d9381e210b8c3c22c50ea4dd9154e6d89652df3554b52458a573fca983875b3ee9c6a10384b8ab3a61d742be5a679c"
+  },
+  "v.2.3.2+mod": {
+    "versionId": "4DzRqIpN",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T12:01:47.082609Z",
+    "filename": "mob-heads-v.2.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/4DzRqIpN/mob-heads-v.2.3.2.jar",
+    "sha512": "53d8bbbcd41d58aa196dcd517ec970f487ebd2e394e90f9a53ad85e8f2ca5b9625cba67aedb3c1a61db156cf6696a384d03b5d474d248887cb22ec17b50985c7"
+  },
+  "v.2.3.3+mod": {
+    "versionId": "QOanky7e",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-20T12:56:40.653640Z",
+    "filename": "mob-heads-v.2.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/QOanky7e/mob-heads-v.2.3.3.jar",
+    "sha512": "3dc1978653ce9b8144f48607059454474620fd883cc2616ccec4cc70abe2e83fa8cd0e6dc901e520242c86b7b129a3afbf9a94602aab2dfe341f0d442fd5e298"
+  },
+  "v.2.3.4+mod": {
+    "versionId": "GNYXgHpo",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-21T11:06:15.266129Z",
+    "filename": "mob-heads-v.2.3.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/GNYXgHpo/mob-heads-v.2.3.4.jar",
+    "sha512": "92ae643b371397b54be9e34a0006ea4a15eda9fd4f7ba5cb085e3165df9605004b5b4e421f5b37c589fe882672279e2838da7da6cbbecae7b110ffb7e4217fd0"
+  },
+  "v.2.4.4+mod": {
+    "versionId": "Awg93RjT",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-24T14:18:56.588343Z",
+    "filename": "mob-heads-v.2.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Awg93RjT/mob-heads-v.2.4.4.jar",
+    "sha512": "1407d8495ada630f1b8019e307ef982162840c063d835307b352ab642bdcf1a6b4050f932e626e1dde7965ae108ca0472dde51cc0e8673bc5221dba94c4347ce"
+  },
+  "v.2.5.4+mod": {
+    "versionId": "ubjMohpS",
+    "gameVersions": [
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-04T15:56:22.412816Z",
+    "filename": "mob-heads-v.2.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/ubjMohpS/mob-heads-v.2.5.4.jar",
+    "sha512": "72257b056161f9b629acfe1ebdc59b38effd8a7c231161bae3060bcf7fddcf03458c69d6c5ec5c1e56f6293150adfe4ea648ebaeee5354472bb5cd538dfccacd"
+  },
+  "v.2.6.4+mod": {
+    "versionId": "LT6i3sIs",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-10T12:49:02.361319Z",
+    "filename": "mob-heads-v.2.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/LT6i3sIs/mob-heads-v.2.6.4.jar",
+    "sha512": "259abd1d2ddcfbccb898b96308a15f2adf5488a97e69d1a6b20e499e56446cca1d50befadba321d0c1f76242b27ad5ac3dd84156ac28bc2f99f4456b8f1cdaca"
+  },
+  "v.2.6.5+mod": {
+    "versionId": "759CdgB4",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-08-09T16:40:03.227848Z",
+    "filename": "mob-heads-v.2.6.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/759CdgB4/mob-heads-v.2.6.5.jar",
+    "sha512": "3f2b08a4f543d8405483125dd02bc8131eb7a5986882a98bab0d8c4661a40ae1c7362955cad1df20b577ddb1d51ec2e05e1cd9719260a83870e463a74c96f898"
+  },
+  "v.2.7.5+mod": {
+    "versionId": "KE9Q5Ru6",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-09-05T17:03:27.470153Z",
+    "filename": "mob-heads-v.2.7.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/KE9Q5Ru6/mob-heads-v.2.7.5.jar",
+    "sha512": "d49aecd4181cdeaf9574a8ebbf54c089026044500a141ad71c7acd44edc1babab4f055ad5a1723bb3ff710acd4ca3dff37c6f47f7770b08146e3e65355c681ff"
+  },
+  "v.3.0.1+mod": {
+    "versionId": "ZrmZQw9O",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-23T11:18:40.032394Z",
+    "filename": "mob-heads-v.3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/ZrmZQw9O/mob-heads-v.3.0.1.jar",
+    "sha512": "0c362b61d59d0e6026969336e858d9c52ca520923c3aad68d89c50927743f935a09b0dd473e0cc488561866cb82b6b099d9cd534d945c5d2befb046375120e87"
+  },
+  "v.3.0.2+mod": {
+    "versionId": "WFoPrtL8",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-29T16:23:35.206966Z",
+    "filename": "mob-heads-v.3.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/WFoPrtL8/mob-heads-v.3.0.2.jar",
+    "sha512": "984e0ba90175ef54a26c39b21e0996d266057f9fc768ec6defa95d7ec0ee845067ecb99523ba05773a4ec0505847aaa25f5039544e422409d1f63f604a9d5286"
+  },
+  "v.3.1.2+mod": {
+    "versionId": "UJjWmsfs",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-29T13:50:05.378504Z",
+    "filename": "mob-heads-v.3.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/UJjWmsfs/mob-heads-v.3.1.2.jar",
+    "sha512": "183bf43a092d5da02c597ff72684006cdf63029c40371db5a4153d15bd3959f0406792fe6fd4e241113d69318d9152059f996c68a35448ae2368520af7a5b032"
+  },
+  "v.3.1.3+mod": {
+    "versionId": "NntgpbPW",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-17T18:08:05.781031Z",
+    "filename": "mob-heads-v.3.1.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/NntgpbPW/mob-heads-v.3.1.3.jar",
+    "sha512": "f73bc4ddae35cbfef00a770a9249971ebf03977e2944c088a17e0a4205a7dc4a36299c2f192c310010ba547906e55d2b70ce798670407542602c9a5338c25e1b"
+  },
+  "v.3.2.0+mod": {
+    "versionId": "uk114CgC",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-02-28T23:54:29.887934Z",
+    "filename": "mob-heads-v.3.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/uk114CgC/mob-heads-v.3.2.0.jar",
+    "sha512": "dc5efee9d3267c6e77a254f398a90877c61c910c9bfe2b637fb1fedab695c9dcc3729f8540f50c8334c799dde67bc1169043f0d8c61ad8d2f3f9c1b2f78cdd10"
+  },
+  "v.3.2.1+mod": {
+    "versionId": "6seHsxTz",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-29T16:04:33.245497Z",
+    "filename": "mob-heads-v.3.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/6seHsxTz/mob-heads-v.3.2.1.jar",
+    "sha512": "b57e07e03e5ae14bc64e00cea5c64e2ce2e9b6866927fc0451ca4f4dc8fbce9996df8f49f41124d4a1de2fedefc22fdb71b4357dbba939e7e7f8255e123f37de"
+  },
+  "v.3.2.2+mod": {
+    "versionId": "oAT27Aql",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-09T12:57:10.584410Z",
+    "filename": "mob-heads-v.3.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/oAT27Aql/mob-heads-v.3.2.2.jar",
+    "sha512": "463501e962cff21ea511c13933440013b10732f4eed210b337524d385162fa4415da7ff0f72560c10cb36a36112eff21f6cb209113154c2755a13336d3b29c2d"
+  },
+  "v.3.2.3+mod": {
+    "versionId": "6gUmO7KD",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-13T13:04:55.707834Z",
+    "filename": "mob-heads-v.3.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/6gUmO7KD/mob-heads-v.3.2.3.jar",
+    "sha512": "bc02f8138b5463a4905724a53b181a319f15f09bd2de6be348855019102b5f383a9d11860c982a8377dacef0b6ba14cc9efbe2958e9dae4f532509ef5039f089"
+  },
+  "v.3.3.2+mod": {
+    "versionId": "g3F7LvoZ",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-01T08:16:33.085670Z",
+    "filename": "mob-heads-v.3.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/g3F7LvoZ/mob-heads-v.3.3.2.jar",
+    "sha512": "9a6652699ef34bdccd0275b3a383a9b31449aef33161a4d206c30868e9155d6678aba75d03f681b8c0fe876b8180bd74af02abb52e2637c8231d7301db82b81b"
+  },
+  "v.3.3.3+mod": {
+    "versionId": "M7w5un00",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-03T08:25:10.366046Z",
+    "filename": "mob-heads-v.3.3.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/M7w5un00/mob-heads-v.3.3.3.jar",
+    "sha512": "2782b6438af15b5ad953e72335e929f9b54b31f494e50b151118c078bb20eb29f7a93278699651d3b43717fc857b3a1ce7b53809eb074a0f41b66dc6fc985f0a"
+  },
+  "v.3.4.3+mod": {
+    "versionId": "8jdHCnD0",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-17T09:41:43.334064Z",
+    "filename": "mob-heads-v.3.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/8jdHCnD0/mob-heads-v.3.4.3.jar",
+    "sha512": "25d220a9b7e8082e88adde0942f8eb1502b47f5d0dd9b52fac11a71bd17cfb4b69c48ed71d4e22ce01f7f363745908bdbd4bc84f403cc46a4aef3738545d46be"
+  },
+  "v.3.4.4+mod": {
+    "versionId": "99qT2pRM",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-05-18T10:10:49.702017Z",
+    "filename": "mob-heads-v.3.4.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/99qT2pRM/mob-heads-v.3.4.4.jar",
+    "sha512": "f9288d4ce6eb7009769d2693f75907afed998b262674e9897f9cb802c0891fc4c451a618cd7044737b3135ca23fbe499466d92f709f428b82d4b02533c7c8ce2"
+  },
+  "v.4.0.0+mod": {
+    "versionId": "8J4wUex6",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-05T09:40:55.054898Z",
+    "filename": "mob-heads-v.4.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/8J4wUex6/mob-heads-v.4.0.0.jar",
+    "sha512": "29f5f551af13d9549209fc4e4b897000288db8938a4467b5dac73192f9ea9dc8514ef36eb8edffb967821446ce4838ce83f92969ab3b21762129c72258d633fd"
+  },
+  "v.4.0.1+mod": {
+    "versionId": "Hv3LYQjO",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-08T07:48:35.500568Z",
+    "filename": "mob-heads-v.4.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Hv3LYQjO/mob-heads-v.4.0.1.jar",
+    "sha512": "c90f926cea2c26458341fd652828bc62ab8b69dabb64d22deb7f249bfb23b08225f407f12323d86b11aab07dee71dd927db41422e488c5aadcf7f71a44e7e3f7"
+  },
+  "v1.1.0+mod": {
+    "versionId": "ywETVi5T",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-04-05T13:52:37.719056Z",
+    "filename": "mob-heads-v1.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/ywETVi5T/mob-heads-v1.1.0.jar",
+    "sha512": "cb86ce92c2af50bd5b4d5c44379713ae8b97acb090c1b85cdccf15365479acce82eb45d65ca62f5bf46e59d3fe7a58257e62b5d7c96da6aee50e3b0b2f68710a"
+  },
+  "v3.2.4+mod": {
+    "versionId": "HEuXD8X1",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-12T11:07:05.978887Z",
+    "filename": "mob-heads-v3.2.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/HEuXD8X1/mob-heads-v3.2.4.jar",
+    "sha512": "d6315adf005d94fcdbc9541de09153e7cdf613419328fd23672f2ebb067754c548410fb3fa21fb97f9791b104d59a8319b1adaeea7b8ac70a066294194031393"
+  },
+  "v3.2.5+mod": {
+    "versionId": "nSEC1X9n",
+    "gameVersions": [
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-12T19:15:08.914490Z",
+    "filename": "mob-heads-v3.2.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/nSEC1X9n/mob-heads-v3.2.5.jar",
+    "sha512": "39e597c14c62df94781d2fdacc1754786c8ab83a8cd1d080bedac16a678f2d551ad4656f32ebf1f35c2aea31ad233f7a27f7c537d7443fcc0faaf42152b44d90"
+  },
+  "v3.4.5+mod": {
+    "versionId": "fGn8ijtJ",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-27T19:29:32.446614Z",
+    "filename": "mob-heads-v3.4.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/fGn8ijtJ/mob-heads-v3.4.5.jar",
+    "sha512": "e8ba52dbbbb1b884aa026756af970e49ef5636ce1379fb0d8a21ae3aed654d9fe481e3eca09fc12b8071600ddc3a8d7ea3136aa3f4a28c9922c026f2a48bd12a"
+  },
+  "v3.5.4+mod": {
+    "versionId": "wlG907lz",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T14:44:54.894565Z",
+    "filename": "mob-heads-v3.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/wlG907lz/mob-heads-v3.5.4.jar",
+    "sha512": "ed2787c371643d6e0fda59cca4cf78bd3fba6d3fe75da2d2dd5166da9178e31abfacd450b90ee6c1a5fa7ec1eccbaaea313f9733acb63ddadea55b5afe82097f"
+  },
+  "v3.5.5+mod": {
+    "versionId": "crcUgVGh",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-20T16:18:34.184817Z",
+    "filename": "mob-heads-v3.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/crcUgVGh/mob-heads-v3.5.5.jar",
+    "sha512": "b0d1f5c649bac61f2cd5eb8246352a43979897ec66b910a1ee510ef9345a577912f2dcaed3fe43af3aed8ff7aa20c89959552c279d888ca5b4382ca23ec2a15d"
+  },
+  "v3.5.6+mod": {
+    "versionId": "4yORsXzu",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-29T11:14:04.870524Z",
+    "filename": "mob-heads-v3.5.6.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/4yORsXzu/mob-heads-v3.5.6.jar",
+    "sha512": "237f847a9c02b88d930e925d7ea42d2b6aeaaa9a447fd0f9cf1d5dd224c43c4d77dc59beaad73cfb57d8096f518e1388b971988804f2be94b85b01d564055337"
+  },
+  "v3.5.7+mod": {
+    "versionId": "hVHeVVZt",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-01T07:46:28.878961Z",
+    "filename": "mob-heads-v3.5.7.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/hVHeVVZt/mob-heads-v3.5.7.jar",
+    "sha512": "7a2ef52239b3d475ad2e119c84888b2f63cbcb86c33212a0be3bea50f543d2e64e9732c15fd5e3c2ed5b95d29d55d697b0c6d22bae44cf42069eef8ac38b0112"
+  },
+  "v3.5.8+mod-w6NfZI7z": {
+    "versionId": "w6NfZI7z",
+    "gameVersions": [
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-19T09:49:46.445422Z",
+    "filename": "mob-heads-v3.5.8.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/w6NfZI7z/mob-heads-v3.5.8.jar",
+    "sha512": "6666f9ca8503deabae6988f6a803f274c4d7cd6d7db84c4bd01d824ca77d23c75d7044049fedd762b2e0dad1f72244aca29a80a321734cf7345024aa7133c3c7"
+  },
+  "v3.5.8+mod-xKnH9Jra": {
+    "versionId": "xKnH9Jra",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-19T09:53:04.518231Z",
+    "filename": "mob-heads-v3.5.8.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/xKnH9Jra/mob-heads-v3.5.8.jar",
+    "sha512": "67ed11a193448e67243f878f29768c65471aa8298bcc5f60481e0651932583f1b37e826aaa29e28c4695aab2fd5fe7a02cf46739a7382c2ef28f4f22604fcc57"
+  },
+  "v3.6.0+mod": {
+    "versionId": "gMxUSFpH",
+    "gameVersions": [
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-27T12:20:51.294405Z",
+    "filename": "mob-heads-v3.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/gMxUSFpH/mob-heads-v3.6.0.jar",
+    "sha512": "fe8adaa960153eb951751da4818d41b931c3ec0c674db671b8319388eeeb612b1e4a4b6fe63f05f002731c02610fc3bbe85a11fc535a08cfe92fa56288480254"
+  },
+  "v3.6.1+mod": {
+    "versionId": "AJ1ND9cX",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-27T19:30:09.373051Z",
+    "filename": "mob-heads-v3.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/AJ1ND9cX/mob-heads-v3.6.1.jar",
+    "sha512": "f3c6707cb627a08297f438cde5f8d493eee65a5a9c234d77a84c68d3dd3f60471339dbbb877f484acb1c3d096e2d41109d900b2ae278bc3c83b51d3e6035dccd"
+  },
+  "v3.6.2+mod": {
+    "versionId": "TLdq8mWC",
+    "gameVersions": [
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-15T15:11:31.875850Z",
+    "filename": "mob-heads-v3.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/TLdq8mWC/mob-heads-v3.6.2.jar",
+    "sha512": "0a7a6fb8dd3d065c3dff3fbf3f9bd99a6c7fad86d881284990fdf82ee3dcb002f14263e4c1ca38e10e2d773024ed5065936cd421215cd77a3ac4fa0c63899e72"
+  },
+  "v3.6.3+mod": {
+    "versionId": "JKhTVqTY",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T21:46:59.496950Z",
+    "filename": "mob-heads-v3.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/JKhTVqTY/mob-heads-v3.6.3.jar",
+    "sha512": "6abf5d680b0c9a466678910102a7483c718adb97221557dda45b96973f8c0366b1e978ccd15a91a3925ffe4e303ea5380f42b4d5e39d4eaa54e3792916b9771a"
+  },
+  "v4.0.0+mod": {
+    "versionId": "3SjHzSfG",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-26T13:43:23.224332Z",
+    "filename": "mob-heads-v4.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/3SjHzSfG/mob-heads-v4.0.0.jar",
+    "sha512": "71fd2b6f5835e9e26182b17dc3155123591ddb493697df2c77029d207aa6a7632fce1e77f02146c1167a9348d84204dfb441364c8f2944438fd604832a9355ef"
+  },
+  "v4.1.0+mod": {
+    "versionId": "7qKpLCzQ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-27T19:17:24.396692Z",
+    "filename": "mob-heads-v4.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/7qKpLCzQ/mob-heads-v4.1.0.jar",
+    "sha512": "d4b592f40597892afede2f0645ee5bf65ddaa22b12a38562e57d277c193c70acafdcebf08d2377c7433df21653e1de889f884fe32ec9f38a2f7122349e53aef0"
+  },
+  "v4.1.1+mod": {
+    "versionId": "NOBeiYZh",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-03T09:17:45.565780Z",
+    "filename": "mob-heads-v4.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/NOBeiYZh/mob-heads-v4.1.1.jar",
+    "sha512": "26e2666b586ad3fc5e0524c5734a20fade89435d2a044be2ae136085d949a505065731cbd0bb8479e4524ed127bc25812751571b191fe47f469eb9a112ddc00a"
+  },
+  "v4.2.1+mod": {
+    "versionId": "d4SVuVxq",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-03T17:15:18.287601Z",
+    "filename": "mob-heads-v4.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/d4SVuVxq/mob-heads-v4.2.1.jar",
+    "sha512": "37bc58c25a5744e5a6e8423635d8683c1048f46f4c18dfa502576f706166337535e55b536a5743f169a329d864145cb9fdde6d965e717600d4ca720e6ee25bd0"
+  },
+  "v4.2.2+mod": {
+    "versionId": "Il9GRbc2",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-21T17:08:10.829261Z",
+    "filename": "mob-heads-v4.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Il9GRbc2/mob-heads-v4.2.2.jar",
+    "sha512": "e48d2c292cd248ecd55cebedd66d53178d697af7f272e1206fb68e279de9242f47e992f2c81c2c12209009b53089d6948cb4ba27aef0919c8fee3e4166c763ca"
+  },
+  "v4.3.2+mod": {
+    "versionId": "81NENwKj",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-11-23T13:40:08.340318Z",
+    "filename": "mob-heads-v4.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/81NENwKj/mob-heads-v4.3.2.jar",
+    "sha512": "071f444cdbe1042e80beec25e5eac915efcd00c5bdd66a87d0ee40dffec3bd618b8930cb42408967837597f4959cfa3f2bece0be308761f86359a995272ef7c0"
+  },
+  "v4.4.2+mod": {
+    "versionId": "2OjX88dQ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-10T19:56:54.534453Z",
+    "filename": "mob-heads-v4.4.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/2OjX88dQ/mob-heads-v4.4.2.jar",
+    "sha512": "a40ce52839e0c28d892a7d443ac54722d922ab3ddc13989fc690ea2d297fbe7604369ae6b312fe8f56399df008c2ca2be92396d19f74c9c4ef75a4ad32eca872"
+  },
+  "v4.4.3+mod": {
+    "versionId": "j8dm8lUC",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-08T22:30:46.989810Z",
+    "filename": "mob-heads-v4.4.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/j8dm8lUC/mob-heads-v4.4.3.jar",
+    "sha512": "cc6b1cf8559c085aa09505621f59f8f47910d331d97f2451065c886aa5da9250d61048721d5aaa4303f5223f2229dfb06de9cc13b3d06da2da8bb63656b8a21d"
+  },
+  "v4.4.3-mc1.21.6++mod": {
+    "versionId": "X4M8Ir8r",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-01-10T21:46:19.404662Z",
+    "filename": "mob-heads-v4.4.3-mc1.21.6+.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/X4M8Ir8r/mob-heads-v4.4.3-mc1.21.6%2B.jar",
+    "sha512": "118135681273155fd9829c0f8b120a471755cf02fb51db4ebe6a0c50f79e997039a1b7e9a0855ebd3cbe1ab0f6f5f1715722ce918f397c6c0bf3e5e188a6634c"
+  },
+  "v4.5.3-mc1.21.6++mod": {
+    "versionId": "yN1B9MVJ",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-01T21:38:44.349725Z",
+    "filename": "mob-heads-v4.5.3-mc1.21.6+.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/yN1B9MVJ/mob-heads-v4.5.3-mc1.21.6%2B.jar",
+    "sha512": "2fcfbb4b92b961f6252cd5f9509e6d19435a61e58181d44397cbb626849628d6ab6d6aaeb88c16528d30afccf0200eab783a12f7e9f96c208bf857592ca6a97a"
+  },
+  "v4.5.4+mod": {
+    "versionId": "pj985Ldl",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-07T15:39:24.640181Z",
+    "filename": "mob-heads-v4.5.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/pj985Ldl/mob-heads-v4.5.4.jar",
+    "sha512": "23ebc7928295d22da47e6187dd910392660e4bd235f37275ff0420c130e620cf2c246845406903d2d4fff71d8f69ccc86a0b19b1054385a66d2f4053176ab09f"
+  },
+  "v4.5.4-mc1.21.6++mod": {
+    "versionId": "F4SNt1KY",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-01T16:46:16.155331Z",
+    "filename": "mob-heads-v4.5.4-mc1.21.6+.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/F4SNt1KY/mob-heads-v4.5.4-mc1.21.6%2B.jar",
+    "sha512": "7bea1c87ef62c35dee28f9f9a71a629ac52f458f238a38e39bcb0aad00ec2f60992b85c63a2e28cd4c6339c258353f588d3da4a5c9b21e50e806155f09076e72"
+  },
+  "v4.5.5+mod-AKBoz698": {
+    "versionId": "AKBoz698",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-11T09:41:31.676289Z",
+    "filename": "mob-heads-v4.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/AKBoz698/mob-heads-v4.5.5.jar",
+    "sha512": "0964e950353102e5d690c2f93c91ef63912e28ad2504a39280295a6d988d1beed04ab1b51b7b864be7386b75104c943e93fc519fcb822b46bdbd4cec25cb8131"
+  },
+  "v4.5.5+mod-B52o9KRs": {
+    "versionId": "B52o9KRs",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-16T10:14:45.647530Z",
+    "filename": "mob-heads-v4.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/B52o9KRs/mob-heads-v4.5.5.jar",
+    "sha512": "37afb873670ab75b27147579a87cb75c4b2b05afa3ca523cb996070caa98c775a66cf045d4c883364a3bad6f9f0d091f6864c9e4a99645436f40a911ace8f179"
+  },
+  "v4.5.5+mod-Mujn3JtR": {
+    "versionId": "Mujn3JtR",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-11T09:41:49.626072Z",
+    "filename": "mob-heads-v4.5.5.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Mujn3JtR/mob-heads-v4.5.5.jar",
+    "sha512": "018284be93307a1842c6b0e6d6e87fd9f613fb5a859c0116b81c80114bdd8b7d82575150a08d089d8793bc660ce2e17e7f3b20ce5af20ec5a08d430344ca26b5"
+  },
+  "v4.5.6+mod": {
+    "versionId": "IFWUO6Ig",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-28T10:25:58.576287Z",
+    "filename": "mob-heads-v4.5.6.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/IFWUO6Ig/mob-heads-v4.5.6.jar",
+    "sha512": "6fb3e0a7ab149cee6f67cdd7295bb6d638065dce369ac464ce04e3b5d5c31893417b656dcb46ea8f110fbffd57edd4b2fcb2f902a03fb6b0790627734e0602fb"
+  },
+  "v4.5.7+mod": {
+    "versionId": "KSf7RxcG",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-28T14:52:15.325121Z",
+    "filename": "mob-heads-v4.5.7.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/KSf7RxcG/mob-heads-v4.5.7.jar",
+    "sha512": "932594ced28ab74bc7d67bf123cff0cf19442ee6201c017eeb6447846432e000831b0d95b28e5762eb6a8d51d201e825f8d28b433355b64bc84a138d8db1a2c1"
+  },
+  "v4.6.0+mod": {
+    "versionId": "keFemDMw",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-04T13:18:36.372013Z",
+    "filename": "mob-heads-v4.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/keFemDMw/mob-heads-v4.6.0.jar",
+    "sha512": "3b16a66dec6d41a6f267e84b0f7adfe650d65712b9ac55e48f0ad97ab84f98a26da83b01367cee90327607009cafd7f01a210e82d7feef82ecb43011ddc850d5"
+  },
+  "v4.6.0.1+mod": {
+    "versionId": "6PLTzcs3",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-07T16:57:37.404668Z",
+    "filename": "mob-heads-v4.6.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/6PLTzcs3/mob-heads-v4.6.0.1.jar",
+    "sha512": "62c872a686ab428c1b7e8c96fa7e9de9aef9fff4eed6d760f5f387159250ec5326871c618e9deed3f71c0dfbbfecbf7e2fc8866402c1fe40481f2132b742d22b"
+  },
+  "v4.6.0.2+mod": {
+    "versionId": "CSocP0w6",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-07T18:53:08.375818Z",
+    "filename": "mob-heads-v4.6.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/CSocP0w6/mob-heads-v4.6.0.2.jar",
+    "sha512": "338bcd367fa74b9de0222db7daa07604fb63232ade23c0c40750fe5b1a19b10371011bbefbff3e786f9c8908537036b73c69665fb1902f8da449be9b33014bfa"
+  },
+  "v4.6.1+mod": {
+    "versionId": "R2bu8zws",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-08T18:13:43.888106Z",
+    "filename": "mob-heads-v4.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/R2bu8zws/mob-heads-v4.6.1.jar",
+    "sha512": "beefe7197e34c05f67ff7980e3eb94455caed163ec50020920716148c21df2edc1d3927333a82bfa986c636f5e3522ede41aab77f5615caaa8b3b93632ce2284"
+  },
+  "v4.6.2+mod": {
+    "versionId": "wq0lYCd7",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-09T18:09:19.508666Z",
+    "filename": "mob-heads-v4.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/wq0lYCd7/mob-heads-v4.6.2.jar",
+    "sha512": "c7ab4d599dcf6dea312721f24b5432deff23558861cc3a0f50c8ca29862ee0d2a732066a46ed9efcc2bbb5f175d654c8838f39be7972f86fa5d3c26d1542d491"
+  },
+  "v4.6.3+mod": {
+    "versionId": "hxzDf3S6",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-13T16:31:14.054971Z",
+    "filename": "mob-heads-v4.6.3.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/hxzDf3S6/mob-heads-v4.6.3.jar",
+    "sha512": "2757eedeb196b53cdda1c8a828d1498052cf6f76c5bf47b9f508407a91138c682c2d73e997bc665aa9fff00211f84031ef7f2d5bcf8a20f2941adf6ee15e008b"
+  },
+  "v4.6.4+mod-hz02jwgt": {
+    "versionId": "hz02jwgt",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-14T20:32:51.010515Z",
+    "filename": "mob-heads-v4.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/hz02jwgt/mob-heads-v4.6.4.jar",
+    "sha512": "2318c7519e24683598b57791f70a14a181feb6dfc5e8d8dd4b9de6808f213734c20493b43d7a101514d23badeb033980ff9c70367f259d3efee03941befde4c0"
+  },
+  "v4.6.4+mod-kZI9C6BF": {
+    "versionId": "kZI9C6BF",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-04-20T20:51:16.319143Z",
+    "filename": "mob-heads-v4.6.4.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/kZI9C6BF/mob-heads-v4.6.4.jar",
+    "sha512": "a1dbc32a8fef4ea747e271b4f1939e15e799f95dafc76fc413e931b852bf90522686a20eaa49c5e3adb6d67a7480ee3156f6bbe4e314a1fe7eff591d260d61cf"
+  },
+  "v4.7.0+mod": {
+    "versionId": "e2SwZvOh",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T21:05:14.600671Z",
+    "filename": "mob-heads-v4.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/e2SwZvOh/mob-heads-v4.7.0.jar",
+    "sha512": "9a3b921c4a1be130be78e23674631a418e5db802f6114449db2a779f1f3af6c8ff8db69dbba09acea536169b24e1654771bb571e4a02010ef566b6b18b2e06eb"
+  },
+  "v4.7.1+mod": {
+    "versionId": "bQzWcHq5",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-03T12:33:17.304256Z",
+    "filename": "mob-heads-v4.7.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/bQzWcHq5/mob-heads-v4.7.1.jar",
+    "sha512": "bf7e76ff9d709ac30caada702eb9cf193bd90bec428292f1d563b13c868237bb9ac98fe376001de6f042a5f27bc80197ccb2eea46f84673bc64d337a10d05075"
+  },
+  "v4.7.2+mod": {
+    "versionId": "Gg0IftfV",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-11T10:33:40.910845Z",
+    "filename": "mob-heads-v4.7.2.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/Gg0IftfV/mob-heads-v4.7.2.jar",
+    "sha512": "a88fd155340baece04e3f442d95ccb83b3896c208bfb4f3dfd118c8dc8be3557c5ea0a8e01fa7d9e827c8970caf852e7d8e52e39cab8ee2c2b88d381f9270f6c"
+  },
+  "v5.0.0+mod": {
+    "versionId": "mBjPwwW7",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-17T14:33:07.019843Z",
+    "filename": "mob-heads-v5.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/mBjPwwW7/mob-heads-v5.0.0.jar",
+    "sha512": "2c8918bf4d24d16be67ddaa22692b1321c028a3b15682be037ee430d99eb8c70aec30b80ea21d6f1b031d74a922a72fb7ef2e8aa9dad7dc39cacefa979f4546e"
+  },
+  "v5.1.0+mod": {
+    "versionId": "5ZGxJQ9X",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-02T22:54:06.351478Z",
+    "filename": "mob-heads-v5.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/5ZGxJQ9X/mob-heads-v5.1.0.jar",
+    "sha512": "4207d2b23d3da300584252a5352a12c2d5ab8f7e3b38da81992aa44991a215b91b89b54f3678a9982f833e01dae73ea7b1384a4e819da3ba05893b9aff2d1d68"
+  },
+  "v5.1.1+mod": {
+    "versionId": "ZNdQAiy7",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-07-30T18:13:40.369347Z",
+    "filename": "mob-heads-v5.1.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/ZNdQAiy7/mob-heads-v5.1.1.jar",
+    "sha512": "a2d9d4986b9eaa998903d4b39373dca02d461108c7e03e47a4cab27f08c3df4ac7c9064ebfb5c913b27b8b695920733f0b701c0d2c12dda0e3795f982db0d2dc"
+  }
+}

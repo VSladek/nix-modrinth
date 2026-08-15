@@ -1,0 +1,292 @@
+{
+  "0.1.2": {
+    "versionId": "Ce5RGgDh",
+    "gameVersions": [
+      "1.16",
+      "1.16.1",
+      "1.16.2",
+      "1.16.3",
+      "1.16.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2020-12-29T15:57:33.554133Z",
+    "filename": "image2map-0.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/0.1.2/image2map-0.1.2.jar",
+    "sha512": "a1dacbd09492c0f5016fc029b34538dff4d458e59370f458f015a386c4cedd75598c4be6c8e740d812b16049802f42f94c115c82c567901b1eb7d23e77d841af"
+  },
+  "0.10.0+1.21.6": {
+    "versionId": "HWFiTv1w",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T17:34:38.555731Z",
+    "filename": "image2map-0.10.0+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/HWFiTv1w/image2map-0.10.0%2B1.21.6.jar",
+    "sha512": "d6ae716b7343ede71646db545a668ef16f8eac1592587d24a0c06b94c0c0e69ecb6a89200560ae726e40b33329ad33e4015f4eaf3eca023e6515d0536f746af0"
+  },
+  "0.10.1+1.21.6": {
+    "versionId": "bJYNHoyD",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-19T21:10:00.674954Z",
+    "filename": "image2map-0.10.1+1.21.6.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/bJYNHoyD/image2map-0.10.1%2B1.21.6.jar",
+    "sha512": "a7395093dfeafcd7d4f91240b824b6a0484848ed534eadf0e677e9d0688a0c1d84f96250f761058142846ec61d50dee0cc898dceeb4bc1e673abfdf70b4d0e34"
+  },
+  "0.11.0+1.21.9": {
+    "versionId": "1dazBIRA",
+    "gameVersions": [
+      "1.21.9-rc1",
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-09-30T07:22:09.181978Z",
+    "filename": "image2map-0.11.0+1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/1dazBIRA/image2map-0.11.0%2B1.21.9.jar",
+    "sha512": "0d595be528d09a122d27d44863004c90fe3489799db125e04f017c480afd57003f1624fceaedb05732f52aee3465f016605d78969d08048ef9b3da9c48f69904"
+  },
+  "0.12.0+1.21.11": {
+    "versionId": "GFJiLICt",
+    "gameVersions": [
+      "1.21.11-rc3",
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-09T12:31:15.190295Z",
+    "filename": "image2map-0.12.0+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/GFJiLICt/image2map-0.12.0%2B1.21.11.jar",
+    "sha512": "8f2c6916f4048c353219bb6c8c4309571cb14679cb1dd1f67b939898a663dca4bd22c5e7871d350b8d4d64cc07dd8aa1cdf67aa404c34cd3b3bb11a94fb705e7"
+  },
+  "0.12.1+1.21.11": {
+    "versionId": "4FM4yQRK",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-02-20T17:06:54.100926Z",
+    "filename": "image2map-0.12.1+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/4FM4yQRK/image2map-0.12.1%2B1.21.11.jar",
+    "sha512": "fc20b2d0d9785c06a9b1f0dd6fdb12d8ccb8896db2f1243b73129dfbe384c078553b8ac28fad859eaf710f03e36b609cd618757f6b9e8691fe35003726fab713"
+  },
+  "0.13.0+26.1": {
+    "versionId": "jDVRjmOU",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-26T12:01:27.502410Z",
+    "filename": "image2map-0.13.0+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/jDVRjmOU/image2map-0.13.0%2B26.1.jar",
+    "sha512": "bfba9dcd558ffa9622e2784e3a06aab7eacc84241b1215728af75f4e3d790aa6725c68482f3f1d04023213b9c300c4b0c605177e3065fc88e5352e90e1977b0b"
+  },
+  "0.13.1+26.1": {
+    "versionId": "ozCorCuJ",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-05-14T16:41:38.680825Z",
+    "filename": "image2map-0.13.1+26.1.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/ozCorCuJ/image2map-0.13.1%2B26.1.jar",
+    "sha512": "95512ed9941852589b978bbd225842e83b0e82faa95d211a6a326b9b8023ed7d67f4bb3d93e814fd0df2853bdea7695bfdf35f729ce08bc7cb84678873efb3fc"
+  },
+  "0.14.0+26.2": {
+    "versionId": "RKJFfwTN",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-16T19:18:22.627968Z",
+    "filename": "image2map-0.14.0+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/RKJFfwTN/image2map-0.14.0%2B26.2.jar",
+    "sha512": "6f3c8fec4adc4e1520ecbe4e7f3ba462ae16982bae7af6a70b7e43543d343a9afe7501a0717b48b80c63ddc752281bb8351fd22838fdce6ebd56587b537ad5fd"
+  },
+  "0.2.0": {
+    "versionId": "MFggDziY",
+    "gameVersions": [
+      "1.16",
+      "1.16.1",
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-01-31T05:04:09.020835Z",
+    "filename": "image2map-0.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/0.2.0/image2map-0.2.0.jar",
+    "sha512": "b7003c0635f26160732aa6b99b423ea5f3437cbdcc634eb58ba4a32712f1ef7b6bb265819812d24574d039821c4eab4803c8fa3f9a53dd3c7de5023c6760d9ff"
+  },
+  "0.2.1": {
+    "versionId": "HbbtCM55",
+    "gameVersions": [
+      "1.17",
+      "1.17.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-07-10T01:36:40.185384Z",
+    "filename": "image2map-0.2.1.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/0.2.1/image2map-0.2.1.jar",
+    "sha512": "1310b7365523d846224b1c764d5c9f15b8d761bbc4e46264ef1f0850eec8d7d13518782b3879df30ec929192e2d6da0299d57bcd41da1af8ca663cc8e3181b2c"
+  },
+  "0.2.2": {
+    "versionId": "2bv8fPiq",
+    "gameVersions": [
+      "1.18-rc3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2021-11-28T22:33:01.566495Z",
+    "filename": "image2map-0.2.2.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/0.2.2/image2map-0.2.2.jar",
+    "sha512": "eaf1d61ea99b7b4617aed1292619239ea578169c2c147c1d9f6c1f340cc4f012d9e3e90323c2c2f4e2da9b3dbddff64f7e4c3113eb43036b71a2aa5d5849f2eb"
+  },
+  "0.2.3-BnmL5z6S": {
+    "versionId": "BnmL5z6S",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-10-16T04:03:03.354247Z",
+    "filename": "image2map-0.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/BnmL5z6S/image2map-0.2.3.jar",
+    "sha512": "f70b851fbfb43687beddb3fda71c98d753d9e7a9344ecd41027867064707850ac3a952e35238fcc5f5c24d73ca25da7f929e8118c648d2522383f1241f1f62ae"
+  },
+  "0.2.3-oPXy6Fde": {
+    "versionId": "oPXy6Fde",
+    "gameVersions": [
+      "1.19-rc1",
+      "1.19-rc2",
+      "1.19"
+    ],
+    "versionType": "beta",
+    "datePublished": "2022-06-07T04:21:46.657683Z",
+    "filename": "image2map-0.2.3.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/0.2.3/image2map-0.2.3.jar",
+    "sha512": "dbfb5a572401df17b87f572d52e8803a0725dd8f1454d944c1cdcffd2689c15b9fdc959260b7aca6caf259d1ca25484de5ce5cab96fd451c4468a28943b44e38"
+  },
+  "0.3.0": {
+    "versionId": "d83CTE1x",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-10-24T18:25:46.213474Z",
+    "filename": "image2map-0.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/d83CTE1x/image2map-0.3.0.jar",
+    "sha512": "841da95f5e6ce9fd75524aa7e3ec35180b683a217842583065808d2b3ba3078f04df31a2fe5523c9c257a036fb95be8ccb2f2779e6a8b577d69d9adcf3cb7846"
+  },
+  "0.4.0": {
+    "versionId": "ASZkYwfK",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-12-08T19:33:06.757204Z",
+    "filename": "image2map-0.4.0.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/ASZkYwfK/image2map-0.4.0.jar",
+    "sha512": "6288fa6b3684ff4e35afeb36185f2a410bb44d233f65ec2e8fe2778a420dd598009a79de88c53fc13dd09bcac0c15dae98f4b3bf11b2b368a1211bacb009ad82"
+  },
+  "0.4.1": {
+    "versionId": "QnB7ZxI8",
+    "gameVersions": [
+      "1.19.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-03-15T08:32:46.394076Z",
+    "filename": "image2map-0.4.1.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/QnB7ZxI8/image2map-0.4.1.jar",
+    "sha512": "4dbfb8ac3e908dc96f0da8c51806e07097a5c1d07e7a4c2556899c76d6e492cc8459a7ef7e998469e3a89ede28c94d8dd62985e4ba0eab240a5388b96c41afbc"
+  },
+  "0.4.2+1.20": {
+    "versionId": "T71Apams",
+    "gameVersions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-12T07:01:50.351836Z",
+    "filename": "image2map-0.4.2+1.20.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/T71Apams/image2map-0.4.2%2B1.20.jar",
+    "sha512": "37f20881f0f0a7f1233b6c5695d75d8bd7dfed185f00ec55a63df2c49594476dd3ab534abc06a66e4f4bd79f339c6778af3a804672bd153126484fc13abdfdc5"
+  },
+  "0.5.0+1.20.2": {
+    "versionId": "WudmzbSR",
+    "gameVersions": [
+      "1.20.2-rc2",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-09-19T18:06:09.636823Z",
+    "filename": "image2map-0.5.0+1.20.2.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/WudmzbSR/image2map-0.5.0%2B1.20.2.jar",
+    "sha512": "710d7bbf9de3fbf262e9dab2f0d2832874740f8d6193313d9c47e782df3588d46e46fe79000db082d03b466d1eebcf264e8d186e185b3683d27aecbc2867c5f7"
+  },
+  "0.6.0+1.20.6": {
+    "versionId": "Xq3Hv1Vg",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-05-14T21:04:56.053451Z",
+    "filename": "image2map-0.6.0+1.20.6.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/Xq3Hv1Vg/image2map-0.6.0%2B1.20.6.jar",
+    "sha512": "eaaeaef164815936d9195a013b792edad72e838cbe7648651d334bd20bbc66aafc2d02edb9e6328e59acef46d56a7d9e1346a66d0fdae7c4c781f78131b0bec7"
+  },
+  "0.7.0+1.21": {
+    "versionId": "esrvoaS1",
+    "gameVersions": [
+      "1.21-rc1",
+      "1.21"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-06-13T11:55:19.602031Z",
+    "filename": "image2map-0.7.0+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/esrvoaS1/image2map-0.7.0%2B1.21.jar",
+    "sha512": "99d90ac83b9058a3a925815c71a02a666f1c507dd9895ad96966a768f446cbebb012eed1418efb93ad013b17722e8e12ff1340a423a1ad821515482e44907939"
+  },
+  "0.7.1+1.21": {
+    "versionId": "IcHYiWHv",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-26T20:41:57.336566Z",
+    "filename": "image2map-0.7.1+1.21.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar",
+    "sha512": "589853e65b377a71ab3b3a4dcb9166cfc8942ca52733b3e38ec7d281deb7ceee2104404ac3f20a025864dd78ab0bbb5af6dfdbbc4a9b3b487a406729aa5c8024"
+  },
+  "0.8.0+1.21.3": {
+    "versionId": "kkdbWskW",
+    "gameVersions": [
+      "1.21.3",
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-10-25T09:07:25.268664Z",
+    "filename": "image2map-0.8.0+1.21.3.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/kkdbWskW/image2map-0.8.0%2B1.21.3.jar",
+    "sha512": "fab2fcca41a8d5e39ef48bfd557c4bfb4d27383d7bc9415c76b2100f52e34ae3bb6a5f9919a6617c2a081a886b9f869ff2c626a376e7b54a9f5491d14a66b54c"
+  },
+  "0.9.0+1.21.5": {
+    "versionId": "xKDGxPer",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-03-25T19:24:57.392171Z",
+    "filename": "image2map-0.9.0+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/xKDGxPer/image2map-0.9.0%2B1.21.5.jar",
+    "sha512": "8616c306605964427276035db751a05e70a46510e9c285ccfd51a60016af84d7ce4faeb6df5edfc90d6f48b86953be64a6f1d82744ff991f6e8f048cb5c5e5a5"
+  }
+}

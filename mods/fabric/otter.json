@@ -1,0 +1,473 @@
+{
+  "0.1.0.0+1.21.5": {
+    "versionId": "sFNnKAZw",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-02T20:14:31.072357Z",
+    "filename": "otterlib-fabric-0.1.0.0+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/sFNnKAZw/otterlib-fabric-0.1.0.0%2B1.21.5.jar",
+    "sha512": "8e7768ffef0718696d6beb601287ad989d16092ecaea6c3c9583443e8c405bd5245db64494b32503c74cc97c7a6ce34e9058e349d9f0ec6b2d9692ccc601ab4c"
+  },
+  "0.1.0.1+1.21.5": {
+    "versionId": "XyqkvzmI",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-04T20:50:39.086092Z",
+    "filename": "otterlib-0.1.0.1+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/XyqkvzmI/otterlib-0.1.0.1%2B1.21.5-fabric.jar",
+    "sha512": "47107b1f470b06e4101e742ac0cac1e0a28dc9f038b6aafd1dea13cf9b729efbb797d9edc33790207bd4db53ea0291d78e30a12daa7f5aa3a602ace392f3208d"
+  },
+  "0.1.1.0+1.21.5": {
+    "versionId": "QnFtg28F",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-08T17:39:23.864710Z",
+    "filename": "otterlib-0.1.1.0+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/QnFtg28F/otterlib-0.1.1.0%2B1.21.5-fabric.jar",
+    "sha512": "a9309826ef765b5b4e3d06e7d07a54b9dfd57229373c28242773c39b163da97576a3477c93de04a0c3bc6c840042d6329a584e03478c9bb6b67360f47d278e06"
+  },
+  "0.1.2.0+1.21.5": {
+    "versionId": "gULVCp2Q",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-13T04:05:46.083873Z",
+    "filename": "otterlib-0.1.2.0+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/gULVCp2Q/otterlib-0.1.2.0%2B1.21.5-fabric.jar",
+    "sha512": "21018dbf6522df930db33e2546b8af07e2bb0b718da1cd1f6f4e6cddf0d31a7879596aa34b9d406cff55a6c7e7b81c9a00b023e36e98a1ba681eb8daf321325b"
+  },
+  "0.1.2.1+1.20.1": {
+    "versionId": "9weKWqON",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-18T23:07:58.057794Z",
+    "filename": "otterlib-0.1.2.1+1.20.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/9weKWqON/otterlib-0.1.2.1%2B1.20.1-fabric.jar",
+    "sha512": "ef2f25228e1fe4b0cdb91444e024128db2d2209481ec3f9c1d17bf44248ada05386d9c804d9d8a2a8356dfc9812c8307eebe1cafb38fed7000a4f9cb6a6713c6"
+  },
+  "0.1.2.1+1.20.4": {
+    "versionId": "Y2lKCwQD",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-18T19:20:40.724228Z",
+    "filename": "otterlib-0.1.2.1+1.20.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/Y2lKCwQD/otterlib-0.1.2.1%2B1.20.4-fabric.jar",
+    "sha512": "efba789ca77e90a4fab3f5f863cd2c391e9c8a990633423b9cf8155fe3846bd48b7eaf103eb82029956aa5977aab0adbae8be66a371a9767e17b1c78d30307cd"
+  },
+  "0.1.2.1+1.20.6": {
+    "versionId": "xgzBqMRc",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-17T18:05:44.618319Z",
+    "filename": "otterlib-0.1.2.1+1.20.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/xgzBqMRc/otterlib-0.1.2.1%2B1.20.6-fabric.jar",
+    "sha512": "12b15228ee892458de5d97291ede5904eea9750811a2dcc2a8f49c18be6c0ffa06a3c6e46f363dfb4f5209698b12180f053a2c0b83f463083abfa5ff1517a7a6"
+  },
+  "0.1.2.1+1.21.1": {
+    "versionId": "SZW7nRho",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-17T17:53:39.114279Z",
+    "filename": "otterlib-0.1.2.1+1.21.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/SZW7nRho/otterlib-0.1.2.1%2B1.21.1-fabric.jar",
+    "sha512": "79db72c71faece7f73b6962bb1e76209d75274c8bb6b6086aec054b22229fac69e1a93f69d3e8bbf2afd6f68b0539977b66c18d370d4b76022e2fed8a1b69303"
+  },
+  "0.1.2.1+1.21.4": {
+    "versionId": "yrAdRY9L",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-13T19:10:46.982276Z",
+    "filename": "otterlib-0.1.2.1+1.21.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/yrAdRY9L/otterlib-0.1.2.1%2B1.21.4-fabric.jar",
+    "sha512": "2d0425e6017c4a2a2ec080b28b0bcd5ab70e46c0bad0d83a83e3f038b693bc6fa6fcbea3d153651692169fa03dbeee597363ebd367084c5befa07532c79f9c8f"
+  },
+  "0.1.2.1+1.21.5": {
+    "versionId": "nGq8Pr6L",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-13T18:16:57.129228Z",
+    "filename": "otterlib-0.1.2.1+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/nGq8Pr6L/otterlib-0.1.2.1%2B1.21.5-fabric.jar",
+    "sha512": "eb8f13f7bd92b3c26233753f4b6dbf29591af0984c539219513344b1ab196e39b6ce91576eb8e44f3efa7d6bf2a1961fdbbea5ad3dbc3ec200f61d47d49d171b"
+  },
+  "0.1.2.1+1.21.6": {
+    "versionId": "dkseNv61",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-17T15:27:25.535216Z",
+    "filename": "otterlib-0.1.2.1+1.21.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/dkseNv61/otterlib-0.1.2.1%2B1.21.6-fabric.jar",
+    "sha512": "eff847a66fe947123ecfb142c880b884e1a7d8384d431589c7a4cdf118ff76cf6c9daae1f0509c8ec4ee6cd1ed5f902bf9fa2bfb9111544a078a01c4da1805ce"
+  },
+  "0.1.2.1+1.21.6-pre1-HFbOUrf5": {
+    "versionId": "HFbOUrf5",
+    "gameVersions": [
+      "1.21.6-pre1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-28T14:57:31.323348Z",
+    "filename": "otterlib-0.1.2.1+1.21.6-pre1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/HFbOUrf5/otterlib-0.1.2.1%2B1.21.6-pre1-fabric.jar",
+    "sha512": "16b87e5c558c1fd46e59c1186135c55fc038be21c056bdfd5ed0428fedd61774f6def5f4656987f6e38a2a969f95458c640140207bd55b68cc256f74df7b7dae"
+  },
+  "0.1.2.1+1.21.6-pre1-b70uTqbl": {
+    "versionId": "b70uTqbl",
+    "gameVersions": [
+      "1.21.6-pre1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-28T14:57:08.392861Z",
+    "filename": "otterlib-0.1.2.1+1.21.6-pre1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/b70uTqbl/otterlib-0.1.2.1%2B1.21.6-pre1-fabric.jar",
+    "sha512": "16b87e5c558c1fd46e59c1186135c55fc038be21c056bdfd5ed0428fedd61774f6def5f4656987f6e38a2a969f95458c640140207bd55b68cc256f74df7b7dae"
+  },
+  "0.1.2.2+1.20.4": {
+    "versionId": "CYQTVRtr",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-05-26T02:01:30.474167Z",
+    "filename": "otterlib-0.1.2.2+1.20.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/CYQTVRtr/otterlib-0.1.2.2%2B1.20.4-fabric.jar",
+    "sha512": "847f28e98b15205bce4327c84d59621eb5362a876c40f6664dc4966ef864d92fd96d2954020e8426dc1c0f4a059255f0bf02d63f98b001ef1a15ab1014c1f038"
+  },
+  "0.2.0.0+1.21.6": {
+    "versionId": "7wlBYu2m",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-23T22:38:45.960206Z",
+    "filename": "otterlib-0.2.0.0+1.21.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/7wlBYu2m/otterlib-0.2.0.0%2B1.21.6-fabric.jar",
+    "sha512": "5361cb9a0d02e9d2cd3716f2346fde83ac6c0f3e3538a65ac5eaf61cd3d25c8530361ce77b3f55d194106b263fad2764faa05fc2e7a505508aa99114f7635774"
+  },
+  "0.2.1.0+1.20.1": {
+    "versionId": "ilUQLsde",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-08T17:59:05.571988Z",
+    "filename": "otterlib-0.2.1.0+1.20.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/ilUQLsde/otterlib-0.2.1.0%2B1.20.1-fabric.jar",
+    "sha512": "76188b5d9d4b2cc4f07e58fab9591e1833f57979ede63169d38ff89170941da48c566bd02d35b1747632fec8ccab5ad3d2b1c8e83e3557ccfa24f005aca33609"
+  },
+  "0.2.1.0+1.20.4": {
+    "versionId": "T7Lg0VPa",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-08T17:55:44.601373Z",
+    "filename": "otterlib-0.2.1.0+1.20.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/T7Lg0VPa/otterlib-0.2.1.0%2B1.20.4-fabric.jar",
+    "sha512": "208ccbcbe8c1415d441440009d9ea1f039cb46bb64b1492ac1477543474e9d4b7212985e85d37e76ab5af0e996327a3684b958fa47ef2ebb3fefc2cc74e24ef2"
+  },
+  "0.2.1.0+1.20.6": {
+    "versionId": "GfBpnLTq",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-08T17:53:59.300642Z",
+    "filename": "otterlib-0.2.1.0+1.20.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/GfBpnLTq/otterlib-0.2.1.0%2B1.20.6-fabric.jar",
+    "sha512": "876214c7cadb3282b280c49dfda2886d738e440b8ff8af51ecbebf41acc12797fa31f07152f6ce3a2b0174a8fea58c06a23360b25468f1665b5f6be3ef3d8734"
+  },
+  "0.2.1.0+1.21.1": {
+    "versionId": "QoKZdme7",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-27T22:27:02.577426Z",
+    "filename": "otterlib-0.2.1.0+1.21.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/QoKZdme7/otterlib-0.2.1.0%2B1.21.1-fabric.jar",
+    "sha512": "0393f36705fa25da8efc01db54ea450e18bb4a111bb25b9fee2e484b464d3c999f467f1bf576a474c79ac6261767efdfe0db6928227f61ea62b6b70a9e43b426"
+  },
+  "0.2.1.0+1.21.4": {
+    "versionId": "HbIoTb00",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-27T22:23:43.172737Z",
+    "filename": "otterlib-0.2.1.0+1.21.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/HbIoTb00/otterlib-0.2.1.0%2B1.21.4-fabric.jar",
+    "sha512": "5faffbc97121d8ba079c97ea22f6cb61cdddf77891e2b60729b7adefdcf8aa45ef39e952679dfd420cc89b3f39b485976e37eb2f5d83192b0caf99d54b555862"
+  },
+  "0.2.1.0+1.21.5": {
+    "versionId": "hzK5ru2b",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-27T22:23:05.207255Z",
+    "filename": "otterlib-0.2.1.0+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/hzK5ru2b/otterlib-0.2.1.0%2B1.21.5-fabric.jar",
+    "sha512": "b4661de2ea9a4c4092858e76a64894356814ee9b0ea6fa33313f8ba4267093fbb16759c1bb05099b324294d1965ce6e597b6b551609b5d4300804d3ed76ccdfc"
+  },
+  "0.2.1.0+1.21.6": {
+    "versionId": "SDsNZDh9",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-24T18:45:24.295256Z",
+    "filename": "otterlib-0.2.1.0+1.21.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/SDsNZDh9/otterlib-0.2.1.0%2B1.21.6-fabric.jar",
+    "sha512": "c81b3c0a822c37164677880d9d37ef4668fa93b90600f723a5bc370556c26f80cb0141b8d567b34289fa6c04dc917a73a38daf3bddc18fe69d4aee1f1950ed33"
+  },
+  "0.2.1.0+1.21.7": {
+    "versionId": "LTg9ifOT",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-06-30T14:47:42.559068Z",
+    "filename": "otterlib-0.2.1.0+1.21.7-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/LTg9ifOT/otterlib-0.2.1.0%2B1.21.7-fabric.jar",
+    "sha512": "582f91d020996c9a4b503b228a7287090c34aad7356482a0ab964be4ef5e87fd1a558e70c714b19e57cf9aa803bc0eb29e5a6b5afc3de5d520d70d57379d7ec1"
+  },
+  "0.2.1.1+1.20.1": {
+    "versionId": "KGMbD3YU",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-18T02:59:27.549682Z",
+    "filename": "otterlib-0.2.1.1+1.20.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/KGMbD3YU/otterlib-0.2.1.1%2B1.20.1-fabric.jar",
+    "sha512": "cd3024097e2a26cec28c77c3f803c1b363820a571e523a8c0f86da87e7f7ddcdc05875ca180ff6f1bab682ad665cc71d23954a5eb880fb4b9a71425692cdb196"
+  },
+  "0.2.1.1+1.20.4": {
+    "versionId": "zxtNclPn",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-18T02:55:14.899592Z",
+    "filename": "otterlib-0.2.1.1+1.20.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/zxtNclPn/otterlib-0.2.1.1%2B1.20.4-fabric.jar",
+    "sha512": "6d053e463dce5bc2421ed814e317dd6b0f62bc568f081512447de509187796b38dd128dc604ecb0e40c4ae7e45c73d282ae3b375357d3235c3366c1be00541fe"
+  },
+  "0.2.2.0+1.20.1": {
+    "versionId": "b0StSPCY",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-26T18:39:21.038237Z",
+    "filename": "otterlib-0.2.2.0+1.20.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/b0StSPCY/otterlib-0.2.2.0%2B1.20.1-fabric.jar",
+    "sha512": "2b8241c38a34c1856d9c820bb09fc7d359e5cf22da4265ace4b3a3236bcd56d94a07044b8e74195d95e7806614b5136de9f1827982ecfbdc7cb83af285bf80ab"
+  },
+  "0.2.2.0+1.20.4": {
+    "versionId": "VAA1Mkjd",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-26T18:38:20.312763Z",
+    "filename": "otterlib-0.2.2.0+1.20.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/VAA1Mkjd/otterlib-0.2.2.0%2B1.20.4-fabric.jar",
+    "sha512": "b982a68e1cbf9648abcd04fa4533076bf7547caaaa11a807cfefec15a5e29d5d56c83db65df789b8bbc961e7941b8fe22751af795cde8b876e3531b649e0ec6a"
+  },
+  "0.2.2.0+1.20.6": {
+    "versionId": "cYzRbR64",
+    "gameVersions": [
+      "1.20.6"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-26T18:35:14.263892Z",
+    "filename": "otterlib-0.2.2.0+1.20.6-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/cYzRbR64/otterlib-0.2.2.0%2B1.20.6-fabric.jar",
+    "sha512": "513313667d9c969d6f8a98342186dd40d6d249b78e43ed1153790029eef8d273e82eefc369dff0cc76452ff6a7e391e1e43a12e579b203bfcc5518cdf2cc08e7"
+  },
+  "0.2.2.0+1.21.1": {
+    "versionId": "lMOoBAw6",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-27T00:11:47.286536Z",
+    "filename": "otterlib-0.2.2.0+1.21.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/lMOoBAw6/otterlib-0.2.2.0%2B1.21.1-fabric.jar",
+    "sha512": "b81225dfcd7f7e7f79f58d1b9acfe0c95a967534174ada52db9742c0609e6caf9fadab025f4f8e0f9b1bfe8d7bf29f5add1b09c5e81ca6ddde1a86d1fd2d7e7c"
+  },
+  "0.2.2.0+1.21.4": {
+    "versionId": "jypR5qeR",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-15T16:58:10.340564Z",
+    "filename": "otterlib-0.2.2.0+1.21.4-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/jypR5qeR/otterlib-0.2.2.0%2B1.21.4-fabric.jar",
+    "sha512": "bbd02b88a975c0e861d47580a01666834e838941ad9cd58dcb1afa4dee73e607c129568414dd4ec38f58287068a5ee75d32364c2d13d4e45a999be1222ff5ae8"
+  },
+  "0.2.2.0+1.21.5": {
+    "versionId": "ay2JBPGs",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-15T16:56:06.250838Z",
+    "filename": "otterlib-0.2.2.0+1.21.5-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/ay2JBPGs/otterlib-0.2.2.0%2B1.21.5-fabric.jar",
+    "sha512": "dd66aebe50dc19358b5d48f8cc0c85cd4af3ca0ad98b0764ffeb6b665d94b2679af4236492a223081ca3b0f502dd59ce018abc4c1bf379c83fe76c6335b701b3"
+  },
+  "0.2.2.0+1.21.7": {
+    "versionId": "7xVdijXS",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-11T19:05:41.224332Z",
+    "filename": "otterlib-0.2.2.0+1.21.7-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/7xVdijXS/otterlib-0.2.2.0%2B1.21.7-fabric.jar",
+    "sha512": "42dead90259643e403afce3163a04d47980be9182c801117e2ade5cf7b5dcad8902f64c9b6912fd901f4708b0881a8036e33d909aa43f7c0d1e66c9ed25ec393"
+  },
+  "0.2.2.0+1.21.8": {
+    "versionId": "y94cz6oZ",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-07-17T15:19:30.703735Z",
+    "filename": "otterlib-0.2.2.0+1.21.8-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/y94cz6oZ/otterlib-0.2.2.0%2B1.21.8-fabric.jar",
+    "sha512": "2676680af8a490280e3fdf312f6cbfbfcced17bd1a8adb2bba4c31545d0da89e0101363946d48a9630076d2878ce40380047b687577d0b02273afd9835afe553"
+  },
+  "0.2.2.1+1.21.10": {
+    "versionId": "zlJvj7Xn",
+    "gameVersions": [
+      "1.21.9",
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-10-07T16:13:05.021103Z",
+    "filename": "otterlib-0.2.2.1+1.21.10-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/zlJvj7Xn/otterlib-0.2.2.1%2B1.21.10-fabric.jar",
+    "sha512": "d421fbd9c3fa10dc4afcd54687dfb1099e735a695015716356ed7a554c98a519cb94a6a22a28195c5ce4ffded3d415423659abd82368dacf0cbbf8df817c87ed"
+  },
+  "0.2.2.1+1.21.11": {
+    "versionId": "97STrMee",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-12-10T05:33:28.814309Z",
+    "filename": "otterlib-0.2.2.1+1.21.11-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/97STrMee/otterlib-0.2.2.1%2B1.21.11-fabric.jar",
+    "sha512": "3f62f95d620f5e5a476120b97232847607edb2e2559e0ef282650ce033e4d778a586539614fc3222975999b380f1c1d782813bb190a2677c7ab1f828ce575aac"
+  },
+  "0.2.2.1+1.21.8": {
+    "versionId": "c1wkXVhH",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-08-20T20:30:33.886588Z",
+    "filename": "otterlib-0.2.2.1+1.21.8-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/c1wkXVhH/otterlib-0.2.2.1%2B1.21.8-fabric.jar",
+    "sha512": "f050fbd0284f28485fcdbc9771ca62842722bf6272e76ccffa935759e18d20904c84943ec5d6485cbb26f848f42ab8dde3b5da5cf804d79ca92f7b863b97d693"
+  },
+  "0.2.2.1+1.21.9": {
+    "versionId": "yRuTDvmZ",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "beta",
+    "datePublished": "2025-10-02T16:03:00.337550Z",
+    "filename": "otterlib-0.2.2.1+1.21.9-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/yRuTDvmZ/otterlib-0.2.2.1%2B1.21.9-fabric.jar",
+    "sha512": "e5f8412b52c883f1ea7942f6e222245f9378bbeba75b3e346587ef1a661459fee5d9fcb5193096da4cde5fe5082e3d17165d683bc223d41153f2a54adc889c31"
+  },
+  "0.3.0.0+26.1": {
+    "versionId": "aLCe8TQU",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-03-25T02:30:08.270613Z",
+    "filename": "otterlib-0.3.0.0+26.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/aLCe8TQU/otterlib-0.3.0.0%2B26.1-fabric.jar",
+    "sha512": "e1ec28c7178487f04c5d0d9e8a1b730bf146b833cc2ffc021bbad44a4e975bf79a8568da3896bdfac054ad15176808de8a278562ac37884e57a752821cc719dc"
+  },
+  "0.3.0.0+26.1.1": {
+    "versionId": "DlBRgsTH",
+    "gameVersions": [
+      "26.1",
+      "26.1.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-04-01T13:46:14.410618Z",
+    "filename": "otterlib-0.3.0.0+26.1.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/DlBRgsTH/otterlib-0.3.0.0%2B26.1.1-fabric.jar",
+    "sha512": "16c5aeb8cdf13d7e10e43e5799fef06452ad33cad4e7766b48b7d4165c809b8bd17796c13bc91a2afd71eb0f11595345b392f6ac86500672e99b6fc45533dbad"
+  },
+  "0.3.0.1+26.1": {
+    "versionId": "VrPGp6VK",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-05-16T23:56:40.719014Z",
+    "filename": "otterlib-0.3.0.1+26.1-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/VrPGp6VK/otterlib-0.3.0.1%2B26.1-fabric.jar",
+    "sha512": "608d5774cee8b57b8fe21e2beaddf8d09e175f6526d06418aace3903a8c7428b3305c03caec2b123579fb343d2652619e000727c5e686299c54022aeaa96ea0c"
+  },
+  "0.3.0.1+26.2": {
+    "versionId": "7thwoNTE",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-21T03:32:05.932693Z",
+    "filename": "otterlib-0.3.0.1+26.2-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/7thwoNTE/otterlib-0.3.0.1%2B26.2-fabric.jar",
+    "sha512": "dac22621d6e25bebd5b54f25e06bf334575bf00e63b3b3b99216d3be1d3210047c9158b3b12bf3418fce266ccd6e188d89b4995f2a50428c0d1afb76db103cae"
+  },
+  "0.4.0.0+26.2": {
+    "versionId": "TSzkTFkO",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-06-28T22:47:35.689256Z",
+    "filename": "otterlib-0.4.0.0+26.2-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/TSzkTFkO/otterlib-0.4.0.0%2B26.2-fabric.jar",
+    "sha512": "a911eb45158995b250382137e7e7a0867dd00ab954713db1dc6f58711de16b7fe9bfaab7499510c5d1fa5774bbd1c2c1b38c560c6c9b7d9f1fcc40ac4f6f9a78"
+  }
+}
