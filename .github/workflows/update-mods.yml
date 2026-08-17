@@ -19,7 +19,7 @@ jobs:
       - uses: cachix/install-nix-action@v31
 
       - name: Run update.py
-        run: ./update.py
+        run: nix shell nixpkgs#python3Packages.requests -c python3 ./update.py
 
       - name: Open PR with any changes
         uses: peter-evans/create-pull-request@v8
