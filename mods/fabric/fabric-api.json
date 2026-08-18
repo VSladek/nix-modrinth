@@ -5085,6 +5085,39 @@
     "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6Qh0UKlg/fabric-api-0.157.1%2B26.3.jar",
     "sha512": "4850f66d790accaaaa61b61f3aef2d0f069cabf22bb7369814503168a8924481b696e024ebfd06f98eb2a382a4d7355e1020e8379bd9b615817ba85ddeaee364"
   },
+  "0.157.2+26.3": {
+    "versionId": "PdtJpGrn",
+    "gameVersions": [
+      "26.3-snapshot-9"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-17T16:29:24.905830Z",
+    "filename": "fabric-api-0.157.2+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PdtJpGrn/fabric-api-0.157.2%2B26.3.jar",
+    "sha512": "c3203fb412e328ac3891519068b85e80b165a54bf1155d135f4375afa8a533273d383d518b30ead9f8360a7bcb661d43f3e8e4dd7786e962f68a222de5cb2c2a"
+  },
+  "0.158.0+26.2": {
+    "versionId": "NqwNSxwA",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-08-18T13:18:16.055261Z",
+    "filename": "fabric-api-0.158.0+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
+    "sha512": "4c2c1ebe74ffd54875a01ff371b53ba3d8674ac98d561f7dae02a96d3d37fbdbc5f5abc6e820f73b6154d6f873ddd05a442b0998ed2d456863dc0ad972e040a6"
+  },
+  "0.158.0+26.3": {
+    "versionId": "Kuxt8rFc",
+    "gameVersions": [
+      "26.3-snapshot-9"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-18T13:25:23.276290Z",
+    "filename": "fabric-api-0.158.0+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Kuxt8rFc/fabric-api-0.158.0%2B26.3.jar",
+    "sha512": "84bf9b33c6003fc299d4e5c9853b5e81cb6da3c5dc47d6c36d9b451f1c1c5123bbff4e8e15ee2df71e7e2cf0d592a99e5a0d2ad5eec7941daf464e8aa66a34f8"
+  },
   "0.16.0+build.321-1.15": {
     "versionId": "KXNNWSBt",
     "gameVersions": [
