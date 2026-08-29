@@ -26,6 +26,10 @@
     project = "l6YH9Als";
     loaders = [ "fabric" ];
   };
+  FabricExporter = {
+    project = "fabricexporter";
+    loaders = [ "fabric" ];
+  };
 
   # discord integration
   SDlink = {

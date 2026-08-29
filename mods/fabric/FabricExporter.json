@@ -1,0 +1,283 @@
+{
+  "1.0.1": {
+    "versionId": "nTUu57Wy",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-05-25T21:51:50.092803Z",
+    "filename": "fabricexporter-1.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.1/fabricexporter-1.0.1.jar",
+    "sha512": "6a3a1d3673a077c0cd5aa2f27e83155c7f659abeae94a8eefbf479aae2fecaa217e66eb2e310047082d17febf7aed3c4558bb478dd7ffc536245a86686057bbe"
+  },
+  "1.0.10": {
+    "versionId": "hbHNI2Vs",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-06-20T14:34:52.467601Z",
+    "filename": "fabricexporter-1.0.10.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/hbHNI2Vs/fabricexporter-1.0.10.jar",
+    "sha512": "61d14878c66189c13670fd20ff480a5a5b1fca2047e972362f38258fd69dd33a4b7bf618e6dc08105a8d6955afd1675a1aa965c9e374c9c082ffe17c4ad06b0c"
+  },
+  "1.0.11-Hj7rjkaK": {
+    "versionId": "Hj7rjkaK",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-12-10T22:36:14.853618Z",
+    "filename": "fabricexporter-1.0.11.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/Hj7rjkaK/fabricexporter-1.0.11.jar",
+    "sha512": "c290b2eb1e7d71d1481d20feee2104630f5495dcf70040e3fbdf663ae6aa58942068e4556dab4752b7f748a06b2f3a3da0716469ea0e46701d0607682900eb14"
+  },
+  "1.0.11-J6hcIgVH": {
+    "versionId": "J6hcIgVH",
+    "gameVersions": [
+      "1.20.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-03-01T14:47:05.703083Z",
+    "filename": "fabricexporter-1.0.11.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/J6hcIgVH/fabricexporter-1.0.11.jar",
+    "sha512": "d75d57c9b831498cdb118f5121a67a2f9d42bc51c8d24f64dc38fc82b86db48f2f6c106e90c69b8b9f72e6e8a3c77d19e925a6519eba2e2cd739ece8190e698c"
+  },
+  "1.0.11-YcE9H1C5": {
+    "versionId": "YcE9H1C5",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-07-17T12:12:00.485336Z",
+    "filename": "fabricexporter-1.0.11.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/YcE9H1C5/fabricexporter-1.0.11.jar",
+    "sha512": "92882682995391262d8f640ec200341155596722a8b29e1dedfe669d0cd7669f8510965a7a6198ca1ef11a8e7a2c87b14480d1466991a19854efc94c9cc84e8d"
+  },
+  "1.0.12": {
+    "versionId": "JA0Rha2n",
+    "gameVersions": [
+      "1.21.2",
+      "1.21.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-11-10T07:10:04.355662Z",
+    "filename": "fabricexporter-1.0.12.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/JA0Rha2n/fabricexporter-1.0.12.jar",
+    "sha512": "a4763398a631e1fe4e2be95e87cb91e174677d7ffc6bd7540b8a4f16f1be45cafd40185fbbcf7c9f1057401025a8c40bd7c75140395e2c5e5b5ed0a5072507e4"
+  },
+  "1.0.13": {
+    "versionId": "OtsOKIhQ",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2024-12-17T08:30:34.586569Z",
+    "filename": "fabricexporter-1.0.13.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/OtsOKIhQ/fabricexporter-1.0.13.jar",
+    "sha512": "26538f3c24b683d451c11b43a0d6f546f5e2f39ada5b69a6b634cd1fe714b2d6103b46c97a69c2c1fb8ef51111dd0c6ede0db0218737a5ed7b4826bf55118847"
+  },
+  "1.0.14-5sFtYOmu": {
+    "versionId": "5sFtYOmu",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-01T08:32:27.941158Z",
+    "filename": "fabricexporter-1.0.14.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/5sFtYOmu/fabricexporter-1.0.14.jar",
+    "sha512": "6968156400850f716f568489e554f800a052a2c59b865e1d753026c485b9f7952bcaf86d41dbfc7f880eeb0c187180d4c31743356e9eb2b3fe837b6c27c4ac4b"
+  },
+  "1.0.14-phBInZSv": {
+    "versionId": "phBInZSv",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-01-04T16:42:29.741244Z",
+    "filename": "fabricexporter-1.0.14.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/phBInZSv/fabricexporter-1.0.14.jar",
+    "sha512": "0b58f81226237d4d91a0f089ecca85f823a66d751b68b872c19c54331fe35f3d4160bcd7a95bc5ecfbf9dca51acbd9fd761173032ade76f1df991aef04df94f6"
+  },
+  "1.0.14-yXykpcdV": {
+    "versionId": "yXykpcdV",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-04-01T08:35:33.822475Z",
+    "filename": "fabricexporter-1.0.14.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/yXykpcdV/fabricexporter-1.0.14.jar",
+    "sha512": "de3ff4fcac65c95f98d08672d2e4d1575776f5541ad98884bac0c999956cdd9f0d8df287a7828633ed15df13eb454d6fb5ac6881665e07e48c4b8a81fba39815"
+  },
+  "1.0.15": {
+    "versionId": "koLFTgBk",
+    "gameVersions": [
+      "1.21.6"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-06-24T13:24:41.074532Z",
+    "filename": "fabricexporter-1.0.15.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/koLFTgBk/fabricexporter-1.0.15.jar",
+    "sha512": "11712177ffa9dfc97586fd70356521900a94f1b98215351b206bf3be37c526b8fd928a0c0946aa975e6444181164115f47e70f67a9e9bb15eded8263ac2bcce2"
+  },
+  "1.0.16": {
+    "versionId": "KoAxNJaw",
+    "gameVersions": [
+      "1.21.7"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-07-02T13:42:22.095230Z",
+    "filename": "fabricexporter-1.0.16.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/KoAxNJaw/fabricexporter-1.0.16.jar",
+    "sha512": "6d9d72db07e36690c1cf22294452419b4ddc41a90a334e33910c5e3031eecbf92f658df03dc75b6220fd03b4bfa7d82bd7c28b5660e9ffa58e9f2188318a9243"
+  },
+  "1.0.17": {
+    "versionId": "VaRUspV6",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-08-15T20:41:00.540121Z",
+    "filename": "fabricexporter-1.0.17.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/VaRUspV6/fabricexporter-1.0.17.jar",
+    "sha512": "8229ce7d5569a1967b1612c00d08fa0447224f323f4a4d37d05b73ad83b6c0c77d3bb3adf979790bf196f09328b7865fafdd6b89e4245a30735197564266b4c5"
+  },
+  "1.0.18": {
+    "versionId": "d3IV5ubY",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-24T18:46:09.053437Z",
+    "filename": "fabricexporter-1.0.18.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/d3IV5ubY/fabricexporter-1.0.18.jar",
+    "sha512": "88bd9998bca9140369b30bf032febddb92d45b97b747689101bf1db5d348cdfed1bf8764c3b732d7bf6150a9fe8a9897a5ed67e45290372ad1b139782884c9da"
+  },
+  "1.0.19": {
+    "versionId": "OT2QwJUv",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-10-24T19:27:56.910754Z",
+    "filename": "fabricexporter-1.0.19.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/OT2QwJUv/fabricexporter-1.0.19.jar",
+    "sha512": "00e46a5337a31318093d598cd027b709b141ea76c10a2639cff3487512833d910b3e814c80dc19a88f2a4ccf175cb1633635442625628602a2068a39f38baa0e"
+  },
+  "1.0.20": {
+    "versionId": "D7LrQrIU",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2025-12-23T13:20:15.267987Z",
+    "filename": "fabricexporter-1.0.20.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/D7LrQrIU/fabricexporter-1.0.20.jar",
+    "sha512": "7d6ac1aabaf22a62f331735670db15cb0d66e9bc06aa2f94a65c6f01877e27fbc498ae9d6e305aa307aa3b91b317df6ee3ae843bfc380e6d1a9486b8e331b6bf"
+  },
+  "1.0.21": {
+    "versionId": "l5Bq2Y09",
+    "gameVersions": [
+      "26.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-03-31T15:50:14.939587Z",
+    "filename": "fabricexporter-26.1-1.0.21.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/l5Bq2Y09/fabricexporter-26.1-1.0.21.jar",
+    "sha512": "0d2cb513bda2ce1c819e4d3f604660fb6b4966ddab68c28bb53ae41e0d493645e26a5cd38cf91c8c3db7894cf77c5f1befbf9774e0ae58e0234ecc958cdc5b2d"
+  },
+  "1.0.22": {
+    "versionId": "tuPsGk8g",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-06-21T11:10:15.178437Z",
+    "filename": "fabricexporter-26.2-1.0.22.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/tuPsGk8g/fabricexporter-26.2-1.0.22.jar",
+    "sha512": "80475cc389900c1d2e777ff1d0dd19776ba474eb2f96b73f1c1dbe8f349606a888ea35c7845cb517beef2ea3eaee0b5ce5ac39bea24a85f1165881b852760870"
+  },
+  "1.0.3": {
+    "versionId": "PdtC5YP5",
+    "gameVersions": [
+      "1.17"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-06-24T19:25:05.734563Z",
+    "filename": "fabricexporter-1.0.3.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.3/fabricexporter-1.0.3.jar",
+    "sha512": "49d09f4bf523b1db96c748cee96dc4fd299faaa2dcc0435e1d3338fc55b4c307d93c4b8c6ef9b0b9a1f38d0ec88342a0bce47f2b6b7243bff4f161cf7743b160"
+  },
+  "1.0.4": {
+    "versionId": "KeTfG0fM",
+    "gameVersions": [
+      "1.16.5",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-08-06T14:16:12.584448Z",
+    "filename": "fabricexporter-1.0.4.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.4/fabricexporter-1.0.4.jar",
+    "sha512": "98106d7944551586942b4ac32daa359964dbeea7de8246299a9e5159d160f0e8b6a81e8fd8b6b3fbea5365cdbbae5f5ce7dbfeb80f35ecd0ceaa571f791f3254"
+  },
+  "1.0.5": {
+    "versionId": "4q9juEnp",
+    "gameVersions": [
+      "1.16.5",
+      "1.17.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-09-07T19:25:52.119358Z",
+    "filename": "fabricexporter-1.0.5.jar",
+    "url": "https://cdn.modrinth.com//data/dbVXHSlv/versions/1.0.5/fabricexporter-1.0.5.jar",
+    "sha512": "703f2138404f09055c559b8eecbbd77e036dafb743b8b715b2c7d9d5b399bf7b90af369f811ab57afa726f994c322eacc3fbdbe0baf9609bb877cf3a9fd5767d"
+  },
+  "1.0.6": {
+    "versionId": "PbmrxNJm",
+    "gameVersions": [
+      "1.16.5",
+      "1.17.1",
+      "1.18"
+    ],
+    "versionType": "release",
+    "datePublished": "2021-12-03T11:15:59.904076Z",
+    "filename": "fabricexporter-1.0.6.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.6/fabricexporter-1.0.6.jar",
+    "sha512": "aa9ee81ab8d7a448529d54d88303ad066eba6848deb222603638151ee63d4f4cbb1d07a858b397aeaabe9bbe0982b6d6a8eb7ea1b958e31843a483486f8d33d6"
+  },
+  "1.0.7": {
+    "versionId": "LP5X4YXS",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-06-30T21:17:15.668300Z",
+    "filename": "fabricexporter-1.0.7.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.7/fabricexporter-1.0.7.jar",
+    "sha512": "421cb078506a8b69c5c1f5707ea9623092307e6c4ec0bd9f86bec2a1c2456057cfb2c7e817e07df68891139d5789c8e7000047539fb0d5c49fe52d88606217f6"
+  },
+  "1.0.8": {
+    "versionId": "euIZmUZ1",
+    "gameVersions": [
+      "1.19"
+    ],
+    "versionType": "release",
+    "datePublished": "2022-07-26T13:22:55.557767Z",
+    "filename": "fabricexporter-1.0.8.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/1.0.8/fabricexporter-1.0.8.jar",
+    "sha512": "324f5c00eb80a02e20dafffec949874f205e07ac4728ac511f1553006712a73827db9bf6963a467c5abb499270e2cd7e85895db9628f4aa97a01d90b29c927f8"
+  },
+  "1.0.9": {
+    "versionId": "rqZ0Rftn",
+    "gameVersions": [
+      "1.19.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2023-01-28T10:44:11.322704Z",
+    "filename": "fabricexporter-1.0.9.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/rqZ0Rftn/fabricexporter-1.0.9.jar",
+    "sha512": "31f2d7d898414349ee1c4758cde6ded1bc93c9b5cf45803e86d6f1705d43706b582b1f09fa94d827bda16c6eacf668aa18198072a356157bfbd4d54ca0e4e04c"
+  }
+}
