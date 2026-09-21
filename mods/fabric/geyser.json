@@ -2607,6 +2607,215 @@
     "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/oNay4Yur/Geyser-Fabric-2.11.1-b1225.jar",
     "sha512": "e22a5775063f5f3d3518aac73cd983dcf6e44750a3a5e1284c687f74a3062b81dca47d9c0f685d1a80d13fecff6309055bc9f7b20e675a8be6a841e873c387c4"
   },
+  "2.11.1-b1226": {
+    "versionId": "WIvgT0Yi",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-20T10:36:57.318534Z",
+    "filename": "Geyser-Fabric-2.11.1-b1226.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/WIvgT0Yi/Geyser-Fabric-2.11.1-b1226.jar",
+    "sha512": "f85ed3a1236e49ccb7922d61ae578e59febb302f40f64479e5b3d64afed817d3f548c1eda9892c3b09280f0b05c41c1d496cb0425cbdb8ee5fa13f4e8362e895"
+  },
+  "2.11.2-b1227": {
+    "versionId": "MOUz2ngA",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-20T15:10:45.882131Z",
+    "filename": "Geyser-Fabric-2.11.2-b1227.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/MOUz2ngA/Geyser-Fabric-2.11.2-b1227.jar",
+    "sha512": "8063b57ecf00cfd8c81e738a1aa63c25908f6c7b6c41bff9a585bc99670b0e370f0acfac3267559ac9d9f0c2ec413ecd6c7e1f150b78170312a99311e875983b"
+  },
+  "2.11.2-b1228": {
+    "versionId": "THfPX5Sm",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-20T18:42:17.130576Z",
+    "filename": "Geyser-Fabric-2.11.2-b1228.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/THfPX5Sm/Geyser-Fabric-2.11.2-b1228.jar",
+    "sha512": "f9c54a1c9497a1dcd81339a6ea23862bed7147e3f134dd547c944f2220f6a6f1d83af0989bbdf7b6c0371152bdffaae882125433843d0a1c7539e9437d0971bd"
+  },
+  "2.11.2-b1229": {
+    "versionId": "9UY3rxWR",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-21T18:56:09.182749Z",
+    "filename": "Geyser-Fabric-2.11.2-b1229.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/9UY3rxWR/Geyser-Fabric-2.11.2-b1229.jar",
+    "sha512": "56e94cc0f014fdb8b796abb9fab7b22b41a900e64e3624b0e88a2ef5a9eda452835acf6388e417e2c87cb3d626acf410486d21d05af2380ab40380c351046494"
+  },
+  "2.11.2-b1230": {
+    "versionId": "EgmIQ51s",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-21T21:30:28.884774Z",
+    "filename": "Geyser-Fabric-2.11.2-b1230.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/EgmIQ51s/Geyser-Fabric-2.11.2-b1230.jar",
+    "sha512": "900045d68d0fbb9c1988c52262e430552a7341a8634f4fbe2dfc70d7e8e581c203d385802a757a4816f19cb76db852790fd67a0df496947a478b3161d293e5fd"
+  },
+  "2.11.2-b1231": {
+    "versionId": "kNlP16pq",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-23T23:08:54.263298Z",
+    "filename": "Geyser-Fabric-2.11.2-b1231.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/kNlP16pq/Geyser-Fabric-2.11.2-b1231.jar",
+    "sha512": "2150bf3607bf88a27b712eb0c62ef0190da8b2e750bc69f94f1bce5b165e9c4542f25ccf75340df38c8966b45e860ea6798acbf142318b9d64379876dc1dd1f0"
+  },
+  "2.11.2-b1232": {
+    "versionId": "xJboFsOL",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-24T15:13:45.579766Z",
+    "filename": "Geyser-Fabric-2.11.2-b1232.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/xJboFsOL/Geyser-Fabric-2.11.2-b1232.jar",
+    "sha512": "8a94da50a9c31a0cf819bc123ad506a18d0a01b0649b4cfb1d533d76bbeb1e02423ad08891d3c2b145e9cd8c3a2a2cc7a22e8793db384d40d7446b9d7061ccbf"
+  },
+  "2.11.2-b1233": {
+    "versionId": "EWYjLixV",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-08-27T14:08:57.468303Z",
+    "filename": "Geyser-Fabric-2.11.2-b1233.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/EWYjLixV/Geyser-Fabric-2.11.2-b1233.jar",
+    "sha512": "7262d20e4cc7c09064013c25d0d9c58f5399af407f71cb7194325b79af625d455db25395b54c6b0379d650deca1f83c34048acc42a834824a1de2f6ed7cf1cfd"
+  },
+  "2.11.2-b1234": {
+    "versionId": "uAF2x7gK",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-02T20:27:36.210157Z",
+    "filename": "Geyser-Fabric-2.11.2-b1234.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/uAF2x7gK/Geyser-Fabric-2.11.2-b1234.jar",
+    "sha512": "456edf7f0f19c789d4f0e08dc7f8dd5a3d277195f1e1599d5da75ea92ec86d3e1ef9a7de2cf5e92a828fad7efb186162badc4c268af0bd02d664d3d4e10634ef"
+  },
+  "2.11.2-b1235": {
+    "versionId": "WGtIQbdQ",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-10T13:13:19.387202Z",
+    "filename": "Geyser-Fabric-2.11.2-b1235.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/WGtIQbdQ/Geyser-Fabric-2.11.2-b1235.jar",
+    "sha512": "b52209d5f152a61ced3b0015d0b10c595ed82ed32d06d6ce30fcd869d509655ee709dfa89322ebeae3ae5c8378078b08a07f210b44bfa97c98f41c4ce81abda8"
+  },
+  "2.11.3-b1237": {
+    "versionId": "dV0pklAV",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-15T17:01:41.675162Z",
+    "filename": "Geyser-Fabric-2.11.3-b1237.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/dV0pklAV/Geyser-Fabric-2.11.3-b1237.jar",
+    "sha512": "8fb48e2fb265eb7f1ddfa7b1e04a1f7525af3b3a1972c5f4cf687641bb83d8679657fafdd6005b2ef67e6d00146c33734b5115b7446f5b55ee65fcc619962920"
+  },
+  "2.11.3-b1238": {
+    "versionId": "YGM68r6J",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-15T23:18:24.794076Z",
+    "filename": "Geyser-Fabric-2.11.3-b1238.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/YGM68r6J/Geyser-Fabric-2.11.3-b1238.jar",
+    "sha512": "5ee71cca8ad251f92fb3dedba21ba8f5a8851414d9cdcb0d25ec7dfb0301c3879a220abeae9163390762c9a30949a55f60434eeda2a70dbb9bd8b5c56952d9f0"
+  },
+  "2.11.3-b1239": {
+    "versionId": "OuJzF1Iy",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-15T23:56:45.873183Z",
+    "filename": "Geyser-Fabric-2.11.3-b1239.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/OuJzF1Iy/Geyser-Fabric-2.11.3-b1239.jar",
+    "sha512": "ec52a39d96adb66905f21929bb307395f53940a456e8344238478a5e5848a8fa7e3fd6f7322baab3e43e51e3901dfc77a574dc9392d4ef05dc0de999d36ff6e8"
+  },
+  "2.11.3-b1240": {
+    "versionId": "ShprdQwo",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-16T00:59:29.194478Z",
+    "filename": "Geyser-Fabric-2.11.3-b1240.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ShprdQwo/Geyser-Fabric-2.11.3-b1240.jar",
+    "sha512": "3d7d27f1519d7b41f7574e6a85940f37bec2f60c37f1c34b93ec0c7718f9cc5509bb54fd324e12c479dfc4c41e2134876a6ed41bb0e78e1fa47514d349a825a7"
+  },
+  "2.11.3-b1241": {
+    "versionId": "ssN40seu",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-16T12:39:36.183690Z",
+    "filename": "Geyser-Fabric-2.11.3-b1241.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ssN40seu/Geyser-Fabric-2.11.3-b1241.jar",
+    "sha512": "7d7e58a9c88561013a733ccb1b3bac15f1478f3f5472774256c42bea249a0b6b42120427911dbcf5296b24b506cde8f53c0bef7e1c54e8536235307c156ddd4e"
+  },
+  "2.11.3-b1242": {
+    "versionId": "VMuOQJBg",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-16T13:10:46.142218Z",
+    "filename": "Geyser-Fabric-2.11.3-b1242.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/VMuOQJBg/Geyser-Fabric-2.11.3-b1242.jar",
+    "sha512": "c5ce3fcb9f646b514e245dda38ca8b6c758d690b64eb60440c270aa3603129098b9c18e3a84f0def9144bdecd3d1a29698bc8d48220db5b320f6d8050b1e91f0"
+  },
+  "2.11.3-b1243": {
+    "versionId": "DSCZVVyP",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-16T14:36:01.132515Z",
+    "filename": "Geyser-Fabric-2.11.3-b1243.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/DSCZVVyP/Geyser-Fabric-2.11.3-b1243.jar",
+    "sha512": "97dd8306aeaa969d7ddb9b854b006e0814987b03bacb5608bba8b6c2e261199acf70f1a0ed359a001352ab6d7c78bfe497bb3933ea70d8684b7f69b0ce6d5207"
+  },
+  "2.11.3-b1244": {
+    "versionId": "RBqeiVPx",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-16T21:54:36.069695Z",
+    "filename": "Geyser-Fabric-2.11.3-b1244.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/RBqeiVPx/Geyser-Fabric-2.11.3-b1244.jar",
+    "sha512": "37abe581e5f5cd5d801511c83ec374aa1e93300d8b5e9e2f5f6371aa294e9aade09e18bfb793603bc8de9e35ce877ff2b9255a0a392f1b7add2151a2325dbd47"
+  },
+  "2.11.3-b1245": {
+    "versionId": "nLCrc5xN",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-17T00:41:04.573778Z",
+    "filename": "Geyser-Fabric-2.11.3-b1245.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/nLCrc5xN/Geyser-Fabric-2.11.3-b1245.jar",
+    "sha512": "0e52d9febf5c24750cc357c8e02bff69a82d467f1fb84b2aa1614c162e93a7f33cba15192ccfebfc054152cd10965545b359144bdb8b8d71da783f45ce0c6fc3"
+  },
   "2.2.0-SNAPSHOT-256": {
     "versionId": "zewbHiry",
     "gameVersions": [

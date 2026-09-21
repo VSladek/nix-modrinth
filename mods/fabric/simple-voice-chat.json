@@ -890,6 +890,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4cPSgvFX/voicechat-fabric-1.16.5-2.6.22.jar",
     "sha512": "99f95e9f18dd8dcb5b410ec5d9898e4cd32cfddd8257be33e9b67202fedcb72c34c8512b4e6e4e73a988c3b4a95f21ace4f42fb676cc419480e0e5e737e337d4"
   },
+  "fabric-1.16.5-2.6.23": {
+    "versionId": "pY6HoGh5",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:32:41.732211Z",
+    "filename": "voicechat-fabric-1.16.5-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pY6HoGh5/voicechat-fabric-1.16.5-2.6.23.jar",
+    "sha512": "93c60f84c20786d658f8d01bfc69fa4aa5e037c8db45834ad719f031c1d7cf78b71a70c320c0ac6fb56f7cbe3f7105d0460cd13eaefbc328459eb323015ac33a"
+  },
+  "fabric-1.16.5-2.6.24": {
+    "versionId": "R93sT7OP",
+    "gameVersions": [
+      "1.16.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:10:50.275812Z",
+    "filename": "voicechat-fabric-1.16.5-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/R93sT7OP/voicechat-fabric-1.16.5-2.6.24.jar",
+    "sha512": "2dcce4226c8858e100892a6e91fadc2c01eabcd8f9650b8d156efc54d7261d558253f0c78e4a82259322857aa1ca134aa051fa63d791ee9ecc058649874e9b50"
+  },
   "fabric-1.16.5-2.6.3": {
     "versionId": "TjuTBqqT",
     "gameVersions": [
@@ -4157,6 +4179,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/HowlWR8H/voicechat-fabric-1.18.2-2.6.22.jar",
     "sha512": "7a4bce8c812be17361fe1b5b0d8277938664d389fa5e800464a821c0a8e604d732b27f8888f894e9b62b0a67449e403d69129a03bf079da5233da76abc8f2bcc"
   },
+  "fabric-1.18.2-2.6.23": {
+    "versionId": "xIXzMjeb",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:39:59.133481Z",
+    "filename": "voicechat-fabric-1.18.2-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/xIXzMjeb/voicechat-fabric-1.18.2-2.6.23.jar",
+    "sha512": "628e5540626222ca833ed4d209883c80d06f21ce39c90118bb7d79865c35828f7b0eb5b2a6dfd963c588ebeeeae54dc141f98a9bb2e739f4e09d28d3245731ed"
+  },
+  "fabric-1.18.2-2.6.24": {
+    "versionId": "rGt71FXv",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:14:00.608320Z",
+    "filename": "voicechat-fabric-1.18.2-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/rGt71FXv/voicechat-fabric-1.18.2-2.6.24.jar",
+    "sha512": "4d601618cddac32b374c5ef5bee7424672c55e23dfe989d4144369b9f485fd0bfc728ddd4c7c040c99ce55f9d059d10de937af13a4e3579e8ac67e5bbbe99a7b"
+  },
   "fabric-1.18.2-2.6.3": {
     "versionId": "lrulYhBP",
     "gameVersions": [
@@ -6412,6 +6456,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Ij93aQEk/voicechat-fabric-1.19.2-2.6.22.jar",
     "sha512": "d538914c1f7e09a5be996f3819b12b72f4ee80eed197181268f5a386300dc47dcb581abeba3975e83e11c9624855e90fd6bf6f96b90006fdee051d6890ea08dd"
   },
+  "fabric-1.19.2-2.6.23": {
+    "versionId": "kADd8J11",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:43:16.192024Z",
+    "filename": "voicechat-fabric-1.19.2-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kADd8J11/voicechat-fabric-1.19.2-2.6.23.jar",
+    "sha512": "062e5945c14874be65c20c4faf9c63f4483d3e46c40ef3028051870249ea805269be362e4b58c3b4df8cb85620c5fbabb63f3d95e7ba649f26e0f673313ffd2e"
+  },
+  "fabric-1.19.2-2.6.24": {
+    "versionId": "iDO30T8U",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:17:00.640567Z",
+    "filename": "voicechat-fabric-1.19.2-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iDO30T8U/voicechat-fabric-1.19.2-2.6.24.jar",
+    "sha512": "9677f8a4d016b6cbf81d4ba99d1170126f672328b1a82a664f163a510da2a07eb12b0c2fc419d91bab9cde9128a5d0f889a9a22caccfc4f9f8df6e152ff4b917"
+  },
   "fabric-1.19.2-2.6.3": {
     "versionId": "Ywm6l5Py",
     "gameVersions": [
@@ -8348,6 +8414,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u5T0ji6n/voicechat-fabric-1.20.1-2.6.22.jar",
     "sha512": "e6d6a23b9e94a47446d8f2797182031f2f1c7710dc9540e0e3a7fea17a4fa675ca9655dd49566cbacc4b033b8a4b289f545846fba63e280970d8efa34891c7d2"
   },
+  "fabric-1.20.1-2.6.23": {
+    "versionId": "kcxEA8fX",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:46:31.644273Z",
+    "filename": "voicechat-fabric-1.20.1-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kcxEA8fX/voicechat-fabric-1.20.1-2.6.23.jar",
+    "sha512": "7f556667d9b1b042941a7f93f073dd6634a70c35922fda164b7e416a2b84973b7bf0d0163aaf95afc066706f85fed41e6607dbedb78b27ccef89f7c06cd8b796"
+  },
+  "fabric-1.20.1-2.6.24": {
+    "versionId": "Xb9IEz9H",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:20:14.340418Z",
+    "filename": "voicechat-fabric-1.20.1-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Xb9IEz9H/voicechat-fabric-1.20.1-2.6.24.jar",
+    "sha512": "6cb21c149f65ca7d930c3d5fc0ad79d6f0f8e5f5cb6722344e5ab762f734447826656fd833f79f68b59b25138312e6200b7a757f9849468852fa4a1766ceadfd"
+  },
   "fabric-1.20.1-2.6.3": {
     "versionId": "HBeSn9Pv",
     "gameVersions": [
@@ -9844,6 +9932,30 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
     "sha512": "c44e69400ac7349ad6d4699263bde4d87359e03233c31a872eb02542658cfc73a185b46e4361c54cb1ac029a2991bd8eb4d4ea59b1c3e3b43f234087520b325a"
   },
+  "fabric-1.21.1-2.6.23": {
+    "versionId": "IuO0uiwO",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:50:40.190874Z",
+    "filename": "voicechat-fabric-1.21.1-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/IuO0uiwO/voicechat-fabric-1.21.1-2.6.23.jar",
+    "sha512": "1bdf8f7c21b510742dd10cc386846e4ffffd15f05aeca745f264324376bca2cf565b2b7169835924a15775caa05074fa9f93ffcbafe88139d2c6ddebe04b927e"
+  },
+  "fabric-1.21.1-2.6.24": {
+    "versionId": "6PKCVne5",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:24:50.061559Z",
+    "filename": "voicechat-fabric-1.21.1-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/6PKCVne5/voicechat-fabric-1.21.1-2.6.24.jar",
+    "sha512": "a708962875ef3beafe4eeeea0d7984c1d810fce23544e1615f51d0f5900e2d65633056bf62b793bc9486ea0ef117d34b18d5cac461870e35677c51c979519eda"
+  },
   "fabric-1.21.1-2.6.3": {
     "versionId": "fvjfjHNf",
     "gameVersions": [
@@ -10071,6 +10183,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9074luJy/voicechat-fabric-1.21.10-2.6.22.jar",
     "sha512": "7e33f97c3c9b55f86e2a3e79e4ee3d0101950fe63d2ada3a7ad84ba53202bab4356472cda08ffdae697e864f038de0641fdbaf248777d37c7126ba50ec94fff2"
   },
+  "fabric-1.21.10-2.6.23": {
+    "versionId": "DfqrmRqL",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T16:08:26.989425Z",
+    "filename": "voicechat-fabric-1.21.10-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DfqrmRqL/voicechat-fabric-1.21.10-2.6.23.jar",
+    "sha512": "8a7a41d5e795b645fbf65193652cae681e850598b5e55503e6aa93e0f77626fd81a6ca3554784fc6b78482dc5dde822a8dfd30ae73320e6594bb3d28a342934d"
+  },
+  "fabric-1.21.10-2.6.24": {
+    "versionId": "yUN25Nzt",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:44:24.120593Z",
+    "filename": "voicechat-fabric-1.21.10-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yUN25Nzt/voicechat-fabric-1.21.10-2.6.24.jar",
+    "sha512": "10cd5e2ee1aaa35582675f969b0b514d4cc249f36aad8474c23cf8eaff07dbbc835d90f2aa708566073739af63a29c4544925d3a3ddd965e20b36b09ef2b97fa"
+  },
   "fabric-1.21.10-2.6.4": {
     "versionId": "2UqRNWFr",
     "gameVersions": [
@@ -10290,6 +10424,28 @@
     "filename": "voicechat-fabric-1.21.11-2.6.22.jar",
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar",
     "sha512": "dab29df8577b220e1c2ad97b784c5acb837501c8ba42d83205c085f44b4a6df75bce2477b8c2c7905285d248fd2d195b3dc77f169cb11a226dc2965e23f5859a"
+  },
+  "fabric-1.21.11-2.6.23": {
+    "versionId": "wxtfwA33",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T16:12:58.089500Z",
+    "filename": "voicechat-fabric-1.21.11-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wxtfwA33/voicechat-fabric-1.21.11-2.6.23.jar",
+    "sha512": "588c7a7cf475d535c1d9296cfd002bc51a2c3d91ffcda0a3f6ad2f6cafca3ecb34b0732b04c9fc114ce58f325f3dcb59851c4a3a1398113657e4b9b606f1b122"
+  },
+  "fabric-1.21.11-2.6.24": {
+    "versionId": "MLNG868g",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:48:47.513661Z",
+    "filename": "voicechat-fabric-1.21.11-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MLNG868g/voicechat-fabric-1.21.11-2.6.24.jar",
+    "sha512": "ffe87edb4655a287175dbd4286281a4b83e30e47649c40940059e43f75d234ee9539a4e665468f39556761f9959096fa28da57682bca613b7875492404a18467"
   },
   "fabric-1.21.11-2.6.6": {
     "versionId": "u24gyVpO",
@@ -10896,6 +11052,28 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8kxVjTds/voicechat-fabric-1.21.4-2.6.22.jar",
     "sha512": "15d6e620297f662c5719202e620eff22b86492196069fe05ccb1ce6f0ec8a1ab618035082271e4e1aef367b189b8a10b1a247188a1ca5a8bb89c588d7b6213a6"
   },
+  "fabric-1.21.4-2.6.23": {
+    "versionId": "wZXgUDD4",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:55:03.619931Z",
+    "filename": "voicechat-fabric-1.21.4-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wZXgUDD4/voicechat-fabric-1.21.4-2.6.23.jar",
+    "sha512": "eff858bfd848542dc9bcb9e983d1e8876f40fe3c0e90502c8ce65dfa65f3204a3ee65757a19930f076d24eef635cf0803613aec42cdc97c65c6e3ac568c2d2d7"
+  },
+  "fabric-1.21.4-2.6.24": {
+    "versionId": "rpQynQWV",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:30:14.422672Z",
+    "filename": "voicechat-fabric-1.21.4-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/rpQynQWV/voicechat-fabric-1.21.4-2.6.24.jar",
+    "sha512": "3bcfdc08c3cdd6f978fbc8f5029d87a7446254251d06bd22c3f27feede040447a06fc092be70dd18d5b3d1f81cd50027d3e524588d03fc8621424175703ffc4d"
+  },
   "fabric-1.21.4-2.6.3": {
     "versionId": "kH00CwZK",
     "gameVersions": [
@@ -11302,6 +11480,28 @@
     "filename": "voicechat-fabric-1.21.5-2.6.22.jar",
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dI1XjreF/voicechat-fabric-1.21.5-2.6.22.jar",
     "sha512": "b85bb68fd894ad95cca38139cea7334fef1faeac525e3d0742d0ed245a859cce34b8c9f64b1fcdb891d81fbde18efe5416347f47722c136ccfbc93da8c58d1fd"
+  },
+  "fabric-1.21.5-2.6.23": {
+    "versionId": "u2hlEI8j",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T15:59:29.932997Z",
+    "filename": "voicechat-fabric-1.21.5-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u2hlEI8j/voicechat-fabric-1.21.5-2.6.23.jar",
+    "sha512": "42db17bcc84aa0888dca18a74021277dd79d67ba7252f28fa861aeadf4ea6141179a91ba332d137b5f4b9e0d833e3cd20c77c5ebb6b0c7de66ecb8cedec390b9"
+  },
+  "fabric-1.21.5-2.6.24": {
+    "versionId": "KQGay9xc",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:35:09.712099Z",
+    "filename": "voicechat-fabric-1.21.5-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KQGay9xc/voicechat-fabric-1.21.5-2.6.24.jar",
+    "sha512": "b1337b6e99316787c7c2cdb48537f338251d8f2380716b2c7c91f39aeb920605ec06ac40d58aee17fb888ded2394fc72d8589cb0c25c3e23ae176a1018ab91ff"
   },
   "fabric-1.21.5-2.6.3": {
     "versionId": "ZUopow5w",
@@ -11797,6 +11997,28 @@
     "filename": "voicechat-fabric-1.21.8-2.6.22.jar",
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CR71OhWv/voicechat-fabric-1.21.8-2.6.22.jar",
     "sha512": "6f9180bc8721bbe239e0baa5d0107de7dc268ff061e6f917ef88a5ba3ca74945f42b7da9a4159a0d1012794258dbc2806a4479844ab8ab8873d739a5e03f80ef"
+  },
+  "fabric-1.21.8-2.6.23": {
+    "versionId": "Afkl3bSL",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T16:03:59.740749Z",
+    "filename": "voicechat-fabric-1.21.8-2.6.23.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Afkl3bSL/voicechat-fabric-1.21.8-2.6.23.jar",
+    "sha512": "e33bf5f4aef9b54a54b34c61ad076d6b59738d5a7bd3f7f5410a2ea16b61766f81a3bd60f13fbc4a6b48b4b365066e5050ef05f778d2737c653772dd0befcadf"
+  },
+  "fabric-1.21.8-2.6.24": {
+    "versionId": "oCFnoTA2",
+    "gameVersions": [
+      "1.21.8"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:40:07.558472Z",
+    "filename": "voicechat-fabric-1.21.8-2.6.24.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/oCFnoTA2/voicechat-fabric-1.21.8-2.6.24.jar",
+    "sha512": "21724d2caf3879e8c2fecd548c66b850ad2cb995b2bde1b41db840e585439745f51ec894b8312268e1c2a22a4a74018042ab1c5441e82f2db42eaf23324f9b3f"
   },
   "fabric-1.21.8-2.6.3": {
     "versionId": "meaWIBQj",
@@ -12673,6 +12895,39 @@
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DKSq5wO6/voicechat-fabric-2.6.22%2B26.2.jar",
     "sha512": "eb45e75e8b031f3bb27e178ed44fd7b78ba681f077f5972e170726b4837146efd49c7b67d63a95ec4ce87e5672cf76bed85ac8fa7790a9e7ff7309a6c3f424ee"
   },
+  "fabric-2.6.22+26.3-pre-1": {
+    "versionId": "v8INCtng",
+    "gameVersions": [
+      "26.3-pre-1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-01T16:45:50.545667Z",
+    "filename": "voicechat-fabric-2.6.22+26.3-pre-1.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/v8INCtng/voicechat-fabric-2.6.22%2B26.3-pre-1.jar",
+    "sha512": "ef9f542240c74b16441de5396077761f4a1b26452223e19d23a17764c08643c6abf1f817b82796c67322feea6d4f0e6bdd2c993a6dc8df139442e39e0113ab4f"
+  },
+  "fabric-2.6.22+26.3-pre-2": {
+    "versionId": "FsQ4tS46",
+    "gameVersions": [
+      "26.3-pre-2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-04T14:33:28.938171Z",
+    "filename": "voicechat-fabric-2.6.22+26.3-pre-2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/FsQ4tS46/voicechat-fabric-2.6.22%2B26.3-pre-2.jar",
+    "sha512": "9df007d29dd6ba2f372968c12981f47626547f9f6832b2c0446a97601e26cedb690b79fbe7a9bca3de0938b24d15cf92d6738a84f0d0b71f715937b7dce52411"
+  },
+  "fabric-2.6.22+26.3-snapshot-10": {
+    "versionId": "2W6JiqyF",
+    "gameVersions": [
+      "26.3-snapshot-10"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-08-25T17:36:08.884965Z",
+    "filename": "voicechat-fabric-2.6.22+26.3-snapshot-10.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2W6JiqyF/voicechat-fabric-2.6.22%2B26.3-snapshot-10.jar",
+    "sha512": "4703dcfbc32d5480fa713d90f2c11f8f547df73e8b05b9a4b2dfad5f6bfbc7930d93477b1ce7b3e878c57774631632a3c70b7521a9c9c4d005e42581d0de3c99"
+  },
   "fabric-2.6.22+26.3-snapshot-7": {
     "versionId": "GA3nHcMg",
     "gameVersions": [
@@ -12705,6 +12960,131 @@
     "filename": "voicechat-fabric-2.6.22+26.3-snapshot-9.jar",
     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tPnM7ULu/voicechat-fabric-2.6.22%2B26.3-snapshot-9.jar",
     "sha512": "d2ba953d4e05609ebaab22e216eb4018bf7951cb285cfc66fb37f130e91c3fb860e65da1178a9e6f8b2a66d2cd480e0bf6a18307d820e0517e2fc4a103c9213c"
+  },
+  "fabric-2.6.23+26.1.2": {
+    "versionId": "XScGf8v7",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T16:17:15.399956Z",
+    "filename": "voicechat-fabric-2.6.23+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XScGf8v7/voicechat-fabric-2.6.23%2B26.1.2.jar",
+    "sha512": "d3f729566a63a3e4241c4e54be6f59c594ca0454fc7c96ee09e09c57c8bcacdff9071515078e19a287938a13744b637a2d23978a57909f83863a4342a6d0a079"
+  },
+  "fabric-2.6.23+26.2": {
+    "versionId": "JDkcoyAy",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-04T16:23:24.381654Z",
+    "filename": "voicechat-fabric-2.6.23+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JDkcoyAy/voicechat-fabric-2.6.23%2B26.2.jar",
+    "sha512": "fc75e62169090c4336e8be7c680cea3b97db2b9019260e039cfe3288910974d2c89506200180accc217c541a40e81c6466afa55344d9cd13b8071c01197c1505"
+  },
+  "fabric-2.6.23+26.3": {
+    "versionId": "3fRw6NfP",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-15T15:12:44.966910Z",
+    "filename": "voicechat-fabric-2.6.23+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3fRw6NfP/voicechat-fabric-2.6.23%2B26.3.jar",
+    "sha512": "fd62ca0b4048ab855e7f2436ecdf6c7301e546946afe2d7a3dfa3fb7c180636cbd971c0e9c5e62be4a86d67bbed54fa62ab4d4680c47ea0b366e49b9202ff42a"
+  },
+  "fabric-2.6.23+26.3-pre-2": {
+    "versionId": "CK3wt5Yr",
+    "gameVersions": [
+      "26.3-pre-2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-04T16:31:55.487334Z",
+    "filename": "voicechat-fabric-2.6.23+26.3-pre-2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CK3wt5Yr/voicechat-fabric-2.6.23%2B26.3-pre-2.jar",
+    "sha512": "5baae2baa3f6b93c846ef457f231081a8016f5c65d8ec7c0b2507a04f57c2f496c2d88db433c6919c0883a2a092dde9151121c5b8a7df55348a74f924180c833"
+  },
+  "fabric-2.6.23+26.3-pre-3": {
+    "versionId": "Ttt0rCBs",
+    "gameVersions": [
+      "26.3-pre-3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-08T14:31:48.887193Z",
+    "filename": "voicechat-fabric-2.6.23+26.3-pre-3.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Ttt0rCBs/voicechat-fabric-2.6.23%2B26.3-pre-3.jar",
+    "sha512": "a9cbf2228aecaf6f95a56f0a3e992bc7dabf86694f31d2fdefe534518a50ff096e56c454d4c3498037e357f72280380525bb2a2136e2f07ccb73cf28b487f79a"
+  },
+  "fabric-2.6.23+26.3-rc-1": {
+    "versionId": "sr9ySAkw",
+    "gameVersions": [
+      "26.3-rc-1"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-10T18:22:06.486853Z",
+    "filename": "voicechat-fabric-2.6.23+26.3-rc-1.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sr9ySAkw/voicechat-fabric-2.6.23%2B26.3-rc-1.jar",
+    "sha512": "1993862a4e8d3cabc2b32d8a63135325b9a33cfd4c841c05e4e7c677e348cffef0acd8b00f8d7d97cfdd44a2b05ac43a0feaf44247dcae4f748caf45dff6ed0d"
+  },
+  "fabric-2.6.23+26.3-rc-2": {
+    "versionId": "AAJuVcJ7",
+    "gameVersions": [
+      "26.3-rc-2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-11T12:55:42.367388Z",
+    "filename": "voicechat-fabric-2.6.23+26.3-rc-2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/AAJuVcJ7/voicechat-fabric-2.6.23%2B26.3-rc-2.jar",
+    "sha512": "a129d889c5619701e21ffff5e790e5f46df0240294d373e919cadbe6f3636d65403ca5859f82f3dbdfc799bc3af7988d7d77a56c0356dc4f53db80b7c944e3eb"
+  },
+  "fabric-2.6.23+26.3-rc-3": {
+    "versionId": "uWautvA8",
+    "gameVersions": [
+      "26.3-rc-3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-09-14T14:15:09.482891Z",
+    "filename": "voicechat-fabric-2.6.23+26.3-rc-3.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/uWautvA8/voicechat-fabric-2.6.23%2B26.3-rc-3.jar",
+    "sha512": "0c961a51b803098172198cf84ede83ceca81f8f54ec1a977b73ebe75cf5d470b68ba6197881245269328b88012d7c694883f47d8253cf128a04d6f46cee6fc90"
+  },
+  "fabric-2.6.24+26.1.2": {
+    "versionId": "iFNRLrRB",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:52:41.268181Z",
+    "filename": "voicechat-fabric-2.6.24+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iFNRLrRB/voicechat-fabric-2.6.24%2B26.1.2.jar",
+    "sha512": "303aa7d53ae0df65871faa5175457e5b8fe99f0c3f4f263722fe012ee5a556c5efd5732515093a3d05337a238ed920cb979be635e8db38c9306cd6da12b16f58"
+  },
+  "fabric-2.6.24+26.2": {
+    "versionId": "Ls232EsW",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T07:56:42.246960Z",
+    "filename": "voicechat-fabric-2.6.24+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Ls232EsW/voicechat-fabric-2.6.24%2B26.2.jar",
+    "sha512": "592c66fafdf00d9b9b23f23da8dbfd8bb996c2f639b8d55c2028a9fd55d79a7df67f1d23e1ef11a52919baa6b946a65190f805f884f0d50492db10d8bcd83db0"
+  },
+  "fabric-2.6.24+26.3": {
+    "versionId": "OLnMVWXy",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-20T08:02:04.832095Z",
+    "filename": "voicechat-fabric-2.6.24+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
+    "sha512": "414eb51967305fe7740d34016bc8e3e4e2fa1590e1278ad06bcdfa0687f65007b825d345dc09f79a992704a51ec93baf01fe727e0bbc32fdf506828b5a65d85a"
   },
   "fabric-2.6.9+26.1-snapshot-1": {
     "versionId": "Z4lvGKcg",

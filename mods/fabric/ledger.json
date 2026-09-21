@@ -405,6 +405,17 @@
     "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/KpVLPOJk/ledger-1.3.23.jar",
     "sha512": "d5df460ccb86f130fac83af9c6fec3ff3a36d071af01c7d2d49c5a9abc915938fc172782e2762d857f1a3e7f5b2c78c68f7e62dc416d6eed907570a176977763"
   },
+  "1.3.24": {
+    "versionId": "f72cP4Ni",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-19T20:43:52.277587Z",
+    "filename": "ledger-1.3.24.jar",
+    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/f72cP4Ni/ledger-1.3.24.jar",
+    "sha512": "0044033e543f4820dc5b64f22dc5c64fb9ed10b61b1f8667c26af141819b0bca90a3dd48c763d5b2b9e9307e1b4a3870ac15671b97ce934ae2fb3903e127da35"
+  },
   "1.3.3": {
     "versionId": "HXOeSdtP",
     "gameVersions": [
