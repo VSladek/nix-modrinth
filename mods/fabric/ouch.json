@@ -33,6 +33,18 @@
     "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/rq1lty2d/ouch-1.1.0%2B1.21.jar",
     "sha512": "ae8859fec79538431bfda53220969f756011e3acb8bea0ad7db91db0bf09b0fe98e2078c1b1e937153501205f9d3dc2bfd33979a4f1c1e3ce858af55c16596f5"
   },
+  "1.10.0+26.3-rc-1": {
+    "versionId": "B3ImypFi",
+    "gameVersions": [
+      "26.3-rc-1",
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-12T12:23:24.392220Z",
+    "filename": "ouch-1.10.0+26.3-rc-1.jar",
+    "url": "https://cdn.modrinth.com/data/nbxqFJCy/versions/B3ImypFi/ouch-1.10.0%2B26.3-rc-1.jar",
+    "sha512": "9088553f3ca81326fe7781b241217285f1ccba66ed538fe3b13c1f4a24ec7f716c1bdbceb27e683a3b12ed8ff63d0cf1139fb1483b4e694382d9a934b9f8aff0"
+  },
   "1.2.0+1.21.3": {
     "versionId": "wD9wH2Mm",
     "gameVersions": [

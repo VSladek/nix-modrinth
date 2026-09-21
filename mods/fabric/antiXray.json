@@ -796,5 +796,16 @@
     "filename": "antixray-fabric-1.4.16+26.1.jar",
     "url": "https://cdn.modrinth.com/data/sml2FMaA/versions/AK313N9m/antixray-fabric-1.4.16%2B26.1.jar",
     "sha512": "213e65ee0584a6602118f9e6ef861d93fc09160c5b32b627d294b920a08d5cfc25a839f25bfb2a53bdf1adeb8d4fd58ca6743a3c993e87cf8b8e2b371ba2a9eb"
+  },
+  "fabric-1.4.16+26.3": {
+    "versionId": "8CvHIf1r",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-19T21:17:44.123093Z",
+    "filename": "antixray-fabric-1.4.16+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/sml2FMaA/versions/8CvHIf1r/antixray-fabric-1.4.16%2B26.3.jar",
+    "sha512": "e4547c802958c6a77129eec193822691e251157a24f1602f0ab52139b9f15bfd73e386e5e95bbe4c1bff0196975eaa42b75d503c17479e8591dab76f3202fde6"
   }
 }
