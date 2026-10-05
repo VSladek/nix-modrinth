@@ -531,6 +531,17 @@
     "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/aU1Fp6PB/servercore-fabric-1.5.2%2B1.20.6.jar",
     "sha512": "74d58f2f2c35818259f7c7eda1ddd636c2045b8dc864f8e949ad91f154e9dbce1df22cacd7ce9be873779ae77dafecd0a2ca98d1751ad0c259510e9b819fe618"
   },
+  "1.5.20+26.3": {
+    "versionId": "LCG1Bm84",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-16T13:50:35.746707Z",
+    "filename": "servercore-fabric-1.5.20+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/LCG1Bm84/servercore-fabric-1.5.20%2B26.3.jar",
+    "sha512": "abe1f806ea587971faf7de826e18b07314a4a9e690f64a4c3a54e7f61c3e6f4792633b13a917252bd8de154cec39da6619110d83799cf533450c5b4cac7a8448"
+  },
   "1.5.3+1.20.6": {
     "versionId": "uTyB6Mjt",
     "gameVersions": [

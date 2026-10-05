@@ -796,5 +796,27 @@
     "filename": "worldedit-mod-7.4.5.jar",
     "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/6YnCYPwc/worldedit-mod-7.4.5.jar",
     "sha512": "611ff7cc00d78c63a284ef26b6fbc806af295c469375e5e71e4d7e993aa6ea3fa90945e46511c99b6157a01ed5c3868a2a6419b47a38114cc1e67b32c20f7ca3"
+  },
+  "7.4.6-beta-01": {
+    "versionId": "J63KECL1",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-21T12:34:16.777841Z",
+    "filename": "worldedit-mod-7.4.6-beta-01.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/J63KECL1/worldedit-mod-7.4.6-beta-01.jar",
+    "sha512": "2104cc4ebb3cc9c1ef0973b8664c8569eb3d75ab11dee215cdf75dfc54a884553fb29fb97674d5c16fe0a02ef2aadd811033569576a5064ff4a8f7388091c74a"
+  },
+  "7.4.6-beta-02": {
+    "versionId": "E7sbeRFx",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-24T10:25:37.705513Z",
+    "filename": "worldedit-mod-7.4.6-beta-02.jar",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/E7sbeRFx/worldedit-mod-7.4.6-beta-02.jar",
+    "sha512": "f7de9f7658319f38a9d0211a2592c91d412e98599d1ff378968509ccf0aa8f1ce7ab7e669f5c866552676d2a7a23d3cfdd16b54ee1a50d22c14fce8cfa30bba7"
   }
 }

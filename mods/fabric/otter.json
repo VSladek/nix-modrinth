@@ -469,5 +469,16 @@
     "filename": "otterlib-0.4.0.0+26.2-fabric.jar",
     "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/TSzkTFkO/otterlib-0.4.0.0%2B26.2-fabric.jar",
     "sha512": "a911eb45158995b250382137e7e7a0867dd00ab954713db1dc6f58711de16b7fe9bfaab7499510c5d1fa5774bbd1c2c1b38c560c6c9b7d9f1fcc40ac4f6f9a78"
+  },
+  "0.4.0.2+26.3": {
+    "versionId": "EZmdLF7S",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-09-30T04:07:37.653977Z",
+    "filename": "otterlib-0.4.0.2+26.3-fabric.jar",
+    "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/EZmdLF7S/otterlib-0.4.0.2%2B26.3-fabric.jar",
+    "sha512": "854daeddea696399fdf7630a1f9ff860d9dca260948dd7fb6f28b39b99b60e40965b731837fd8e3e87ff4e200ec9b209c6db396da83df4bf63cb73f945d4250c"
   }
 }
