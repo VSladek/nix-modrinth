@@ -109,6 +109,18 @@
     "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/RKJFfwTN/image2map-0.14.0%2B26.2.jar",
     "sha512": "6f3c8fec4adc4e1520ecbe4e7f3ba462ae16982bae7af6a70b7e43543d343a9afe7501a0717b48b80c63ddc752281bb8351fd22838fdce6ebd56587b537ad5fd"
   },
+  "0.15.0+26.3": {
+    "versionId": "RLSKXT7Y",
+    "gameVersions": [
+      "26.3-rc-1",
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-11T11:33:57.067442Z",
+    "filename": "image2map-0.15.0+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/RLSKXT7Y/image2map-0.15.0%2B26.3.jar",
+    "sha512": "110510544ef105778ad7efd15f676dcfcfa7f80c7adc902370b4c27a34edf6333dbcc7b7a120e6ff928fe989b5ae3864a44062b170e96aa3e97057b1750abadd"
+  },
   "0.2.0": {
     "versionId": "MFggDziY",
     "gameVersions": [

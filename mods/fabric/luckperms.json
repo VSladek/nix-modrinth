@@ -442,6 +442,21 @@
     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/D0SyBQN7/LuckPerms-Fabric-5.5.8.jar",
     "sha512": "9708bc51c553fbb0397d9a504b075cbaf6522dd04b056011a908aee9a40a299d7dbaa2f2debfec5c402f0411fc30c26b39406d91ec1cdbf369c47309c58ab187"
   },
+  "v5.5.85-fabric": {
+    "versionId": "DzQPkkXY",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2",
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-19T07:45:19.861990Z",
+    "filename": "LuckPerms-Fabric-5.5.85.jar",
+    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/DzQPkkXY/LuckPerms-Fabric-5.5.85.jar",
+    "sha512": "37de9e16272b6bbf82f422ddf012fa810d32c617c5621919157b662b4edfe956a870c5bc3ca4b05f32c90d7135f0ac2580ea16cd7c481c26a04778f639c3f89c"
+  },
   "v5.5.9-fabric": {
     "versionId": "WBIpgXZQ",
     "gameVersions": [

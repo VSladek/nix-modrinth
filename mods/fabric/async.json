@@ -1477,5 +1477,40 @@
     "filename": "async-fabric-0.2.4+alpha-26.2.jar",
     "url": "https://cdn.modrinth.com/data/vEC2jm6I/versions/T6OSY8vJ/async-fabric-0.2.4%2Balpha-26.2.jar",
     "sha512": "72111329b268954d2c05c80a066e9c9c57ddbe8c9595e0f569cf3d45c70ba03c488ff31159deed0ae6b15a1352b91f9a15de3786fe570f77bc26fff8ed050d7a"
+  },
+  "0.2.5+alpha-26.1.2": {
+    "versionId": "AR5BVLBV",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-04T08:23:05.497824Z",
+    "filename": "async-fabric-0.2.5+alpha-26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/vEC2jm6I/versions/AR5BVLBV/async-fabric-0.2.5%2Balpha-26.1.2.jar",
+    "sha512": "35892be0d95a6047463798919f5c6b729595d097835fd7ec4bfc93a479afe117fb3459f57750b466835825be4cf6895d36321b5b50724a010f09709ea83964f7"
+  },
+  "0.2.5+alpha-26.2": {
+    "versionId": "3JWbBYyf",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-04T08:40:11.148350Z",
+    "filename": "async-fabric-0.2.5+alpha-26.2.jar",
+    "url": "https://cdn.modrinth.com/data/vEC2jm6I/versions/3JWbBYyf/async-fabric-0.2.5%2Balpha-26.2.jar",
+    "sha512": "c0d2762503143ef782e823594262db59b681bf446e89c44b75c220b2b38e7e480e5fdc4e5730b7746c3d8a3494a87c002e47b20a328179e9b652a5926ee3cca3"
+  },
+  "0.2.5+alpha-26.3": {
+    "versionId": "gcduhoHv",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-04T08:43:00.972258Z",
+    "filename": "async-fabric-0.2.5+alpha-26.3.jar",
+    "url": "https://cdn.modrinth.com/data/vEC2jm6I/versions/gcduhoHv/async-fabric-0.2.5%2Balpha-26.3.jar",
+    "sha512": "dc7662973c1493ccd29ccf390583192bc49d33782dfd5245002427d160a2752fb6b4b09e9e1c7a3dd0f3f373454ed0ea4f9ae9a23752994dcb389662506489dc"
   }
 }

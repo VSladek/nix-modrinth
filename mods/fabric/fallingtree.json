@@ -2452,6 +2452,28 @@
     "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/sOoH5kkd/FallingTree-26.2-25.jar",
     "sha512": "b47a93c6fed4bfc9da70881d6eea5df771c79a679fc2473b0c987935736a3c85b1a5c7ab1a2580d0833413ddc6ca02aa5d5996e9e88bd7b0387a3ff74f049130"
   },
+  "26.3-26.3.0.1": {
+    "versionId": "t8SGwbWX",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-16T19:02:48.949230Z",
+    "filename": "FallingTree-26.3-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/t8SGwbWX/FallingTree-26.3-25.jar",
+    "sha512": "f17907170cf9cb4c6f918573e81bb76b989d9631f62c10beae362bfaefb66fa8e77eed1cf1efebe2853043941c55f687edf3df32eadba9e998c54dac70fa9ff3"
+  },
+  "26.3-26.3.0.2": {
+    "versionId": "AAGlDV9D",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-19T16:16:12.609532Z",
+    "filename": "FallingTree-26.3-25.jar",
+    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/AAGlDV9D/FallingTree-26.3-25.jar",
+    "sha512": "07134826f6d6e01232cf4c96ba1ffc529b43d93be3c18a215ba3af8572282a6b04e3175f7dc5831471f6722ad4a4f9161d43203507617c3b6c43908c50e7ef21"
+  },
   "3.11.3": {
     "versionId": "NF3wLCFV",
     "gameVersions": [
