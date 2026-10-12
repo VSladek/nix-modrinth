@@ -1327,6 +1327,132 @@
     "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/QGY1aFDb/vanish-1.6.15%2B26.2.jar",
     "sha512": "39392abede4575195d3733a90e217bab13e4636ff88d4d20caf0c8c48b17d20d6f34777a5251935de324104eceb8a34dc3efc6fbb246963beefef653dbaf969e"
   },
+  "1.6.15+26.3": {
+    "versionId": "1NWDWRJ6",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-20T09:55:09.652561Z",
+    "filename": "vanish-1.6.15+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/1NWDWRJ6/vanish-1.6.15%2B26.3.jar",
+    "sha512": "4cc42e5cef3b3cc3146982195c35119840ee5c18e4fd5299380eca6cd3683752c0651174562b95d22d24f00e49c80a4ac4a9487c1bf23ffce85519018a7c3977"
+  },
+  "1.6.16+1.21.1": {
+    "versionId": "tK9T0u3x",
+    "gameVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:08.458733Z",
+    "filename": "vanish-1.6.16+1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/tK9T0u3x/vanish-1.6.16%2B1.21.1.jar",
+    "sha512": "f22bfb940fabdcfa1c9bc0a4364f1e3b6679d33db9fceda761dd0b0d094e19f3ef14716c0b302c233a63238d1c907b13dad0a08e6335f518babd82d2923de105"
+  },
+  "1.6.16+1.21.10": {
+    "versionId": "jnfkuNcp",
+    "gameVersions": [
+      "1.21.10"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:50.851953Z",
+    "filename": "vanish-1.6.16+1.21.10.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/jnfkuNcp/vanish-1.6.16%2B1.21.10.jar",
+    "sha512": "473ef4088b4a6c222b3702a845a74e50251383e8f2895c277e183797940250e0b27a33a6afd8a02e56d3629c571c684f32a680e0bab74d91a52b85a933bb35b0"
+  },
+  "1.6.16+1.21.11": {
+    "versionId": "ORzuTFEF",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:55.176756Z",
+    "filename": "vanish-1.6.16+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/ORzuTFEF/vanish-1.6.16%2B1.21.11.jar",
+    "sha512": "1c8f7e17d84102d1212165c79b9adf9853811f605fd31c16af92eaed4ac1fd66d80fa42e9495ba71858513caf699ff418eb4be6da5b7ee97aa626c2fbc09ba9b"
+  },
+  "1.6.16+1.21.4": {
+    "versionId": "JIQaZyrq",
+    "gameVersions": [
+      "1.21.4"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:31.225288Z",
+    "filename": "vanish-1.6.16+1.21.4.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/JIQaZyrq/vanish-1.6.16%2B1.21.4.jar",
+    "sha512": "2f7f1ea18372e1a62d74c2755f461934caf53e293bb6acb64d1638c7391f633473d101bb2399cde7c235675b897017c1fdd66c8e7e023cac4e6d174efce76379"
+  },
+  "1.6.16+1.21.5": {
+    "versionId": "lU1Z9yHh",
+    "gameVersions": [
+      "1.21.5"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:38.466117Z",
+    "filename": "vanish-1.6.16+1.21.5.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/lU1Z9yHh/vanish-1.6.16%2B1.21.5.jar",
+    "sha512": "37233814c332b915594695f656a1c9dcf01254e36d2c7053887d44e1278e48fe32b4b64bc143360dcfc5425936b19251cae633c130d30893d5b3f356d7982994"
+  },
+  "1.6.16+1.21.8": {
+    "versionId": "G1WhjNO7",
+    "gameVersions": [
+      "1.21.6",
+      "1.21.7",
+      "1.21.8"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:40.502397Z",
+    "filename": "vanish-1.6.16+1.21.8.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/G1WhjNO7/vanish-1.6.16%2B1.21.8.jar",
+    "sha512": "b872916cf91ea40115b201d1c9bbfadab3d8b2cf51a6696221e68a80c4c4dad38da7e9acea5f6f9388247b1a645e03795af275f6087c2e7dbeff31ce9c1d34f1"
+  },
+  "1.6.16+1.21.9": {
+    "versionId": "VO72fpji",
+    "gameVersions": [
+      "1.21.9"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:46.155112Z",
+    "filename": "vanish-1.6.16+1.21.9.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/VO72fpji/vanish-1.6.16%2B1.21.9.jar",
+    "sha512": "486ba2759e5240ca3dbbaf78dc27c5745fc49edf3a9391bbc745439e5fdb0c67be53b95bc9fdaae468511d264327c9fc92f3f08ca774fe62c60a3113931f5389"
+  },
+  "1.6.16+26.1.2": {
+    "versionId": "T23Tz87s",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:56.635269Z",
+    "filename": "vanish-1.6.16+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/T23Tz87s/vanish-1.6.16%2B26.1.2.jar",
+    "sha512": "c1aa11124dc469f6ae447aa2d6925e64f370d6607e479b2535e1cacc90cfed68c314aa82157237f85272c77a5d74486b51a9db4905d77eb24a96703c59fdddcd"
+  },
+  "1.6.16+26.2": {
+    "versionId": "rV1OZsZb",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:58.306833Z",
+    "filename": "vanish-1.6.16+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/rV1OZsZb/vanish-1.6.16%2B26.2.jar",
+    "sha512": "1fc9f8094c40fed5de1bdd66dd0489340ac5a61bab8a321b415f243f01a00df21a4534c5fce748f6c4b39e7dcb467ed386ca63fe580af8ec9eb9e079eff14e95"
+  },
+  "1.6.16+26.3": {
+    "versionId": "KgeCcJWw",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-27T13:57:59.663259Z",
+    "filename": "vanish-1.6.16+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/KgeCcJWw/vanish-1.6.16%2B26.3.jar",
+    "sha512": "ee60a0ca4551a99929b9e2c6b9b13206b8246d9a35289790acc637e36174b35fe615acb470845ab9ac5a3e283051e2e00cf56b24af124d10414aa6e8db8917e3"
+  },
   "1.6.2+1.21.1": {
     "versionId": "XIdLka8o",
     "gameVersions": [

@@ -1045,5 +1045,60 @@
     "filename": "mob-heads-v5.1.1.jar",
     "url": "https://cdn.modrinth.com/data/82uI0waE/versions/ZNdQAiy7/mob-heads-v5.1.1.jar",
     "sha512": "a2d9d4986b9eaa998903d4b39373dca02d461108c7e03e47a4cab27f08c3df4ac7c9064ebfb5c913b27b8b695920733f0b701c0d2c12dda0e3795f982db0d2dc"
+  },
+  "v5.2.0+mod": {
+    "versionId": "W7awQbrB",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-25T18:15:39.478609Z",
+    "filename": "mob-heads-v5.2.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/W7awQbrB/mob-heads-v5.2.0.jar",
+    "sha512": "a0ef426b75bfa9cebefe6d6957b87509a1b17d6a5432076131041116c870e4b07ff9c5104692f2a323c3f133ec0bc4b5361fd0916b289a257c39376838d9329f"
+  },
+  "v5.3.0+mod": {
+    "versionId": "9ateiLW7",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-28T10:28:37.570969Z",
+    "filename": "mob-heads-v5.3.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/9ateiLW7/mob-heads-v5.3.0.jar",
+    "sha512": "4f313880228e9b91331240d6b8f3e7db270f77ab0fd8bbca3b6ab4fbfa75ce6dc27f6cc019029a1fdd74509504b3bd8759607466219736e008fda02ace964b0a"
+  },
+  "v5.3.0.0+mod": {
+    "versionId": "LdaUZKQs",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-28T19:48:55.258507Z",
+    "filename": "mob-heads-v5.3.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/LdaUZKQs/mob-heads-v5.3.0.0.jar",
+    "sha512": "5afc7fc175a2594ecf41b8e92fbddfb30e63a24fb8329a6101d927c08a42ec028f5c99effb50c5496683cac65b6b83a496443e604cc0c9261dd40c97b2342b33"
+  },
+  "v5.3.0.1+mod": {
+    "versionId": "VUMvLJMZ",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-01T09:43:18.657342Z",
+    "filename": "mob-heads-v5.3.0.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/VUMvLJMZ/mob-heads-v5.3.0.1.jar",
+    "sha512": "da90d9930a0dcabbf3e1ff50e47e8f0ba722be3675bb528aca23da862ce38e889f2cee0bf79d2bd3e685111abd5ce04fed402c8cd2a4bbea85ae4e7cb145e642"
+  },
+  "v5.3.1+mod": {
+    "versionId": "XjvhaBUq",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-04T15:49:14.688419Z",
+    "filename": "mob-heads-v5.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/82uI0waE/versions/XjvhaBUq/mob-heads-v5.3.1.jar",
+    "sha512": "b79f8aba3f80fb97b1fee071aa72752bb3be5b787b89eed4f6360d4226cf5b415f94295a025e4cd0d41b99cd3694601f7044d5887bda4e99bdec1b4f87363e21"
   }
 }

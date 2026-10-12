@@ -1586,6 +1586,17 @@
     "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/yymwWm0P/sit%21-1.2.6.3%2B26.2.jar",
     "sha512": "d6d1310de1f77601e45bbb25c5f5a8194053b3dc31b6c70f4f162c598354b1913bc6e07996e6cbf37a6673097444ce845403e52dd850437414d4d4c838f36e79"
   },
+  "1.2.6.4+26.3": {
+    "versionId": "9zKJaj9v",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-30T04:19:00.403050Z",
+    "filename": "sit!-1.2.6.4+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/9zKJaj9v/sit%21-1.2.6.4%2B26.3.jar",
+    "sha512": "4e6ffa81816571fcd69336406015d7f3daaf36709b8abaa5a72934db7138d1409e32ea2b9c4e324559041f7cdfaaee5cd3fdd7291b4e34e9e944ba2d4e0db683"
+  },
   "s1.0.3+1.20.3-pre1": {
     "versionId": "rfknnJKL",
     "gameVersions": [
