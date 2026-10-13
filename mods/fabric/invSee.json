@@ -180,6 +180,17 @@
     "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/WL9M9WOP/InvView-1.4.21-26.2%2B.jar",
     "sha512": "6eec7e7831316f9768b42daa441af83442ec9d30cfe2a963b51d77339805e4c8cdd8283ae758ec73ce4bfbce2a6454c0a6389683e830acb6ff1fb0dcef2534ea"
   },
+  "1.4.22": {
+    "versionId": "uySsk7v8",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-26T20:25:54.225380Z",
+    "filename": "InvView-1.4.22-26.3+.jar",
+    "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/uySsk7v8/InvView-1.4.22-26.3%2B.jar",
+    "sha512": "a7e21e1833b581cfdcd7b5096c3654ab5a3f7acb8e62dcaa91b0930009063abe407fb0de6031345c0f839e958f3a1f11f9984d8c3ed43aa2bf2542000429a09f"
+  },
   "1.4.3": {
     "versionId": "24FxNPZr",
     "gameVersions": [

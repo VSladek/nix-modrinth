@@ -549,5 +549,16 @@
     "filename": "cardinal-components-api-8.0.1.jar",
     "url": "https://cdn.modrinth.com/data/K01OU20C/versions/d78LiKJ8/cardinal-components-api-8.0.1.jar",
     "sha512": "6c3507d9b2de856cf5ecb428c8cc038cfdfcf3f0756a2370dae3f6d6204d5315d5afbcf8b2c8fb5bb03a35d70a6401cb53574beb3b2ce52560b0b254d3c346c4"
+  },
+  "8.1.0": {
+    "versionId": "TPEXA0ew",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-09-17T23:35:29.233011Z",
+    "filename": "cardinal-components-api-8.1.0.jar",
+    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/TPEXA0ew/cardinal-components-api-8.1.0.jar",
+    "sha512": "8507faea758d820ebddedb2ff087510ac52f262b14fba7b2d2fee2fbb731bee819e253cdaaefcb580f281f2d14b081dc06f2fdb9b78e73664f3a42065be7459c"
   }
 }
