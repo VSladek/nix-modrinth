@@ -1979,5 +1979,51 @@
     "filename": "audioplayer-fabric-2.5.0+26.3.jar",
     "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/upaUhCkh/audioplayer-fabric-2.5.0%2B26.3.jar",
     "sha512": "c952b36b08a7aaf088ffd6bcdc5f30b7a2922a62cb45e67736b86c928227ef069a89a987b1ee6aab0eb9cafb637f143e327a10cc7098d1f5d2500b2b21d7d44a"
+  },
+  "fabric-2.5.1+1.21.11": {
+    "versionId": "j5k8hkGS",
+    "gameVersions": [
+      "1.21.11"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-22T12:26:24.590783Z",
+    "filename": "audioplayer-fabric-2.5.1+1.21.11.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/j5k8hkGS/audioplayer-fabric-2.5.1%2B1.21.11.jar",
+    "sha512": "1874bfebb702fe2cd9024e307719ab9edca52acf5d9ec0020454ed6ff2d2d1f7885b9cdbe6ece455e967fe1c7c1b6454d71b8551863f291525a57266910f3b47"
+  },
+  "fabric-2.5.1+26.1.2": {
+    "versionId": "J1iloKsh",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-22T12:27:05.837283Z",
+    "filename": "audioplayer-fabric-2.5.1+26.1.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/J1iloKsh/audioplayer-fabric-2.5.1%2B26.1.2.jar",
+    "sha512": "e2062482b4a6af7fd00f179b894cb0e2dbbfcc8b49af4c760538b559e79690f3bd5e7501fb36b27e50f24ccd4d35a75c7348eef56c24fd9181ba20fa75d3bec4"
+  },
+  "fabric-2.5.1+26.2": {
+    "versionId": "t1QRse7R",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-22T12:27:35.011997Z",
+    "filename": "audioplayer-fabric-2.5.1+26.2.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/t1QRse7R/audioplayer-fabric-2.5.1%2B26.2.jar",
+    "sha512": "3b1eab0ce5b1ef7307ca760ee0b76d7b1ca5138708a6332ce19f7ccdd94eaf8a323023dc0ab23296ae359af1984d90a52967fc9c7d5685fc24de24cdbdced352"
+  },
+  "fabric-2.5.1+26.3": {
+    "versionId": "p6mjD7hC",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-22T12:28:04.230376Z",
+    "filename": "audioplayer-fabric-2.5.1+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/p6mjD7hC/audioplayer-fabric-2.5.1%2B26.3.jar",
+    "sha512": "7c8ab4ef14c30518d95285ea1b320dcc94d043667dc4a525434d06114db6b375a28bc0f1207ab105fb1b851f27f7881574389e8d7e21e77f01b8b53249bc417e"
   }
 }

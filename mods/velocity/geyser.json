@@ -1303,6 +1303,226 @@
     "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/8g51E8d9/Geyser-Velocity.jar",
     "sha512": "c6a0587b07ae1dd2d3facb87a409706275c134d93c995057b4761b9dfb0b5793f924db951435dd1ad6266eed4a38b9a33461cafbffc8293869eac8dbac5b2a8b"
   },
+  "2.11.3-b1252": {
+    "versionId": "O3qVCKPU",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-14T08:38:38.977827Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/O3qVCKPU/Geyser-Velocity.jar",
+    "sha512": "93769a9c2279b36b4a2fbdf305b42afb125b5a58eba7d0321a49076a561d4e6a62ba58b9222c73be2962321188bc6347cb3e8a64de63fa812ee41211531ed4f3"
+  },
+  "2.11.3-b1253": {
+    "versionId": "LYnpA6va",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-14T14:10:48.650296Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/LYnpA6va/Geyser-Velocity.jar",
+    "sha512": "11d722e2b446a69990b827d2a56e81039b2dcc581acd63e97fda66a769ad955219ced11270e81be36e48fb14e8b6376ba37c8e0f502383bc14d3d79aed63efed"
+  },
+  "2.11.3-b1254": {
+    "versionId": "SnWoPPom",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-14T21:40:39.796309Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/SnWoPPom/Geyser-Velocity.jar",
+    "sha512": "522104f6627c4c62ffe38852d662d51bd36fed8ede4895f531bf96a5a149a014c52642d30baa0feb0e508319938094084c4016c12af0c8ff8dfe184ad9bf9553"
+  },
+  "2.12.0-b1255": {
+    "versionId": "VohJkBpk",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-14T21:51:43.622858Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/VohJkBpk/Geyser-Velocity.jar",
+    "sha512": "a645da8c407312920bea59645b564e9fb5b7e2e987d78e8ede8243de511ef9f1c0e7556526e74e818f8bc3188d592e7fe44dc5b509f573ad149468fbeaa3fac9"
+  },
+  "2.12.0-b1256": {
+    "versionId": "IJvQ9KXl",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-14T22:27:11.258608Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/IJvQ9KXl/Geyser-Velocity.jar",
+    "sha512": "6ee9b1fcd57dc57b23c6f5defcf8d4778d56faecb2c47184d6d93e270b7246aed3d76483f51c8d7ea611507a1c701bfacf6772450b1230daf3eaf1b526814ca9"
+  },
+  "2.12.0-b1257": {
+    "versionId": "aLR6XLdG",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-15T13:52:14.816949Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/aLR6XLdG/Geyser-Velocity.jar",
+    "sha512": "5c8f4d8041e832d7b58e36ce70ea3b6d1c64aea306cdb616d48dae772338ac2d2052f481637d77c9b54e4145f0118a76dfe9a1d46e61c980e24cc47bf94e9c1d"
+  },
+  "2.12.0-b1258": {
+    "versionId": "ykzD5mb4",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-15T14:03:33.455796Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ykzD5mb4/Geyser-Velocity.jar",
+    "sha512": "074725c19bca857040805f6c06848acad2020fafcf8f7f79ae3730a07f35b09e170840632150405d83fb23c4638a2e9acb7520200bf92ae1a5b75da0a635623c"
+  },
+  "2.12.0-b1259": {
+    "versionId": "CxlcBucE",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-16T14:38:54.134208Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/CxlcBucE/Geyser-Velocity.jar",
+    "sha512": "1436ba352076a27144df5dc81b6017b9c3c77e0b627d72ec780ddd13bf044251850437b3a62ebdd5c62a2b3318a375c6f5c183500bff6ddcc5f1a7121b0501ae"
+  },
+  "2.12.0-b1260": {
+    "versionId": "xyuJVMWm",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-16T20:52:54.670842Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/xyuJVMWm/Geyser-Velocity.jar",
+    "sha512": "6c2a8733d64da848017e1b192763a4a51551317ed6aea2db7ad3a67674b7ed617eddcabbf378c9717a5d7c1fb25c4bd45cd032a9df4230e48828118ee5b99c3e"
+  },
+  "2.12.0-b1261": {
+    "versionId": "axl3rrh7",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-16T21:07:09.299819Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/axl3rrh7/Geyser-Velocity.jar",
+    "sha512": "b4f85b0a72a2cae12d1d826674bfa43ecfe889a5005d942395cca2726ebfd076f007722856e33fd985d0602ea165bbbbdfa01cabfe089765dbc008a7e2de12ea"
+  },
+  "2.12.0-b1262": {
+    "versionId": "n0TTLAv0",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-16T21:25:23.244485Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/n0TTLAv0/Geyser-Velocity.jar",
+    "sha512": "2cae477ec6a2401ebe497c89595578bf291aba3dc566d212307030b7c401851da235dd1136349b182499225ecf079dc87cefd49e6d07410d36f6f70d8ff38173"
+  },
+  "2.12.0-b1263": {
+    "versionId": "6hHvmpma",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-17T09:35:55.289063Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/6hHvmpma/Geyser-Velocity.jar",
+    "sha512": "4f9fcd311bdeb1d7f1a3cfd9dcffcd49df78234911d6e776f664f7c54490c174a7317e130f13366cd06d36dd6f97abe982a94851be60ff868ac47dbf1dea2a63"
+  },
+  "2.12.0-b1264": {
+    "versionId": "vSppsbMf",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-17T15:27:06.268015Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/vSppsbMf/Geyser-Velocity.jar",
+    "sha512": "d575a8d63824a49c3ebe1bbe181129c6695fd8291e84179653e3eca878ae493ba2b7c4b3d970002c044c301ba714f0268e749d6f6bcac28ef980691f813eaaab"
+  },
+  "2.12.0-b1265": {
+    "versionId": "bunxqWmu",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-18T11:02:54.106983Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/bunxqWmu/Geyser-Velocity.jar",
+    "sha512": "e8d9f6a4e38de338a937a44e7eabb566c49e316bb0165330b9bc1fce3e51867e4f5d9f76c08d15a41a44f73e2534b1867696f6ce2924125f6b8e715ef494e768"
+  },
+  "2.12.0-b1266": {
+    "versionId": "XJ8lrs5V",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-20T13:17:48.810584Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/XJ8lrs5V/Geyser-Velocity.jar",
+    "sha512": "59699fb5d8f0b0ec441e8f533adf5a988c27913e2516bba1e31a2b8ba2d967b56a7b93cee615b4328434dd1926125b39d993dc1ce6ce65641191f6bcae3f61a4"
+  },
+  "2.12.0-b1267": {
+    "versionId": "n63UqSRg",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-20T15:09:44.761554Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/n63UqSRg/Geyser-Velocity.jar",
+    "sha512": "fe3286861f37c4d0053129ff3352c5e35d8f7740d82e86d41b930e7baac6c9560452102003224e46811aec2796062a1a7f6818a200df741a08433259e8a15368"
+  },
+  "2.12.0-b1268": {
+    "versionId": "VrRjydo6",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-21T20:08:52.692739Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/VrRjydo6/Geyser-Velocity.jar",
+    "sha512": "6c6d06222ce78728a8e49868eb140192432472b47d912dc7f8a0863f7d264c9adcd3cd07bcfca5635c7833b1b94addb71093babb25a61f324ae7194aa8e4d668"
+  },
+  "2.12.0-b1269": {
+    "versionId": "OrUIbToN",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-22T18:30:13.600915Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/OrUIbToN/Geyser-Velocity.jar",
+    "sha512": "b4bd3ada6b960f2994facb962749d1f2c1a112bd24f694d1ae427338cdbb43843c79b4494e836f27c99e8d3bed3f78b6176afb048d147685a6ec3f07d015a6f0"
+  },
+  "2.12.0-b1270": {
+    "versionId": "wfw46hHz",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-23T22:50:48.379826Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/wfw46hHz/Geyser-Velocity.jar",
+    "sha512": "d6193526653843571644988a1ccd7dae6822f63f788600be9bfb5d61e497da4542129acb68acb5de82b95e3eade5e47003bd3561966e8222e3798ed846861410"
+  },
+  "2.12.0-b1271": {
+    "versionId": "vs3oWqgo",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-25T21:37:05.653938Z",
+    "filename": "Geyser-Velocity.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/vs3oWqgo/Geyser-Velocity.jar",
+    "sha512": "570e40d4b449b2fda6e22d670f8459d5bb8f76230ce85dc2a644dbf09218688fc64fcdc7c68e865b21592b3c1413aeaa582c2498493b62de02655748aec82770"
+  },
   "2.4.0-SNAPSHOT-567": {
     "versionId": "Kd9qAqVG",
     "gameVersions": [
