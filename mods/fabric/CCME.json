@@ -7331,6 +7331,72 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/mvEDAhN1/c2me-fabric-mc26.2-0.4.2-alpha.0.1.jar",
     "sha512": "0379b8ef14111545a77da74a05b685ed9d2ead9266d137d7883201e754176792626e729c4c35836143df3008ba7d5eb3b9586b01ca7595ef9fe5737d7a406c44"
   },
+  "0.4.2-alpha.0.103+26.3": {
+    "versionId": "1kwL6YC2",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-13T18:10:19.673110Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.103.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/1kwL6YC2/c2me-fabric-mc26.3-0.4.2-alpha.0.103.jar",
+    "sha512": "0925dbf961917666cc8b64d35532261090998e90f7c7432512e12d7fff3b1e18602653e5b56a2aefacfc7613931c50b4065bd3accb4555bcb0a14d5d4337a79b"
+  },
+  "0.4.2-alpha.0.104+26.3": {
+    "versionId": "s5lf4njU",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-15T18:16:44.925096Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.104.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s5lf4njU/c2me-fabric-mc26.3-0.4.2-alpha.0.104.jar",
+    "sha512": "1c17afd95d4d2cefe540d625d0856b09eb3d3c4c56fa663cdf75c641c1c5d52067e94c045c998019daeb9c950558a8006a41abd0b2bcd9aac11a2bfb69b07f86"
+  },
+  "0.4.2-alpha.0.106+26.3": {
+    "versionId": "gKKkuSYc",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-17T15:56:23.604887Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/gKKkuSYc/c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar",
+    "sha512": "047ed3fe3869d0185c6d1e94fd1e725b2ad40047e4929f22692090570af28d0075849cb65335b602658859c7d437cce51c94082c0c798617314764cfdc0a1d71"
+  },
+  "0.4.2-alpha.0.113+26.4-snap-4": {
+    "versionId": "moDlR1E4",
+    "gameVersions": [
+      "26.4-snapshot-4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-13T18:14:17.136583Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.113.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/moDlR1E4/c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.113.jar",
+    "sha512": "d03287fc53fd19b908b28fc4849d8afa7a3958f503d3ebcae4ce718b5db98c161b6ed3a0720bc53e0a41112a4c7093912ee59ee3862fa18ad8a5d92ba5b645db"
+  },
+  "0.4.2-alpha.0.114+26.4-snap-4": {
+    "versionId": "511r00Fz",
+    "gameVersions": [
+      "26.4-snapshot-4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-15T18:17:08.874680Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.114.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/511r00Fz/c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.114.jar",
+    "sha512": "309ecc5e0146bd4079ae503400d5277197e56ade6af8410de2807e9377e47b3220be3c1cc345f1a1c611392e501630a6bee5588d7f1d99d2f7ee10dd563ab547"
+  },
+  "0.4.2-alpha.0.119+26.4-snap-5": {
+    "versionId": "Ez6kKhwB",
+    "gameVersions": [
+      "26.4-snapshot-5"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-20T15:10:58.057844Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-5-0.4.2-alpha.0.119.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Ez6kKhwB/c2me-fabric-mc26.4-snapshot-5-0.4.2-alpha.0.119.jar",
+    "sha512": "d0b0b533f8f664dcfd572f3ada8654cdd1efc2adc8c38d4b960fe5933188e531c715c8e0a982d46d2711c11aed9e23f9ad5252adf2951622148ce92e620f1349"
+  },
   "0.4.2-alpha.0.12+26.2": {
     "versionId": "sBKVreDD",
     "gameVersions": [
@@ -7661,6 +7727,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Xiybguwo/c2me-fabric-mc26.2-0.4.2-alpha.0.6.jar",
     "sha512": "94871f0857b28a3cabeb0373324e9242b355436420a42c3395fc7a5e9c58a1d2943ed234a108bd2234e10fa74c3d5cec144731de90fcdad3defeb1f059d62d5d"
   },
+  "0.4.2-alpha.0.60+26.2": {
+    "versionId": "4wjXxrDQ",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-12T15:56:44.062382Z",
+    "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/4wjXxrDQ/c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
+    "sha512": "079ac7da5de422418a599e0fef1963b3094aa010b057582bc25233fa65bd62a5bea8659c7905eabbd4f6943914d56106c5c6ebe011b022a84583a061a99cc2d4"
+  },
   "0.4.2-alpha.0.63+26.3-snap-9": {
     "versionId": "hVR1K2iw",
     "gameVersions": [
@@ -7903,5 +7980,16 @@
     "filename": "c2me-fabric-mc26.4-snapshot-3-0.4.2-alpha.0.95.jar",
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/8g9HFpKt/c2me-fabric-mc26.4-snapshot-3-0.4.2-alpha.0.95.jar",
     "sha512": "a8e59c36d72db8b07cc4763ce1f0b23c3d00606c3a66e5c8abf0a0987844da6fbdfed284b4fa2411a3174db6e6908fc5a6743076160a30397f78f135f02a3926"
+  },
+  "0.4.2-alpha.0.99+26.4-snap-4": {
+    "versionId": "dXGPRUIG",
+    "gameVersions": [
+      "26.4-snapshot-4"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-13T15:05:29.778835Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.99.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/dXGPRUIG/c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.99.jar",
+    "sha512": "e7ae72956c701cb1f3f675896ecf9479e5b0a825c3d585f0b25280ed4bf4ce83894d712f840d1b9b77e1caa32bde17525ae89e99c4e0c0846373dea7b3440a0d"
   }
 }
