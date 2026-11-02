@@ -199,6 +199,17 @@
     "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/tuPsGk8g/fabricexporter-26.2-1.0.22.jar",
     "sha512": "80475cc389900c1d2e777ff1d0dd19776ba474eb2f96b73f1c1dbe8f349606a888ea35c7845cb517beef2ea3eaee0b5ce5ac39bea24a85f1165881b852760870"
   },
+  "1.0.23+26.3": {
+    "versionId": "oWz8OvaM",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-10-30T15:39:07.484827Z",
+    "filename": "fabricexporter-26.3-1.0.23.jar",
+    "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/oWz8OvaM/fabricexporter-26.3-1.0.23.jar",
+    "sha512": "4c9bb2b822bc09e227d05426221ebe6c0943e74d75bd877c341867d4733060f1c95520ee766cf034571abb2d589fec3fe12f411e44bd0c7d8da361e513d1e5c2"
+  },
   "1.0.3": {
     "versionId": "PdtC5YP5",
     "gameVersions": [
