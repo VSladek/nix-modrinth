@@ -2436,8 +2436,8 @@
   "0.2.0+alpha.8.32+1.19.1-rc3": {
     "versionId": "B0EsXokA",
     "gameVersions": [
-      "1.19.1-rc3",
-      "1.19.1"
+      "1.19.1",
+      "1.19.1-rc3"
     ],
     "versionType": "alpha",
     "datePublished": "2022-07-27T14:29:33.868546Z",
@@ -4674,8 +4674,8 @@
   "0.3.2+alpha.0.65+1.21.5-rc2": {
     "versionId": "2UEfepRn",
     "gameVersions": [
-      "1.21.5-rc2",
-      "1.21.5"
+      "1.21.5",
+      "1.21.5-rc2"
     ],
     "versionType": "alpha",
     "datePublished": "2025-03-25T02:07:23.066134Z",
@@ -5483,8 +5483,8 @@
   "0.3.5+alpha.0.38+1.21.9-rc1": {
     "versionId": "AMX6caki",
     "gameVersions": [
-      "1.21.9-rc1",
-      "1.21.9"
+      "1.21.9",
+      "1.21.9-rc1"
     ],
     "versionType": "alpha",
     "datePublished": "2025-09-27T14:19:21.250968Z",
@@ -5528,8 +5528,8 @@
   "0.3.5+alpha.0.44+1.21.10-rc1": {
     "versionId": "CCOcCaia",
     "gameVersions": [
-      "1.21.10-rc1",
-      "1.21.10"
+      "1.21.10",
+      "1.21.10-rc1"
     ],
     "versionType": "alpha",
     "datePublished": "2025-10-02T14:20:49.651009Z",
@@ -5595,8 +5595,8 @@
   "0.3.5+beta.1.0+1.21.10": {
     "versionId": "Bl0VOr1e",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-07T15:20:56.434831Z",
@@ -5607,8 +5607,8 @@
   "0.3.5+rc.1.0+1.21.10": {
     "versionId": "tPpclp9p",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-15T16:24:58.945505Z",
@@ -5619,8 +5619,8 @@
   "0.3.5.0.0+1.21.10": {
     "versionId": "eY3dbqLu",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-10-23T16:07:41.925865Z",
@@ -5631,8 +5631,8 @@
   "0.3.5.1+rc.1.0+1.21.10": {
     "versionId": "G5CLVk95",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-01T16:18:50.076880Z",
@@ -5643,8 +5643,8 @@
   "0.3.5.1.0+1.21.10": {
     "versionId": "uNick7oj",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-11-04T13:23:32.738533Z",
@@ -5864,8 +5864,8 @@
   "0.3.6+alpha.0.33+1.21.11-rc3": {
     "versionId": "6wx14IFM",
     "gameVersions": [
-      "1.21.11-rc3",
-      "1.21.11"
+      "1.21.11",
+      "1.21.11-rc3"
     ],
     "versionType": "alpha",
     "datePublished": "2025-12-09T08:00:32.207938Z",
@@ -6206,8 +6206,8 @@
   "0.3.7+alpha.0.45+26.1-snapshot-9": {
     "versionId": "QDdSdGEh",
     "gameVersions": [
-      "26.1-snapshot-9",
-      "26.1-snapshot-10"
+      "26.1-snapshot-10",
+      "26.1-snapshot-9"
     ],
     "versionType": "alpha",
     "datePublished": "2026-02-18T12:21:06.996571Z",
@@ -6307,8 +6307,8 @@
   "0.3.7+alpha.0.57+26.1-rc-3": {
     "versionId": "XBPuWWfR",
     "gameVersions": [
-      "26.1-rc-3",
-      "26.1"
+      "26.1",
+      "26.1-rc-3"
     ],
     "versionType": "alpha",
     "datePublished": "2026-03-24T08:52:27.027594Z",
@@ -6352,8 +6352,8 @@
   "0.3.7+alpha.0.62+26.1.1-rc-1": {
     "versionId": "yNmL9G1S",
     "gameVersions": [
-      "26.1.1-rc-1",
-      "26.1.1"
+      "26.1.1",
+      "26.1.1-rc-1"
     ],
     "versionType": "alpha",
     "datePublished": "2026-03-31T11:47:00.045931Z",
@@ -6375,8 +6375,8 @@
   "0.3.7+alpha.0.64+26.1.2-rc-1": {
     "versionId": "Fykexbsm",
     "gameVersions": [
-      "26.1.2-rc-1",
-      "26.1.2"
+      "26.1.2",
+      "26.1.2-rc-1"
     ],
     "versionType": "alpha",
     "datePublished": "2026-04-08T14:23:41.886139Z",
@@ -7209,6 +7209,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/to1sDRnG/c2me-fabric-mc26.1.2-0.4.0-alpha.0.65.jar",
     "sha512": "15c374f57ce6dc867ed7d3529bed43d2894b33a9f83cb0d73fb45e047ddef84b408bfbee7470b596a0afde4726205aac39a4b3ecc8f60ba7c0fe77e13943d97f"
   },
+  "0.4.0-alpha.0.70+26.1.2": {
+    "versionId": "W9TlypeQ",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-08T06:22:28.884159Z",
+    "filename": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.70.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/W9TlypeQ/c2me-fabric-mc26.1.2-0.4.0-alpha.0.70.jar",
+    "sha512": "b3d4629eed024f3a3d61279346b219c6471044c566b7daf5c0451b8980ae335c6f55b4f6fe5010ffd65a1a3930d5bd8cf68eaf599d2588172001475937ceca7b"
+  },
   "0.4.0-alpha.0.9+1.21.1": {
     "versionId": "Lwhnr5Ml",
     "gameVersions": [
@@ -7245,8 +7256,8 @@
   "0.4.1-alpha.0.0+26.2-rc-2": {
     "versionId": "QidT45ly",
     "gameVersions": [
-      "26.2-rc-2",
-      "26.2"
+      "26.2",
+      "26.2-rc-2"
     ],
     "versionType": "alpha",
     "datePublished": "2026-06-16T11:37:31.230906Z",
@@ -7364,6 +7375,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/gKKkuSYc/c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar",
     "sha512": "047ed3fe3869d0185c6d1e94fd1e725b2ad40047e4929f22692090570af28d0075849cb65335b602658859c7d437cce51c94082c0c798617314764cfdc0a1d71"
   },
+  "0.4.2-alpha.0.112+26.3": {
+    "versionId": "B5Koj7Vo",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-29T17:43:11.865397Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.112.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/B5Koj7Vo/c2me-fabric-mc26.3-0.4.2-alpha.0.112.jar",
+    "sha512": "8da3f4afe947f6e1a27775b9f3a542688834e64acf53c14bc35fb3fa5957f1100b8713612a527974c93512da826c4cd2ac89365084d1af39d7e56432981387da"
+  },
   "0.4.2-alpha.0.113+26.4-snap-4": {
     "versionId": "moDlR1E4",
     "gameVersions": [
@@ -7375,6 +7397,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/moDlR1E4/c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.113.jar",
     "sha512": "d03287fc53fd19b908b28fc4849d8afa7a3958f503d3ebcae4ce718b5db98c161b6ed3a0720bc53e0a41112a4c7093912ee59ee3862fa18ad8a5d92ba5b645db"
   },
+  "0.4.2-alpha.0.114+26.3": {
+    "versionId": "GvAudNX2",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-30T15:20:16.565704Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.114.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/GvAudNX2/c2me-fabric-mc26.3-0.4.2-alpha.0.114.jar",
+    "sha512": "d01666d82d031c2f9a47680eef1fe5b13b0f8eeeef3d277bd1fdab314ce40a1ae43769b691b5ef3dbaa7d19f94a6c70ab728c0683c062d2589eaa3eca3bbe0a3"
+  },
   "0.4.2-alpha.0.114+26.4-snap-4": {
     "versionId": "511r00Fz",
     "gameVersions": [
@@ -7385,6 +7418,28 @@
     "filename": "c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.114.jar",
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/511r00Fz/c2me-fabric-mc26.4-snapshot-4-0.4.2-alpha.0.114.jar",
     "sha512": "309ecc5e0146bd4079ae503400d5277197e56ade6af8410de2807e9377e47b3220be3c1cc345f1a1c611392e501630a6bee5588d7f1d99d2f7ee10dd563ab547"
+  },
+  "0.4.2-alpha.0.115+26.3": {
+    "versionId": "Vhj7rn6M",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-02T05:41:38.393402Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.115.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Vhj7rn6M/c2me-fabric-mc26.3-0.4.2-alpha.0.115.jar",
+    "sha512": "95582ffc5ed0963ab37fe7b62dca25373e69fbdac3ccb37f6cffd89bfd0dfb7c7ff39a79085f7d4652822f3a471c99c9fd36e475f926cdc93be50e4e908d7549"
+  },
+  "0.4.2-alpha.0.116+26.3": {
+    "versionId": "aOP6eqZA",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-05T06:53:02.474736Z",
+    "filename": "c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/aOP6eqZA/c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
+    "sha512": "5db513d05f909d7b09d035b40f0d31945ec8911f4d7b75fa258bb6e6338761b8847c9d1804d40b647e1781cfc143ff7dd0e0a4389f19ec46e031be7bbb7b5052"
   },
   "0.4.2-alpha.0.119+26.4-snap-5": {
     "versionId": "Ez6kKhwB",
@@ -7408,6 +7463,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/sBKVreDD/c2me-fabric-mc26.2-0.4.2-alpha.0.12.jar",
     "sha512": "757eb369c94ca63b3297f30e2e561aff9c9b02aaaf9891fded7e60b97b6e981def556f226b0b272026f7ff90c550989efea21555d10d0fff7ac4de27a2fb66a5"
   },
+  "0.4.2-alpha.0.120+26.4-snap-6": {
+    "versionId": "bvOHPArP",
+    "gameVersions": [
+      "26.4-snapshot-6"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-10-27T15:49:17.566085Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-6-0.4.2-alpha.0.120.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/bvOHPArP/c2me-fabric-mc26.4-snapshot-6-0.4.2-alpha.0.120.jar",
+    "sha512": "cd363bb5c2c30ce5e8f10ca02e7e30e2de79f2a3ff3eea98bb63f6637cc3b992700721c50ba4ef276e4a01ae3c51c8ab28d797961cbd876b0696d06ff49d02ab"
+  },
   "0.4.2-alpha.0.13+26.2": {
     "versionId": "XQMx5J57",
     "gameVersions": [
@@ -7418,6 +7484,17 @@
     "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar",
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/XQMx5J57/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar",
     "sha512": "052c79f8da23a4215a812e3c3fb592b3992d519e1c5daedd193d66742823855dac65365de31408c18b750bb58990f2650e4402a3abc32cf0e30aab7125adb15b"
+  },
+  "0.4.2-alpha.0.132+26.4-snap-7": {
+    "versionId": "DgZAfcu4",
+    "gameVersions": [
+      "26.4-snapshot-7"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-03T15:59:49.881894Z",
+    "filename": "c2me-fabric-mc26.4-snapshot-7-0.4.2-alpha.0.132.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/DgZAfcu4/c2me-fabric-mc26.4-snapshot-7-0.4.2-alpha.0.132.jar",
+    "sha512": "30f77a5e58e66aa09a56b534e5b3ebff4b3fe0b28478b22fea9a08adf4330b8fb011e1dc96e4067ce9509db83f4414b44dcf39f1680d386d6614b5412e3894bc"
   },
   "0.4.2-alpha.0.14+26.2": {
     "versionId": "gO4NvmUk",
@@ -7760,6 +7837,17 @@
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/UrquBzNr/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar",
     "sha512": "0861d8b8fe4f754cc5907c7c21129c69d6edcd61492cbdfe6e9db6529559c7f8ae3ecd298b4f467115ae00eb320f26aaf4b597a132e912cb87693351d49f3e0b"
   },
+  "0.4.2-alpha.0.65+26.2": {
+    "versionId": "2cvOSZ4X",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-07T13:53:34.332531Z",
+    "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.65.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/2cvOSZ4X/c2me-fabric-mc26.2-0.4.2-alpha.0.65.jar",
+    "sha512": "15a640231257ab5536083e87bf08157f128daaaf0c5763ad729cd0f0e65654369260a92c8a474d394c07efb68611aa2ec8fa7f1de7105e834b346ce5ff74f2ff"
+  },
   "0.4.2-alpha.0.65+26.3-snap-10": {
     "versionId": "UWShfQPB",
     "gameVersions": [
@@ -7770,6 +7858,17 @@
     "filename": "c2me-fabric-mc26.3-snapshot-10-0.4.2-alpha.0.65.jar",
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/UWShfQPB/c2me-fabric-mc26.3-snapshot-10-0.4.2-alpha.0.65.jar",
     "sha512": "1c03727c0420b57d0de1f6a0ca270fb41e633f00d22666b1fcdbbd5a900a0057a3b23a234884d99e92becd2cdb8528ab28b41eb5583d3689611d799f69e2f491"
+  },
+  "0.4.2-alpha.0.66+26.2": {
+    "versionId": "HmE6J1Ax",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "alpha",
+    "datePublished": "2026-11-08T05:12:57.841697Z",
+    "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.66.jar",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/HmE6J1Ax/c2me-fabric-mc26.2-0.4.2-alpha.0.66.jar",
+    "sha512": "124a27cb5e6c1b7a5c1a93a9b3c01aced4b235f4d59ff3c8a8a8d5005d424ec6f6626b08d0a7dd8dbed4a1a7d52b2cd5b870a2f3c21fb1d819719f393d0e9921"
   },
   "0.4.2-alpha.0.67+26.3-pre-1": {
     "versionId": "tbNgOO92",
@@ -7862,8 +7961,8 @@
   "0.4.2-alpha.0.84+26.3-rc-3": {
     "versionId": "2wydyF7u",
     "gameVersions": [
-      "26.3-rc-3",
-      "26.3"
+      "26.3",
+      "26.3-rc-3"
     ],
     "versionType": "alpha",
     "datePublished": "2026-09-14T14:22:22.769938Z",
