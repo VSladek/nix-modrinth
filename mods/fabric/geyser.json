@@ -3102,6 +3102,303 @@
     "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/cYptwKiM/Geyser-Fabric-2.12.0-b1271.jar",
     "sha512": "c73fee414ddc5c9b1e648de5eeafa6143ccf138e7200d458d59a43a6ecf2dc4a88f5501463e40881f880ea6a53403091377f8feb9d9cd186a9241c46b73aab86"
   },
+  "2.12.0-b1272": {
+    "versionId": "E7DNKkgZ",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-26T18:49:08.017295Z",
+    "filename": "Geyser-Fabric-2.12.0-b1272.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/E7DNKkgZ/Geyser-Fabric-2.12.0-b1272.jar",
+    "sha512": "dcdd7273abdc478caa6818e2ac717492ff505a367648a0352461917b2cfa041a6aad4c5a9246827ac057caeb84e57808ad16930baebd8508984e276167a51f36"
+  },
+  "2.12.1-b1273": {
+    "versionId": "WlHAJcLO",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-26T22:25:05.456280Z",
+    "filename": "Geyser-Fabric-2.12.1-b1273.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/WlHAJcLO/Geyser-Fabric-2.12.1-b1273.jar",
+    "sha512": "e0e852d6878bf2fab6fb36ce9a03623f5899c6054acfc755bf0a52f88e890808fb3f9177f1c53ccb109725834ebbc26068bdb87691c76d3e1641cc26f54df750"
+  },
+  "2.12.1-b1274": {
+    "versionId": "swnEZf1G",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-27T22:09:24.027937Z",
+    "filename": "Geyser-Fabric-2.12.1-b1274.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/swnEZf1G/Geyser-Fabric-2.12.1-b1274.jar",
+    "sha512": "33db6b0f517a86f2619fefbd2daf07f86ef44e8b0dc3bb845a7e5a09cea504566a446082e92c5dd93e193e4aad6a7ff04ec08ca27a9e357dc24ec8ded65b1d42"
+  },
+  "2.12.1-b1275": {
+    "versionId": "ifebveTd",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-27T22:45:03.629453Z",
+    "filename": "Geyser-Fabric-2.12.1-b1275.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ifebveTd/Geyser-Fabric-2.12.1-b1275.jar",
+    "sha512": "12b3fb2b9af304e1e993d84198ad02b0226a9eaea2660d32eb3051419b1cfcd9139832caa71b92778e2e98c117b534a3973f6257c3031c2d112a63bee86672fd"
+  },
+  "2.12.1-b1276": {
+    "versionId": "m5yXnIJp",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-28T11:55:00.011185Z",
+    "filename": "Geyser-Fabric-2.12.1-b1276.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/m5yXnIJp/Geyser-Fabric-2.12.1-b1276.jar",
+    "sha512": "65540f2c07c898b390a490c044e7c61a7771a11d1ed6b9b7d3a43155f933ab595d8b5155975e751df00383286f2c577c3d51c697bfe1cccf51fc80cb99bc0c19"
+  },
+  "2.12.1-b1277": {
+    "versionId": "Wy38iD8B",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-30T00:13:44.581920Z",
+    "filename": "Geyser-Fabric-2.12.1-b1277.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/Wy38iD8B/Geyser-Fabric-2.12.1-b1277.jar",
+    "sha512": "75cb46b17959f788c0a81ea132c1684ccb9f375c78b875d7fc7e750fef8b600a0961313ea461e38cb417e98c21e8ff6be2f53bcd0ed721c95051c8f2fe20a027"
+  },
+  "2.12.1-b1278": {
+    "versionId": "WUpehs6c",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-30T17:11:16.288199Z",
+    "filename": "Geyser-Fabric-2.12.1-b1278.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/WUpehs6c/Geyser-Fabric-2.12.1-b1278.jar",
+    "sha512": "d370e1e535af71b29ae55de792069291dd9c3491c8d9789cbdced5d4a351ddd562aae171b1f3da3ae639056b796051175193a49321b4a0ce78fbedf6742487a0"
+  },
+  "2.12.1-b1279": {
+    "versionId": "yriYGSDL",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-10-30T21:53:28.289509Z",
+    "filename": "Geyser-Fabric-2.12.1-b1279.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/yriYGSDL/Geyser-Fabric-2.12.1-b1279.jar",
+    "sha512": "0124f3f1d06dd485178982f3b574537d7012b9cb651397a5495fac8287cdf0a02648a7e218057bb1df99adb63a8bdf1a23aa5326ce4d563a76c4bb0440ccb0fa"
+  },
+  "2.12.1-b1280": {
+    "versionId": "5vBOJK4A",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-01T00:00:18.615119Z",
+    "filename": "Geyser-Fabric-2.12.1-b1280.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/5vBOJK4A/Geyser-Fabric-2.12.1-b1280.jar",
+    "sha512": "126d6d686381f9168195e07cef4a3a27b62a1856a9bd5bfea7942d158d29e5a626fc12d14a64fc7b7afa8f4b065f828878c2dbdd6fe422a67dec9105fa611067"
+  },
+  "2.12.1-b1281": {
+    "versionId": "MJYV1WUM",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-02T13:36:57.950863Z",
+    "filename": "Geyser-Fabric-2.12.1-b1281.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/MJYV1WUM/Geyser-Fabric-2.12.1-b1281.jar",
+    "sha512": "63cd327f7f09f0e8557e74af4767b37d814c3406ec089364c4cf1fd444f8d296e4945189c5088e095cf0a5b72a7c4a028191c4b9c7d557243db3572c3f1a03fa"
+  },
+  "2.12.1-b1282": {
+    "versionId": "yR3ACoQd",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-02T22:02:55.873897Z",
+    "filename": "Geyser-Fabric-2.12.1-b1282.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/yR3ACoQd/Geyser-Fabric-2.12.1-b1282.jar",
+    "sha512": "6e742393516000045f6f8811400bace6622b2f0d81bb40e0959fe13551ab91b890eb670d1309a190e5fc6ddb6136baf22cdd0903fb5dfa452e8908e0b47be6d6"
+  },
+  "2.12.1-b1283": {
+    "versionId": "hGxmtoVR",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-03T01:25:15.955198Z",
+    "filename": "Geyser-Fabric-2.12.1-b1283.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/hGxmtoVR/Geyser-Fabric-2.12.1-b1283.jar",
+    "sha512": "33b6e453dcb421dc2552c4389743281f5322f536ba3352d770783d5c940a27b306a23dcb7bba1e6a0d64ae9412c6c9de3f7c538d100fa957d335af20758e660a"
+  },
+  "2.12.1-b1284": {
+    "versionId": "y9tmfxl8",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-03T12:39:54.799362Z",
+    "filename": "Geyser-Fabric-2.12.1-b1284.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/y9tmfxl8/Geyser-Fabric-2.12.1-b1284.jar",
+    "sha512": "2c31145a2b91edfb313254a3be971988d307550feaa12886ef1f2b99b38c592ac41e077f2457c28e1abd873bf6419b6c78fbc20db252c871cee39649e89c3bca"
+  },
+  "2.12.1-b1285": {
+    "versionId": "qP5RBc8Q",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-04T09:54:26.765579Z",
+    "filename": "Geyser-Fabric-2.12.1-b1285.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/qP5RBc8Q/Geyser-Fabric-2.12.1-b1285.jar",
+    "sha512": "f02c673eb3026161ae469a8a75473637a431195da1c0cfcdb3446d76619f0592ebb261ca60cc8bcda949e847394bc8348940f35ed590305048c4f7efac9451f9"
+  },
+  "2.12.1-b1286": {
+    "versionId": "ssVa0q75",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-04T10:06:21.581708Z",
+    "filename": "Geyser-Fabric-2.12.1-b1286.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ssVa0q75/Geyser-Fabric-2.12.1-b1286.jar",
+    "sha512": "55d6f0c5c9c7e114c8619850faa7e5ff7267f6f2c47b659afb0eaf53d370dccda2a63400da81bf2d69239751d4afe6740a2bed4c3405c1559a0183b3be9145f5"
+  },
+  "2.12.1-b1287": {
+    "versionId": "uItn4zoo",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-04T10:20:02.373961Z",
+    "filename": "Geyser-Fabric-2.12.1-b1287.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/uItn4zoo/Geyser-Fabric-2.12.1-b1287.jar",
+    "sha512": "28e143b9381e9b5d72d8ab449b890f027bc0c6a38c09a4c8d1f3a856c73123f1d5a975adab8a000cf60b038edad5198fd1c16db297f2056e30b3d5cc993743de"
+  },
+  "2.12.1-b1288": {
+    "versionId": "QJToLjVH",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-04T10:31:36.297899Z",
+    "filename": "Geyser-Fabric-2.12.1-b1288.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/QJToLjVH/Geyser-Fabric-2.12.1-b1288.jar",
+    "sha512": "c35d724a910389e7073412b39e22ed951588f261467aba56b9ccee6922482787c3feae3055f46a35c4f8a009234c47f9b7fbc743c6721b5873d88ddb056c2ac4"
+  },
+  "2.12.1-b1289": {
+    "versionId": "R418VoTU",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-05T08:40:53.969681Z",
+    "filename": "Geyser-Fabric-2.12.1-b1289.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/R418VoTU/Geyser-Fabric-2.12.1-b1289.jar",
+    "sha512": "b54bb9863641cd19daf354a11b9d6e9c0cd705d43b6643b7f253cb18aef8a94f614fd93b647347fb14841ae0daf4b8fce5a005abe5a9ce149b148a2527c5d6fb"
+  },
+  "2.12.1-b1290": {
+    "versionId": "ictt6r22",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-05T20:42:35.700050Z",
+    "filename": "Geyser-Fabric-2.12.1-b1290.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ictt6r22/Geyser-Fabric-2.12.1-b1290.jar",
+    "sha512": "b9468cc136bf9883ce80dd7b041b7beb59828451e9431c8b262469f351db260ace733342e0aaabdd6b7570b8098013bfc9cb5b2026a9d133397a55dc2b06471b"
+  },
+  "2.12.1-b1291": {
+    "versionId": "Z2v8seoL",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-06T02:22:44.027875Z",
+    "filename": "Geyser-Fabric-2.12.1-b1291.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/Z2v8seoL/Geyser-Fabric-2.12.1-b1291.jar",
+    "sha512": "7a3f7554b68458251f3dde3af0c35d05af1602bdde329f54bef677250156ee181f949f8ab2e412daf0b93e4c5425d589b19f5e486dc16e026f0b5afa0aec35a8"
+  },
+  "2.12.1-b1292": {
+    "versionId": "gZDK0hyB",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-06T02:34:18.506890Z",
+    "filename": "Geyser-Fabric-2.12.1-b1292.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/gZDK0hyB/Geyser-Fabric-2.12.1-b1292.jar",
+    "sha512": "34b0e6a8154941a595f534bd2d66d08714e5a5dd760f67025b16a370a341c5051f59f7ab07a61aee69a5540aa843e9ff95d58d2417e73661a61e58d9d97f1557"
+  },
+  "2.12.1-b1293": {
+    "versionId": "XYgVevDe",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-06T17:05:56.202479Z",
+    "filename": "Geyser-Fabric-2.12.1-b1293.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/XYgVevDe/Geyser-Fabric-2.12.1-b1293.jar",
+    "sha512": "2b53219a5c42abdd0b7f4998f0e46c097ac7009ccd5f218026cc82ae3b0dbb15c9b4e8bcfa41038d8b5a420b3fbfd22fe6fffc7fd2c91aa8669a7c396f8fa217"
+  },
+  "2.12.1-b1294": {
+    "versionId": "kZUp8BIm",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-06T20:33:52.080791Z",
+    "filename": "Geyser-Fabric-2.12.1-b1294.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/kZUp8BIm/Geyser-Fabric-2.12.1-b1294.jar",
+    "sha512": "343c0e9026a80679607455df299603905a37e26f50e1d53a483d27fcf5ffdb98a1dae2a04b8d88ccdd6d8c4cffcc89830bd371a3b2a044addfdb6f99d6e029ed"
+  },
+  "2.12.1-b1295": {
+    "versionId": "FJEiET7L",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-07T01:54:22.150795Z",
+    "filename": "Geyser-Fabric-2.12.1-b1295.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/FJEiET7L/Geyser-Fabric-2.12.1-b1295.jar",
+    "sha512": "b050a5697beccb5b1bf66358aaaf21e99585b1f41b8efc35e5a2a353fc91acf587105290069cbba36b3123e70fb1a52b05a682f4f113abee0158bb26bd55607c"
+  },
+  "2.12.1-b1296": {
+    "versionId": "xGYYMyqM",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-09T00:53:29.553217Z",
+    "filename": "Geyser-Fabric-2.12.1-b1296.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/xGYYMyqM/Geyser-Fabric-2.12.1-b1296.jar",
+    "sha512": "c983e7ec2e3cf27b8f23854a41c32d053d73ba44d3eefcae040592ca337afc9da90e0e4da7f672a03d7f545fab3a6ae276c2e00d11ef6c2db796638b360cd9c1"
+  },
+  "2.12.1-b1297": {
+    "versionId": "ONT9UXeN",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-09T09:54:11.262222Z",
+    "filename": "Geyser-Fabric-2.12.1-b1297.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/ONT9UXeN/Geyser-Fabric-2.12.1-b1297.jar",
+    "sha512": "a1435118fe4782fbfabe06ef919c7a485d69c54942712a7f5fbf8d70f115d2f53a1fdc14730675f69b0c3c7eb68a93986f5fe60accf5f8d9b120b1319dfcc964"
+  },
+  "2.12.1-b1298": {
+    "versionId": "SmjPEYlO",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "beta",
+    "datePublished": "2026-11-09T10:06:59.240399Z",
+    "filename": "Geyser-Fabric-2.12.1-b1298.jar",
+    "url": "https://cdn.modrinth.com/data/wKkoqHrH/versions/SmjPEYlO/Geyser-Fabric-2.12.1-b1298.jar",
+    "sha512": "b8fef5669fee87310b3b7b6448fab54efc6250a703766d27e105cee95c87b314f97b26f918e07060d96727d0ac06c002edc223d138a6c16a64253a2d6a6e77f4"
+  },
   "2.2.0-SNAPSHOT-256": {
     "versionId": "zewbHiry",
     "gameVersions": [
@@ -10118,8 +10415,8 @@
   "2.9.0-b950": {
     "versionId": "E0LkeHGy",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-12T11:47:27.082831Z",
@@ -10130,8 +10427,8 @@
   "2.9.0-b951": {
     "versionId": "typqYvjr",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-12T12:46:26.092939Z",
@@ -10142,8 +10439,8 @@
   "2.9.0-b952": {
     "versionId": "mfGIGvRe",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-12T15:04:06.683401Z",
@@ -10154,8 +10451,8 @@
   "2.9.0-b953": {
     "versionId": "VQDr6wwb",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-15T11:45:55.559142Z",
@@ -10166,8 +10463,8 @@
   "2.9.0-b954": {
     "versionId": "CTsbTKAr",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-20T13:25:32.767575Z",
@@ -10178,8 +10475,8 @@
   "2.9.0-b955": {
     "versionId": "KdgCaiwE",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-20T14:21:24.246514Z",
@@ -10190,8 +10487,8 @@
   "2.9.0-b956": {
     "versionId": "czGrgB7y",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-20T15:36:47.842051Z",
@@ -10202,8 +10499,8 @@
   "2.9.0-b957-QbJcnVmf": {
     "versionId": "QbJcnVmf",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-22T11:03:04.042480Z",
@@ -10214,8 +10511,8 @@
   "2.9.0-b957-SprVSeF6": {
     "versionId": "SprVSeF6",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-22T11:00:10.844636Z",
@@ -10226,8 +10523,8 @@
   "2.9.0-b959": {
     "versionId": "HZe67LOT",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-22T15:33:52.163471Z",
@@ -10238,8 +10535,8 @@
   "2.9.0-b960": {
     "versionId": "nsI9UIxA",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-23T22:55:26.535319Z",
@@ -10250,8 +10547,8 @@
   "2.9.0-b961": {
     "versionId": "y7VclcX2",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-25T13:23:00.091421Z",
@@ -10262,8 +10559,8 @@
   "2.9.0-b962": {
     "versionId": "B6U8OyJJ",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-25T16:19:43.340835Z",
@@ -10274,8 +10571,8 @@
   "2.9.0-b963": {
     "versionId": "TYInujwO",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-25T23:19:56.999932Z",
@@ -10286,8 +10583,8 @@
   "2.9.0-b964": {
     "versionId": "Z4U6btqF",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-26T18:12:22.914848Z",
@@ -10298,8 +10595,8 @@
   "2.9.0-b965": {
     "versionId": "znuL7DXc",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-26T18:37:47.687566Z",
@@ -10310,8 +10607,8 @@
   "2.9.0-b966": {
     "versionId": "vXidyluL",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-26T18:53:36.638413Z",
@@ -10322,8 +10619,8 @@
   "2.9.0-b967": {
     "versionId": "HUTYQnxP",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-27T23:52:46.678024Z",
@@ -10334,8 +10631,8 @@
   "2.9.0-b968": {
     "versionId": "f1x224sb",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-28T14:46:02.461681Z",
@@ -10346,8 +10643,8 @@
   "2.9.0-b969": {
     "versionId": "nZ1TJj1n",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-28T18:20:15.691046Z",
@@ -10358,8 +10655,8 @@
   "2.9.0-b970": {
     "versionId": "7o8qixkM",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-28T20:46:59.595329Z",
@@ -10370,8 +10667,8 @@
   "2.9.0-b971": {
     "versionId": "AvppCvNj",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-28T21:05:39.436896Z",
@@ -10382,8 +10679,8 @@
   "2.9.0-b972": {
     "versionId": "tFJD185F",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-29T20:59:59.255983Z",
@@ -10394,8 +10691,8 @@
   "2.9.0-b973": {
     "versionId": "dHPm6onC",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-29T21:46:41.409965Z",
@@ -10406,8 +10703,8 @@
   "2.9.0-b974": {
     "versionId": "3d5RwKPG",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-30T01:31:07.934213Z",
@@ -10418,8 +10715,8 @@
   "2.9.0-b975": {
     "versionId": "6KNkNQkJ",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-10-30T01:45:37.620267Z",
@@ -10430,8 +10727,8 @@
   "2.9.0-b976": {
     "versionId": "umCUaFAc",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-01T12:54:07.444184Z",
@@ -10442,8 +10739,8 @@
   "2.9.0-b977": {
     "versionId": "hy6XcfCL",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-02T10:47:08.891034Z",
@@ -10454,8 +10751,8 @@
   "2.9.0-b978": {
     "versionId": "mxcNTzil",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-02T11:28:32.671413Z",
@@ -10466,8 +10763,8 @@
   "2.9.0-b979": {
     "versionId": "SM2rfos8",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-02T13:02:18.382313Z",
@@ -10478,8 +10775,8 @@
   "2.9.0-b980": {
     "versionId": "q1Esa9kt",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-08T22:13:14.516482Z",
@@ -10490,8 +10787,8 @@
   "2.9.0-b981": {
     "versionId": "EmlNyYA5",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-11T21:26:41.377665Z",
@@ -10502,8 +10799,8 @@
   "2.9.0-b982": {
     "versionId": "ykQ3cA1o",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-16T13:00:18.450141Z",
@@ -10514,8 +10811,8 @@
   "2.9.0-b983": {
     "versionId": "bEdXbYhp",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-16T14:59:01.750202Z",
@@ -10526,8 +10823,8 @@
   "2.9.0-b984": {
     "versionId": "FTRyt29Z",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-16T20:52:49.223294Z",
@@ -10538,8 +10835,8 @@
   "2.9.0-b985": {
     "versionId": "Qjg5rGLX",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-18T17:08:07.005295Z",
@@ -10550,8 +10847,8 @@
   "2.9.0-b986": {
     "versionId": "1w6QvqSu",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-19T02:01:00.814171Z",
@@ -10562,8 +10859,8 @@
   "2.9.0-b987": {
     "versionId": "26aQ8QJC",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-19T13:31:35.600514Z",
@@ -10574,8 +10871,8 @@
   "2.9.0-b988": {
     "versionId": "XUuSyzJR",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-19T18:49:21.614004Z",
@@ -10586,8 +10883,8 @@
   "2.9.0-b989": {
     "versionId": "mrGKfe1i",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-19T21:21:57.946587Z",
@@ -10598,8 +10895,8 @@
   "2.9.1-b1000": {
     "versionId": "OE9pF223",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-09T12:15:33.908440Z",
@@ -10610,8 +10907,8 @@
   "2.9.1-b1001": {
     "versionId": "vMpEVSsl",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-09T17:34:18.624546Z",
@@ -10622,8 +10919,8 @@
   "2.9.1-b1002": {
     "versionId": "Tyrnrthu",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-09T18:17:03.386254Z",
@@ -10634,8 +10931,8 @@
   "2.9.1-b1003": {
     "versionId": "WvcBMqtc",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-10T16:27:23.226376Z",
@@ -10646,8 +10943,8 @@
   "2.9.1-b990": {
     "versionId": "FI84qfN5",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-20T14:02:37.733506Z",
@@ -10658,8 +10955,8 @@
   "2.9.1-b991": {
     "versionId": "pmxCOe3I",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-20T14:15:30.535522Z",
@@ -10670,8 +10967,8 @@
   "2.9.1-b992": {
     "versionId": "sO4i6IQH",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-21T17:22:42.015824Z",
@@ -10682,8 +10979,8 @@
   "2.9.1-b993": {
     "versionId": "Eh98lfsu",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-21T17:34:57.958949Z",
@@ -10694,8 +10991,8 @@
   "2.9.1-b994": {
     "versionId": "Z0qMk6vT",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-21T18:36:48.117054Z",
@@ -10706,8 +11003,8 @@
   "2.9.1-b995-EhRpL4oV": {
     "versionId": "EhRpL4oV",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-23T01:53:26.651661Z",
@@ -10718,8 +11015,8 @@
   "2.9.1-b995-mcKH1qOQ": {
     "versionId": "mcKH1qOQ",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-23T01:53:06.147800Z",
@@ -10730,8 +11027,8 @@
   "2.9.1-b997": {
     "versionId": "rGvnzsTC",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-23T20:40:34.729483Z",
@@ -10742,8 +11039,8 @@
   "2.9.1-b998": {
     "versionId": "36ApxyyA",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-24T21:29:15.300926Z",
@@ -10754,8 +11051,8 @@
   "2.9.1-b999": {
     "versionId": "WRvXSuOz",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-11-24T23:15:56.759988Z",
@@ -10766,8 +11063,8 @@
   "2.9.2-b1004": {
     "versionId": "JrnwC6MC",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-10T20:44:58.638488Z",
@@ -10778,8 +11075,8 @@
   "2.9.2-b1005": {
     "versionId": "xAclEP21",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-12T20:49:34.805763Z",
@@ -10790,8 +11087,8 @@
   "2.9.2-b1006": {
     "versionId": "AEbLjpyK",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-13T15:55:24.873669Z",
@@ -10802,8 +11099,8 @@
   "2.9.2-b1007": {
     "versionId": "I9KeWPB2",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-16T10:33:05.612958Z",
@@ -10814,8 +11111,8 @@
   "2.9.2-b1008": {
     "versionId": "ahzEdvn0",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "beta",
     "datePublished": "2025-12-17T20:52:35.402129Z",

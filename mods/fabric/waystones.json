@@ -1962,6 +1962,17 @@
     "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/YgvCsKWn/waystones-fabric-26.1.2-26.1.2.16.jar",
     "sha512": "f64397143363ba5811d7b067f92b6f97ee20f9ce15c51eefd12bffdc48175538ff39e7d9bd467c6592374db5951f3b8ab1c1ea8893352d023046ca2a8b7d9ee4"
   },
+  "26.1.2.17+fabric-26.1.2": {
+    "versionId": "gRvVm0oS",
+    "gameVersions": [
+      "26.1.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-11-02T12:27:17.408423Z",
+    "filename": "waystones-fabric-26.1.2-26.1.2.17.jar",
+    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/gRvVm0oS/waystones-fabric-26.1.2-26.1.2.17.jar",
+    "sha512": "ed2d3cabaf1efefef630183666150ff37274f2bda3655163363df6ad24053fefad89a494abf2de3072a4525adfc7c23d8e86d67e9024fb54912c621933b49927"
+  },
   "26.1.2.3+fabric-26.1.2": {
     "versionId": "USJUMJNQ",
     "gameVersions": [
@@ -2072,6 +2083,17 @@
     "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/HUacBshD/waystones-fabric-26.2-26.2.0.12.jar",
     "sha512": "8df1076c6bfe80c058b19fe78d1a1dcdd14729656213d0d0573cfee416a9be4927610950e7d3f5990dae677f76e453d3c84549a8b96d54428f577cf0e466082a"
   },
+  "26.2.0.13+fabric-26.2": {
+    "versionId": "jUk9JUMS",
+    "gameVersions": [
+      "26.2"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-11-02T12:27:11.391994Z",
+    "filename": "waystones-fabric-26.2-26.2.0.13.jar",
+    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/jUk9JUMS/waystones-fabric-26.2-26.2.0.13.jar",
+    "sha512": "47029055317ac455efc0182f66db3a6504a788552ca9b94c5983ba9da15f49cb8fbbb7fdfbfa77b8290759099f81e07290062cc5e27cd755ed0474c69946f0a9"
+  },
   "26.2.0.2+fabric-26.2": {
     "versionId": "FbrWmnxI",
     "gameVersions": [
@@ -2170,5 +2192,16 @@
     "filename": "waystones-fabric-26.3-26.3.0.1.jar",
     "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/UKjvFJAV/waystones-fabric-26.3-26.3.0.1.jar",
     "sha512": "b9c09872b60f78dd6a37baa32a866821b84cd7386e2ea2eed641acdc31fd2635a70a22be8006c3f9ee5de495f563cb1915a2a1b6864bbaecb86c907c5b4c6ae2"
+  },
+  "26.3.0.2+fabric-26.3": {
+    "versionId": "FHxw949T",
+    "gameVersions": [
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-11-02T12:26:18.893652Z",
+    "filename": "waystones-fabric-26.3-26.3.0.2.jar",
+    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/FHxw949T/waystones-fabric-26.3-26.3.0.2.jar",
+    "sha512": "2caf3c4e4f2a8f6109378ebede5226f8d601064c2791a36d2aaf5a548195a14fe0abde656121b2d88bfd8ac8d6d87c2cde4a885e1c78edfe684f1cd88f477ba1"
   }
 }
