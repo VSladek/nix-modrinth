@@ -167,9 +167,9 @@
   "v2.11.0": {
     "versionId": "nR8AIdvx",
     "gameVersions": [
-      "1.21.9",
       "1.21.10",
-      "1.21.11"
+      "1.21.11",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-10-03T03:09:59.368461Z",
