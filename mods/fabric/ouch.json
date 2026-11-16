@@ -36,8 +36,8 @@
   "1.10.0+26.3-rc-1": {
     "versionId": "B3ImypFi",
     "gameVersions": [
-      "26.3-rc-1",
-      "26.3"
+      "26.3",
+      "26.3-rc-1"
     ],
     "versionType": "release",
     "datePublished": "2026-09-12T12:23:24.392220Z",
@@ -59,8 +59,8 @@
   "1.3.0+1.21.4-rc3": {
     "versionId": "4vzyOqqA",
     "gameVersions": [
-      "1.21.4-rc3",
-      "1.21.4"
+      "1.21.4",
+      "1.21.4-rc3"
     ],
     "versionType": "release",
     "datePublished": "2024-11-30T19:50:01.578874Z",
@@ -107,9 +107,9 @@
   "1.6.0+1.21.9-rc1": {
     "versionId": "GVsqCGGi",
     "gameVersions": [
-      "1.21.9-rc1",
+      "1.21.10",
       "1.21.9",
-      "1.21.10"
+      "1.21.9-rc1"
     ],
     "versionType": "release",
     "datePublished": "2025-09-30T07:44:11.293850Z",

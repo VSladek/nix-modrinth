@@ -315,8 +315,8 @@
   "1.4.51": {
     "versionId": "kkEljQ4R",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-10-05T10:40:23.258963Z",
@@ -327,8 +327,8 @@
   "1.4.52": {
     "versionId": "F3FNq8Q9",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-12-22T10:42:51.034317Z",
@@ -385,5 +385,20 @@
     "filename": "Chunky-Fabric-1.5.3.jar",
     "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4Eotm6ov/Chunky-Fabric-1.5.3.jar",
     "sha512": "b83bfe7b218d0aa6232af977ae741dc1f82b10e50cd12bb759f65cf416b8b62beccb543e587ef0b9670abe03815660f8e091bc6823624d65cf07300571573516"
+  },
+  "1.5.66": {
+    "versionId": "86FKD9qx",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2",
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-11-04T03:02:04.095140Z",
+    "filename": "Chunky-Fabric-1.5.66.jar",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e"
   }
 }

@@ -70,8 +70,8 @@
   "fabric-0.10.2": {
     "versionId": "bJjBP5HF",
     "gameVersions": [
-      "1.21.9",
-      "1.21.10"
+      "1.21.10",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-10-04T15:48:00.518025Z",
@@ -151,6 +151,20 @@
     "filename": "badpackets-fabric-0.12.2.jar",
     "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SgNrUT3E/badpackets-fabric-0.12.2.jar",
     "sha512": "91ba4b89e2730d1c31ed6eea35605706908441b6097d4e6b7388cfff9d4a0bc8ae99db98926142a376adff6f0c7910b67c014cf90b9859a7754a2a2dc78c5384"
+  },
+  "fabric-0.12.3": {
+    "versionId": "1Gg68vyY",
+    "gameVersions": [
+      "26.1",
+      "26.1.1",
+      "26.2",
+      "26.3"
+    ],
+    "versionType": "release",
+    "datePublished": "2026-11-08T01:31:44.496116Z",
+    "filename": "badpackets-fabric-0.12.3.jar",
+    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/1Gg68vyY/badpackets-fabric-0.12.3.jar",
+    "sha512": "b838a763c04cee043a3d0844186fa27e6c67dd1b7e4f9bdcdb7d32823784056c357813ef3351e1436faf703ac3b2abb007b34e80b86b44accd50d18828bdd339"
   },
   "fabric-0.2.0": {
     "versionId": "Sbpp5LIv",

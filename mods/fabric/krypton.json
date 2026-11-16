@@ -133,9 +133,9 @@
   "0.2.10": {
     "versionId": "O9LmWYR7",
     "gameVersions": [
-      "1.21.9",
       "1.21.10",
-      "1.21.11"
+      "1.21.11",
+      "1.21.9"
     ],
     "versionType": "release",
     "datePublished": "2025-10-05T19:06:22.210926Z",

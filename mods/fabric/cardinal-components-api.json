@@ -181,12 +181,12 @@
   "5.3.0": {
     "versionId": "IBZVrThp",
     "gameVersions": [
+      "1.20.2",
       "1.20.2-pre1",
       "1.20.2-pre2",
       "1.20.2-pre3",
       "1.20.2-pre4",
-      "1.20.2-rc1",
-      "1.20.2"
+      "1.20.2-rc1"
     ],
     "versionType": "release",
     "datePublished": "2023-09-10T01:04:31.554956Z",
@@ -197,8 +197,8 @@
   "5.4.0": {
     "versionId": "DObEjZD4",
     "gameVersions": [
-      "1.20.3-pre4",
       "1.20.3",
+      "1.20.3-pre4",
       "1.20.4"
     ],
     "versionType": "release",
@@ -291,12 +291,12 @@
   "6.1.0": {
     "versionId": "quTFtjka",
     "gameVersions": [
+      "1.21",
       "1.21-pre1",
       "1.21-pre2",
       "1.21-pre3",
       "1.21-pre4",
-      "1.21-rc1",
-      "1.21"
+      "1.21-rc1"
     ],
     "versionType": "release",
     "datePublished": "2024-06-05T10:07:37.411704Z",
@@ -393,14 +393,14 @@
   "6.3.0-alpha.1+25w09b": {
     "versionId": "AYKRzqea",
     "gameVersions": [
-      "25w09b",
-      "25w10a",
+      "1.21.5",
       "1.21.5-pre1",
       "1.21.5-pre2",
       "1.21.5-pre3",
       "1.21.5-rc1",
       "1.21.5-rc2",
-      "1.21.5"
+      "25w09b",
+      "25w10a"
     ],
     "versionType": "alpha",
     "datePublished": "2025-03-02T19:41:35.477783Z",
@@ -435,8 +435,8 @@
   "7.1.0-beta.1": {
     "versionId": "Rp6YpDwy",
     "gameVersions": [
-      "25w36b",
-      "1.21.9"
+      "1.21.9",
+      "25w36b"
     ],
     "versionType": "beta",
     "datePublished": "2025-09-08T08:20:02.235856Z",
